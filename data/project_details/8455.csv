@@ -1,0 +1,39 @@
+project_id,id,user_id,name,headline,budget,goal,about_html,permalink,video_embed_url,video_url,category_name,category_id,original_image,thumb_image,small_image,large_image,video_cover_image,progress,pledged,total_contributions,total_contributors,state,mode,state_order,expires_at,zone_expires_at,online_date,zone_online_date,sent_to_analysis_at,is_published,is_expired,open_for_contributions,online_days,remaining_time,elapsed_time,posts_count,address,user,reminder_count,is_owner_or_admin,user_signed_in,in_reminder,total_posts,can_request_transfer,is_admin_role,contributed_by_friends
+8455,8455,184321,"Maid Café Alice no País das Maravilhas","Venha Conhecer o País das Maravilhas como você nunca viu antes!","O orçamento para projetos anteriores a 24/02/2015 normalmente pode ser encontrado na descrição acima.",284.76,"<p>Dia 28 desse mês, das 09h00 ás 11h30  eu estarei realizando na minha faculdade, como trabalho de final de semestre,  um Maid Café no estilo Alice no País das Maravilhas, uma espécie de cafeteria, com maids (garçonetes), mordomos (Garçons), música no tema, comidas fofas e .... óbvio, mangás variados para que as pessoas se entretenham enquanto comem.</p>
+
+<p>O evento será aberto ao público e o consumo de comida não será cobrado, mas para que eu consiga realizar esse evento eu preciso da ajuda de vocês.</p>
+
+<p>Como todos sabem o financiamento desse tipo de projeto não é algo barato,antes de qualquer coisa preciso de dinheiro para providenciar o material necessário:</p>
+
+<p>Roupas : R$ 12,00</p>
+
+<p>Doces
+ - Cupcake R$ 36,00
+ - Cookies R$ 40,00
+ - Tortinhas de Morango R$ 20,40
+ - Tortinhas de limão R$ 20,40</p>
+
+<p>Salgados
+ - Pão de Queijo de lancheira R$ 20,00
+ - Torrada com patê R$ 6,46</p>
+
+<p>Bebidas
+- Café cremoso R$ 8,00
+ - Sucos (Laranja, Maracujá, Uva) R$ 3,00
+ - Refrigerante R$ 15,00</p>
+
+<p>Decoração
+- Papel Crepon R$ 3,00
+- Cartolina R$ 2,00
+- Tinta R$ 15,00</p>
+
+<p>Material de divulgação
+ - Cartaz R$ 6,00
+ - Folder R$ 20,00
+ - Cardápio R$ 15,00</p>
+
+<p>Brindes: R$ 11,00 + 13% do Catarse incluso</p>
+
+<p>O evento será aberto, mas para que eu possa apresentar um controle de presença, peço que aqueles que forem, se inscrevam  através do e-mail:
+<a class=""alt-link"" href=""mailto:gperrellazukeram@gmail.com"" target=""_blank"">gperrellazukeram@gmail.com</a> </p>
+",maidcafe,//www.youtube.com/embed/whNnX_SsMXc,https://www.youtube.com/watch?v=whNnX_SsMXc&feature=youtu.be,Eventos,10,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/8455/4e4a4dd0678fdd8a5b21e5ce7e439751.jpg,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/8455/project_thumb_thumb_4e4a4dd0678fdd8a5b21e5ce7e439751.jpg,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/8455/project_thumb_small_4e4a4dd0678fdd8a5b21e5ce7e439751.jpg,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/8455/project_thumb_large_4e4a4dd0678fdd8a5b21e5ce7e439751.jpg,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/8455/project_thumb_video_cover_4e4a4dd0678fdd8a5b21e5ce7e439751.jpg,0,0,0,0,failed,aon,finished,"2014-12-05 01:59:59","2014-12-04 23:59:59","2014-11-21 14:25:25.024979","2014-11-21 12:25:25.024979",,t,t,f,13,"{""total"" : 0, ""unit"" : ""seconds""}","{""total"" : 13, ""unit"" : ""days""}",0,"{""city"" : ""São Paulo"", ""state_acronym"" : ""SP"", ""state"" : ""São Paulo""}","{""id"" : 184321, ""name"" : ""Gabriela Perrella Zukeram""}",0,,f,f,0,f,f,f

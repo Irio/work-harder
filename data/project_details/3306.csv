@@ -1,0 +1,29 @@
+project_id,id,user_id,name,headline,budget,goal,about_html,permalink,video_embed_url,video_url,category_name,category_id,original_image,thumb_image,small_image,large_image,video_cover_image,progress,pledged,total_contributions,total_contributors,state,mode,state_order,expires_at,zone_expires_at,online_date,zone_online_date,sent_to_analysis_at,is_published,is_expired,open_for_contributions,online_days,remaining_time,elapsed_time,posts_count,address,user,reminder_count,is_owner_or_admin,user_signed_in,in_reminder,total_posts,can_request_transfer,is_admin_role,contributed_by_friends
+3306,3306,208250,"Desculpe, não ouvi! – O Livro","Um livro para ler com um sorriso no rosto e os ouvidos bem atentos para o universo sonoro que nos rodeia","O orçamento para projetos anteriores a 24/02/2015 normalmente pode ser encontrado na descrição acima.",12000.0,"<p><strong>O Projeto</strong></p>
+
+<p>Sou deficiente auditiva desde os 10 anos, atualmente, usuária de uma tecnologia auditiva chamada implante coclear. </p>
+
+<p>Há quatro anos, venho escrevendo o blog <a class=""alt-link"" target=""_blank"" href=""http://desculpenaoouvi.laklobato.com"">Desculpe, não ouvi!</a>, dedicado à divulgação da surdez sob a ótica dos surdos que não utilizam a língua de sinais e, portanto, formam um grupo menos conhecido, chamado surdos oralizados. </p>
+
+<p>Enquanto escrevia o blog, acabei conhecendo o Implante Coclear e tendo oportunidade de recuperar a capacidade auditiva através dele. E todo o meu caso serve de fonte de inspiração e informação de pessoas em situação similar. </p>
+
+<p>Por causa dos meus relatos bonitos e transformadores sobre a experiência de recuperar um sentido, as pessoas pedem constantemente para eu escrever um livro. Daí nasceu este projeto.</p>
+
+<p><strong>A Produção</strong></p>
+
+<p>O dinheiro arrecadado pagou a impressão dos livros (1.500 unidades), a produção e entrega das recompensas, o evento de lançamento e os 13% de comissão do site Catarse.</p>
+
+<p><strong>O Livro</strong></p>
+
+<p><img src=""http://laklobato.com/repositorio/capa.jpg"" alt=""""/></p>
+
+<p><strong>Algumas dúvidas comuns:</strong></p>
+
+<p>1 - Como vou receber minha recompensa?
+Depende da recompensa escolhida. Se você sua colaboração foi partir de 45 reais, você poderá recebê-la em casa. Se foi abaixo disso, o livro será retirado ao vivo em um evento realizado em São Paulo. A partir de 500 reais, entraremos em contato para combinar a entrega.</p>
+
+<p>2 - Ainda posso contribuir?
+A campanha está encerrada, mas você pode comprar o livro.
+Saiba mais em:
+<a class=""alt-link"" href=""http://desculpenaoouvi.laklobato.com/livro/"" target=""_blank"">http://desculpenaoouvi.laklobato.com/livro/</a></p>
+",desculpenaoouvi,//www.youtube.com/embed/DulRebAaGro,https://www.youtube.com/watch?v=DulRebAaGro,Literatura,20,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/3306/thumb.jpg,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/3306/project_thumb_thumb_thumb.jpg,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/3306/project_thumb_small_thumb.jpg,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/3306/project_thumb_large_thumb.jpg,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/3306/project_thumb_video_cover_thumb.jpg,139.41666666666666666700,16730.0,183,180,successful,aon,finished,"2014-01-04 01:59:59","2014-01-03 23:59:59","2014-01-03 00:35:49.353769","2014-01-02 22:35:49.353769",,t,t,f,1,"{""total"" : 0, ""unit"" : ""seconds""}","{""total"" : 1, ""unit"" : ""days""}",7,"{""city"" : ""São Paulo"", ""state_acronym"" : ""SP"", ""state"" : ""São Paulo""}","{""id"" : 208250, ""name"" : ""Lakshmi Eliane Lobato Austregesilo""}",0,,f,f,7,f,f,f

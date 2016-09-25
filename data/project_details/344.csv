@@ -1,0 +1,18 @@
+project_id,id,user_id,name,headline,budget,goal,about_html,permalink,video_embed_url,video_url,category_name,category_id,original_image,thumb_image,small_image,large_image,video_cover_image,progress,pledged,total_contributions,total_contributors,state,mode,state_order,expires_at,zone_expires_at,online_date,zone_online_date,sent_to_analysis_at,is_published,is_expired,open_for_contributions,online_days,remaining_time,elapsed_time,posts_count,address,user,reminder_count,is_owner_or_admin,user_signed_in,in_reminder,total_posts,can_request_transfer,is_admin_role,contributed_by_friends
+344,344,24729,"Táxi Compartilhado","O Táxi compartilhado é um sistema que ajuda as pessoas se encontrarem para compartilhar um taxi para o mesmo destino.
+","O orçamento para projetos anteriores a 24/02/2015 normalmente pode ser encontrado na descrição acima.",15000.0,"<p>Muitas pessoas necessitam de táxi para seus deslocamentos diários, tais como idosos, portadores de deficiência e o público em geral por diversos motivos.</p>
+
+<p>O fator custo é a principal barreira para grande parte delas.</p>
+
+<p>Mas o táxi poderia com preços mais acessíveis, além de atender estas necessidades poderia reduzir o número de automóveis na cidade e com isso , poluição e congestionamentos.</p>
+
+<p>São 33.000 táxis em SP, que realizam 15 milhões de deslocamentos mensais transportando um único passageiro, se fosse compartilhado, o número de passageiros subira para 60 milhões.</p>
+
+<p>Mais de 60% das pessoas que trabalham em empresas e utilizam carros, moram até 6 km.</p>
+
+<p>Esta distancia poderia ser realizada facilmente por bicicletas e por transporte solidário.</p>
+
+<p>Muitas pessoas resistem em compratilhar o seu próprio carro.</p>
+
+<p>O Táxi compatilhado é um  execício de vida em comunidade. As pessoas poderiam facilmente entender a importância de projetos de transportes  solidários na cidade.</p>
+",taxi-compartilhado,//player.vimeo.com/video/17998584,http://vimeo.com/17998584,Socioambiental,4,,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/video_thumbnail/344/project_thumb_thumb_open-uri20131125-2-mwed3t,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/video_thumbnail/344/project_thumb_small_open-uri20131125-2-mwed3t,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/video_thumbnail/344/project_thumb_large_open-uri20131125-2-mwed3t,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/video_thumbnail/344/project_thumb_video_cover_open-uri20131125-2-mwed3t,0,0,0,0,failed,aon,finished,"2011-12-02 01:59:59","2011-12-01 23:59:59","2011-10-03 01:59:00","2011-10-02 22:59:00",,t,t,f,60,"{""total"" : 0, ""unit"" : ""seconds""}","{""total"" : 60, ""unit"" : ""days""}",0,"{""city"" : ""São Paulo"", ""state_acronym"" : ""SP"", ""state"" : ""São Paulo""}","{""id"" : 24729, ""name"" : ""lincoln Paiva""}",0,,f,f,0,f,f,f

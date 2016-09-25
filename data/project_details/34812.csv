@@ -1,0 +1,101 @@
+project_id,id,user_id,name,headline,budget,goal,about_html,permalink,video_embed_url,video_url,category_name,category_id,original_image,thumb_image,small_image,large_image,video_cover_image,progress,pledged,total_contributions,total_contributors,state,mode,state_order,expires_at,zone_expires_at,online_date,zone_online_date,sent_to_analysis_at,is_published,is_expired,open_for_contributions,online_days,remaining_time,elapsed_time,posts_count,address,user,reminder_count,is_owner_or_admin,user_signed_in,in_reminder,total_posts,can_request_transfer,is_admin_role,contributed_by_friends
+34812,34812,582789,Naturalmente,"Uma semente...um ideal...e NASCEU!
+Naturalmente.","<table>  <colgroup><col>  <col>  <col>  <col>  </colgroup><tbody><tr>   <td><strong>PREPARAÇÃO</strong></td>   <td> </td>   <td> </td>   <td> </td>  </tr>  <tr>   <td></td>   <td>qtd</td>   <td>valor</td>   <td>total</td>  </tr>  <tr>   <td>Taxa de emissão do passaporte</td>   <td>2</td>   <td> R$      257,25 </td>   <td> R$         514,50 </td>  </tr>  <tr>   <td>Taxa de emissão do visto</td>   <td>2</td>   <td> R$      550,00 </td>   <td> R$     1.100,00 </td>  </tr>  <tr>   <td>Passagem ida e volta Uberaba - Belo   Horizonte</td>   <td>2</td>   <td> R$      310,00 </td>   <td> R$         620,00 </td>  </tr>  <tr>   <td>Passagem ida e volta Uberaba - São Paulo</td>   <td>2</td>   <td> R$      220,00 </td>   <td> R$         440,00 </td>  </tr>  <tr>   <td>Alimentação e estadia</td>   <td>2</td>   <td> R$      150,00 </td>   <td> R$         300,00 </td>  </tr>  <tr>   <td>Total de regularização para   viagem</td>   <td> </td>   <td> </td>   <td> R$     2.974,50 </td>  </tr>  <tr>   <td><strong>EQUIPAMENTO</strong></td>   <td> </td>   <td> </td>   <td> </td>  </tr>  <tr>   <td></td>   <td>qtd</td>   <td>valor</td>   <td>total</td>  </tr>  <tr>   <td>Câmera </td>   <td>1</td>   <td> R$   2.740,00 </td>   <td> R$     2.740,00 </td>  </tr>  <tr>   <td>Microfone para captação  (zoom h1)</td>   <td>1</td>   <td> R$      600,00 </td>   <td> R$         600,00 </td>  </tr>  <tr>   <td>Total de equipamentos</td>   <td> </td>   <td> </td>   <td> R$     3.340,00 </td>  </tr>  <tr>   <td><strong>VIAGEM</strong></td>   <td> </td>   <td> </td>   <td> </td>  </tr>  <tr>   <td></td>   <td>qtd</td>   <td>valor</td>   <td>total</td>  </tr>  <tr>   <td>Passagem ida e volta Uberaba - São Paulo</td>   <td>2</td>   <td> R$      220,00 </td>   <td> R$         440,00 </td>  </tr>  <tr>   <td>Passagem ida e volta São Paulo -  Nova Iorque</td>   <td>2</td>   <td> R$   2.700,00 </td>   <td> R$     5.400,00 </td>  </tr>  <tr>   <td>Total de custo para viagem</td>   <td> </td>   <td> </td>   <td> R$     5.840,00 </td>  </tr>  <tr>   <td></td>   <td></td>   <td></td>   <td></td>  </tr>  <tr>   <td><strong>RECOMPENSAS</strong></td>   <td> qtd</td>   <td> valor</td>   <td> total</td>  </tr>  <tr>   <td><table>
+ <colgroup><col>
+ </colgroup><tbody><tr>
+  <td>Colares em cerâmica</td>
+ </tr>
+ <tr>
+  <td>Micrologs </td>
+ </tr>
+ <tr>
+  <td>Esculturas em cerâmica</td>
+ </tr>
+ <tr>
+  <td>DVD
+  ""Naturalmente""</td>
+ </tr>
+ <tr>
+  <td>Frete estimado p/
+  recompensas</td>
+ </tr>
+ <tr>
+  <td></td>
+ </tr>
+ <tr>
+  <td>Total de recompensas</td></tr></tbody></table></td><td><table>
+ <colgroup><col>
+ </colgroup><tbody><tr>
+  <td>20</td>
+ </tr>
+ <tr>
+  <td>50</td>
+ </tr>
+ <tr>
+  <td>10</td>
+ </tr>
+ <tr>
+  <td>100</td>
+ </tr>
+ <tr>
+  <td>100</td>
+ </tr>
+ <tr>
+  <td></td>
+ </tr>
+ <tr>
+  <td> </td></tr></tbody></table></td><td><table>
+ <colgroup><col>
+ </colgroup><tbody><tr>
+  <td> R$        
+  10,00 </td>
+ </tr>
+ <tr>
+  <td> R$            1,00</td>
+ </tr>
+ <tr>
+  <td> R$        
+  30,00 </td>
+ </tr>
+ <tr>
+  <td> R$          
+  5,00 </td>
+ </tr>
+ <tr>
+  <td> R$        
+  15,00 </td>
+ </tr>
+ <tr>
+  <td></td>
+ </tr>
+ <tr>
+  <td> </td></tr></tbody></table></td><td><table>
+ <colgroup><col>
+ </colgroup><tbody><tr>
+  <td> R$        
+  200,00 </td>
+ </tr>
+ <tr>
+  <td> R$          50,00 </td>
+ </tr>
+ <tr>
+  <td> R$        
+  300,00 </td>
+ </tr>
+ <tr>
+  <td> R$        
+  500,00 </td>
+ </tr>
+ <tr>
+  <td> R$    
+  1.050,00 </td>
+ </tr>
+ <tr>
+  <td></td>
+ </tr>
+ <tr>
+  <td> R$    
+  5.050,00 </td>
+ </tr></tbody></table></td></tr>  <tr>   <td> </td>   <td> </td>   <td> </td>   <td> </td>  </tr>  <tr>   <td><strong>ORÇAMENTO</strong></td>   <td></td>   <td></td>   <td><table><tbody><tr>
+  <td><strong> R$  
+  18.704,50 <br></strong></td></tr></tbody></table></td>  </tr>  <tr>   <td></td>   <td></td>   <td></td>   <td></td>  </tr>  <tr>   <td>Taxa recolhida pelo Catarse</td>   <td></td>   <td><strong>13% do   total  -</strong></td>   <td> R$     2794,92</td>  </tr>  <tr>   <td></td>   <td></td>   <td></td>   <td></td>  </tr>  <tr>   <td><strong>TOTAL</strong></td>   <td></td>   <td></td>   <td> <strong>R$   21.499,42</strong></td></tr></tbody></table>",21499.42,"<p>Colabore com a produção de um documentário sobre <strong>parto ativo</strong>!</p><p><iframe width=""500"" height=""281"" src=""//www.youtube.com/embed/bGk96OVOna8"" frameborder=""0"" allowfullscreen=""""></iframe><br></p><p><strong>Naturalmente</strong></p><p>O próprio tema já explica o nome que escolhi. Quero mostrar os mais íntimos e sublimes momentos de um casal que se encontra mergulhado entre a dor e o amor.</p><p><img src=""https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/redactor_rails/picture/data/55749/DSC00498.JPG""></p><p>O tema é particularmente polêmico, mas elementar e emocionante! Se você nunca viu nem ouviu nada sobre, nada melhor do que pela boca de um casal que teve 15 filhos em casa, e depois assistiu seus filhos optarem pelo mesmo caminho!</p><p>Depois de seus partos, minha mãe passou a atuar como “doula” no nascimento de seus oito netos, que também nasceram em casa, na comunidade <a href=""http://barrolo.com/artesanato/"">Vila Barroló</a>.</p><p>Este é um documentário de média-duração sobre partos naturais feitos em casa, partindo de uma experiência próxima: minha própria família. Meu pai (<a href=""https://www.facebook.com/blogodorio.cleofas?fref=ts"">Cleofas Bezerra</a>), e minha mãe (<a href=""https://www.facebook.com/anita.bragabezerra?fref=ts"">Anita Bezerra</a>) tiveram quinze partos em casa sem acompanhamento médico. <span class=""redactor-invisible-space""></span>O projeto tem o intuito de incentivar um número cada vez maior de partos ativos, em detrimento dos procedimentos hospitalares realizados hoje em dia.<br></p><p>O andamento do documentário já está avançado, temos várias entrevistas e cenas gravadas.</p><p>O objetivo deste projeto é concluir as gravações com cenas do primeiro parto de minha irmã que está em Nova Iorque acompanhando o marido em seus estudos. O nascimento está previsto para novembro, e pretendo incluir mais esta experiência, especialmente por ser a primeira a acontecer afastada do núcleo da comunidade. </p><p><br></p><p><img src=""https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/redactor_rails/picture/data/54620/IMG_6528.JPG"" height=""285"" width=""274"" style=""width: 274px; height: 285px;""><img src=""https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/redactor_rails/picture/data/54621/IMG_6534__2_.JPG"" height=""285"" width=""287"" style=""width: 287px; height: 285px;"" rel=""width: 287px; height: 285px;""></p><p><em>Pai e </em><em>Mãe, </em><em>anos 80.</em></p><p>O filme abordará a experiência de meus pais, dois jovens que decidiram por algo considerado completamente louco, sem o apoio da própria família e amigos, e a continuidade da experiência com os netos. Depois de pronto, o vídeo terá abertura em Uberaba e logo após em Uberlândia em um encontro organizado por <a href=""https://www.facebook.com/Flore-Ser-670080486450668/?fref=ts"">Flore Ser</a> (<a href=""https://www.facebook.com/Kellymaedoula?fref=ts"">Kelly Mamede</a>), com palestra de Anita sobre sua experiência com o parto ativo, incentivando as mulheres a reagirem contra a imposição da cultura do medo, encarando o parto como ele é: natural.<br></p><p>  <img src=""https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/redactor_rails/picture/data/54619/DSC07452.JPG"" height=""424"" width=""620"" style=""width: 620px; height: 424px;""></p><p><em>Ana Rocha (nora), Mariana (filha), Anita (mãe-doula), Maayan Fogel (amiga) e Camila Merola (amiga), abril de<em> </em><em>2014.</em><em></em></em></p><p><strong>Vila Barroló</strong><br></p><p>Somos a <a href=""https://www.facebook.com/vilabarrolo?fref=ts"">Vila Barroló</a>. Uma comunidade familiar fundada em 2009 numa propriedade rural a 50 km de Uberaba. Já tínhamos uma trajetória de 25 anos de trabalho familiar em cerâmica, reconhecido em todo o Brasil. Mas toda história estava a se perder e cada um caminhava para construir a sua em particular. Foi quando há 7 anos vislumbramos o ideal utópico de nos manter unidos, fortalecendo nossos vínculos e construindo uma identidade à margem do que a sociedade atual tem por convencional. Está sendo maravilhoso!</p><p><img src=""https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/redactor_rails/picture/data/55207/11816102_881346068568077_4023896672526881392_o.jpg""></p><p>Aqui questionamos tudo e a nós mesmos. Nossa vida é uma bolinha embaixo da curva de interrogação.</p><p>Além da lida com o barro, o campo proporcionou diversidade de atuação nos campos das artes visuais, artes cênicas, letras, música, audiovisual, educação e o trabalho com a roça. Hoje somos considerados parceiros culturais nas cidades vizinhas, e este projeto vem de encontro com esta abertura a que nos propusemos.</p><p><strong>Eu</strong><span class=""apple-converted-space""><strong> </strong></span><a href=""https://www.facebook.com/bragahanah?viewas=100000686899395&privacy_source=timeline_gear_menu""><strong>(Braga Ana)</strong></a><br></p><p>Sou iniciante na parada <strong>audiovisual,</strong> mas sempre fui curiosa e interessada por esta área. Tenho uma produção independente, gosto de trabalhar também com <strong>stop motion,</strong> procuro sempre a simplicidade e autenticidade. </p><p><img src=""https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/redactor_rails/picture/data/55212/00007.00_00_40_11.Quadro001.jpg""></p><p>                                                                                                   <em>Projeto Cerrado Cultural</em></p><p>Atualmente sou responsável pelo registro audiovisual do projeto <a href=""https://www.facebook.com/groups/1535806406717345/?fref=ts"">Cerrado Cultural</a>, cuja meta é obter um vídeo até o encerramento da vivência.</p><p>Faço parte do <a href=""https://www.facebook.com/Bando-Cal%C3%A7a-De-Jornal-1398175343797453/?ref=aymt_homepage_panel"">Bando Calça de Jornal</a>, o grupo acaba de lançar sua primeira peça teatral “Disse o Mutum”, trabalhei nas imagens, sonoplastia e divulgação da peça.</p><p><strong>Este projeto terá ajuda de excelentes profissionais da área!</strong></p><p><strong></strong></p><p><a href=""https://www.facebook.com/isaqueribeiro?fref=ts""><img src=""https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/redactor_rails/picture/data/55610/12032057_10153794470613243_4244885684836977074_n.jpg"" width=""248"" height=""252"" alt=""Isaque Ribeiro"" style=""width: 248px; height: 252px;""></a>                  <a href=""https://www.facebook.com/jorge.gurvich""><img src=""https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/redactor_rails/picture/data/55612/10492071_10203882110905866_1059410748779527647_n.jpg"" width=""343"" height=""252"" alt=""Jorge Gurvich"" style=""width: 343px; height: 252px;""></a> </p><p><em>              Isaque Ribeiro (à esquerda) e Jorge Gurvich (</em><em>à direita)</em></p><p>                            <a href=""https://www.facebook.com/ofer.freiman.92?fref=ts""><img src=""https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/redactor_rails/picture/data/55614/416390_10150690853285824_669704082_o.jpg"" width=""331"" height=""233"" alt=""Ofer Freiman"" style=""width: 331px; height: 233px;""></a> </p><p>                                                                          <em>                       Ofer Freiman </em></p><p><strong></strong></p><p><strong></strong></p><p><strong>Assistência de direção</strong><br></p><p><a href=""https://www.facebook.com/isaqueribeiro?fref=ts""><strong>Isaque Ribeiro</strong></a>: Nascido em Belo Horizonte MG em 1983. Ator e diretor.</p><ul><li><em>Doutorando em Artes pela Escola de Belas Artes da UFMG. Mestre em Artes/2011 e formado em Teatro pela mesma instituição/2006. Foi professor de teatro na <a class=""profileLink"" href=""https://www.facebook.com/pages/Faculdade-Est%C3%A1cio-de-S%C3%A1-de-Belo-Horizonte/176321009046456"" data-hovercard=""/ajax/hovercard/page.php?id=176321009046456"">Faculdade Estácio de Sá de Belo Horizonte</a>.</em></li><li><em><em>Foi premiado em 2015 </em><em>no </em><em>Rio </em><em>Web Fest </em><em>como melhor diretor na web-série da banda Suvaca de Vó. Ao todo foram 9 indicações : série de comédia, série brasileira, direção de comédia, direção de arte, fotografia, edição, figurino, atriz, com Beth Grandi e melhor ator, com Fernando Penido.</em></em></li><li><em>Participou como ator dos filmes ""Cidade do Sol"" (2015)""A Natureza das Coisas"" (2013) de Anderson Aníbal, dentre outros. Integrou o elenco dos espetáculos ""Prá Lá Do Arco--Íris"" (2011) com direção de Polyana Horta, (pelo qual recebeu o Prêmio Usinimas/Sinparc-2012 de melhor ator categoria Teatro Infantil); ""Quando você não esta no céu"" (2006), com direção de Carlos Gradim (pelo qual foi indicado ao Prêmio Usiminas/Sinparc-2007 de melhor ator coadjuvante); e ""Pluft, o Fantasminha"" (pelo qual foi indicado ao Prêmio Usiminas/Sinparc-2003 de ator revelação). Participou de campanhas publicitárias de empresas dos Relógios Mondaine, Biscoitos Aymoré, Postos Ale, Localiza, dentre outros; além de filmes institucionais para o Governo de Minas Gerais, Usiminas e Canal Minas Saúde. Integrante do agrupamento de artistas O Coletivo de Belo Horizonte/MG.</em></li></ul><p><em></em></p><p><strong>Auxílio técnico na edição/montagem</strong></p><p><a href=""https://www.facebook.com/ofer.freiman.92?fref=ts""><strong>Ofer Freiman</strong></a>: Nascido em Israel em 1982. Cineasta.</p><ul><li><em>É dono da empresa de filmagens <a href=""https://www.facebook.com/ofer.freiman.92?fref=ts"">Frames</a>. </em></li><li><em>Foi diretor, produtor e editor no documentário <a href=""http://www.imdb.com/title/tt2647422/"">Ruth</a>, maio 2012, Israel (33 min).</em></li></ul><p><em></em></p><h1><em></em></h1><p><strong>Orientação artística</strong></p><p><a href=""https://www.facebook.com/jorge.gurvich?fref=ts""><strong>Jorge Gurvich</strong></a>: Nascido na argentina em 1957. Cineasta.</p><ul><li><em>Jorge Gurvich emigrou para Israel em 1978. Graduado pela Universidade de Tel Aviv. Departamento de cinema & tv (1979-83).</em></li><li><em>Foi premiado 3 vezes com a </em><em>""the golden lens "",</em><em> (Prêmio israelense de melhor fotografia) por </em><em>diferentes </em><em>recursos </em><em>&</em><em> <em>curtas-metragens</em>, e recebeu inúmeros prêmios em cinematografia por seu trabalho em mais de dez curtas-metragens.</em></li><li><em>Filmografia de Jorge Gurvich:</em></li><li><em><strong>director & producer:</strong></em></li><li><em>The way to the cats 2008 feature film 83 min</em></li><li><em>Shira's Project 2007 tv drama video 22 minutes</em></li><li><em>Sesia's Nnecklace 2006 short film super 16 mm 35 minutes</em></li><li><em>Next Year in...Argentina 2005 documentary video 62 min</em></li><li><em>To Grow Up 2004 tv drama video 26 minutes</em></li><li><em>I am not a Child 2003 tv drama video 26 minutes</em></li><li><em>My Son 2002 tv drama video 30 minutes</em></li><li><em>The Heritage 2001 tv drama video 30 minutes</em></li><li><em>second oportunity</em></li><li><em>In Arad 2000 documentary video 27 min</em></li><li><em>Woman in Grey 1999 tv serie 3 chapters (50 min)</em></li><li><em>Krishim 1999 tv drama video 35 minutes</em></li><li><em>Her Bare Feet 1999 fiction 16 mm 51 minutes</em></li><li><em>Moments of Grace</em></li><li><em>(co-directed & produced by iosef shiloaj)</em></li><li><em>1999 documentary video 54 minutes</em></li><li><em>The shower 1997 fiction 35 mm 35 minutes</em></li><li><em>So we Said Goodbye 1991 fiction 35 mm, 27 minutes</em></li><li><em><strong>Director of photography: </strong>(lista parcial de mais de 45 filmes)</em></li><li><em>Features:</em></li><li><em>Gentila 1997 ,35 mm dir agur shif</em></li><li><em>Everlasting Joy 1996 35mm dir igal Burshtein the revenge of itzik Finkelstein 1993 35mm dir enrique rotenberg</em></li><li><em>Tel Aviv Stories 1992 35mm dir nirit iaron Angels on the Wind 1992 35mm dir gur heller</em></li><li><em>Himmo, King of Jerusalem 1987 16mm blow up dir amos gutman</em></li><li><em><strong>Documentaries</strong></em></li><li><em>Wadi 2000 180min video dir amos gitai</em></li><li><em>The arena of murder 1996 75 min super 16, dir amos gitai</em></li><li><em>Hassidim 1993 30min video dir asher tlalim</em></li><li><em>Dar or Dur 1990 52 min chanel four dir rashid masrawi</em></li><li><em>Special Counsel 1988 90 min 16 mm dir alan rosenthal</em></li><li><em>Donkies 1990 52 min video dir eytan fox</em></li><li><em><strong>Short Movies & Tv Dramas (1981-1998)</strong></em></li><li><em>The cage, Night Novie , The Shelter , Solo for Tuba, Benny's Singer Show,</em></li><li><em>Don't get involved, Holes in the hands, Sarah, Ben, Ethics v, Letters to Felicia, Ernesto, Good holocaust, Thin Wodden Walls, It's the Age, One Free Crime ,etc.</em></li><li><em><strong>Teaches Cinematography at Tel Aviv university dep. of cinema& tv 1990-2000</strong></em></li><li><em>Sam Spiegel Film School in Jerusalem. 1991-2001</em></li><li><em>Camera Cbscura & Maale 1987-2005</em></li><li><em>Beit Berl University 1998-2001</em></li><li><em>Sapir University 2004-2006</em></li><li><em>Pesya's Necklace got Special Jury Award at Girona Film Festival 2007</em></li><li><em>The shower got a special mention at krakow int. short film 98, from the press jury (fipresci),and got prize for best movie or best tv drama in the folowing international film festivals:</em></li><li><em>Jerusalem international. film festival 97,</em></li><li><em>Cut film festival 97 ,Israel Film Institute</em></li><li><em>Chile int. short film festival 97,</em></li><li><em>Uruguay int film festival 98.</em></li><li><em><em>So we said Goodbye </em>obteve um prêmio especial do júri internacional da Igreja Católica pelos valores humanos. Oberhaussen festival internacional de cinema, Alemanha 1991.</em></li></ul><p><br></p>",naturalmente,,,"Cinema e Vídeo",13,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/34812/gom__2_.jpg,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/34812/project_thumb_thumb_gom__2_.jpg,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/34812/project_thumb_small_gom__2_.jpg,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/34812/project_thumb_large_gom__2_.jpg,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/34812/project_thumb_video_cover_gom__2_.jpg,2.76751651905028135600,595.0,10,9,online,flex,published,"2016-10-01 02:59:59.999999","2016-09-30 23:59:59.999999","2016-07-05 17:00:08.812057","2016-07-05 14:00:08.812057",,t,f,t,87,"{""total"" : 5, ""unit"" : ""days""}","{""total"" : 81, ""unit"" : ""days""}",0,"{""city"" : ""Uberlândia"", ""state_acronym"" : ""MG"", ""state"" : ""Minas Gerais""}","{""id"" : 582789, ""name"" : ""Braga Ana""}",2,,f,f,0,f,f,f

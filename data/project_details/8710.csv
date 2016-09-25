@@ -1,0 +1,28 @@
+project_id,id,user_id,name,headline,budget,goal,about_html,permalink,video_embed_url,video_url,category_name,category_id,original_image,thumb_image,small_image,large_image,video_cover_image,progress,pledged,total_contributions,total_contributors,state,mode,state_order,expires_at,zone_expires_at,online_date,zone_online_date,sent_to_analysis_at,is_published,is_expired,open_for_contributions,online_days,remaining_time,elapsed_time,posts_count,address,user,reminder_count,is_owner_or_admin,user_signed_in,in_reminder,total_posts,can_request_transfer,is_admin_role,contributed_by_friends
+8710,8710,365055,BRIEFline,"A intensidade com que uma empresa comunica-se com seus clientes é proporcional as suas chances de satisfação.","O orçamento para projetos anteriores a 24/02/2015 normalmente pode ser encontrado na descrição acima.",20000.0,"<p>O BriefLine é um aplicativo para desenvolver um briefing, muito útil para designers gráficos, web designers, arquitetos entre outras profissões. Com o questionário o usuário responde perguntas de acordo com seu gosto. Acreditamos que é mais fácil para empresas e clientes ter algo online que possa ser acessado de qualquer lugar a qualquer momento. A empresa compra a versão do aplicativo e cria um acesso para seu cliente, o mesmo responde às perguntas e a empresa recebe o briefing completo, a partir disto é só começar a criar e entregar um produto final de acordo com as exigências e necessidades de seu cliente.</p>
+
+<p><img src=""http://i.imgur.com/D85LlIk.png"" alt=""""/></p>
+
+<p><img src=""http://i.imgur.com/SUcpqzb.jpg"" alt=""""/></p>
+
+<p><img src=""http://i.imgur.com/l08vnLw.jpg"" alt=""""/></p>
+
+<p><strong>RECOMPENSAS</strong></p>
+
+<p>R$10,00 - Vídeo de agradecimento</p>
+
+<p>R$20,00 - Vídeo de agradecimento + 2 Adesivos </p>
+
+<p>R$35,00 - Adesivo + botons</p>
+
+<p>R$50,00 - Adesivo + botons + Mouse pad </p>
+
+<p>R$90,00 - Camiseta + botons</p>
+
+<p>R$150,00 - Versão demo do app + camiseta </p>
+
+<p>Previsão máxima para o aplicativo ser concluído será em Agosto de 2015. </p>
+
+<p><strong>UM POUCO MAIS DO PROJETO</strong>
+<div class=""video youtube""><iframe width=""600"" height=""403"" src=""//www.youtube.com/embed/hmgDv5ALUl8?wmode=opaque"" frameborder=""0"" allowfullscreen></iframe></div></p>
+",briefline,//www.youtube.com/embed/W7eSITAW8kA,https://www.youtube.com/watch?v=W7eSITAW8kA,"Ciência e Tecnologia",18,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/8710/Sem_T_tulo-1.jpg,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/8710/project_thumb_thumb_Sem_T_tulo-1.jpg,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/8710/project_thumb_small_Sem_T_tulo-1.jpg,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/8710/project_thumb_large_Sem_T_tulo-1.jpg,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/8710/project_thumb_video_cover_Sem_T_tulo-1.jpg,0.05000000000000000000,10.0,1,1,failed,aon,finished,"2015-03-07 02:59:59","2015-03-06 23:59:59","2015-01-05 02:00:04.103282","2015-01-05 00:00:04.103282",,t,t,f,60,"{""total"" : 0, ""unit"" : ""seconds""}","{""total"" : 61, ""unit"" : ""days""}",0,"{""city"" : ""Lages"", ""state_acronym"" : ""SC"", ""state"" : ""Santa Catarina""}","{""id"" : 365055, ""name"" : ""Richard Allegretti""}",0,,f,f,0,f,f,f

@@ -1,0 +1,72 @@
+project_id,id,user_id,name,headline,budget,goal,about_html,permalink,video_embed_url,video_url,category_name,category_id,original_image,thumb_image,small_image,large_image,video_cover_image,progress,pledged,total_contributions,total_contributors,state,mode,state_order,expires_at,zone_expires_at,online_date,zone_online_date,sent_to_analysis_at,is_published,is_expired,open_for_contributions,online_days,remaining_time,elapsed_time,posts_count,address,user,reminder_count,is_owner_or_admin,user_signed_in,in_reminder,total_posts,can_request_transfer,is_admin_role,contributed_by_friends
+3977,3977,231894,"Dieta na Medida","Dieta na Medida. Os nutrientes diários na medida certa para sua saúde!","O orçamento para projetos anteriores a 24/02/2015 normalmente pode ser encontrado na descrição acima.",24793.1,"<p><em>Sobre o autor</em></p>
+
+<p>Meu nome é Roberto Belloti e sou cirurgião dentista, especialista em implantodontia,  com mestrado em biomateriais (resinas restauradoras dentais) e, atualmente, estou terminando o doutorado, também com a tese sobre resinas restauradoras dentais. </p>
+
+<p><em>Projeto Dieta na Medida</em></p>
+
+<p>A ideia de desenvolver o projeto Dieta na Medida veio, inicialmente, com a necessidade de perder peso. No entanto, incentivado pela curiosidade de pesquisador e o prazer em estudar sobre os alimentos, fui me aprofundando no assunto e, ao longo da pesquisa, percebi que uma dieta para <em>pessoas saudáveis</em> vai muito mais além do número de calorias diárias, o que, normalmente, é o foco da maioria dos aplicativos relacionados a dietas. </p>
+
+<p>Os dados da pesquisa revelaram que a quantidade de macronutrientes, como carboidratos, proteínas e gorduras, e dos micronutrientes (vitaminas e minerais), - fundamentais para um perfeito funcionamento do corpo humano - varia de acordo com as características individuais como sexo, idade e peso atual, mas também com o grau de atividade e objetivo da dieta. </p>
+
+<p>A pesquisa foi realizada utilizando fontes confiáveis tais como National Heart, Lung and Blood Institute (US) e o Dietary Reference Intake (DRI) do Food and Nutrition Board, Institute of Medicine, National Academies. Os dados da pesquisa serão disponibilizados em nossa página do Facebook (<a class=""alt-link"" href=""http://www.facebook.com/dietanamedida"" target=""_blank"">www.facebook.com/dietanamedida</a>). Após a coleta dos dados, todos os nutrientes necessários em uma dieta saudável foram catalogados, organizados e adaptados para o aplicativo Dieta na Medida. </p>
+
+<p><em>Funcionamento do projeto</em></p>
+
+<p><em>Aplicativo</em></p>
+
+<p>Os dados da pesquisa foram organizados levando-se em conta três grupos distintos de informações, os quais deverão ser fornecidas pelos usuários do aplicativo. No entanto, todas as informações serão interligadas entre si para que a quantidade dos nutrientes diários necessários seja calculada devidamente pelo aplicativo. Os grupos de informações são: Características individuais; Grau de Atividade e Objetivo da Dieta.</p>
+
+<p>O usuário colocará os seus dados no aplicativo na seguinte maneira:</p>
+
+<p>1-Características individuais: Sexo, Idade e Peso;</p>
+
+<p>2-Grau de atividade: Sedentário, Ativo moderado e Ativo;</p>
+
+<p>3-Objetivo da dieta: Perda rápida de peso, Perda de peso, Manutenção do peso e Ganho de peso.</p>
+
+<p>4-*Quantidade de Calorias: A quantidade de calorias será calculada com base nas informações anteriores.</p>
+
+<p>No caso de haver mais de uma opção de quantidade de calorias, o usuário deverá escolher a que melhor lhe convém.</p>
+
+<p>Com os dados colocados, a quantidade dos nutrientes diários será estabelecida da seguinte maneira:</p>
+
+<p>1-Quantidade de Calorias: Definida pelo sexo e idade</p>
+
+<p>2-Quantidade de Carboidratos: Definida pelo Objetivo da dieta</p>
+
+<p>3-Quantidade de Proteínas: Definida pelo Peso e Tipo de atividade</p>
+
+<p>4-Quantidade de Gorduras: Definida pela quantidade de Calorias</p>
+
+<p>5-Quantidade de Vitaminas e minerais: Definida pelo Sexo e idade</p>
+
+<p>*O aplicativo será disponibilizado gratuitamente nas devidas lojas de aplicativos.</p>
+
+<p><em>Banco de dados</em></p>
+
+<p>Além de orientar os usuários sobre a quantidade diária de nutrientes necessária para o correto funcionamento do corpo, este projeto tem como missão criar um banco de dados com as informações nutricionais dos produtos alimentícios existentes no mercado e também ser um canal de comunicação entre as empresas alimentícias e o consumidor para um maior controle de qualidade dos produtos e informações corretas.</p>
+
+<p><em>Custos</em></p>
+
+<p>￼Itens                                                                                     Custos
+Domínio                                                                            R$ 30.00
+Hospedagem do site                                                  R$ 40.00
+Servidor semi-compartilhado p/ banco de dados      R$ 5,000.00
+&quot;Programação 
+(site + aplicativos iOS/Android/Windows)&quot;            R$ 10,000.00
+Identidade visual e design                                     R$ 1,500.00
+Assessoria de imprensa                                             R$ 5,000.00
+Custos com Crowdfunding                                    R$ 3,223.10
+Total                                                                             R$ 24,793.10</p>
+
+<p>Para mais informações, acesse as nossas páginas na web:</p>
+
+<p><a class=""alt-link"" href=""http://www.facebook.com/dietanamedida"" target=""_blank"">www.facebook.com/dietanamedida</a></p>
+
+<p><a class=""alt-link"" href=""http://www.dietanamedida.com.br"" target=""_blank"">www.dietanamedida.com.br</a></p>
+
+<p>e fale conosco pelo nosso email:</p>
+
+<p><a class=""alt-link"" href=""mailto:robertobelloti@dietanamedida.com.br"" target=""_blank"">robertobelloti@dietanamedida.com.br</a></p>
+",dietanamedida,//www.youtube.com/embed/NqwZSk_LyD8,http://youtu.be/NqwZSk_LyD8,"Ciência e Tecnologia",18,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/3977/Logo_dietanamedida.001.jpg,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/3977/project_thumb_thumb_Logo_dietanamedida.001.jpg,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/3977/project_thumb_small_Logo_dietanamedida.001.jpg,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/3977/project_thumb_large_Logo_dietanamedida.001.jpg,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/3977/project_thumb_video_cover_Logo_dietanamedida.001.jpg,0.08066760509980599400,20.0,1,1,failed,aon,finished,"2014-03-30 02:59:59","2014-03-29 23:59:59","2014-02-17 22:54:20.057619","2014-02-17 19:54:20.057619",,t,t,f,40,"{""total"" : 0, ""unit"" : ""seconds""}","{""total"" : 40, ""unit"" : ""days""}",0,"{""city"" : ""Niterói"", ""state_acronym"" : ""RJ"", ""state"" : ""Rio de Janeiro""}","{""id"" : 231894, ""name"" : ""Roberto Belloti""}",0,,f,f,0,f,f,f

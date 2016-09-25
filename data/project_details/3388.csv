@@ -1,0 +1,87 @@
+project_id,id,user_id,name,headline,budget,goal,about_html,permalink,video_embed_url,video_url,category_name,category_id,original_image,thumb_image,small_image,large_image,video_cover_image,progress,pledged,total_contributions,total_contributors,state,mode,state_order,expires_at,zone_expires_at,online_date,zone_online_date,sent_to_analysis_at,is_published,is_expired,open_for_contributions,online_days,remaining_time,elapsed_time,posts_count,address,user,reminder_count,is_owner_or_admin,user_signed_in,in_reminder,total_posts,can_request_transfer,is_admin_role,contributed_by_friends
+3388,3388,210407,Educante,"Educação compartilhada para mudar o Brasil. ","O orçamento para projetos anteriores a 24/02/2015 normalmente pode ser encontrado na descrição acima.",15198.0,"<p><img src=""http://www.publion.com.br/images/educantelogo.jpg"" alt=""""/></p>
+
+<p><img src=""http://www.publion.com.br/images/o_que_e.jpg"" alt=""""/>
+O projeto “Educante” tem como principal objetivo desenvolver um sistema que reúna, organiza e compartilha em âmbito nacional, atividades, artigos, questões e livros que foram criados por instituições de ensino e professores de todo o Brasil.</p>
+
+<p><img src=""http://www.publion.com.br/images/sistema.jpg"" alt=""""/></p>
+
+<p><img src=""http://www.publion.com.br/images/por_que.jpg"" alt=""""/>
+Muitos brasileiros tem como preocupação a educação no Brasil, seja ela individual ou coletiva, e por mais que nos esforçamos, ficamos dependentes da política, leis e mais meia dúzia de promessas que não se cumprem. Enquanto isso o tempo vai passando, as crianças vão crescendo e a educação fica estacionada sem a devida atenção.</p>
+
+<p>Acreditamos que reunindo o maior número de professores, instituições de ensino e estudantes de todos os lados do Brasil em um mesmo sistema na internet e celulares, permitira contribuir para evoluirmos como uma única unidade estudantil, independente da distância, da classe social, e outros fatores que separam nossa sociedade.</p>
+
+<p><img src=""http://www.publion.com.br/images/como.jpg"" alt=""""/>
+Para amenizar a situação atual do Brasil e driblar as barreiras, nós, em 9 meses  estivemos estudando, analisando e pesquisando as melhores formas de compartilhar e organizar todas as informações que contribuem para um aprendizado eficiente que  mantenha as melhores práticas pedagógicas  e reúna todos os professores, instituições de ensino e alunos do Brasil.</p>
+
+<p>Nosso sistema estará disponível na web e nos smarthphone’s  como aplicativo, sua interface vai estar dividido em 3 áreas centrais de acesso com suas respectivas subáreas:</p>
+
+<p><em>Estudantes Ensino médio</em>: Aqui o estudante tem atividades, dicas, provas de vestibulares, vídeo aula e materiais para download. Apesar da simplicidade, o sistema será muito completo sem deixar pontas soltas, estaremos interligando seus erros e acertos à forma como ele estuda, disponibilizando informações referentes as suas necessidades. O projeto também disponibilizará gráficos de desempenho  para que ele possa acompanhar suas dificuldades:
+<img src=""http://www.publion.com.br/images/desempenho.jpg"" alt=""""/></p>
+
+<p><em>Estudantes universitários</em>: Esta área será referente aos estudantes de nível superior, onde poderão encontrar artigos publicados separados por temas, instituições e até atividades vinculadas as mais variadas disciplinas. Página exemplo para pesquisa e download de artigos:
+<img src=""http://www.publion.com.br/images/site2.jpg"" alt=""""/></p>
+
+<p><em>Professores:</em>  Esse ambiente será exclusivo para professores, ira facilitar a distribuição ou compartilhamento de conteúdos com outros professores, além de o professor conseguir formular provas, editar e buscar questões de outros professores da mesma área podendo assim, classificá-las por instituição e turmas. Tudo online!  </p>
+
+<p>O professor ainda terá acesso a materiais multimídias interativos referente a sua disciplina para mostrar em sala. Ex (material interativo para download): 
+<img src=""http://www.publion.com.br/images/tela1.jpg"" alt=""""/></p>
+
+<p><em>Instituição:</em> As instituições terão o privilégio de cadastrar seus professores, acompanhar suas atividades e suas provas aplicadas em cada turma, divulgar trabalhos científicos publicados,  além de permitir mensurar a eficiência pedagógica do modelo de ensino.</p>
+
+<p>Com essas três áreas, o sistema poderá unificar o interesse de cada usuário com suas devidas necessidades, podendo assim, ser autossuficiente visto que, os utilizadores são os mesmos que contribuem para rede acadêmica.</p>
+
+<p><img src=""http://publion.com.br/images/desenvolvimento.jpg"" alt=""""/>
+Nós temos uma equipe multidisciplinar que estará responsável por todo desenvolvimento do sistema (programação e aplicativos), identidade visual, peças gráficas e publicitárias.</p>
+
+<p><em>Nossa equipe é:</em></p>
+
+<p><em>Rafael Forcadell</em>
+<em>Função:</em> Programador
+<em>Cidade:</em> Curitiba</p>
+
+<p><em>John Ramalho</em>
+<em>Função:</em> Web designer  e Gerente do projeto
+<em>Cidade:</em> Curitiba</p>
+
+<p><img src=""http://publion.com.br/images/acesso.jpg"" alt=""""/>
+O acesso será gratuito para estudantes e professores, entretanto teremos alguns serviços que terão de ser cobrados uma taxa para acesso livre aos materiais multimídias interativos, pelo motivo de,  gastos com a criação e de pessoal, porém,  o  preço é popular apenas para manter essas criações frequentes.  Abaixo segue a lista das especificações de acesso:</p>
+
+<p><em>Estudantes</em>
+<em>Acesso:</em>  100% gratuito.
+<em>Limitação:</em> nenhuma.
+<em>Benefícios</em>: Todos os benefícios descritos no projeto anteriormente para estudantes de ensino médio e universitários. 
+<em>Custo:</em> R$ 0</p>
+
+<p><em>Professores nível 1</em>
+<em>Acesso:</em>  100% gratuito.
+<em>Benefícios:</em>  todos os descritos no projeto com exceção das limitações abaixo:
+<em>Limitação:</em> Limite de 1 download por mês de <em>materiais multimídias interativos.</em>
+<em>Custo:</em> R$ 0</p>
+
+<p><em>Professores nível 2</em>
+<em>Acesso:</em>  100% gratuito.
+<em>Benefícios:</em>  todos os descritos no projeto com exceção das limitações abaixo:
+<em>Limitação:</em> Limite de 5 download por mês de <em>materiais multimídias interativos</em>
+<em>Custo:</em> R$10,00</p>
+
+<p><em>Professores nível 3</em>
+<em>Acesso:</em>  100% gratuito.
+<em>Limitação:</em> Nenhuma
+<em>Benefícios:</em>  todos os descritos no projeto sem limitação.
+<em>Custo:</em> R$15,00</p>
+
+<p><img src=""http://www.publion.com.br/images/precisamos_de_vc.jpg"" alt=""""/>
+Precisamos de sua colaboração financeira para fazer esse projeto iniciar. Durante este ano, 100% do nosso trabalho será voltado para o desenvolvimento do sistema. Acompanhe os gastos iniciais:</p>
+
+<p><img src=""http://www.publion.com.br/images/tabela.jpg"" alt=""""/></p>
+
+<p><img src=""http://www.publion.com.br/images/e_depois.jpg"" alt=""""/>
+Levando em conta que este ainda é o começo de um enorme projeto que futuramente poderá contribuir de uma forma mais eficaz com a educação no brasil. Nossa meta é administrar esse projeto em conjunto com outros profissionais, cabendo a nós as atualizações, manutenção e os meios de manter financeiramente o site. Em nosso cronograma estamos confiantes que o sistema estará 100% funcional até Fevereiro de 2014, e todos poderão usar conforme o planejado. </p>
+
+<p><a class=""alt-link"" href=""http://www.educante.com.br/"" target=""_blank"">http://www.educante.com.br/</a></p>
+
+<p>Acreditamos que ele possa fazer a diferença.</p>
+
+<p><em>Faça parte deste projeto!!!</em></p>
+",Educante,//player.vimeo.com/video/79157220,https://vimeo.com/79157220,Educação,31,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/3388/imagemfundo.jpg,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/3388/project_thumb_thumb_imagemfundo.jpg,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/3388/project_thumb_small_imagemfundo.jpg,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/3388/project_thumb_large_imagemfundo.jpg,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/3388/project_thumb_video_cover_imagemfundo.jpg,1.57915515199368337900,240.0,7,7,failed,aon,finished,"2013-12-29 01:59:59","2013-12-28 23:59:59","2013-11-18 15:50:22","2013-11-18 13:50:22",,t,t,f,40,"{""total"" : 0, ""unit"" : ""seconds""}","{""total"" : 40, ""unit"" : ""days""}",1,"{""city"" : ""Curitiba"", ""state_acronym"" : ""PR"", ""state"" : ""Paraná""}","{""id"" : 210407, ""name"" : ""John Eric Ramalho""}",0,,f,f,1,f,f,f

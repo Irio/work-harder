@@ -1,0 +1,78 @@
+project_id,id,user_id,name,headline,budget,goal,about_html,permalink,video_embed_url,video_url,category_name,category_id,original_image,thumb_image,small_image,large_image,video_cover_image,progress,pledged,total_contributions,total_contributors,state,mode,state_order,expires_at,zone_expires_at,online_date,zone_online_date,sent_to_analysis_at,is_published,is_expired,open_for_contributions,online_days,remaining_time,elapsed_time,posts_count,address,user,reminder_count,is_owner_or_admin,user_signed_in,in_reminder,total_posts,can_request_transfer,is_admin_role,contributed_by_friends
+1995,1995,130901,"Robô barato - para mim, para você e todo o mundo!","Solução de baixo custo para aprendizado de robótica em casa e na escola.","O orçamento para projetos anteriores a 24/02/2015 normalmente pode ser encontrado na descrição acima.",3000.0,"<p><a class=""alt-link"" target=""_blank"" href=""http://suporte.catarse.me/knowledgebase/articles/161109-segunda-chance""><img src=""http://i.imgur.com/rCz5ONV.png"" alt=""""/></a></p>
+
+<iframe src=""//player.vimeo.com/video/66032310?title=0&byline=0&portrait=0"" width=""600"" height=""403"" frameborder=""0""></iframe>
+
+<p><strong>Solução de baixo custo para aprendizado de robótica em casa e na escola. - PARTE II</strong></p>
+
+<p><strong>ATENÇÂO! Está terminando o nosso prazo, a partir de agora, o último que contribuir vai receber além de sua recompensa uma placa para montagem de sua GoGo mini! Está Lançado o desafio, quem vai ser o último?</strong></p>
+
+<p><strong>Porque robô?</strong>
+Por que é lúdico! Por que é muito divertido! Pelas experiências que tivemos com alunos de ensino fundamental, médio e ensino superior pudemos observar que este é um excelente método para ensinar programação e lógica para crianças, jovens e adultos. Normalmente o curso de capacitação para uso destes brinquedos educativos se divide em duas partes: na primeira são apresentados comandos e formas programar, na segunda os alunos tentam solucionar desafios propostos usando o que aprenderam, este tipo de abordagem é muito utilizado para deixar os assuntos áridos, abstratos e difíceis mais instigantes e divertidos. Confira por exemplo este projeto do Google (<a class=""alt-link"" href=""https://code.google.com/p/blockly"" target=""_blank"">https://code.google.com/p/blockly</a>). A pessoa aprende a programar usando blocos simples. 
+<img src=""http://blockly.googlecode.com/svn/wiki/sample.png"" alt=""""/></p>
+
+<p>Experimente você também e veja como é divertido, tente resolver os problemas propostos em
+<a class=""alt-link"" href=""http://blockly-demo.appspot.com/blockly/apps/maze/pt.html"" target=""_blank"">http://blockly-demo.appspot.com/blockly/apps/maze/pt.html</a></p>
+
+<p>O nosso robô usa o mesmo princípio, com a vantagem de ser um objeto físico, que pode ter suas funções adaptadas e incrementadas. </p>
+
+<p><strong>Porque barato?</strong>
+Durante anos os engenheiros e designers de grandes empresas fabricantes de brinquedos e kits educativos estão envolvidos com o desenvolvimento de soluções acessíveis no âmbito de usabilidade e aprendizado, mas infelizmente não o são do ponto de vista econômico. 
+Resolvemos resumir os caros kits em poucos componentes, o suficiente para a montagem de um robô simples, mas que possa ser usado de várias formas, com esta estratégia aliada ao uso da plataforma open-source GoGo board, conseguimos uma drástica queda de custo, pois se for mais barato podemos atender um grande número de pessoas. É possível também que ONGs, escolas públicas e privadas voltadas para público de baixo poder aquisitivo possam utilizar estes dispositivos em aulas e projetos de ciências, tecnologia e artes.</p>
+
+<p>Porque Parte II?</p>
+
+<p>Na primeira etapa captamos R$ 1865,00 de R$ 5500,00. Se por um lado o objetivo ainda era distante, por outro os apoios demonstram que o projeto é factível. Assim, fazendo alguns ajustes de orçamento conseguimos enxugar o valor de meta mínima, Agora são apenas R$ 3.000,00. Vai dar certo!</p>
+
+<p><strong>O que queremos</strong></p>
+
+<p>Popularizar a robótica pedagógica desenvolvendo robôs baratos e fáceis de usar.</p>
+
+<p>A robótica pedagógica já está presente nas escolas particulares de classes privilegiadas do Brasil desde o início do ano 2000, mas infelizmente, devido ao custo dos recursos tecnológicos envolvidos este tipo de atividade é restrito à um numero reduzido de pessoas.</p>
+
+<p>Desde 2004 estamos pesquisando soluções de baixo custo para produção de robôs acessíveis a qualquer bolso. Nesta época tomamos contato com a placa GoGo Board, que foi desenvolvida em 2001 pelos pesquisadores do MIT Paulo Blikstein e Arnan (Roger) Sipitakiat e está em constante aprimoramento. É um projeto de código aberto e recentemente desenvolvemos uma versão que possui um custo extremamente baixo e paralelamente projetamos um robô para ser usado em combinação com a placa. </p>
+
+<p>Criamos a princípio 4 protótipos que estão sendo utilizados para realização de testes de usuários. A partir dos resultados dos testes pudemos providenciar aperfeiçoamentos.</p>
+
+<p><strong>Seja você também um Herói da resistência (e do transistor, do capacitor, do microcontrolador , etc...)</strong>
+Se engaje na luta pela democratização da educação tecnológica e da robótica pedagógica nas escolas públicas e ONGs</p>
+
+<p>Veja os tipos disponíveis e que você pode receber como recompensa:</p>
+
+<p><img src=""http://www.inventania.com.br/media/images/robo0.jpg"" alt=""""/></p>
+
+<p>Você ainda tem ainda outras opções:</p>
+
+<p><img src=""http://www.inventania.com.br/media/images/robo2_1.jpg"" alt=""""/></p>
+
+<p><img src=""http://www.inventania.com.br/media/images/robo.jpg"" alt=""""/></p>
+
+<p>Para tornar os robôs economicamente viáveis precisamos construir uma quantidade mínima . </p>
+
+<p><strong>Colabore conosco.</strong> Além das recompensas (que vão desde uma placa de circuito impresso para montagem de sua placa de controle, até um robô montado mais curso para aprender a usá-lo) você vai ajudar uma escola pública ou ONG, pois se conseguirmos a verba mínima, 3 unidades serão destinadas à doação.</p>
+
+<p><strong>Abrindo o Orçamento:</strong></p>
+
+<p>Mínimo a ser captado: 
+R$ 3.000,00
+- R$ 390,00 (taxas Moip/Catarse)</p>
+
+<p>Temos um líquido de R$ 2.610,00 para a produção de recompensas:
+R$ 1.700,00 - Produção de robôs e placas
+R$ 320,00 - Custo dos 3 robôs para doação
+R$ 350,00 - Para produção de camisetas e adesivos (1)
+R$ 240,00 - Para postagem de algumas das recompensas e aluguel de espaço para oficinas (1)</p>
+
+<p>1 - poderão ser remanejados para a a produção de mais robôs e placas no caso de maior demanda</p>
+
+<p><strong>Quem somos:
+Pietro Teruya</strong> – Jovem de 17 anos, concluindo o curso técnico em mecânica de precisão pelo SENAI- Suiço-Brasileiro. Também programa em várias linguagens e possui razoável conhecimento de eletrônica. Desenvolve projetos baseados em mecatrônica, contando inclusive com fomento de bolsa do CNPQ de iniciação científica Junior. Alguns destes projetos foram classificados, apresentados e premiados em feiras de ciências e engenharia de âmbito nacional e estadual (FEBRACE e MOP). Também está envolvido com o projeto Stanford Gogo Fellow, desenvolvendo placas de expansão para a GoGo Board.</p>
+
+<p><strong>Gilson Domingues</strong> – Designer e professor em cursos de ensino superior, médio e fundamental. Leciona matérias como elétrica, computação física, robótica pedagógica e de prototipagem rápida. É colaborador eventual da revista Mecatrônica Fácil, pesquisador vinculado ao projeto Stanford Gogo Fellow e já orientou vários projetos inscritos e premiados em feiras de ciência e tecnologia de âmbito nacional (FEBRACE e MOP) e internacional (ISEF, que acontece anualmente nos EUA).</p>
+
+<p><strong>Um pouco mais de nossa história</strong>
+Trabalhamos com educação com recursos de tecnologia em ensino fundamental, médio e superior. Alguns dos trabalhos de nossos alunos já foram inscritos e premiados em Feiras de ciência e tecnologia do Brasil e do Exterior. A plataforma GoGo board vem se revelando uma excelente ferramenta de aprendizado de automação e robótica proporcionando aos alunos a possibilidade de se expressarem de forma criativa.</p>
+
+<p><strong>Conheça mais sobre o projeto GoGo Board
+<a class=""alt-link"" href=""http://www.gogoboard.org"" target=""_blank"">www.gogoboard.org</a></strong></p>
+",robobarato,//player.vimeo.com/video/71577153,https://vimeo.com/71577153,Educação,31,,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/video_thumbnail/1995/project_thumb_thumb_open-uri20131125-2-c7ayzd,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/video_thumbnail/1995/project_thumb_small_open-uri20131125-2-c7ayzd,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/video_thumbnail/1995/project_thumb_large_open-uri20131125-2-c7ayzd,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/video_thumbnail/1995/project_thumb_video_cover_open-uri20131125-2-c7ayzd,117.6666666666666700,3530.0,37,35,successful,aon,finished,"2013-09-06 02:59:59","2013-09-05 23:59:59","2013-08-06 13:46:16","2013-08-06 10:46:16",,t,t,f,30,"{""total"" : 0, ""unit"" : ""seconds""}","{""total"" : 30, ""unit"" : ""days""}",4,"{""city"" : ""São Paulo"", ""state_acronym"" : ""SP"", ""state"" : ""São Paulo""}","{""id"" : 130901, ""name"" : ""Gilson da Silva Domingues""}",0,,f,f,4,f,f,f

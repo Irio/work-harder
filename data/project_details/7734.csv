@@ -1,0 +1,93 @@
+project_id,id,user_id,name,headline,budget,goal,about_html,permalink,video_embed_url,video_url,category_name,category_id,original_image,thumb_image,small_image,large_image,video_cover_image,progress,pledged,total_contributions,total_contributors,state,mode,state_order,expires_at,zone_expires_at,online_date,zone_online_date,sent_to_analysis_at,is_published,is_expired,open_for_contributions,online_days,remaining_time,elapsed_time,posts_count,address,user,reminder_count,is_owner_or_admin,user_signed_in,in_reminder,total_posts,can_request_transfer,is_admin_role,contributed_by_friends
+7734,7734,341124,EuParticipo,"Uma Rede Social exclusiva de Política (Já está no ar, agora queremos Expandir e Fazer Melhorias)","O orçamento para projetos anteriores a 24/02/2015 normalmente pode ser encontrado na descrição acima.",27586.0,"<p><img src=""http://i.imgur.com/w1b2ULS.jpg"" alt=""""/></p>
+
+<p>É uma nova Rede Social Brasileira focada no engajamento político do cidadão e no aprofundamento da Democracia Participativa. Trata-se de um projeto pioneiro que visa Reinventar a Política Brasileira. O EuParticipo é uma iniciativa experimental, SEM FINS DE LUCRO e feita por um coletivo de jovens cearenses. Lançada em 23 de agosto de 2013 o projeto já conta com a participação de vários parlamentares e milhares de usuários no estado do Ceará e inicia agora sua divulgação nacional.</p>
+
+<p><img src=""http://i.imgur.com/lkydpaR.jpg"" alt=""""/></p>
+
+<p>O Projeto esta dividido em 10 etapas, destas, 3 já estão no ar, são elas:</p>
+
+<p>ETAPA PARLAMENTO – O EuParticipo disponibiliza, de forma gratuita, um sistema de democratização do mandato parlamentar, simplificando o acesso das pessoas ao Mandato e possibilitando que elas aprendam e exerçam virtualmente as funções do mandatário, além de dispor de um sistema de controle social sobre o voto que os parlamentares dão em plenário. Essa interação entre o cidadão e o parlamentar é realizada a partir de uma “aliança” que habilita o cidadão a interagir de 10 formas possíveis com o Mandato. </p>
+
+<p>ETAPA COMUNIDADES – Cada Cidade, cada Estado e o Brasil ganharam um espaço próprio para se debater problemas e soluções, alem de outras interações como montar virtualmente o Orçamento e o Avaliar as Gestões.</p>
+
+<p>ETAPA ELEIÇÕES VIRTUAIS – É um sistema de rankiamento permanente, tipo uma eleição virtual entre os usuários, onde o voto será dado de 2 formas: A) através de “curtidas” em propostas que serão elaboradas e apresentadas pelos próprios usuários e B) através do botão “Me Representa” onde um Cidadão (sem mandato) escolhe um outro para “representá-lo”. Com esse sistema poderemos dar mais visibilidade a usuários que mantenham uma boa participação na rede e, quem sabe, até identificar bons e novos políticos.        </p>
+
+<p><img src=""http://i.imgur.com/4q2z6H0.jpg"" alt=""""/></p>
+
+<p>Nossa maior dificuldade desde o começo é não ter um Programador (desenvolvedor Web e Mobile) fixo. Isso nos impede de acelerar o desenvolvimento das próximas etapas, na manutenção, ajustes e correções na rede. Tudo que foi desenvolvido até agora foi feito por voluntários e por uma empresa (esta, paga com recursos oriundos de doações dos fundadores do EuParticipo). Nosso Objetivo com essa campanha é arrecadar a grana para pagar um profissional (desenvolvedor Web e Mobile) por um período de 1 ano e assim poder acelerar o desenvolvimento das próximas etapas (ver abaixo) e agilizar a manutenção, ajustes e melhorias no que já esta no ar.</p>
+
+<p><img src=""http://i.imgur.com/Zupp1XH.jpg"" alt=""""/></p>
+
+<p>As próximas 7 Etapas a serem desenvolvidas no EuParticipo são:</p>
+
+<p>1) Acessibilidade. Tornar toda a rede acessível por meio da tradução em libras.</p>
+
+<p>2) Mobile. Criar a versão para Celular.</p>
+
+<p>3) Grupos e Eventos. Possibilitar que os usuários possam criar Grupos de discussão e eventos temáticos (é serio... ainda não temos :/ ).</p>
+
+<p>4) Perfil para Prefeitos, Governadores e Presidente. Criar perfil especifico para gestores executivos seguindo os mesmos princípios de participação popular que existem no perfil de Parlamentares.</p>
+
+<p>5) Perfil para Sociedade Civil Organizada. Criar perfil especifico para ONG&#39;s, Sindicatos e Movimentos Sociais seguindo os mesmos princípios de participação popular que orienta toda a rede.</p>
+
+<p>6) Sustentabilidade. Criar uma pagina de &quot;Arrecadação e Transparência&quot; por onde pretendemos levantar de forma permanente os recursos para a manutenção da rede, bem como publicizar toda a movimentação financeira. Isso permitirá que os próprios usuários mantenham a rede no ar, sem a necessidade de propagandas e publicidade. </p>
+
+<p>7) Governo Interno do EuParticipo. Criar um sistema que permitirá que os próprios usuários GOVERNEM o EuParticipo de forma direta, através de um sistema de tomadas de decisões coletivas, transformando o EuParticipo na primeira rede social autogestionada que se tem noticia.  </p>
+
+<p>Alem destas 7 Etapas, queremos também fazer ajustes e melhorias nas 3 que já estão no ar.</p>
+
+<p><img src=""http://i.imgur.com/NCMTgoD.jpg"" alt=""""/></p>
+
+<p>O EuParticipo se mantem por meio de voluntários, e queremos e manteremos assim. Porem, desde o inicio tivemos e temos muita dificuldade em mobilizar Programadores (desenvolvedores) de forma regular, fixa. Por isso queremos com os recursos desta campanha contratar, por meio de seleção criteriosa, 1 Programador pelo período de 1 ano.</p>
+
+<p>Nesse período (de 1 ano), alem de desenvolver as Próximas Etapas (ver acima) este Programador irá ministrar um Curso de Programação na linguagem Ruby on Rails para jovens desenvolvedores SEM CUSTOS, GRATUITO. Porem, nas aulas praticas deste Curso os participantes terão que desenvolver Apps de interesse social.</p>
+
+<p>Portanto, nosso orçamento será assim dividido:</p>
+
+<p>R$ 24.000 se destina a contratação do Programador (12 meses x 2.000 = 24.000)</p>
+
+<p>R$ 3.586 para o Catarse (correspondente a taxa de 13%)</p>
+
+<p>Total de R$ 27.586</p>
+
+<p><img src=""http://i.imgur.com/1DHos6p.jpg"" alt=""""/></p>
+
+<p>Entre e Conheça: <a class=""alt-link"" href=""http://www.euparticipo.com.br"" target=""_blank"">www.euparticipo.com.br</a></p>
+
+<p>CONTATOS        </p>
+
+<p>Nosso email:  <a class=""alt-link"" href=""mailto:contato@euparticipo.com.br"" target=""_blank"">contato@euparticipo.com.br</a>     </p>
+
+<p>Nossa FanPage: <a class=""alt-link"" href=""https://www.facebook.com/pages/EuParticipo/554222354611443?ref=bookmarks"" target=""_blank"">https://www.facebook.com/pages/EuParticipo/554222354611443?ref=bookmarks</a></p>
+
+<p>Nosso 1º Video: <div class=""video youtube""><iframe width=""600"" height=""403"" src=""//www.youtube.com/embed/U0CYs3lij98?wmode=opaque"" frameborder=""0"" allowfullscreen></iframe></div></p>
+
+<p>Nosso 2º Video: <div class=""video youtube""><iframe width=""600"" height=""403"" src=""//www.youtube.com/embed/oQuUK7IPqR0?wmode=opaque"" frameborder=""0"" allowfullscreen></iframe></div></p>
+
+<p>SAIU NA IMPRESSA</p>
+
+<p>Matéria sobre o EuParticipo no portal do Jornal Tribuna do Ceará, em 03 de Setembro de 2013. Titulo: Rede Social Cearense acompanha mandatos de Políticos. <a class=""alt-link"" href=""http://www.tribunadoceara.com.br/noticias/ceara/rede-social-cearense-acompanha-mandatos-de-politicos/"" target=""_blank"">http://www.tribunadoceara.com.br/noticias/ceara/rede-social-cearense-acompanha-mandatos-de-politicos/</a></p>
+
+<p>Matéria sobre o EuParticipo no Blog do Eliomar (Jornal OPovo), em 6 de Setembro de 2013. Titulo: Rede Social é criada no Ceará para acompanhar e fiscalizar as atividades de Politicos (Obs: Tem um video)
+<a class=""alt-link"" href=""http://blog.opovo.com.br/blogdoeliomar/rede-social-e-criada-no-ceara-para-acompanhar-e-fiscalizar-as-atividades-de-politicos/"" target=""_blank"">http://blog.opovo.com.br/blogdoeliomar/rede-social-e-criada-no-ceara-para-acompanhar-e-fiscalizar-as-atividades-de-politicos/</a></p>
+
+<p>Materia sobre o EuParticpo no Jornal OPovo de 9 de Setembro de 2013. Titulo: Cearense lança rede social de democracia direta.
+<a class=""alt-link"" href=""http://www.opovo.com.br/app/opovo/politica/2013/09/09/noticiasjornalpolitica,3125884/cearense-lanca-rede-social-de-democracia-direta.shtml"" target=""_blank"">http://www.opovo.com.br/app/opovo/politica/2013/09/09/noticiasjornalpolitica,3125884/cearense-lanca-rede-social-de-democracia-direta.shtml</a></p>
+
+<p>Materia do Jornal Diário do Nordeste sobre o EuParticpo em 9 de Setembro de 2013. Titulo: Cearense cria rede social de interação e democratização politica. (Obs: Tem Video)
+<a class=""alt-link"" href=""http://diariodonordeste.globo.com/noticia.asp?codigo=366073"" target=""_blank"">http://diariodonordeste.globo.com/noticia.asp?codigo=366073</a></p>
+
+<p>EDITORIAL do Jornal OPOVO aborda o EuParticipo em 10 de setembro de 2013.
+<a class=""alt-link"" href=""http://www.opovo.com.br/app/opovo/opiniao/2013/09/10/noticiasjornalopiniao,3126629/embrioes-de-democracia-direta-por-meio-das-redes-sociais.shtml"" target=""_blank"">http://www.opovo.com.br/app/opovo/opiniao/2013/09/10/noticiasjornalopiniao,3126629/embrioes-de-democracia-direta-por-meio-das-redes-sociais.shtml</a></p>
+
+<p>Materia sobre o EuParticipo no Portal Congresso em Foco, em 13 de Outubro de 2013. <a class=""alt-link"" href=""http://congressoemfoco.uol.com.br/noticias/protestos-inspiram-criacao-de-rede-sobre-politica/"" target=""_blank"">http://congressoemfoco.uol.com.br/noticias/protestos-inspiram-criacao-de-rede-sobre-politica/</a></p>
+
+<p>Matéria sobre o EuParticipo no Portal Bocão News da Bahia, em 23 de junho de 2014. <a class=""alt-link"" href=""http://www.bocaonews.com.br/noticias/principal/geral/89710,jovem-cria-nova-rede-social-para-interagir-e-cobrar-acoes-de-politicos.html"" target=""_blank"">http://www.bocaonews.com.br/noticias/principal/geral/89710,jovem-cria-nova-rede-social-para-interagir-e-cobrar-acoes-de-politicos.html</a></p>
+
+<p>Materia sobre o EuParticipo no site do Movimento Voto Consciente de São Paulo, em 18 de Julho de 2014. <a class=""alt-link"" href=""http://www.votoconsciente.org.br/blog/2014/07/18/seja-um-parlamentar-virtual/"" target=""_blank"">http://www.votoconsciente.org.br/blog/2014/07/18/seja-um-parlamentar-virtual/</a></p>
+
+<p>Materia sobre o EuParticipo no site Brasileirissimos, <a class=""alt-link"" href=""https://brasileirissimos.com/euparticipo-uma-rede-social-para-se-discutir-politica/"" target=""_blank"">https://brasileirissimos.com/euparticipo-uma-rede-social-para-se-discutir-politica/</a></p>
+
+<p>*Ver ainda matéria no Jornal do Comercio de Pernambuco, o print da matéria encontra-se em nossa Fanpage no Facebook.</p>
+",campanhaeuparticipo,//www.youtube.com/embed/0fjifxDEGjw,https://www.youtube.com/watch?v=0fjifxDEGjw,Socioambiental,4,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/7734/EU-PARTICIPO2.jpg,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/7734/project_thumb_thumb_EU-PARTICIPO2.jpg,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/7734/project_thumb_small_EU-PARTICIPO2.jpg,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/7734/project_thumb_large_EU-PARTICIPO2.jpg,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/7734/project_thumb_video_cover_EU-PARTICIPO2.jpg,2.84564634234756760700,785.0,14,12,failed,aon,finished,"2014-12-09 01:59:59","2014-12-08 23:59:59","2014-10-19 10:00:11.551732","2014-10-19 08:00:11.551732",,t,t,f,50,"{""total"" : 0, ""unit"" : ""seconds""}","{""total"" : 50, ""unit"" : ""days""}",0,"{""city"" : ""Fortaleza"", ""state_acronym"" : ""CE"", ""state"" : ""Ceará""}","{""id"" : 341124, ""name"" : ""EuParticipo""}",0,,f,f,0,f,f,f

@@ -1,0 +1,31 @@
+project_id,id,user_id,name,headline,budget,goal,about_html,permalink,video_embed_url,video_url,category_name,category_id,original_image,thumb_image,small_image,large_image,video_cover_image,progress,pledged,total_contributions,total_contributors,state,mode,state_order,expires_at,zone_expires_at,online_date,zone_online_date,sent_to_analysis_at,is_published,is_expired,open_for_contributions,online_days,remaining_time,elapsed_time,posts_count,address,user,reminder_count,is_owner_or_admin,user_signed_in,in_reminder,total_posts,can_request_transfer,is_admin_role,contributed_by_friends
+4444,4444,236747,"Lançamento do CD da Molécula Tônica!","É chegada a hora! A banda de ska das mais divertidas de Brasília precisa da sua ajuda para lançar seu primeiro CD!","O orçamento para projetos anteriores a 24/02/2015 normalmente pode ser encontrado na descrição acima.",6000.0,"<p>Gravações e mixagem finalizadas, prensagem dos CDs sendo encaminhada e evento do lançamento dele sendo almejado! Contamos com a sua ajuda para realizar esse sonho: o dinheiro investido será utilizado para quitarmos a prensagem de mil cópias, pagarmos a arte que foi elaborada para o CD e o feitio de recompensas (camisetas, adesivos, etc.) e também para termos um capital inicial de investimento no evento de lançamento que estamos bolando.</p>
+
+<p>::RELEASE::
+A banda brasiliense Molécula Tônica surgiu em 2006 em meio ao afã de jovens da capital brasileira que queriam tocar ska. Lançou uma primeiro demo (virtual) em 2007. Com o tempo, viemos desenvolvendo um estilo próprio influenciado não só pelas vertentes do ska, mas pelo funk, jazz, latin jazz e bossa. Fez vários shows pelo circuito independente do DF o qual segue buscando espaço desde 2008. Ganhou o Festival de Música Alternativa do Setor Leste (2007), seletivas como a da Calourada UnB (1º/2011), a do Móveis Convida nas Escolas (parte do Festival Móveis Convida 2012) e a da 25ª Festa da Arquitetura da UnB (2014) e em 2013 tocou no Grito Rock de Dourados (MS). A formação em vigor conta com Eduardo Ubaldo (voz), Guilherme Resende (guitarra), Vinícius Corbucci (baixo), Victor Gualda (bateria), Mariano Toniatti (percussão) João Francisco Oswald (sax tenor) e Lucas Beutel (trombone).</p>
+
+<p>::PRIMEIRO ÁLBUM::
+Nosso primeiro álbum contará com 10 faixas autorais, compostas ao longo desses anos que trabalhamos juntos. Músicas que fizeram e fazem o público vibrar nos shows, como &quot;Maria Joana&quot;, &quot;Essa Foi Boa&quot; e &quot;Certificado de Óbito&quot; estarão registradas.
+Lançado esse primeiro álbum, queremos dar início ao processo para gravar um segundo.</p>
+
+<p>::DOAÇÕES::
+Como somos uma banda autoral que trabalha com um estilo que não tem tanta visibilidade no país, nunca fomos de ganhar dinheiro, como comumente acontece nesse meio independente. Portanto, contamos com a sua ajuda para tal. São várias as recompensas que te aguardam e por um preço justíssimo! (ver ao lado)
+Não tem dinheiro? Sem problemas, você pode nos ajudar divulgando e compartilhando essa causa para parentes, amigos e possíveis apoiadores. Compartilhe no seu Facebook!</p>
+
+<p>::COMO SERÁ ALOCADO O $ ARRECADADO?::
+Prensagem dos CDs = 33,5%
+Pagamento da arte do CD = 8%
+Feitio dos brindes = 26,5%
+Investimento para o evento (aluguel do som e cachê das bandas convidadas) = 19% 
+e 13% a ser repassado ao Catarse</p>
+
+<p>Agradecemos de coração toda e qualquer ajuda! Não deixe as bandas independentes morrerem. Vida longa à todos nós!</p>
+
+<ul>
+<li><p>Acesse nosso site no Toque no Brasil para ouvir e assistir mais:
+<a class=""alt-link"" href=""http://www.moleculatonica.tnb.art.br"" target=""_blank"">www.moleculatonica.tnb.art.br</a></p></li>
+<li><p>Soundcloud: <a class=""alt-link"" href=""http://www.soundcloud.com/moleculatonica"" target=""_blank"">www.soundcloud.com/moleculatonica</a></p></li>
+<li><p>Fanpage do Facebook: <a class=""alt-link"" href=""http://www.facebook.com/moleculatonica"" target=""_blank"">www.facebook.com/moleculatonica</a></p></li>
+<li><p>Portfólio de Tiago Carvalho (arte do álbum): <a class=""alt-link"" href=""http://cargocollective.com/tiagocarvalho"" target=""_blank"">http://cargocollective.com/tiagocarvalho</a></p></li>
+</ul>
+",moleculatonica,//player.vimeo.com/video/87524098,https://vimeo.com/87524098,Música,16,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/4444/IMG_7010.JPG,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/4444/project_thumb_thumb_IMG_7010.JPG,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/4444/project_thumb_small_IMG_7010.JPG,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/4444/project_thumb_large_IMG_7010.JPG,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/4444/project_thumb_video_cover_IMG_7010.JPG,116.8333333333333300,7010.0,87,86,successful,aon,finished,"2014-04-25 02:59:59","2014-04-24 23:59:59","2014-03-10 18:12:00.316048","2014-03-10 15:12:00.316048",,t,t,f,45,"{""total"" : 0, ""unit"" : ""seconds""}","{""total"" : 45, ""unit"" : ""days""}",0,"{""city"" : ""Brasília"", ""state_acronym"" : ""DF"", ""state"" : ""Distrito Federal""}","{""id"" : 236747, ""name"" : ""Vinícius Corbucci Campos""}",0,,f,f,0,f,f,f

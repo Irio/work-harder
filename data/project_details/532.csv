@@ -1,0 +1,57 @@
+project_id,id,user_id,name,headline,budget,goal,about_html,permalink,video_embed_url,video_url,category_name,category_id,original_image,thumb_image,small_image,large_image,video_cover_image,progress,pledged,total_contributions,total_contributors,state,mode,state_order,expires_at,zone_expires_at,online_date,zone_online_date,sent_to_analysis_at,is_published,is_expired,open_for_contributions,online_days,remaining_time,elapsed_time,posts_count,address,user,reminder_count,is_owner_or_admin,user_signed_in,in_reminder,total_posts,can_request_transfer,is_admin_role,contributed_by_friends
+532,532,49496,"Metamáquina 3D","Queremos popularizar impressoras 3D. Apoie a produção do primeiro lote e leve um objeto único, uma oficina ou até uma delas como recompensa!","O orçamento para projetos anteriores a 24/02/2015 normalmente pode ser encontrado na descrição acima.",23000.0,"<p>h2. Queremos popularizar as impressoras 3D no Brasil. Para isso, vamos produzir impressoras de baixo custo e fáceis de usar.</p>
+
+<p><em>Mas o que é uma impressora 3D e onde é possível encontrar uma?</em></p>
+
+<p>De maneira similar a impressoras laser e a jato de tinta, que imprimem imagens bidimensionais com tinta em papel, linha por linha, impressoras 3D aplicam plástico derretido, camada por camada, até formar um objeto volumoso, tridimensional. Depois de pronto, é possível manusear o objeto e usá-lo para o propósito para o qual foi criado, como se tivesse sido feito em uma fábrica. E assim como em uma impressora de papel, é possível imprimir qualquer coisa que você consiga modelar em um computador ou ainda baixar da Internet em diversos sites de compartilhamento de modelos de objetos, como o <a class=""alt-link"" target=""_blank"" href=""http://thingiverse.com."">Thingiverse</a></p>
+
+<p>Ou seja, já é possível ter uma fábrica de pequena escala em casa ou no escritório! Faça uma maquete arquitetônica, um protótipo do seu projeto de engenharia, um projeto para a feira de ciências, aquela peça que quebrou e você não acha em lugar nenhum, um brinquedo único para seu filho, aquele tijolinho de Lego que você sempre quis – e até outra impressora 3D – em poucas horas!</p>
+
+<p><em>Uma fábrica na sua mesa</em></p>
+
+<p>Até meados da década passada, ter acesso a essa tecnologia fora de uma grande empresa era algo inimaginável. Impressoras 3D industriais tem, pelo menos, o tamanho de um armário e custam a partir de algumas dezenas de milhares de dólares.</p>
+
+<p>Isso começou a mudar em 2005, quando Adrian Bowyer, professor de uma universidade britânica, iniciou o projeto da <a class=""alt-link"" target=""_blank"" href=""http://reprap.org"">RepRap</a>, uma impressora 3D de baixo custo que pudesse imprimir boa parte de seus próprios componentes. Uma máquina replicável e barata, feita com hardware aberto e comandada por software livre, desenvolvida por uma comunidade que hoje está espalhada pelo mundo, criando colaborativamente novos modelos que qualquer um pode construir!</p>
+
+<p>!<img src=""http://metamaquina.com.br/site/wp-content/uploads/2012/02/estrelas0_400.jpg"" alt=""""/>(Imprima objetos baixados da Internet ou criados por você mesmo!)! </p>
+
+<p>Hoje as impressoras 3D já deixaram de ser algo restrito à indústria e estão começando a habitar casas, estúdios e escritórios: uma tendência que timidamente começa a chegar no Brasil. Esperamos que em poucos anos as impressoras 3D sejam tão populares ou acessíveis como qualquer outro eletrônico.</p>
+
+<p>Mas as impressoras 3D vão além de qualquer coisa que já tenha passado por nossas mãos; o início de uma revolução que pode colocar a indústria dentro de cada casa, empoderando o ser humano comum a construir praticamente qualquer coisa e materializar qualquer ideia – sem limites à criatividade.</p>
+
+<p><em>Por que precisamos do seu apoio?</em></p>
+
+<p>Para produzir impressoras a preços acessíveis, precisamos garantir um número mínimo de kits para o nosso primeiro lote. Apoiando-nos, você pode receber de recompensa um acessório único, oficinas, kits dos mais básicos aos completos ou até mesmo uma impressora 3D montada e funcionando!</p>
+
+<p>!<img src=""http://metamaquina.com.br/site/wp-content/uploads/2012/02/kit_estrutural_400.jpg"" alt=""""/>(Kit estrutural, recompensa para R$890,00 ou mais)! </p>
+
+<p>Sabemos que hoje qualquer um com tempo, vontade e recursos pode pesquisar na Internet, correr atrás de chips na Santa Ifigênia, comprar peças nos EUA, Europa ou China e construir uma impressora 3D, seja uma das variantes da RepRap ou tantos outros projetos que foram criados, publicados e compartilhados nos últimos anos.</p>
+
+<p>Parece fácil mas, enquanto nos países desenvolvidos as impressoras 3D já atingem o consumidor final a preços acessíveis, possuir uma máquina como essas no Brasil ainda é uma tarefa que exige coragem, dedicação, tempo e dinheiro. A dificuldade em encontrar componentes fazem da construção de uma impressora 3D por conta própria um trabalho que pode durar meses – sem falar nos custos e complicações da importação de uma máquina completa.</p>
+
+<p>Por isso, queremos produzir kits para a construção de impressoras 3D a um preço acessível e que facilitem a vida do entusiasta – seja ele iniciante ou experiente – além de impressoras montadas, testadas, calibradas e prontas para o uso para quem não se dá muito bem com solda, chips e parafusos, mas quer potencializar sua criatividade.</p>
+
+<p>Mas nosso projeto vai além de apenas criar kits de montagem. Os kits não são nada sem uma boa documentação! Atualmente a documentação em português é escassa, e muitas vezes a documentação original – em inglês, criada pela comunidade – é incompatível com as adaptações que temos que fazer para maximizar o uso de peças encontradas no Brasil. Queremos aprimorar os projetos e sua documentação, adaptá-los à nossa realidade e devolvê-los à crescente comunidade local.</p>
+
+<p>Precisamos do seu apoio para que a impressão 3D não seja apenas um fetiche tecnológico para poucos brasileiros!</p>
+
+<p><em>Por que estamos fazendo isso</em></p>
+
+<p>Não somos megaempresários. Não somos gênios da ciência aeroespacial. Não somos extraterrestres! Somos apenas três apaixonados por tecnologia que resolveram explorar as possibilidades das impressoras 3D e que agora querem vê-las replicando-se por aí – por isso criamos a Metamáquina, uma empresa dedicada às tecnologias abertas e à disseminação do conhecimento: todos os nossos projetos serão sempre disponibilizados como software livre e hardware aberto.</p>
+
+<p>Precisamos de uma nova maneira de desenvolver e financiar a tecnologia no Brasil, e para isso contamos com o seu apoio! Veja as recompensas ao lado – desde um adesivo até uma impressora completa e montada – e colabore com o nosso projeto!</p>
+
+<p>Acompanhe as atualizações aqui no Catarse e no <a class=""alt-link"" target=""_blank"" href=""http://twitter.com/metamaquina."">Twitter</a> Ajude a divulgar nosso projeto entre amigos, nas suas listas de e-mail e no Facebook!</p>
+
+<p>Visite também o nosso <a class=""alt-link"" target=""_blank"" href=""http://metamaquina.com.br"">site</a> para informações detalhadas sobre cada kit e para informar-se de outras coisas legais que temos feito!</p>
+
+<p>Para saber mais sobre o assunto, veja abaixo algumas matérias sobre impressoras 3D na mídia local:</p>
+
+<ul>
+<li><p><a class=""alt-link"" target=""_blank"" href=""http://olhardigital.uol.com.br/jovem/central_de_videos/impressora-3d-e-capaz-de-se-auto-reproduzir"">Impressora 3D é capaz de se auto-reproduzir</a></p></li>
+<li><p><a class=""alt-link"" target=""_blank"" href=""http://www.tecmundo.com.br/2501-como-funciona-a-impressora-3d-.htm"">Como funciona uma impressora 3D</a></p></li>
+<li><p><a class=""alt-link"" target=""_blank"" href=""http://info.abril.com.br/noticias/tecnologias-verdes/como-impressoras-3d-podem-mudar-o-mundo-07112011-49.shl"">Como impressoras 3D podem mudar o mundo</a></p></li>
+</ul>
+
+<p><em>Observações: o frete das recompensas já está incluso; entrega a partir da segunda quinzena de abril/2012.</em></p>
+",metamaquina-3d,//player.vimeo.com/video/36915343,http://vimeo.com/36915343,"Ciência e Tecnologia",18,,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/video_thumbnail/532/project_thumb_thumb_open-uri20131125-2-6b6ig0,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/video_thumbnail/532/project_thumb_small_open-uri20131125-2-6b6ig0,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/video_thumbnail/532/project_thumb_large_open-uri20131125-2-6b6ig0,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/video_thumbnail/532/project_thumb_video_cover_open-uri20131125-2-6b6ig0,130.5913043478260900,30036.0,160,155,successful,aon,finished,"2012-03-30 02:59:59","2012-03-29 23:59:59","2012-01-29 02:59:59","2012-01-29 00:59:59",,t,t,f,60,"{""total"" : 0, ""unit"" : ""seconds""}","{""total"" : 61, ""unit"" : ""days""}",12,"{""city"" : ""São Paulo"", ""state_acronym"" : ""SP"", ""state"" : ""São Paulo""}","{""id"" : 49496, ""name"" : """"}",0,,f,f,12,f,f,f

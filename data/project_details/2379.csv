@@ -1,0 +1,17 @@
+project_id,id,user_id,name,headline,budget,goal,about_html,permalink,video_embed_url,video_url,category_name,category_id,original_image,thumb_image,small_image,large_image,video_cover_image,progress,pledged,total_contributions,total_contributors,state,mode,state_order,expires_at,zone_expires_at,online_date,zone_online_date,sent_to_analysis_at,is_published,is_expired,open_for_contributions,online_days,remaining_time,elapsed_time,posts_count,address,user,reminder_count,is_owner_or_admin,user_signed_in,in_reminder,total_posts,can_request_transfer,is_admin_role,contributed_by_friends
+2379,2379,167567,"Nossa Senhora das Nuvens – Grupo Sopro","“O exílio começa quando começamos a matar as coisas que amamos”.","O orçamento para projetos anteriores a 24/02/2015 normalmente pode ser encontrado na descrição acima.",5990.0,"<p>Nossa Senhora das Nuvens conta a história de dois personagens exilados em um espaço e tempo indeterminado, que por meio de memórias fragmentadas buscam recuperar as histórias vividas em sua pátria. O projeto nasceu em 2012, quando Fernanda Lorenzoni e Marília Machado se interessaram pela vertente do teatro narrativo e convidaram Erika Coracini para assumir a direção do espetáculo.
+Apostando em uma atmosfera latino americana, o Grupo Sopro estabelece um diálogo entre o teatro, o vídeo, a música ao vivo e as danças latinas. Assim, de forma leve e bem humorada, sugere reflexões sobre as contradições sociais, a luta por ideais, a perda de memoria e identidade, o exilio na sociedade atual, a solidão, o desamparo e a superficialidade das relações afetivas. 
+Temos estreia prevista para o dia 10 de agosto, no Núcleo Bartolomeu de Depoimentos. Todo o valor aqui arrecadado será investido apenas em produção de figurinos, adereços, material de divulgação, locação de teatro e equipamentos de luz. Só precisamos da sua ajuda para tornar esse projeto realidade!</p>
+
+<pre><code>    Orçamento - Nossa Senhora das Núvens                  
+</code></pre>
+
+<p>Figurinos                               R$ 700,00<br>
+Gráfica                                R$ 600,00<br>
+Aluguel equipamentos de luz R$ 1.000,00<br>
+Direitos Autorais               R$ 1.660,00<br>
+Teatro                              R$ 1.340,00<br>
+Porcentagem Catarse             R$ 690,00       </p>
+
+<p>Total                       R$ 5.990,00 </p>
+",nossasenhoradasnuvens,//player.vimeo.com/video/69983268,https://vimeo.com/69983268,"Teatro e Dança",19,,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/video_thumbnail/2379/project_thumb_thumb_open-uri20131125-2-w0w81e,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/video_thumbnail/2379/project_thumb_small_open-uri20131125-2-w0w81e,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/video_thumbnail/2379/project_thumb_large_open-uri20131125-2-w0w81e,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/video_thumbnail/2379/project_thumb_video_cover_open-uri20131125-2-w0w81e,102.5041736227045100,6140.0,51,49,successful,aon,finished,"2013-08-06 02:59:59","2013-08-05 23:59:59","2013-07-16 14:21:57","2013-07-16 11:21:57",,t,t,f,20,"{""total"" : 0, ""unit"" : ""seconds""}","{""total"" : 20, ""unit"" : ""days""}",0,"{""city"" : ""São Paulo"", ""state_acronym"" : ""SP"", ""state"" : ""São Paulo""}","{""id"" : 167567, ""name"" : ""Fernanda Batista Lorenzoni""}",0,,f,f,0,f,f,f

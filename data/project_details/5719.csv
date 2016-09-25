@@ -1,0 +1,118 @@
+project_id,id,user_id,name,headline,budget,goal,about_html,permalink,video_embed_url,video_url,category_name,category_id,original_image,thumb_image,small_image,large_image,video_cover_image,progress,pledged,total_contributions,total_contributors,state,mode,state_order,expires_at,zone_expires_at,online_date,zone_online_date,sent_to_analysis_at,is_published,is_expired,open_for_contributions,online_days,remaining_time,elapsed_time,posts_count,address,user,reminder_count,is_owner_or_admin,user_signed_in,in_reminder,total_posts,can_request_transfer,is_admin_role,contributed_by_friends
+5719,5719,254534,"Super Cooler - Cerveja gelada em 2 minutos!","Acreditamos que sempre se pode melhorar, e começar com nossa bebida gelada quase que instantaneamente, é bem mais que um bom começo.","O orçamento para projetos anteriores a 24/02/2015 normalmente pode ser encontrado na descrição acima.",25000.0,"<p>Visite nosso site: <a class=""alt-link"" href=""http://www.supercooler.me"" target=""_blank"">www.supercooler.me</a></p>
+
+<p><a class=""alt-link"" target=""_blank"" href=""http://www.supercooler.me""><img src=""http://catarse.tridel.com.br/imagens/compre_aqui.png"" alt=""""/></a></p>
+
+<p><em>Antes de mais nada: NÃO EXPLODE!</em></p>
+
+<p>Tá duvidando? Confere o vídeo abaixo:</p>
+
+<div class=""video youtube""><iframe width=""600"" height=""403"" src=""//www.youtube.com/embed/RdTLsUAHTUg?wmode=opaque"" frameborder=""0"" allowfullscreen></iframe></div>
+
+<p><img src=""http://catarse.tridel.com.br/imagens/midias.png"" alt=""""/></p>
+
+<p><em>Quero meu Super Cooler! Como faço?</em></p>
+
+<ul>
+<li>Acesse o site <a class=""alt-link"" href=""http://supercooler.me"" target=""_blank"">http://supercooler.me</a></li>
+<li>Clique em Compre Aqui!</li>
+<li>Siga os passos pelo PagSeguro</li>
+</ul>
+
+<p>Moleza né?</p>
+
+<p><em>Conheça o Super Cooler</em></p>
+
+<p>Mas afinal de contas, é um cooler? Não, o Super Cooler é um dispositivo eletroeletrônico que força a troca de calor entre a lata com o ambiente que ela se encontra. Basta encaixar o recipiente, seja lata ou garrafa, no Super Cooler e colocar em contato com o gelo.</p>
+
+<p><img src=""http://catarse.tridel.com.br/imagens/vistas_3d.png"" alt=""""/></p>
+
+<p>Como ele é a prova d&#39;agua, fica melhor ainda se estiver submerso no meio do gelo, mas só o contato já faz o serviço. É incrivel! Ao invés de utilizar uma geladeira e esperar mais de 30 minutos, você pode gelar sua latinha em apenas 2 minutos! Ah, e estamos dizendo 2 minutos pra ficar bem gelada, conforme o pessoal da Brejas recomenda (<a class=""alt-link"" href=""http://www.brejas.com.br/temperatura.shtml"" target=""_blank"">http://www.brejas.com.br/temperatura.shtml</a>).</p>
+
+<p><img src=""http://catarse.tridel.com.br/imagens/super_cooler_color2.gif"" alt=""""/></p>
+
+<p><em>Como funciona: O Processo de convecção forçada</em></p>
+
+<p><img src=""http://catarse.tridel.com.br/imagens/transferencia_calor.png"" alt=""""/>
+<em>Processo padrão, lata estática vista de cima</em></p>
+
+<p>O que normalmente se faz pra gelar uma bebida é deixá-la no freezer ou outro ambiente que seja mais frio que a temperatura desejada ou próxima dela. Esse tipo de processo é lento, pois depende exclusivamente do tipo de material e da diferença entre a temperatura do ambiente e a desejada.</p>
+
+<p><img src=""http://catarse.tridel.com.br/imagens/transferencia_calor_SC.png"" alt=""""/>
+<em>Processo com convecção forçada, vista de cima</em></p>
+
+<p>Com o uso do Super Cooler, temos uma lata girando numa velocidade adequada para uma boa mistura do líquido. Dessa forma forçamos a temperatura do conteúdo a se homogenizar, desde o centro do líquido até as paredes do recipiente. Essa mistura nos dá um ganho de velocidade incrível no resfriamento de bebidas, principalmente enlatados.</p>
+
+<p><em>História</em></p>
+
+<p>Em algum dia no verão de 2013 alguém esqueceu de deixar a cerveja na geladeira, isso nos levou a uma busca para encontrar formas de gelar a cerveja o mais rápido possível. Foi aí que encontramos o tal do processo de convecção forçada através de uma equipe do Reino Unido chamada Enviro-Cool. Eles criaram uma máquina capaz de gelar a lata em 45 segundos. Possuíam foco em mercados e economia de energia. Foi nessa hora que pensamos que deveríamos tentar simplificar a versão, de forma que qualquer pessoa pudesse ter esse equipamento em casa. Afinal de contas, quem não quer gelar sua cerveja na hora?</p>
+
+<p>Somos formados técnicos em eletrônica, e desde sempre aficionados por tecnologia e inovação. Gustavo é Engenheiro de Controle e Automação, com experiência no desenvolvimento de projetos eletrônicos e mecânicos. Rafael é Analista de Sistemas com mais de sete anos no mercado de desenvolvimento de software. Juntando a experiência de ambos com a vontade de criar um produto novo no mercado brasileiro, nos tornamos os criadores do Super Cooler.</p>
+
+<p><img src=""http://catarse.tridel.com.br/imagens/designs.jpg"" alt=""""/></p>
+
+<p>Nossos primeiros testes, mesmo sendo bastante amadores, já demonstravam futuro para o Super Cooler. Utilizando uma furadeira e um suporte improvisado amarrando a lata, conseguimos fazer a lata gelar a uma temperatura razoável dentro de uns 3 minutos. Não parece nada tão incrível, mas com o tempo e experiência e mais testes, descobrimos as melhores condições pra gelar a lata.</p>
+
+<p><em>O encaixe para lata</em></p>
+
+<p>Tentamos algumas impressões 3D que infelizmente nunca deram muito certo. Em seguida utilizamos uma resina de endurecimento rápido, com uma latinha como molde. A ideia era boa, mas a resina que utilizamos inicialmente era dura demais e também não servia para o que queríamos. Em seguida buscamos outra resina que serviu perfeitamente para o que precisávamos. Depois dela, foi a vez de buscar ajuda no ramo de matrizes para injeção de plástico. Felizmente encontramos uma grande parceria com a Matrizaria Polako (<a class=""alt-link"" href=""http://www.polako.com.br/"" target=""_blank"">http://www.polako.com.br/</a>), que nos auxiliou no desenvolvimento, definição de materiais entre outros detalhes técnicos que ainda não dominávamos.</p>
+
+<p><em>A potência</em></p>
+
+<p><img src=""http://catarse.tridel.com.br/imagens/giga.jpg"" alt=""""/></p>
+
+<p>Utilizando uma giga de teste construida com Arduino, fizemos longas baterias de teste afim de buscar a melhor condição possível para gelar a cerveja. Criamos as mais diversas situações que encontramos e botamos a prova. Depois de entender qual seria a melhor opção de motor, finalmente o trabalho se resumiu a testes de amostras até encontrar o fornecedor adequado para o Super Cooler.</p>
+
+<p><em>Protótipos</em></p>
+
+<p>Os testes iniciaram em meados de Outubro de 2013, começando apenas a testar a possibilidade e posteriormente testando eficiência, velocidade e outros fatores. Os protótipos evoluíram conforme nossa necessidade, sempre buscando alta qualidade.</p>
+
+<p><img src=""http://catarse.tridel.com.br/imagens/prototipos.png"" alt=""""/></p>
+
+<p><em>Por que precisamos do seu apoio?</em></p>
+
+<p>Para trazer o Super Cooler para o mercado brasileiro, precisamos fazer um lote inicial. E esse pontapé inicial requer um investimento alto. Precisamos de seu apoio principalmente para compra de matéria prima importada. Além disso utilizaremos para dar de entrada para produção de matrizes para injeção de plástico.</p>
+
+<p><em>Como vamos utilizar o dinheiro</em></p>
+
+<p><img src=""http://catarse.tridel.com.br/imagens/distribuicao_gastos.png"" alt=""""/></p>
+
+<p><em>Como vamos fazer</em></p>
+
+<p>Com o pontapé inicial do catarse vamos fazer os pedidos mais importantes de matéria prima. Já temos fornecedores esperando pedido, desde contatos de pilhas, fios e motores. Já no caso do encaixe para lata e do restante da estrutura do Super Cooler, trabalhamos com uma empresa parceira local, de forma que temos mais controle e autonomia para lidar com quaisquer problemas na produção.
+Com os materiais em mãos, montaremos uma linha de produção que estimamos seja capaz de produzir 750 unidades mensais. Assim calculamos atender aos pedidos da campanha do Catarse dentro dos prazos.</p>
+
+<p><em>Cronograma</em></p>
+
+<p>Atualmente o projeto está esperando os investimentos para dar início os pedidos de matéria prima. Já fizemos todos os testes referentes ao produto e já temos os fornecedores necessários. Precisamos encomendar a matriz definitiva da estrutura do produto e fazer tudo dentro do prazo.</p>
+
+<p><img src=""http://catarse.tridel.com.br/imagens/cronograma.png"" alt=""""/></p>
+
+<p><em>Por que financiamento coletivo?</em></p>
+
+<p>Acreditamos que estamos em um país adolescente que não conhece suas capacidades. Somos o maior país da America Latina, e infelizmente não vemos o Brasil se destacar em áreas diferentes de esporte e lazer. Devemos usar nossa capacidade para crescer como pessoas e como nação, buscando inovar e começar a deixar de ser consumidor de tudo que o mundo produz, para ser um produtor reconhecido.
+É isso o que buscamos com o Super Cooler, temos em mãos um projeto incrível e precisamos do apoio dos nossos clientes, brasileiros, para começar a mudar a forma com que lidamos com o mundo. Este é apenas o primeiro projeto, ainda temos muito caminho pela frente.</p>
+
+<p><em>Por que criamos o Super Cooler? Por que fazemos isso? Por que existir?</em></p>
+
+<p>O Super Cooler foi inicialmente criado pensando no quão incrível era a velocidade que poderíamos obter para gelar nossas cervejas. Logo vimos que isso poderia significar muito mais. Poderia se tornar um produto. Perguntamos pra colegas, amigos e familiares sobre o que achavam de ter uma cerveja gelada em poucos minutos, e todos se interessavam. Ali vimos que era hora de arregaçar as mangas e tocar o projeto de forma séria e profissional.
+Sempre tivemos em mente a independência, juntamente com essa onda de startups que surgiam por todo lado, sentimos a necessidade de fazer algo por nós mesmos, foi aí que criamos a Tridel Soluções Tecnológicas. Depois de algum tempo planejando lançamento no mercado, pensamos que o Super Cooler tem a cara que precisamos para mostrar do que somos capazes. É apenas um primeiro passo de uma jornada. Queremos inovar a forma de pensar em negócios, a forma de pensar em prosperidade.</p>
+
+<p><em>FAQ</em></p>
+
+<ul>
+<li><p>Mas não dá muita espuma?
+Não! De maneira objetiva a bebida não espuma porque a lata não é agitada, somente girada. Como o líquido da lata é rotacionado, ele se mistura de maneira uniforme não permitindo que a bebida exploda.</p></li>
+<li><p>E pra gelar garrafa?
+O Super Cooler também gela garrafa, pode ser longneck ou até 600ml. Entretanto como a transferência de calor depende muito do recipiente, a velocidade com que isso acontece é bem diferente da lata de alumínio, portanto demora mais, mas ainda existe um ganho de velocidade.</p></li>
+<li><p>Funciona com outras bebidas?
+Sim! O Super Cooler se limita aos recipientes em que as bebidas se encontram. Logo, tu pode gelar um refrigerante, energético (que tenha mesmo tamanho de lata), sucos, chás, enfim. Tudo que for enlatado ou envasado dentro do mesmo padrão.</p></li>
+<li><p>Qual a alimentação do Super Cooler?
+Ele utiliza 4 pilhas AA para funcionar, podendo ser utilizadas pilhas recarregáveis sem problema nenhum. Já montamos ele pensando nessa possibilidade, pode gelar tua cerveja tranquilo.</p></li>
+<li><p>Quanto tempo as pilhas duram?
+Isso pode variar bastante dependendo da marca da pilha. Utilizando pilhas alcalinas a duração é de 150 a 200 latas, isso para as de 350ml com utilização de 2 minutos por lata. Já com pilhas comuns (ferro-carvão) a duração fica em cerca de 50 latas.</p></li>
+<li><p>Se a equipe europeia fez em 45 segundos, por que o Super Cooler demora 2 minutos?
+O Super Cooler utiliza o mesmo princípio, entretanto, nosso objetivo é trazer essa tecnologia para dentro de casa a um custo compatível com o bolso brasileiro, enquanto que a equipe europeia focou num produto para escala comercial.
+De qualquer forma, também poderíamos dizer que em 60 segundos o Super Cooler deixa um refrigerante pronto pra tomar, mas uma cerveja gelada de verdade, recomendamos pelo menos 2 minutos.</p></li>
+</ul>
+",supercooler,//www.youtube.com/embed/D1cGBmnxEsI,http://www.youtube.com/watch?v=D1cGBmnxEsI,"Ciência e Tecnologia",18,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/5719/capa_r1_c1.png,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/5719/project_thumb_thumb_capa_r1_c1.png,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/5719/project_thumb_small_capa_r1_c1.png,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/5719/project_thumb_large_capa_r1_c1.png,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/5719/project_thumb_video_cover_capa_r1_c1.png,102.20000000000000000000,25550.0,224,220,successful,aon,finished,"2014-07-21 02:59:59","2014-07-20 23:59:59","2014-06-05 14:30:55.094456","2014-06-05 11:30:55.094456",,t,t,f,45,"{""total"" : 0, ""unit"" : ""seconds""}","{""total"" : 45, ""unit"" : ""days""}",5,"{""city"" : ""Novo Hamburgo"", ""state_acronym"" : ""RS"", ""state"" : ""Rio Grande do Sul""}","{""id"" : 254534, ""name"" : ""Gazzola, Moraes e Schiavoni Soluções Tecnológicas Ltda""}",0,,f,f,5,f,f,f

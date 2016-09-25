@@ -1,0 +1,96 @@
+project_id,id,user_id,name,headline,budget,goal,about_html,permalink,video_embed_url,video_url,category_name,category_id,original_image,thumb_image,small_image,large_image,video_cover_image,progress,pledged,total_contributions,total_contributors,state,mode,state_order,expires_at,zone_expires_at,online_date,zone_online_date,sent_to_analysis_at,is_published,is_expired,open_for_contributions,online_days,remaining_time,elapsed_time,posts_count,address,user,reminder_count,is_owner_or_admin,user_signed_in,in_reminder,total_posts,can_request_transfer,is_admin_role,contributed_by_friends
+9397,9397,382846,"WiFi SP","Queremos criar os 100 primeiros pontos de acesso de uma rede wifi de escala urbana em São Paulo.","<p><img src=""http://i.imgur.com/GJnssgi.png"" alt="""" style=""max-width:600px"" /></p>
+
+<p><strong>13% [R$ 8.450] - Catarse</strong></p>
+
+<p><strong>40% [R$ 26.000] - Hardware:</strong> A maior parcela do valor arrecadado será usada na compra de 120 roteadores, sendo 5 para testes, 100 para implantação da rede e 15 destinados a uma reserva técnica.</p>
+
+<p><strong>22% [R$ 14.300] - Software:</strong> O projeto exige uma combinação de tecnologias, sua configuração e uma quantidade razoável de código totalmente customizado e integrado com essas tecnologias.</p>
+
+<p><strong>15% [R$ 9.750] - Instalação:</strong> Os custos de instalação incluem a localização dos potenciais pontos de acesso, seleção das melhores opções através de testes de campo, ajustes e despesas logísticas envolvidas.</p>
+
+<p><strong>10% [R$ 6.500] - Manutenção:</strong> Essa parcela compreende a infraestrutura de servidores responsáveis pelo controle de acesso e monitoramento da rede, a operação e manutenção da rede e do software e também para concertos e melhorias em campo.</p>
+",65000.0,"<p>Já parou pra pensar que em praticamente todo lugar de São Paulo tem algum sinal wifi?</p>
+
+<p>Queremos criar uma ferramenta que permita a qualquer pessoa ou organização compartilhar a sua conexão à internet com segurança e sem comprometer a qualidade do próprio acesso.</p>
+
+<p>Estamos levantando fundos para instalar os 100 primeiros pontos de acesso de uma rede wifi de escala municipal em São Paulo baseada nesta ferramenta.</p>
+
+<p>Apoiando a campanha você pode votar nos lugares onde gostaria de ver instalados os pontos de acesso.</p>
+
+<h2>Contexto</h2>
+
+<hr>
+
+<p>A infraestrutura de internet móvel no Brasil ainda é cara e bastante limitada. Já parou pra pensar em quanto custa 1GB de dados transferidos por 3G? Por outro lado, a disseminação da fibra ótica tem reduzido drasticamente o custo do acesso à internet fixa, em casos extremos a diferença é de mais de 100 mil de vezes! Sério, o bit transferido por 3G no Brasil pode ser mais de 100 mil vezes mais caro do que aquele transferido por fibra ótica.</p>
+
+<h2>Proposta</h2>
+
+<hr>
+
+<p>Nossa idéia é criar uma rede wifi de escala municipal suportada fisicamente por roteadores wireless interconectados. Cada roteador será um <em>ponto de acesso</em> para os usuários da rede. Os pontos de acesso poderão ser hospedados por qualquer pessoa ou organização que esteja disposto a compartilhar a sua conexão à internet com as pessoas ao seu redor. Será uma rede feita pelos usuários para os usuários que possibilitará ampliar significativamente o acesso à internet na cidade.</p>
+
+<h2>Como vai funcionar?</h2>
+
+<hr>
+
+<p><em>Ponto de acesso:</em> Qualquer pessoa ou organização que possua acesso à internet poderá hospedar um ponto de acesso. O ponto de acesso é um roteador wifi especialmente configurado que permitirá que uma parte da conexão à internet seja compartilhada com usuários que estejam no raio de alcance deste roteador.</p>
+
+<p><em>Usuário:</em> Para utilizar o ponto de acesso o usuário precisará apenas criar uma conta no sistema, com a qual será possível fazer login em qualquer ponto de acesso da rede. Não será necessário baixar nenhum aplicativo para utilizar o sistema e por isso ele será compatível com qualquer dispositivo.</p>
+
+<h2>Financiamento coletivo</h2>
+
+<hr>
+
+<p>O objetivo desta campanha é criar os primeiros 100 pontos de acesso da rede. Estes pontos de acesso poderão ser usados por qualquer pessoa gratuitamente pelo período de 1 ano. </p>
+
+<p>A implantação dos primeiros 100 pontos de acesso é fundamental para o estudo da viabilidade técnica e comercial de uma rede wifi de escala municipal em São Paulo, que para tanto vai precisar de milhares de pontos de acesso. A rede inicial vai nos ajudar a entender melhor os desafios envolvidos no projeto como um todo. Aspectos sociais, arquiteturais, econômicos e técnicos poderão ser observados na prática, o que vai permitir elaborar estratégias consistentes para atingir o objetivo nada modesto do projeto, dada a dimensão, diversidade e complexidade de uma cidade como São Paulo.</p>
+
+<h2>Estratégia de lançamento</h2>
+
+<hr>
+
+<p>No inicio da implantação vamos focar em estabelecimentos comerciais abertos ao público. Porque conexão wifi já costuma ser um serviço oferecido por esses estabelecimentos, portanto eles não requerem contrapartida pelo acesso, que só será implementada futuramente; e ao mesmo tempo eles têm um grande potencial de alcance de usuários.</p>
+
+<h2>Recompensas</h2>
+
+<hr>
+
+<p>A campanha tem três tipos de recompensa:</p>
+
+<ul><br/><li><p><em><strong>Nome no site do projeto:</strong></em> Em todos os apoios acima de R$10 o nome do apoiador vai aparecer no site do projeto <a class=""alt-link"" href=""http://sp.wifiurbana.com.br"" target=""_blank"">http://sp.wifiurbana.com.br</a>.</p></li><br/><li><p><em><strong>Votar para lugares terem cobertura da rede:</strong></em> Quem optar por essa recompensa vai receber um e-mail com um link em até 24 horas após a confirmação para dar seu voto no site do projeto <a class=""alt-link"" href=""http://sp.wifiurbana.com.br"" target=""_blank"">http://sp.wifiurbana.com.br</a>, onde os votos estarão disponíveis para todo mundo acompanhar. A votação tem como objetivo ampliar a interação dos apoiadores com o projeto, dando oportunidade de participar diretamente da primeira fase de implantação da rede, que é o objetivo da campanha. Porém é preciso lembrar que a escolha dos pontos de acesso está sujeita à disponibilidade de fibra ótica na região e de parceiros dispostos a hospedar o ponto de acesso.</p></li><br/><li><p><em><strong>Hospedar um ponto de acesso:</strong></em> Optando por essa recompensa a gente vai levar até você um equipamento que irá lhe permitir compartilhar a sua conexão à internet com as pessoas ao seu redor. Mas atenção: para hospedar um ponto de acesso você precisa ter conexão à internet por fibra ótica e potenciais usuários ao redor, por exemplo: vizinhos que você sabe que usarão o serviço, lugares de concentração de pessoas, etc. E lembre-se, você vai compartilhar uma parte da sua conexão à internet, o sistema irá permitir definir quanto da sua internet você quer compartilhar, mas dependendo da largura de banda da sua conexão e do uso que você faz da rede, o impacto poderá ser perceptível.</p></li><br/></ul>
+
+<h2>Futuro do projeto</h2>
+
+<hr>
+
+<p>Após a implantação dos 100 primeiros pontos de acesso financiados pela campanha no catarse o projeto vai continuar a crescer financiando a si próprio a partir de um modelo de negócio a ser definido. São muitas variáveis pesando sobre uma atividade comercial em torno de um projeto como este, mas o nosso compromisso é de sempre manter a gratuidade do serviço em algum nível (com anúncios, limite de tempo ou de transferência de dados por ex.), monetizando apenas o uso mais intenso.</p>
+
+<h2>Quem somos</h2>
+
+<hr>
+
+<p><img src=""http://i.imgur.com/kECHKgT.png"" alt=""""/></p>
+
+<h3>Adenir Figueira dos Santos</h3>
+
+<h4>Vendas e distribuição</h4>
+
+<hr>
+
+<p><img src=""http://i.imgur.com/sCBWrKc.png"" alt=""""/></p>
+
+<h3>Cristhiano Gusmão Figueira</h3>
+
+<h4>Desenvolvimento de software</h4>
+
+<hr>
+
+<p><img src=""http://i.imgur.com/ilQwmuU.png"" alt=""""/></p>
+
+<h3>Priscila Cristofero</h3>
+
+<h4>Design e mídias sociais</h4>
+
+<hr>
+",wifi-sp,//www.youtube.com/embed/C5O9o2KnNMU,https://youtu.be/FTxkoO0tC0Y?t=6s,"Ciência e Tecnologia",18,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/9397/copan_card.png,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/9397/project_thumb_thumb_copan_card.png,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/9397/project_thumb_small_copan_card.png,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/9397/project_thumb_large_copan_card.png,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/9397/project_thumb_video_cover_copan_card.png,0,0,0,0,failed,aon,finished,"2015-05-11 02:59:59","2015-05-10 23:59:59","2015-03-11 05:39:51.533746","2015-03-11 02:39:51.533746",,t,t,f,60,"{""total"" : 0, ""unit"" : ""seconds""}","{""total"" : 60, ""unit"" : ""days""}",0,"{""city"" : ""São Paulo"", ""state_acronym"" : ""SP"", ""state"" : ""São Paulo""}","{""id"" : 382846, ""name"" : ""Cristhiano Gusmão Figueira""}",0,,f,f,0,f,f,f

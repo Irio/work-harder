@@ -1,0 +1,18 @@
+project_id,id,user_id,name,headline,budget,goal,about_html,permalink,video_embed_url,video_url,category_name,category_id,original_image,thumb_image,small_image,large_image,video_cover_image,progress,pledged,total_contributions,total_contributors,state,mode,state_order,expires_at,zone_expires_at,online_date,zone_online_date,sent_to_analysis_at,is_published,is_expired,open_for_contributions,online_days,remaining_time,elapsed_time,posts_count,address,user,reminder_count,is_owner_or_admin,user_signed_in,in_reminder,total_posts,can_request_transfer,is_admin_role,contributed_by_friends
+1092,1092,95013,"Pela Madrugada - Histórias Empacotadas","Eles sempre foram melhores amigos... Mas agora... O quê você diria ao se encontrar com a pessoa que você ama pela última vez? ","O orçamento para projetos anteriores a 24/02/2015 normalmente pode ser encontrado na descrição acima.",3600.0,"<p>O espetáculo teatral &quot;Pela Madrugada - Histórias Empacotadas&quot; propõe uma breve reflexão à cerca da perda e do amor. Camilo e Pedro são melhores amigos e cresceram juntos, porém, depois de muito tempo os pais de Camilo sofrem um acidente de carro e morrem, o vô do menino informa-o, então, que Camilo irá morar em uma cidade do interior, para que fique sob sua guarda. Camilo pede ajuda à Pedro para empacotar suas coisas e, nesse encontro que acontece numa madrugada, Pedro revela estar doente. A partir de aí, os dois amigos sofrem a dor da certeza do último encontro, e trazem à tona a dor, o amor, a perda, a solidão e a falta, usando memórias, amores, desamores, pedidos, futebol e muita poesia. Para isso reunimos uma grande equipe: </p>
+
+<p>Pesquisa e Dramaturgia: Fernando Turri &amp; Igor Augustho 
+Direção e Concepção: Liz Santos 
+Assistência de Direção: Érica Cravo 
+Elenco: Vitor Sant&#39;Anna e Igor Augustho 
+Direção de Produção: Rodrigo Caddah 
+Sonoplastia: Operação - Liz Santos e Criação de Trilha - Vitor Sant&#39;Anna 
+Cenário: Eloise Nardelli 
+Figurinos: Thaysa Baby 
+Maquiagem: Luiz Lopes 
+Programação Visual: André G. Silveira 
+Vídeos: Kauanna Nhaia 
+Fotografia: Bruna Carvalho 
+Assessoria de Imprensa: Thiago Banik 
+Realização: Cia. Agridoce </p>
+",PelaMadrugada,//player.vimeo.com/video/53049386,http://vimeo.com/53049386,"Teatro e Dança",19,,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/video_thumbnail/1092/project_thumb_thumb_open-uri20131125-2-1a4xjub,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/video_thumbnail/1092/project_thumb_small_open-uri20131125-2-1a4xjub,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/video_thumbnail/1092/project_thumb_large_open-uri20131125-2-1a4xjub,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/video_thumbnail/1092/project_thumb_video_cover_open-uri20131125-2-1a4xjub,5.27777777777777777800,190.0,4,4,failed,aon,finished,"2012-12-08 01:59:59","2012-12-07 23:59:59","2012-10-09 01:59:59","2012-10-08 22:59:59",,t,t,f,60,"{""total"" : 0, ""unit"" : ""seconds""}","{""total"" : 60, ""unit"" : ""days""}",0,"{""city"" : ""Caatiba"", ""state_acronym"" : ""BA"", ""state"" : ""Bahia""}","{""id"" : 95013, ""name"" : """"}",0,,f,f,0,f,f,f

@@ -1,0 +1,24 @@
+project_id,id,user_id,name,headline,budget,goal,about_html,permalink,video_embed_url,video_url,category_name,category_id,original_image,thumb_image,small_image,large_image,video_cover_image,progress,pledged,total_contributions,total_contributors,state,mode,state_order,expires_at,zone_expires_at,online_date,zone_online_date,sent_to_analysis_at,is_published,is_expired,open_for_contributions,online_days,remaining_time,elapsed_time,posts_count,address,user,reminder_count,is_owner_or_admin,user_signed_in,in_reminder,total_posts,can_request_transfer,is_admin_role,contributed_by_friends
+8329,8329,356521,"Douros - compotas, geleias e chutneys artesanais","Douros - Compotas e geleias artesanais - ""Doce como a vida""","O orçamento para projetos anteriores a 24/02/2015 normalmente pode ser encontrado na descrição acima.",5000.0,"<p>Douros é um projeto empreendedor de produção artesanal de compotas, geleias e chutneys. Em frascos ornados e atraentes e com um sabor inconfundível, Douros pretende trazer a todas as pessoas o prazer de saborear as polpas conservadas das frutas o ano todo. No café, almoço e jantar os produtos Douros querem estar presentes.</p><p>Com o dinheiro arrecadado serão compradas as diversas frutas, os frascos e confeccionados os rótulos da marca. Até o momento 3 pessoas fazem parte do projeto (caracterizado como projeto familiar) e a estimativa de produção inicial depende da fruta utilizada, para efeito deste estudo, considera-se o rendimento de 60% de polpa para cada 1Kg de matéria-prima. Produzindo em média 40 compotas por quinzena, levando-se em
+consideração a tabela abaixo :</p><p>RENDIMENTO INDUSTRIAL DE FRUTAS
+SELECIONADAS
+FRUTAS RENDIMENTO
+MÉDIO
+Abacaxi 50%
+Goiaba 90%
+Mamão 75%
+Manga 50%
+Maracujá 45%
+Morango 90%
+Fonte : Produtores de Equipamentos e pesquisa direta em empresas do ramo</p><p>Dos procedimentos:
+RECEPÇÃO E PESAGEM
+LAVAGEM
+SELEÇÃO
+DESCASCAMENTO
+DESINTEGRAÇÃO OU CORTE
+DOSAGEM DOS INSUMOS
+PREPARO - COZIMENTO
+ENVAZAMENTO EM VIDROS
+ESTERILIZAÇÃO
+ARMAZENAMENTO e TRANSPORTE</p><p>Quando pronto, você colaborador, receberá pelo correio em até 16 dias seu produto Douros. O bom disso é que como conserva, você pode apreciar em até 8 meses sua compota.
+Procuramos trazer ao cliente a melhor qualidade, sabor e higiene dos produtos, que vão fazer todos se lembrarem da cozinha da vovó.</p>",douros,,"",Gastronomia,12,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/8329/JamLabel.jpg,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/8329/project_thumb_thumb_JamLabel.jpg,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/8329/project_thumb_small_JamLabel.jpg,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/8329/project_thumb_large_JamLabel.jpg,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/8329/project_thumb_video_cover_JamLabel.jpg,0,0,0,0,failed,aon,finished,"2015-11-03 01:59:59","2015-11-02 23:59:59","2015-09-23 18:14:01.544708","2015-09-23 15:14:01.544708",,t,t,f,40,"{""total"" : 0, ""unit"" : ""seconds""}","{""total"" : 40, ""unit"" : ""days""}",0,"{""city"" : ""Ourinhos"", ""state_acronym"" : ""SP"", ""state"" : ""São Paulo""}","{""id"" : 356521, ""name"" : ""Grupo Douros""}",2,,f,f,0,f,f,f

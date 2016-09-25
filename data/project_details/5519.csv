@@ -1,0 +1,42 @@
+project_id,id,user_id,name,headline,budget,goal,about_html,permalink,video_embed_url,video_url,category_name,category_id,original_image,thumb_image,small_image,large_image,video_cover_image,progress,pledged,total_contributions,total_contributors,state,mode,state_order,expires_at,zone_expires_at,online_date,zone_online_date,sent_to_analysis_at,is_published,is_expired,open_for_contributions,online_days,remaining_time,elapsed_time,posts_count,address,user,reminder_count,is_owner_or_admin,user_signed_in,in_reminder,total_posts,can_request_transfer,is_admin_role,contributed_by_friends
+5519,5519,267616,"FAVERA - Festival Audiovisual Vera Cruz","O FAVERA vai proporcionar aos moradores da periferia de Goiânia, contato com um pouco da produção audiovisual nacional.","O orçamento para projetos anteriores a 24/02/2015 normalmente pode ser encontrado na descrição acima.",8700.0,"<p>O FAVERA nasce das vontades de proporcionar aos moradores da periferia de Goiânia a oportunidade de participar de um festival audiovisual, valorizar as produções audiovisuais oriundas das periferias brasileiras e exibir a produção goiana em geral a um público diferente daquele que costuma frequentar a maioria dos festivais.</p>
+
+<p>A primeira edição do FAVERA será realizada sem verba pública, contando com a vontade e a ajuda de parceiros. O dinheiro arrecadado via Catarse será utilizado para custear os itens  que não forem oferecidos pelos parceiros.</p>
+
+<p>Onde e quando?
+A 1ª edição do FAVERA acontecerá entre os dias 19 e 21 de Setembro, no Ginásio de Esportes do Conjunto Vera Cruz II, periferia de Goiânia-GO.</p>
+
+<p>Por que no Conjunto Vera Cruz?
+Um dos maiores e mais populosos bairros de Goiânia. Localizado no extremo oeste da capital, também é um dos pontos mais afastados da região central.</p>
+
+<p>O que vai rolar?
+Mostra competitiva de curtas goianos (qualquer temática);
+Mostra competitiva de curtas nacionais (preferencialmente, que tenham alguma relação com alguma periferia);
+A organização do Festival também tentará viabilizar outras atividades voltadas aos moradores do bairro: 3 oficinas de cinema e 1 debate.</p>
+
+<p>O que já temos?
+- O local, cedido pela administração do espaço;
+- Equipamento de áudio (caixas, mesa, suportes, fiação, microfones, etc.);
+- Os troféus para os premiados;
+- Os certificados para os premiados;
+- Sacolas para os kits dos realizadores/imprensa;
+- Serviço de concepção de identidade visual e elaboração dos materiais gráficos (catálogo, folder, folheto, banner, etc.);
+- Making of (captação e finalização de vídeo).</p>
+
+<p>Como vamos usar o dinheiro arrecadado?
+- Locação de equipamento de vídeo (projetor e tela);
+- Locação de gerador de energia;
+- Locação de cadeiras e bebedouros.
+- Impressão de material gráfico;
+- Ajuste do local (pequenos reparos, pintura e limpeza);
+- Alimentação da equipe voluntária;
+- Combustível para o deslocamento da equipe de produção;
+- Produção de chaveiro e camiseta para o kit de realizadores/imprensa;
+- Envio das recompensas aos apoiadores.</p>
+
+<p>Como as contrapartidas serão entregues?
+Algumas contrapartidas só poderão ser entregues no próprio evento, como  o direito de fazer a entrega de troféus. As demais, ou serão entregues no próprio evento ou, caso o apoiador não possa comparecer, serão enviadas em até 20 dias após o evento, sem custo para o apoiador em todo o território nacional. </p>
+
+<p>Fanpage: <a class=""alt-link"" href=""https://www.facebook.com/faverafestival?ref=hl"" target=""_blank"">https://www.facebook.com/faverafestival?ref=hl</a>
+Site: <a class=""alt-link"" href=""http://enoiskitaproducoes.wix.com/favera2014"" target=""_blank"">http://enoiskitaproducoes.wix.com/favera2014</a></p>
+",favera,//www.youtube.com/embed/Xr7WFn4wG88,http://youtu.be/Xr7WFn4wG88,"Cinema e Vídeo",13,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/5519/Favera_face.png,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/5519/project_thumb_thumb_Favera_face.png,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/5519/project_thumb_small_Favera_face.png,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/5519/project_thumb_large_Favera_face.png,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/5519/project_thumb_video_cover_Favera_face.png,1.20689655172413793100,105.0,4,4,failed,aon,finished,"2014-08-05 02:59:59","2014-08-04 23:59:59","2014-06-05 20:04:44.535743","2014-06-05 17:04:44.535743",,t,t,f,60,"{""total"" : 0, ""unit"" : ""seconds""}","{""total"" : 60, ""unit"" : ""days""}",0,"{""city"" : ""Goiânia"", ""state_acronym"" : ""GO"", ""state"" : ""Goiás""}","{""id"" : 267616, ""name"" : ""Raphael Gustavo da Silva""}",0,,f,f,0,f,f,f

@@ -1,0 +1,14 @@
+project_id,id,user_id,name,headline,budget,goal,about_html,permalink,video_embed_url,video_url,category_name,category_id,original_image,thumb_image,small_image,large_image,video_cover_image,progress,pledged,total_contributions,total_contributors,state,mode,state_order,expires_at,zone_expires_at,online_date,zone_online_date,sent_to_analysis_at,is_published,is_expired,open_for_contributions,online_days,remaining_time,elapsed_time,posts_count,address,user,reminder_count,is_owner_or_admin,user_signed_in,in_reminder,total_posts,can_request_transfer,is_admin_role,contributed_by_friends
+38324,38324,610924,"Defesa da Democracia","Ajude o NDD a continuar combatendo o golpe contra a democracia, nenhum direito a menos. ","<p>Valor desejado: R$2.000,00<br>Desconto de 13% da taxa Cartase:<br>Sobram: R$1.740,00<br></p><p><br>Produção de faixas e panfletos: R$1.080,00<br>3 Megafones profissionais com sirene: R$600,00<br>Compra de 3 vuvuzelas: R$60,00<br></p>",2000.0,"<p>
+Este projeto busca apoio financeiro
+para que possamos comprar megafones, produzir panfletos e faixas que serão utilizadas nas campanhas e manifestações do NDD
+- Núcleo em Defesa da Democracia. Somos um grupo suprapartidário
+que há 1 ano se reúne na Praça dos Três Poderes, antes para
+demonstrar apoio ao projeto eleito legitimamente com a Presidenta
+Dilma e agora para mostrar repúdio ao governo Golpista do Interino
+Michel Temer, nos ajude sabendo que seremos o mais transparente
+possível e assim que terminarmos a arrecadação faremos os
+agradecimentos e a prestação de contas em nossa página do Facebook.<br><br></p><p><strong>Obs: O NDD só receberá o valor arrecadado
+se, ao final do prazo, tiver alcançado a meta de arrecadação. Caso
+contrário, todos os apoiadores receberão seus pagamentos de volta.</strong></p><p><br>
+</p><p><br></p>",Defesa-da-Democracia,//www.youtube.com/embed/iRbzo3m_zNc,https://www.youtube.com/watch?v=iRbzo3m_zNc,Eventos,10,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/38324/NDD.jpg,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/38324/project_thumb_thumb_NDD.jpg,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/38324/project_thumb_small_NDD.jpg,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/38324/project_thumb_large_NDD.jpg,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/38324/project_thumb_video_cover_NDD.jpg,119.5000000000000000,2390.0,39,30,successful,aon,finished,"2016-08-17 02:59:59.999999","2016-08-16 23:59:59.999999","2016-07-25 13:48:41.368689","2016-07-25 10:48:41.368689",,t,t,f,22,"{""total"" : 0, ""unit"" : ""seconds""}","{""total"" : 22, ""unit"" : ""days""}",0,"{""city"" : ""Brasília"", ""state_acronym"" : ""DF"", ""state"" : ""Distrito Federal""}","{""id"" : 610924, ""name"" : ""NDD - Núcleo em Defesa da Democracia""}",1,,f,f,0,t,f,f

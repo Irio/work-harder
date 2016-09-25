@@ -1,0 +1,23 @@
+project_id,id,user_id,name,headline,budget,goal,about_html,permalink,video_embed_url,video_url,category_name,category_id,original_image,thumb_image,small_image,large_image,video_cover_image,progress,pledged,total_contributions,total_contributors,state,mode,state_order,expires_at,zone_expires_at,online_date,zone_online_date,sent_to_analysis_at,is_published,is_expired,open_for_contributions,online_days,remaining_time,elapsed_time,posts_count,address,user,reminder_count,is_owner_or_admin,user_signed_in,in_reminder,total_posts,can_request_transfer,is_admin_role,contributed_by_friends
+160,160,7329,Oxigênio,"baixo hofner, bateria o mais tosca possível, piano o mais “honk tonk”, guitarra telecaster. e ainda vai ter um coro. tudo gravado em um bar.","O orçamento para projetos anteriores a 24/02/2015 normalmente pode ser encontrado na descrição acima.",4000.0,"<p>Se você quiser contribuir para que esta música entre no CD d’A Banda Mais Bonita da Cidade, clique ali no canto direito em &quot;Quero apoiar esse projeto&quot;!</p>
+
+<p>Oxigênio (Dorival Torrente) </p>
+
+<p>Dizendo “ta” cheia.
+Picada de “abeia” dói menos que amor
+Com esperança
+Desato o nó da garganta rezando pra santa me tranco no quarto
+Respirando oxigênio
+Eu sou um gênio
+Filosofando amor</p>
+
+<p>Mas que agitação
+Perturbação
+Não há ambiente me que eu posso me encontrar
+Gemidos de ratos
+Detidos pelo esquadrão gatos
+Ouço ruídos
+Cabeças frias
+Tão avançados quanto a tecnologia
+Por isso me tranco no quarto...</p>
+",oxigenio,//player.vimeo.com/video/24396486,http://vimeo.com/24396486,Música,16,,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/video_thumbnail/160/project_thumb_thumb_open-uri20131125-2-mkvmkq,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/video_thumbnail/160/project_thumb_small_open-uri20131125-2-mkvmkq,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/video_thumbnail/160/project_thumb_large_open-uri20131125-2-mkvmkq,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/video_thumbnail/160/project_thumb_video_cover_open-uri20131125-2-mkvmkq,101.3750000000000000,4055.0,31,25,successful,aon,finished,"2011-07-02 02:59:59","2011-07-01 23:59:59","2011-05-03 02:59:59","2011-05-02 23:59:59",,t,t,f,60,"{""total"" : 0, ""unit"" : ""seconds""}","{""total"" : 60, ""unit"" : ""days""}",0,"{""city"" : ""Curitiba"", ""state_acronym"" : ""PR"", ""state"" : ""Paraná""}","{""id"" : 7329, ""name"" : ""Joao Caserta""}",0,,f,f,0,f,f,f

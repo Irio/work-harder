@@ -1,0 +1,175 @@
+project_id,id,user_id,name,headline,budget,goal,about_html,permalink,video_embed_url,video_url,category_name,category_id,original_image,thumb_image,small_image,large_image,video_cover_image,progress,pledged,total_contributions,total_contributors,state,mode,state_order,expires_at,zone_expires_at,online_date,zone_online_date,sent_to_analysis_at,is_published,is_expired,open_for_contributions,online_days,remaining_time,elapsed_time,posts_count,address,user,reminder_count,is_owner_or_admin,user_signed_in,in_reminder,total_posts,can_request_transfer,is_admin_role,contributed_by_friends
+8199,8199,354855,"Projeto RINO 2.0 - Controlar motores DC de alta potência nunca foi tão fácil!","Mais de 10 anos de avanço em mecânica e eletrônica a níveis extremos agora em suas mãos!","O orçamento para projetos anteriores a 24/02/2015 normalmente pode ser encontrado na descrição acima.",4530.0,"<p><img src=""http://i.imgur.com/PZAxKWq.png"" alt=""""/></p>
+
+<p>Neste vídeo vamos mostrar um pouco sobre a Equipe e como desenvolvemos este grande projeto que é a Eletrônica Rino 2.0. </p>
+
+<p>O projeto depois de concluído deverá ficar como o 3D abaixo:</p>
+
+<p><img src=""http://i.imgur.com/486G7hb.png"" alt=""""/></p>
+
+<p>O projeto Rino 2.0 é a evolução da já consagrada eletrônica utilizada na Guerra de Robôs pela Equipe Uai!rrior há mais de cinco anos, ou seja, é testada em um ambiente extremamente exaustivo onde seus recursos são exigidos ao máximo.</p>
+
+<p><strong>— Seu projeto é extremamente robusto, podendo aguentar picos de corrente de até 260A!</strong></p>
+
+<p>Colocar um projeto em prática não é fácil, além das muitas semanas, em certos casos meses, dedicados ao desenvolvimento do protótipo ainda há diversas barreiras a serem vencidas para que o fruto desse trabalho se materialize. Um dos maiores obstáculos é o financeiro. O Brasil, apesar de suas infinitas qualidades, não oferece suporte a pequenos desenvolvedores e empreendedores, isso torna muito difícil a concretização de um projeto como esse, pois usamos muitos componentes importados, de difícil importação!</p>
+
+<p>Geralmente, antes de ficar pronto, um projeto passa por diversas fases de testes e, muitas vezes, precisa ser ajustado, o que implica em maiores dificuldades de fabricação, além do tempo que o projeto leva para ser enviado para a China (Sim, enviamos para China, pois fica bem mais barato, mesmo com as taxas de importação) para poder ser fabricado. </p>
+
+<p>Para tirar nosso projeto do papel, nós da equipe Uai!rrior, estamos disponibilizando detalhes do projeto e até algumas destas eletrônicas em troca do seu apoio. Abaixo você encontra as características básicas da Rino 2.0:</p>
+
+<pre><code>• 1. Controle flexível e independente de DOIS motores
+    1.1 Ajuste independente de P.W.M.
+    1.2 Entradas externas independentes
+    1.3 Interface Serial
+• 2. Sistema avançado de proteção contra falhas (Fail Safe)
+• 3. Configuração in circuit
+• 4. Software de configuração externo
+• 5. Compatibilidade TOTAL com Arduino (Open Sorce)
+</code></pre>
+
+<p>E para torná-la possível precisamos de sua ajuda!
+Contribua com a gente e ainda ganhe uma das primeiras Rino 2.0!</p>
+
+<p><strong>— A História</strong></p>
+
+<p>A Equipe Uai!rrior de Guerra de Robôs, é uma das únicas no mundo a desenvolver e utilizar suas próprias eletrônicas, que atualmente chegaram em um nível de confiabilidade superior às principais presentes no mercado. Isso só foi possível devido ao conhecimento adquirido e transmitido pelos membros que passaram por essa grande Família nos mais de 10 anos de sua existência.</p>
+
+<p>A área responsável pelo desenvolvimento desses projetos é a eletrônica, e nela temos atualmente 10 membros divididos entre engenharias de software e hardware, os membros que fazem parte dessa área são todos estudantes da UNIFEI e fazem cursos como Engenharia Elétrica, Eletrônica, Computação e ainda Controle e Automação.</p>
+
+<p>O objetivo do desenvolvimento dessa eletrônica, é sua futura comercialização e ainda sua utilização em robótica, cadeiras de rodas elétricas, bicicletas elétricas, entre outros.</p>
+
+<p><strong>— A RINO</strong></p>
+
+<p>Como a ideia inicial do projeto era sua aplicação nas competições de Guerra de Robôs, essa placa já teve suas versões anteriores testadas em combate e obteve excelentes resultados como premiações nacionais e internacionais, e por isso podemos garantir seu funcionamento nas mais extremas situações possíveis, pois dificilmente você vai encontrar alguma coisa mais radical que a Guerra de Robôs, acredite.</p>
+
+<p><strong>— O Hardware</strong></p>
+
+<p>Acomodar em uma eletrônica tão pequena uma capacidade tão grande de condução de corrente não foi fácil. Os planos possuem uma espessura maior que a convencional, 3oz, para que possam aguentar esses valores absurdos de corrente. Além de contar com circuitos de proteção que previnem acidentes que envolvam curtos e possam botar em risco os projetos aos quais elas possam vir a ser envolvidas. </p>
+
+<p>O calor é algo muito preocupante quando o assunto é alta corrente, por isso os conectores estão tão perto dos MOSFETs, assim a resistência oferecida pelas trilhas é reduzida drasticamente e, aliado ao fato de os componentes possuírem uma baixíssima resistência interna, conseguimos uma ótima resposta térmica. Resumindo, é bem difícil ela esquentar.</p>
+
+<p><strong>— O Firmware</strong> </p>
+
+<p>O desenvolvimento do firmware empregado na Rino é resultado de 5 anos de evolução do projeto em termos de engenharia de software, além disso, ela é 100% compatível com Arduino, ou seja, você pode desenvolver seu próprio código e gravar nela, o que a torna muito mais versátil.</p>
+
+<p>Através do Firmware implementamos diversas técnicas de controle e proteção contra falha, TODAS estão disponíveis para ajustes para os usuários através do seu modo de programação, onde você poderá ajustar como a placa irá se comportar sem ter que ligá-la em um computador, simplesmente se comunicando com ela através do seu modo de controle embutido.</p>
+
+<p>E todas estas características podem ser encontradas em uma placa que utiliza os materiais e componentes de maior qualidade disponíveis no mercado, visando seu rendimento máximo.</p>
+
+<p><strong>— As Especificações</strong></p>
+
+<pre><code>• Tensão de alimentação do circuito: 7V a 30V
+• Corrente: 40A
+• Corrente de pico: 260A
+• Dimensões: 59 x 60 x 15 mm (Largura x Comprimento x Altura)
+</code></pre>
+
+<p><strong>— A Comunicação</strong></p>
+
+<p>• Interface serial UART para reconfigurar e controlar a placa. Com isso você pode :</p>
+
+<pre><code>• Reconfigurar a Rino.
+• Comunicar ela com outros dispositivos como:
+    • Arduinos
+    • Eletrônicas de terceiros
+    • PCs
+    • Outros projetos que você possa desenvolver !
+</code></pre>
+
+<p>• Ela possui também interface R/C e já vem pré-programada para trabalhar com receptores que utilizam o protocolo de servo pulsos, que são facilmente encontrados no mercado.</p>
+
+<p><strong>— As Características</strong></p>
+
+<pre><code>• 1. Frequências de P.W.M. 125,300,1k,2k,4k,20k,40k,64K (Ajustáveis de acordo com a necessidade do usuário). 
+• 2. Leitura 2 de canais servo pulso configuráveis 
+• 3. Controle interface serial 
+• 4. Compatibilidade total com Arduino 
+• 5. Modo de programação configurável por hardware 
+• 6. BEC de 5V/1A 
+• 7. Possibilidade de instalação do bootloader do Arduino, tornando possível a programação, tendo uma interface serial (FTDI) externa. 
+• 8. LEDs indicativos de intensidade dos motores 
+• 9. Interface de Programação por software
+• 10. Sensor de Cut Off
+• 11. Soft-starter ajustável, para partidas mais suaves
+• 12. Freio motor ajustável
+</code></pre>
+
+<p><strong>— A Rino Programmer</strong></p>
+
+<p>Estamos desenvolvendo também uma interface para fazer a configuração da placa de maneira mais rápida e fácil.</p>
+
+<p><em>Itens adicionais</em></p>
+
+<p>Junto com a placa serão incluídos:
+    • Manual da Rino 2.0.
+    • Conectores anel
+    • Cabos de receptor R/C</p>
+
+<p>Se você está preocupado pensando que terá de fazer a programação para os códigos das placas, pode ficar tranquilo, serão montadas bibliotecas para facilitar a sua vida. </p>
+
+<p><strong>— Por que nós precisamos da sua ajuda?</strong></p>
+
+<p>O custo inicial de um novo projeto tende a ser alto, por isso a arrecadação inicial conta muito para que os custos do projeto final se tornem mais baixos e viabilizem sua produção em maior quantidade, com isso todos ganham, a Equipe por ter a oportunidade de colocar uma de suas eletrônicas no mercado e adquirir mais experiência neste meio e ainda os consumidores finais, ao adquirirem um produto de primeiríssima qualidade a um preço mais baixo.</p>
+
+<p><img src=""http://i.imgur.com/UOXbmyp.png"" alt=""""/></p>
+
+<p>Apoiar um novo projeto é sempre divertido, ainda mais quando colocamos alguns itens como recompensa por sua doação.</p>
+
+<p>As recompensas estão dispostas aqui ao lado e qualquer dúvida que surgir pode ser sanada por aqui.</p>
+
+<p><strong>— Nosso planejamento</strong></p>
+
+<p>O processo de desenvolvimento deste grande projeto abrange as seguintes etapas:</p>
+
+<pre><code>1)  Definição de Requisitos de Hardware e Software
+2)  Fase de Pesquisa
+3)  Fase de desenvolvimento de esquemático
+4)  Desenvolvimento de Layout
+5)  Capitalização (Fase Atual)
+6)  Compra de Componentes e PCB
+7)  Montagem
+8)  Fase de correção de erros
+9)  Fabricação da Placa revisada
+10) Distribuição  
+</code></pre>
+
+<p><strong>— O Cronograma</strong></p>
+
+<p><img src=""http://i.imgur.com/KY4KbA5.png"" alt=""""/></p>
+
+<p>Incluindo o tempo de arrecadação no Catarse, nosso cronograma prevê desde a construção do protótipo até a entrega final. Os componentes, depois de pedidos, chegam em no máximo 5 semanas, a produção e a montagem da placa são bem rápidas. Consideramos que terminaremos antes do prazo que demos, ou seja, a tabela é o tempo máximo que gastaremos.</p>
+
+<p><img src=""http://i.imgur.com/SgOPcjf.png"" alt=""""/></p>
+
+<p>Como o custo dos circuitos impressos depende do número de pedidos, quanto maior for o número de pedidos, menor será o custo unitário para a sua produção, o que viabiliza ainda mais nosso projeto! </p>
+
+<p><strong>“Ok, mas por que eu deveria apoiar esses caras?”</strong></p>
+
+<p>Esse apoio viabilizará a introdução de uma eletrônica inovadora extremamente resistente neste mercado que possui inúmeras aplicações, então você que é apaixonado por: aeromodelismo, automobilismo, robótica ou ainda você que ainda não descobriu essas maravilhas, não perca essa chance de contribuir para o crescimento não só da Equipe mas também do mercado nacional de eletrônica.</p>
+
+<p><strong>— A Uai!rrior</strong></p>
+
+<p>A Equipe Uai!rrior, fundada em 2001, originalmente com o nome Scorpion é uma das maiores Equipes de Robótica do mundo e a primeira campeã nacional da Guerra de Robôs, competindo com diversas universidades. A mudança de nome se deu pela ideia de um ex-membro da Equipe de juntar a expressão “uai” característica do vocabulário mineiro e a palavra em inglês “warrior”, com isso surgiu o nome “Uai!rrior”.</p>
+
+<p>Desde seu início em 2001 a Equipe conquistou diversos títulos entre campeonatos nacionais e internacionais, dos quais podemos destacar:</p>
+
+<pre><code>• Campeonato Nacional invicto na categoria de combate Middleweight.
+• Campeonato Mundial invicto na categoria de combate Middleweight.
+• Tricampeonato Nacional na categoria de combate Lightweight.
+• Campeonato Mundial na categoria de combate Lightweight.
+• Campeonato Mundial na categoria de combate Antweight.
+• Campeonato Mundial na categoria de combate Autônomo.   
+• Bicampeonato Mundial na categoria Hockey.
+• Hexacampeonato Nacional na categoria Hockey.
+</code></pre>
+
+<p>Para que isso fosse possível, foram necessários anos de experiência e dedicação de todos os membros da Equipe para desenvolvermos projetos inovadores e eficientes, tanto nos projetos mecânicos como na parte de eletrônica que hoje é um dos maiores destaques da Equipe. </p>
+
+<p>Alguns de nossos projetos eletrônicos são muito superiores à outros presentes no mercado, pois não existem outras eletrônicas que entreguem a mesma capacidade pelo mesmo tamanho, e tudo isso desenvolvido por alunos da UNIFEI. </p>
+
+<p>Para conhecer mais sobre nós entre em nosso site clicando <a class=""alt-link"" target=""_blank"" href=""http://www.uairrior.com.br""><strong>aqui</strong></a></p>
+
+<p>Veja também nosso canal no Youtube clicando <a class=""alt-link"" target=""_blank"" href=""http://youtube.com.br/uairrior""><strong>aqui</strong></a></p>
+
+<p>Ou também fique por dentro te tudo através do nosso Facebook clicando <a class=""alt-link"" target=""_blank"" href=""https://www.facebook.com/uairrior""><strong>aqui</strong></a></p>
+",projetorino,//www.youtube.com/embed/h3LZtLVJL9c,http://youtu.be/h3LZtLVJL9c,"Ciência e Tecnologia",18,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/8199/Projeto_Rino.jpg,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/8199/project_thumb_thumb_Projeto_Rino.jpg,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/8199/project_thumb_small_Projeto_Rino.jpg,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/8199/project_thumb_large_Projeto_Rino.jpg,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/8199/project_thumb_video_cover_Projeto_Rino.jpg,100.4194260485651200,4549.0,20,20,successful,aon,finished,"2015-01-24 01:59:59","2015-01-23 23:59:59","2014-11-24 09:08:32.913759","2014-11-24 07:08:32.913759",,t,t,f,60,"{""total"" : 0, ""unit"" : ""seconds""}","{""total"" : 60, ""unit"" : ""days""}",0,"{""city"" : ""Rio Claro"", ""state_acronym"" : ""SP"", ""state"" : ""São Paulo""}","{""id"" : 354855, ""name"" : ""Augusto Cesar Rossi de Mattos""}",0,,f,f,0,f,f,f

@@ -1,0 +1,65 @@
+project_id,id,user_id,name,headline,budget,goal,about_html,permalink,video_embed_url,video_url,category_name,category_id,original_image,thumb_image,small_image,large_image,video_cover_image,progress,pledged,total_contributions,total_contributors,state,mode,state_order,expires_at,zone_expires_at,online_date,zone_online_date,sent_to_analysis_at,is_published,is_expired,open_for_contributions,online_days,remaining_time,elapsed_time,posts_count,address,user,reminder_count,is_owner_or_admin,user_signed_in,in_reminder,total_posts,can_request_transfer,is_admin_role,contributed_by_friends
+4859,4859,163545,"Portal Colaborativo Político Participativo","Você se sente representado pelos políticos que elegeu? O que você acha dos cidadãos intervirem na decisão e no controle dos políticos?","O orçamento para projetos anteriores a 24/02/2015 normalmente pode ser encontrado na descrição acima.",14690.0,"<p>Você se sente representado pelos políticos que elegeu?</p>
+
+<p>O que você acha de podermos intervir diretamente na tomada de decisão e no controle dos políticos que elegemos?</p>
+
+<p>Sim, isto é possível, se chama <strong>Democracia Participativa</strong> e já ocorre em diversos países como a Suécia, Noruega, Finlândia e <strong>Islândia onde até  nova constituição foi aprovada diretamente pelos cidadãos, através da web e redes sociais</strong>.
+Reportagens sobre a constituição na Islândia nas revistas: <a class=""alt-link"" target=""_blank"" href=""http://colunas.revistaepoca.globo.com/ofiltro/2011/06/09/na-islandia-a-constituicao-e-feita-pela-internet"">Época</a> e <a class=""alt-link"" target=""_blank"" href=""http://veja.abril.com.br/blog/ricardo-setti/vasto-mundo/como-foi-que-a-islandia-fez-uma-nova-constituicao-usando-o-facebook/"">Veja</a></p>
+
+<p><img src=""http://www.politicoparticipativo.com.br/images/site/politico-participativo-790.jpg"" alt=""""/></p>
+
+<p>Será um portal colaborativo onde <strong>cada político terá um site</strong>, que é um ambiente colaborativo de comunicação entre o político e sua comunidade de eleitores com o objetivo de discussão e deliberação das pautas de votações e projetos.</p>
+
+<p>É muito importante destacar que o portal é <strong>apenas para políticos que aderirem à política participativa</strong>, ou seja, somente poderão participar os políticos que assinarem os termos da política participativa onde o principal ponto é o de acatar as decisões de sua comunidade e votar/agir conforme o deliberado por ela!</p>
+
+<p>É isso mesmo! <strong>O político se compromete (assina um termo de compromisso legalmente registrado) de acatar as decisões de sua comunidade no exercício de seu mandato</strong>.</p>
+
+<p>No portal, são criadas comunidades (sites) com o objetivo de eleger candidatos, cada político terá sua comunidade, inicialmente para o poder legislativo como vereadores, deputados e senadores.</p>
+
+<p>Uma vez o político tendo sido eleito, ele divulga e compartilha prontamente suas atividades diárias, ideias, agendas, pautas de votações e projetos para a sua comunidade colaborar, debater e decidir.</p>
+
+<p><strong>A comunidade é que decide e determina a conduta do político</strong>.</p>
+
+<p>Cada comunidade/site contará com recursos e módulos de agenda, notícias, blog, discussão, votação, redes sociais, enquetes, meritocracia/emblemas, vídeos etc. para que a comunicação entre seus membros seja envolvente, participativa e colaborativa.</p>
+
+<p>É muito importante destacar que é a comunidade que decide (vota internamente) as pautas de votação e projetos e determina a conduta do político em relação a cada item deliberado.</p>
+
+<p><strong>O político, no exercício de seu mandato, acata as decisões de sua comunidade e vota/age conforme o deliberado por ela</strong>.</p>
+
+<p>Obtenha mais detalhes sobre o funcionamento, visite  <strong><a class=""alt-link"" href=""http://www.politicoparticipativo.com.br/"" target=""_blank"">http://www.politicoparticipativo.com.br/</a></strong></p>
+
+<p>Gostou da ideia? </p>
+
+<p>Que bom se sim, agora você vai gostar de saber que viabilizar o Portal Político Participativo é relativamente simples, requer poucos recursos e que a maioria dos softwares a serem utilizados na plataforma web já estão desenvolvidos/prontos e são open source (software livre). </p>
+
+<p>Antes de prosseguir, tem algo muito importante que tem que ser informado, os valores (não me refiro a dinheiro neste momento) e sim aos valores do Portal.
+<strong>Valores:</strong>
+- Supra partidário e independente, não tendo vínculos específicos com partidos políticos, sindicatos, entidades de classe etc.;
+- Acesso livre, gratuito e irrestrito a participação das pessoas às comunidades, sempre;
+- Sem banners de publicidade;
+- Sem fins lucrativos, toda receita excedente (quando ocorrer) será utilizada na promoção de Software Livre, Ambientes Colaborativos e, é claro, da Política Participativa;
+- Controle externo, serão convidadas organizações independentes que tenham objetivos afins e sejam representativas a participar do conselho consultivo que terá como finalidade fiscalizar e colaborar para o bom andamento do Portal Político Participativo;
+- Solução aberta, a tecnologia adotada será disponibilizada/compartilhada para que outras iniciativas similares possam aproveitá-la;
+- Integridade e ética, atuando sempre de forma transparente e honesta;
+- Responsabilidade social, promovendo a evolução social do meio onde atuamos, impactando de forma positiva e responsável com todos os envolvidos;</p>
+
+<p>Agora vou falar um pouco sobre os recursos e a sustentabilidade do portal;</p>
+
+<p><strong>A receita para viabilizar o portal virá do financiamento coletivo</strong> que cobrirá o desenvolvimento, implantação, manutenção inicial da solução e a criação das primeiras comunidades de membros (não políticos). </p>
+
+<p><strong>Não haverá, nunca, nenhuma cobrança para as pessoas participarem, serem membro de uma comunidade</strong>. </p>
+
+<p>Os membros poderão doar voluntariamente uma anuidade de valor acima de R$ 60,00 e ganhar o emblema de “MEMBRO APOIADOR” por 1 ano;
+Dos membros (não políticos) será cobrado uma pequena taxa (a ser definida) para a criação de um site/comunidade. 
+Dos candidatos (políticos) será cobrado uma taxa (a ser definida) para a criação de um site de campanha/comunidade. 
+Dos candidatos eleitos será cobrado mensalmente um percentual (a ser definido) de seus vencimentos a título de manutenção do site de político/comunidade. </p>
+
+<p>Dessa forma o Portal Político Participativo terá total sustentabilidade e continuidade sem a necessidade de aportes financeiros externos, garantindo assim independência e o acesso livre, gratuito e irrestrito.</p>
+
+<p>O prazo para a conclusão do projeto é de 40 dias e o valor necessário é de R$ 13 mil + 13% do Catarse e será utilizado da seguinte forma:
+licenciamento de softwares (R$ 2.000,00), servidor/hospedagem web profissional com VPS (R$1.500,00), produção de vídeo (R$ 1.000,00), desenvolvimento, implantação, manutenção e suporte inicial (R$ 8.500,00).</p>
+
+<p>Venha! Participe da construção do portal e seja um membro dessa nova comunidade de política participativa.</p>
+
+<p><strong>Faça sua contribuição agora mesmo e não se esqueça de convidar seus amigos para participar!</strong></p>
+",politicoparticipativo,//player.vimeo.com/video/99253399,http://vimeo.com/99253399,Socioambiental,4,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/4859/politico-participativo-512x400.jpg,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/4859/project_thumb_thumb_politico-participativo-512x400.jpg,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/4859/project_thumb_small_politico-participativo-512x400.jpg,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/4859/project_thumb_large_politico-participativo-512x400.jpg,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/4859/project_thumb_video_cover_politico-participativo-512x400.jpg,4.01633764465622872700,590.0,7,7,failed,aon,finished,"2014-08-14 02:59:59","2014-08-13 23:59:59","2014-06-29 03:00:07.305779","2014-06-29 00:00:07.305779",,t,t,f,45,"{""total"" : 0, ""unit"" : ""seconds""}","{""total"" : 45, ""unit"" : ""days""}",0,"{""city"" : ""Florianópolis"", ""state_acronym"" : ""SC"", ""state"" : ""Santa Catarina""}","{""id"" : 163545, ""name"" : ""delfino vieira coelho""}",0,,f,f,0,f,f,f

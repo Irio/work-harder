@@ -1,0 +1,26 @@
+project_id,id,user_id,name,headline,budget,goal,about_html,permalink,video_embed_url,video_url,category_name,category_id,original_image,thumb_image,small_image,large_image,video_cover_image,progress,pledged,total_contributions,total_contributors,state,mode,state_order,expires_at,zone_expires_at,online_date,zone_online_date,sent_to_analysis_at,is_published,is_expired,open_for_contributions,online_days,remaining_time,elapsed_time,posts_count,address,user,reminder_count,is_owner_or_admin,user_signed_in,in_reminder,total_posts,can_request_transfer,is_admin_role,contributed_by_friends
+6169,6169,249394,Felída,"Felícia sente dor há tanto tempo que nem lembra como é não afastar todos. Até sua mente se dividir em duas e, querendo ou não, se preencher.","O orçamento para projetos anteriores a 24/02/2015 normalmente pode ser encontrado na descrição acima.",3000.0,"<p>&quot;Felída&quot; é um curta-metragem de 15 minutos do curso de Audiovisual da Universidade de Brasília. O filme é sobre Felícia, de 17 anos. Seu nome, claro, é uma brincadeira com seu humor, já que é raro estar feliz. Ela tem uma ferida aberta que, apesar de tentar de várias formas, não consegue curá-la. Em um dia comum, surge uma menina desconhecida em seu caminho. &quot;Felída&quot; tem esse nome por ser a junção entre Felícia e ferida. </p>
+
+<p>O produto é avaliação final do bloco de realização audiovisual, compreendido nos dois semestres de 2014. Além disso, também pretende-se lançá-lo em festivais nacionais. O dinheiro arrecado será utilizado nas despesas gerais de produção do curta-metragem, principalmente alimentação e elenco.</p>
+
+<p>Nossa equipe é composta por:
+Direção, Ilustração e Roteiro: Isabel Ilha
+Assistência de Direção: Caio Fonseca
+Direção de Produção: Ana Carolina Vitória
+Assistência de Produção: Luana Gandra
+Planejamento Gráfico: Adalberto Sampaio
+Direção de Arte: Ândrea Malcher
+Assistência de Arte: Maria Cristina Monteiro, Júlia Sá e Juliana Simões
+Direção de Fotografia: Paula Ferro e Marcelo Veras
+Assistência de Fotografia: Camila Lima e Marco Oliveira
+Captação de Som: Rogério Troncoso
+Desenho Sonoro: Pedro Machado
+Edição: Gabriel Frutuoso
+Animação: Débora Pimentel</p>
+
+<p>No elenco, contamos com a participação de Nina Lellis, Meimei Camila Bastos, Cassia Gentile, Daniela Ribeiro, José de Campos e outros.</p>
+
+<p>Curta <a class=""alt-link"" target=""_blank"" href=""http://facebook.com/curtafelida"">nossa página</a> e siga a <a class=""alt-link"" target=""_blank"" href=""http://lucifelicia.tumblr.com"">Felícia</a> e, se quiser falar com a gente, mande um email para <a class=""alt-link"" href=""mailto:contatofelida@gmail.com"" target=""_blank"">contatofelida@gmail.com</a>.</p>
+
+<p>Muito obrigada/o!</p>
+",felidafilme,//www.youtube.com/embed/XP2fUK59nfE,http://youtu.be/XP2fUK59nfE,"Cinema e Vídeo",13,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/6169/primeira-postagem2.png,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/6169/project_thumb_thumb_primeira-postagem2.png,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/6169/project_thumb_small_primeira-postagem2.png,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/6169/project_thumb_large_primeira-postagem2.png,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/6169/project_thumb_video_cover_primeira-postagem2.png,102.5000000000000000,3075.0,44,43,successful,aon,finished,"2014-09-21 02:59:59","2014-09-20 23:59:59","2014-08-11 22:00:01.592944","2014-08-11 19:00:01.592944",,t,t,f,40,"{""total"" : 0, ""unit"" : ""seconds""}","{""total"" : 40, ""unit"" : ""days""}",8,"{""city"" : ""Vitória"", ""state_acronym"" : ""ES"", ""state"" : ""Espírito Santo""}","{""id"" : 249394, ""name"" : ""Ana Carolina Vitória Silva""}",0,,f,f,8,f,f,f

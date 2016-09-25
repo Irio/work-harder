@@ -1,0 +1,59 @@
+project_id,id,user_id,name,headline,budget,goal,about_html,permalink,video_embed_url,video_url,category_name,category_id,original_image,thumb_image,small_image,large_image,video_cover_image,progress,pledged,total_contributions,total_contributors,state,mode,state_order,expires_at,zone_expires_at,online_date,zone_online_date,sent_to_analysis_at,is_published,is_expired,open_for_contributions,online_days,remaining_time,elapsed_time,posts_count,address,user,reminder_count,is_owner_or_admin,user_signed_in,in_reminder,total_posts,can_request_transfer,is_admin_role,contributed_by_friends
+38805,38805,614225,"Eye Typewriter","Tecnologia assistiva para deficientes para a integração a tecnologia com digitação com os olhos.","<p style=""margin-left: 20px;"">O software será disponibilizado gratuitamente, porém ainda existem os custos para o seu desenvolvimento, por isso a existência de um orçamento para que ele venha a existir.</p>  <p>1. Duas câmeras HD 720p – Preço por unidade: R$ 90 a R$ 110</p>  <p>2. Banner – Preço: R$ 90</p>  <p>3. Taxas – Preço: R$ 40</p>",380.0,"<p style=""margin-left: 40px;""><strong>O problema</strong><strong><br></strong></p><p style=""margin-left: 40px;""><strong></strong></p><hr><p style=""margin-left: 20px; text-align: justify;"">
+
+A cada dia a palavra “acessibilidade”
+é dita mais vezes durante as prioridades do mundo moderno. A integração de
+pessoas se torna em nossa era algo de extrema importância em diversos
+contextos, aumentando as oportunidades para que todos cheguem a um patamar de
+igualdade algum dia. A acessibilidade é a palavra que define essa
+possibilidade, trazendo para deficientes as chances para que eles consigam ter
+uma vida sem problemas maiores por causa de suas limitações.<strong><br></strong></p><p style=""text-align: justify; margin-left: 20px;""><span class=""redactor-invisible-space""><span class=""redactor-invisible-space"">A integração digital é o
+principal tópico que temos que demonstrar. A tecnologia se torna uma grande
+parte da nossa realidade quanto mais o tempo passa, e uma pessoa que não
+consiga se integrar a tecnologia acaba se tornando um indivíduo privado de
+diversas coisas importantes como a comunicação, a informação, o conhecimento e
+até o entretenimento que o mundo virtual pode trazer para alguém.</span><br></span></p><p style=""text-align: justify; margin-left: 20px;""><span class=""redactor-invisible-space""><strong><span class=""redactor-invisible-space"">
+
+</span></strong><span class=""redactor-invisible-space"">Algumas deficiências limitam
+as pessoas de forma que elas não possam ter acesso a um computador, como por
+exemplo doenças motoras que acarretem na pessoa não conseguir mover os braços,
+mão ou dedos com precisão suficiente para digitarem algo em um teclado. Essas
+pessoas, assim como qualquer outro ser humano, tem o direito de tirar proveito
+do mundo digital, porém não tem a oportunidade por não existirem tantas
+plataformas que as integrem nesse contexto.  </span><strong><br></strong></span></p><p style=""text-align: justify; margin-left: 20px;""><strong><span class=""redactor-invisible-space""><br></span></strong></p><p style=""text-align: justify; margin-left: 40px;"" rel=""text-align: justify; margin-left: 40px;""><span class=""redactor-invisible-space""><strong><span class=""redactor-invisible-space"">
+
+A nossa solução<br></span></strong></span></p><p style=""text-align: justify; margin-left: 40px;""><strong><span class=""redactor-invisible-space""><span class=""redactor-invisible-space""></span></span></strong></p><hr><p style=""text-align: justify; margin-left: 20px;"">
+
+Analisando todos esses fatos e
+vendo uma deficiência em tecnologias assistivas nesse escopo, nós tivemos a
+iniciativa de criar um projeto para que essas pessoas possam desfrutar da
+tecnologia assim como qualquer outro, desenvolvendo um software aplicativo para
+computadores onde um teclado virtual será disponibilizado para a digitação sem
+a necessidade de um teclado físico, assim não existindo a necessidade das mãos
+para a digitação. Mas como isso irá funcionar? <strong><span class=""redactor-invisible-space""><br></span></strong></p><p style=""text-align: justify; margin-left: 20px;"" rel=""text-align: justify; margin-left: 20px;""><strong><span class=""redactor-invisible-space""><span class=""redactor-invisible-space""><br></span></span></strong></p><p style=""text-align: justify; margin-left: 40px;"" rel=""text-align: justify; margin-left: 40px;""><span class=""redactor-invisible-space""><strong><span class=""redactor-invisible-space""><span class=""redactor-invisible-space"">
+
+O desenvolvimento<br></span></span></strong></span></p><p style=""text-align: justify; margin-left: 40px;""><strong><span class=""redactor-invisible-space""><span class=""redactor-invisible-space""><span class=""redactor-invisible-space""></span></span></span></strong></p><hr><p style=""text-align: justify; margin-left: 20px;"">
+
+Disponibilizado como um
+teclado virtual, o software será integrado a uma câmera ou webcam que a pessoa
+possua para que seja feito uma análise de imagem do rosto da pessoa. Assim será
+possível que com o movimento dos olhos da pessoa, um cursor seja posicionado na
+tela e com um tempo de foco em uma tecla deste teclado, seja digitado a letra
+desejada.<br></p><p style=""text-align: justify; margin-left: 20px;""><span class=""redactor-invisible-space"">
+
+Esta é uma forma para que uma
+pessoa possa se juntar ao mundo virtual, possa usar um computador e navegar na
+internet, tendo agora a chance de se comunicar, procurar, pesquisar ou ter
+acesso a qualquer tipo de necessidade da pessoa. E além disso, um banco de voz
+será integrado ao software, fazendo com que a pessoa também possa reproduzir o
+que ela digitou, isto visando pessoas que tenham algum problema de fala possa
+também tirar proveito de nosso software.<br></span></p><p style=""text-align: justify; margin-left: 20px;""><span class=""redactor-invisible-space""><span class=""redactor-invisible-space"">
+
+A maior vantagem do nosso
+software é sem dúvida, sua gratuidade. Algumas ferramentas parecidas existem,
+porém são pagas e caras para pessoas comuns. Nosso software será completamente
+livre de taxas e será disponibilizado sem custos adicionais caso a pessoa já
+tenha uma câmera. Isto é possível pela escolha de ferramentas de desenvolvimento
+que são livres e apoiam para que software que as usem também sejam livres. Com
+isso, podemos disponibilizar um software que ajude tanto quanto ou até mais do
+que seus concorrentes e ao mesmo tempo seja completamente de graça. </span></span><strong><span class=""redactor-invisible-space""><span class=""redactor-invisible-space""><span class=""redactor-invisible-space""></span><br></span></span></strong></p><p style=""text-align: justify;"" rel=""text-align: justify;""><strong><span class=""redactor-invisible-space""></span></strong><strong></strong></p>",eye_typewriter,,,"Ciência e Tecnologia",18,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/38805/r2sThmd.jpg,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/38805/project_thumb_thumb_r2sThmd.jpg,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/38805/project_thumb_small_r2sThmd.jpg,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/38805/project_thumb_large_r2sThmd.jpg,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/38805/project_thumb_video_cover_r2sThmd.jpg,0,0,0,0,online,flex,published,,,"2016-08-02 01:10:45.604972","2016-08-01 22:10:45.604972",,t,f,t,,"{""total"" : 0, ""unit"" : ""seconds""}","{""total"" : 54, ""unit"" : ""days""}",0,"{""city"" : ""São Paulo"", ""state_acronym"" : ""SP"", ""state"" : ""São Paulo""}","{""id"" : 614225, ""name"" : ""Allan Guimarães""}",0,,f,f,0,f,f,f

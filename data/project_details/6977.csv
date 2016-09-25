@@ -1,0 +1,12 @@
+project_id,id,user_id,name,headline,budget,goal,about_html,permalink,video_embed_url,video_url,category_name,category_id,original_image,thumb_image,small_image,large_image,video_cover_image,progress,pledged,total_contributions,total_contributors,state,mode,state_order,expires_at,zone_expires_at,online_date,zone_online_date,sent_to_analysis_at,is_published,is_expired,open_for_contributions,online_days,remaining_time,elapsed_time,posts_count,address,user,reminder_count,is_owner_or_admin,user_signed_in,in_reminder,total_posts,can_request_transfer,is_admin_role,contributed_by_friends
+6977,6977,293493,"E NÓS QUE AMÁVAMOS TANTO A REVOLUÇÃO","""PARA QUE NÃO SE ESQUEÇA. PARA QUE NUNCA MAIS ACONTEÇA""","O orçamento para projetos anteriores a 24/02/2015 normalmente pode ser encontrado na descrição acima.",10000.0,"<p><img src=""http://i.imgur.com/nczCINP.jpg"" alt=""""/>
+<img src=""http://i.imgur.com/D5pX8yC.jpg"" alt=""""/>
+<img src=""http://i.imgur.com/ChAegmD.jpg"" alt=""""/>
+<img src=""http://i.imgur.com/RpcS2hA.jpg"" alt=""""/>
+<img src=""http://i.imgur.com/GQuaxQZ.jpg"" alt=""""/>
+<img src=""http://i.imgur.com/x1AMcs8.jpg"" alt=""""/>
+<img src=""http://i.imgur.com/ZrTbtSD.jpg"" alt=""""/>
+<img src=""http://i.imgur.com/7kP5b91.jpg"" alt=""""/>
+<img src=""http://i.imgur.com/MeRC59J.jpg"" alt=""""/>
+<img src=""http://i.imgur.com/As170Uz.jpg"" alt=""""/></p>
+",revolucao,//www.youtube.com/embed/huFgf5iHOa8,https://www.youtube.com/watch?v=huFgf5iHOa8,"Teatro e Dança",19,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/6977/Slide1.JPG,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/6977/project_thumb_thumb_Slide1.JPG,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/6977/project_thumb_small_Slide1.JPG,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/6977/project_thumb_large_Slide1.JPG,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/6977/project_thumb_video_cover_Slide1.JPG,1.60000000000000000000,160.0,4,4,failed,aon,finished,"2015-01-17 01:59:59","2015-01-16 23:59:59","2014-11-17 13:29:48.185931","2014-11-17 11:29:48.185931",,t,t,f,60,"{""total"" : 0, ""unit"" : ""seconds""}","{""total"" : 60, ""unit"" : ""days""}",2,"{""city"" : ""Cruzeiro"", ""state_acronym"" : ""SP"", ""state"" : ""São Paulo""}","{""id"" : 293493, ""name"" : ""Ewerton Frederico""}",0,,f,f,2,f,f,f

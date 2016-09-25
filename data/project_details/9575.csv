@@ -1,0 +1,161 @@
+project_id,id,user_id,name,headline,budget,goal,about_html,permalink,video_embed_url,video_url,category_name,category_id,original_image,thumb_image,small_image,large_image,video_cover_image,progress,pledged,total_contributions,total_contributors,state,mode,state_order,expires_at,zone_expires_at,online_date,zone_online_date,sent_to_analysis_at,is_published,is_expired,open_for_contributions,online_days,remaining_time,elapsed_time,posts_count,address,user,reminder_count,is_owner_or_admin,user_signed_in,in_reminder,total_posts,can_request_transfer,is_admin_role,contributed_by_friends
+9575,9575,383580,"Programação para cientistas","Go Open Science!","O orçamento para projetos anteriores a 24/02/2015 normalmente pode ser encontrado na descrição acima.",4000.0,"<p>A <a class=""alt-link"" target=""_blank"" href=""http://software-carpentry.org/"">Software Carpentry</a> ,
+uma fundação sem fins lucrativos,que nos últimos 15 anos&quot;:<a class=""alt-link"" href=""http://f1000research.com/articles/3-62/"" target=""_blank"">http://f1000research.com/articles/3-62/</a> ,
+ensina cientistas,
+desde
+<a class=""alt-link"" target=""_blank"" href=""http://software-carpentry.org/blog/2014/10/british-library-courses.html"">bibliotecários</a> 
+até
+<a class=""alt-link"" target=""_blank"" href=""https://abostroem.github.io/2015-01-03-aas/"">astrônomos</a> 
+e passando por
+<a class=""alt-link"" target=""_blank"" href=""http://software-carpentry.org/blog/2014/12/clinical-bioinformatics-feedback.html"">médicos</a> ,
+a utilizar softwares de forma mais produtiva
+através de workshops voltados especificamente para cientistas.
+Nos últimos dois anos eles realizaram mais de 300 workshops ao redor do mundo
+incluindo em todas as cinco melhores universidades do mundo
+de acordo com o <a class=""alt-link"" target=""_blank"" href=""http://www.timeshighereducation.co.uk/world-university-rankings/2014-15/world-ranking"">Times Higher Education World University Rankings 2014-2015</a> :
+California Institute of Technology (Caltech),
+Harvard University,
+University of Oxford,
+<a class=""alt-link"" target=""_blank"" href=""http://software-carpentry.org/blog/2014/09/videos-from-stanford.html"">Stanford University</a>  e
+University of Cambridge.</p>
+
+<p>O objetivo desse projeto é
+traduzir a material da Software Carpentry para o português,
+que será disponibilizado sob a licença
+<a class=""alt-link"" target=""_blank"" href=""https://creativecommons.org/licenses/by/4.0/deed.pt_BR)"">CC-BY</a> (maiores detalhes no <strong>FAQ</strong> 
+de forma que qualquer pessoa possa utilizá-lo como desejar,
+para que pesquisadores brasileiros possam utilizá-lo
+independentemente de serem ou não fluentes na língua inglesa.</p>
+
+<p>Eu mesmo irei desenvolver o projeto
+por <a class=""alt-link"" target=""_blank"" href=""http://blog.rgaiacs.com/categories/software_carpentry.html"">ter contribuído com a Software Carpentry nos últimos 18 meses</a> 
+de forma que conheço em detalhes como as lições são escritas
+e o dinheiro arrecado será utilizado para pagar minhas contas
+durante o período de desenvolvimento do projeto
+que está estipulado em quatro meses.</p>
+
+<p><img src=""http://scf.rgaiacs.com/img/Feedbacks.jpg"" alt=""""/></p>
+
+<ul>
+<li><p>&quot;I found out Software Carpentry on the web. I started devouring Greg&#39;s
+videos and wondering why nobody had told me all that before.&quot;</p>
+
+<p>Ivan Gonzalez
+sobre <a class=""alt-link"" target=""_blank"" href=""http://software-carpentry.org/blog/2015/01/scf-nomination-gonzalez.html"">quando descobriu a Software Carpentry</a> .</p></li>
+<li><p>&quot;Great workshop @swcarpentry! Thank you! SQL + Git + R = magical. #umichswc&quot;</p>
+
+<p><a class=""alt-link"" target=""_blank"" href=""https://twitter.com/ArielBrumbaugh"">Ariel Brumbaugh</a> 
+no <a class=""alt-link"" target=""_blank"" href=""https://twitter.com/ArielBrumbaugh/status/552600996480684032"">Twitter</a> .</p></li>
+<li><p>&quot;Software Carpentry is a key tool for scientists to be able to solve those problems.&quot;</p>
+
+<p><a class=""alt-link"" target=""_blank"" href=""http://jduck.net/cv"">Jonah Duckles</a> 
+sobre <a class=""alt-link"" target=""_blank"" href=""http://software-carpentry.org/blog/2015/01/scf-nomination-duckles.html"">o futuro da Software Carpentry</a> .</p></li>
+<li><p>&quot;Using books and online resources, I was able to self-teach myself enough
+to be functional with the Unix Shell, Python, and R. The problem with this
+approach is that you can only self-teach yourself concepts that you know
+exists. This is why SWC is so important; scientists do not realize what they
+don&#39;t know. When I attended an SWC workshop back in April 2012, I had no
+expectation that they would be able to solve the growing problem I had:
+directories full of files like &quot;analysis-1.R&quot;, &quot;analysis-2.R&quot;, etc. Now that
+all the code I write is under version control, I can say that my experience
+with SWC truly changed how I worked as a scientist.&quot;</p>
+
+<p>John Blischak
+sobre <a class=""alt-link"" target=""_blank"" href=""http://software-carpentry.org/blog/2015/01/scf-nomination-blischak.html"">seu primeiro contato com a Software Carpentry</a> .</p></li>
+<li><p>&quot;It was amazing to see people go from knowing little about Git and Python to
+being competant and enthusiastic in under 10 hours of actual teaching time.
+I’ve taught before, but never seen a group of people so quick to pick up the
+material, or so interested in learning it.&quot;</p>
+
+<p><a class=""alt-link"" target=""_blank"" href=""http://jpallen.net/"">James Allen</a> 
+sobre <a class=""alt-link"" target=""_blank"" href=""http://jpallen.net/2015/01/18/aopp-oxford-swc-debrief-part-2"">workshop em Oxford</a> .</p></li>
+</ul>
+
+<p><img src=""http://scf.rgaiacs.com/img/Metas.jpg"" alt=""""/></p>
+
+<p><img src=""http://scf.rgaiacs.com/img/meta-table.png"" alt=""""/></p>
+
+<p><img src=""http://scf.rgaiacs.com/img/Material.jpg"" alt=""""/></p>
+
+<ul>
+<li><p><a class=""alt-link"" target=""_blank"" href=""http://swcarpentry.github.io/shell-novice"">Introdução ao controle de versão com Git</a> </p>
+
+<p>Tradução para português:</p>
+
+<ul>
+<li>  <a class=""alt-link"" target=""_blank"" href=""http://scf.rgaiacs.com/git"">Versão em HTML</a> </li>
+<li>  <a class=""alt-link"" target=""_blank"" href=""http://scf.rgaiacs.com/epub/pt-git-novice.epub"">Versão em EPUB</a> </li>
+<li>  <a class=""alt-link"" target=""_blank"" href=""https://github.com/r-gaia-cs/swc-git-novice/tree/pt"">Código Fonte</a> </li>
+</ul></li>
+<li><p><a class=""alt-link"" target=""_blank"" href=""http://swcarpentry.github.io/shell-novice"">Linha de comando do Linux</a> </p></li>
+<li><p><a class=""alt-link"" target=""_blank"" href=""http://swcarpentry.github.io/python-novice-inflammation"">Introdução a programação em Python</a> </p></li>
+<li><p><a class=""alt-link"" target=""_blank"" href=""http://swcarpentry.github.io/sql-novice-survey"">Usando banco de dados e SQL</a> </p></li>
+<li><p><a class=""alt-link"" target=""_blank"" href=""http://swcarpentry.github.io/matlab-novice-inflammation"">Introdução a programação em MATLAB</a> </p></li>
+<li><p><a class=""alt-link"" target=""_blank"" href=""http://swcarpentry.github.io/r-novice-inflammation"">Introdução a programação em R</a> </p></li>
+</ul>
+
+<p><img src=""http://scf.rgaiacs.com/img/Recompensas.jpg"" alt=""""/></p>
+
+<p>Com o <strong>acesso às lições em HTML</strong> você pode lê-las
+no seu desktop, notebook, tablet ou smartphone
+e, se preferir, também pode imprimi-las.
+<strong>Quem adquirir o acesso antecipado receberá por email um link especial para acessá-las.</strong></p>
+
+<p>Os arquivos EPUBs podem ser utilizados
+no seu desktop, notebook, tablet, smartphone ou ereader (Kobo, Kindle, Nook, ...)
+mesmo na ausência de uma conexão de internet.
+<strong>Quem adquirir o acesso antecipado receberá por email um link especial para fazer o download.</strong></p>
+
+<p>Para a ajuda online com o material será utilizado o Google Hangouts
+e ela poderá ocorrer a qualquer momento de 2015
+<strong>desde que marcadas com antecedência</strong>.</p>
+
+<p>Os workshops possuem carga horária aproximada de 16 horas aula
+que normalmente são ministradas ao longo de dois dias.
+<strong>Exceto para workshops realizados em Campinas e São Paulo,
+o organizador do workshop é responsável por cobrir os custos
+de transporte (partido de Campinas) e hospedagem dos instrutores.</strong></p>
+
+<p><img src=""http://scf.rgaiacs.com/img/Cronograma.jpg"" alt=""""/></p>
+
+<p><strong>Meados de Março</strong>: adesivos são despachados nos correios.</p>
+
+<p><strong>Final de Março</strong>: primeiro material traduzido.</p>
+
+<p><strong>Final de Abril</strong>: segundo material traduzido e primeiro material da META ESTENDIDA <strong>se essa for alcançada</strong>.</p>
+
+<p><strong>Final de Maio</strong>: terceiro material traduzido.</p>
+
+<p><strong>Meados de Junho</strong>: segundo material da META ESTENDIDA <strong>se essa for alcançada</strong>.</p>
+
+<p><strong>Fim de Junho</strong>: versão final de todos os materiais traduzidos.</p>
+
+<p><strong>Julho-Dezembro</strong>: realização dos workshops.</p>
+
+<p><img src=""http://scf.rgaiacs.com/img/FAQ.jpg"" alt=""""/></p>
+
+<ol>
+<li><p><strong>Por que traduzir o material da Software Carpentry se já existe tantos outros materiais em português?</strong> O material da Software Carpentry é o único com que tive contato até hoje que ensina cientistas de forma rápida para que estes possam utilizar o que aprenderam no seu dia a dia o mais rápido possível.</p></li>
+<li><p><strong>Onde será feitos os agradecimentos?</strong> <a class=""alt-link"" target=""_blank"" href=""http://scf.rgaiacs.com/"">Nessa página</a>  e também será incluída nos EPUBs.</p></li>
+<li><p><strong>Por que a versão em PDF é uma meta estendida?</strong> Primeiro porque é difícil ler PDFs em dispositivos com tela pequena de forma que foi priorizado um formato mais amigável para todos os tamanhos de tela. Se a meta estendida para criação dos PDF eles serão disponibilizados para todos.</p></li>
+<li><p><strong>Se o PDF está como meta estendida como posso imprimir as lições?</strong> Você pode imprimir o HTML através do seu navegador web.</p></li>
+<li><p><strong>Será utilizado DRM nos EPUBs?</strong> Não.</p></li>
+<li><p><strong>Será utilizado marca d&#39;água nos EPUBs?</strong> Não.</p></li>
+<li><p><strong>Posso passar os EPUBs para amigos, colegas, alunos, ...?</strong> Sim.</p></li>
+<li><p><strong>Posso disponibilizar os EPUBs na minha página pessoa ou Dropbox/Google Drive/...?</strong> Sim.</p></li>
+<li><p><strong>Posso vender os EPUBs?</strong> Sim.</p></li>
+<li><p><strong>Posso alterar os EPUBs?</strong> Sim.</p></li>
+<li><p><strong>Posso distribuir os EPUBs com minhas alterações?</strong> Sim.</p></li>
+<li><p><strong>Os arquivos fontes serão disponibilizados?</strong> Sim.</p></li>
+<li><p><strong>Qual é a taxa adminstrativa cobrada pela Software Carpentry para organizar um  workshops?</strong> <a class=""alt-link"" target=""_blank"" href=""http://software-carpentry.org/workshops/operations.html#host_cost"">US$1250</a> . Isso mesmo, mil duzentos e cinquenta dólares.</p></li>
+<li><p><strong>Precisarei pagar essa taxa adminstrativa?</strong> Não. <a class=""alt-link"" target=""_blank"" href=""software-carpentry.org/workshops/operations.html#host_reducing_cost"">Como estarei lhe ajudando com a organização</a>  você não precisará pagar a taxa administrativa.</p></li>
+<li><p><strong>É possível dividir a carga horário do workshop em 4 dias?</strong> Sim.</p></li>
+<li><p><strong>Posso cobrar pela participação nos workshops?</strong> Sim. O objetivo era você e
+seus colegas se organizarem para adquirirem a recompensa com o workshop mas
+se você desejar adquirir a recompensa e depois encontrar participantes
+pagantes para o workshop não existe nenhum problema.</p></li>
+<li><p><strong>Onde os arquivos originais serão disponibilizados?</strong> <a class=""alt-link"" target=""_blank"" href=""http://github.com/"">GitHub</a> </p></li>
+<li><p><strong>Quando os arquivos originais serão disponibilizados?</strong> Os arquivos originais serão disponibilizados a medida que a tradução for sendo realizada.</p></li>
+<li><p><strong>Qual programa será utilizado para converter os arquivos fontes em HTML e EPUB?</strong> <a class=""alt-link"" target=""_blank"" href=""http://pandoc.org/"">Pandoc</a> . Ele é software livre o que garante que você será capaz de gerar novamente os arquivos HTML e EPUB se desejar.</p></li>
+</ol>
+",programacaocientifica,//www.youtube.com/embed/nG-2vkjfCck,http://youtu.be/nG-2vkjfCck,Educação,31,,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/video_thumbnail/9575/project_thumb_thumb_open-uri20150119-3-1kvu1ry,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/video_thumbnail/9575/project_thumb_small_open-uri20150119-3-1kvu1ry,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/video_thumbnail/9575/project_thumb_large_open-uri20150119-3-1kvu1ry,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/video_thumbnail/9575/project_thumb_video_cover_open-uri20150119-3-1kvu1ry,31.62500000000000000000,1265.0,24,24,failed,aon,finished,"2015-03-03 02:59:59","2015-03-02 23:59:59","2015-01-26 02:00:37.643826","2015-01-26 00:00:37.643826",,t,t,f,35,"{""total"" : 0, ""unit"" : ""seconds""}","{""total"" : 36, ""unit"" : ""days""}",0,"{""city"" : ""Campinaçu"", ""state_acronym"" : ""GO"", ""state"" : ""Goiás""}","{""id"" : 383580, ""name"" : ""Raniere Gaia Costa da Silva""}",1,,f,f,0,f,f,f

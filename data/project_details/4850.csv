@@ -1,0 +1,25 @@
+project_id,id,user_id,name,headline,budget,goal,about_html,permalink,video_embed_url,video_url,category_name,category_id,original_image,thumb_image,small_image,large_image,video_cover_image,progress,pledged,total_contributions,total_contributors,state,mode,state_order,expires_at,zone_expires_at,online_date,zone_online_date,sent_to_analysis_at,is_published,is_expired,open_for_contributions,online_days,remaining_time,elapsed_time,posts_count,address,user,reminder_count,is_owner_or_admin,user_signed_in,in_reminder,total_posts,can_request_transfer,is_admin_role,contributed_by_friends
+4850,4850,247638,"Quando a cidade virou Jazz.","Livro fotográfico sobre música, jazz. Contendo também  textos e poesias de grandes nomes da música brasileira e internacional. ","O orçamento para projetos anteriores a 24/02/2015 normalmente pode ser encontrado na descrição acima.",18000.0,"<p>Livro fotográfico contendo imagens captadas pelo fotógrafo Felipe Campal no II Pelotas Jazz Festival. Cada capítulo será dedicado a um dos músicos ou bandas que participaram do Festival. Porém textos enviados pelos músicos complementam cada capítulo, transformando a obra em um livro que respira música, jazz, poesia e sabedoria. Grandes nomes da música brasileira e internacional participam do projeto, são eles: Hamilton de Holanda, Delicatessen, Gilson Peranzzetta e Mauro Senise, Yamandú Costa, Toninho Horta, João Donato, Nós 3, Popó e Trio, Luciano Maia, Juan Prada, James Liberato,  Raul de Souza e Duo Finlândia. O projeto tem 60% do seu financiamento captado pelo pró - cultura da cidade de Pelotas. O livro terá capa dura , sobre-capa, miolo com 208 páginas no tamanho 21 x 28 cm. Serão impressas 1000 cópias, destas, 400 serão doadas para escolas municipais , bibliotecas e universidades. A verba aqui arrecadada será utilizada no complemento do orçamento e distribuída da seguinte forma:</p>
+
+<p><img src=""https://i.imgur.com/Z4XQTIM.jpg"" alt=""""/></p>
+
+<p>Curta a página no Facebook e saiba mais sobre o projeto:</p>
+
+<p><a class=""alt-link"" href=""https://www.facebook.com/quandoacidadeviroujazz?fref=ts"" target=""_blank"">https://www.facebook.com/quandoacidadeviroujazz?fref=ts</a></p>
+
+<p>Algumas fotografias que compõem o livro:</p>
+
+<p>João Donato
+<img src=""http://i.imgur.com/y0ebqqD.jpg"" alt=""""/>
+Hamilton de Holanda
+<img src=""http://i.imgur.com/SR94mYD.jpg"" alt=""""/>
+<img src=""http://i.imgur.com/NeHXnzU.jpg"" alt=""""/>
+Delicatessen
+<img src=""http://i.imgur.com/ZgbYKlo.jpg"" alt=""""/>
+<img src=""http://i.imgur.com/xbWAge4.jpg"" alt=""""/>
+Toninho Horta
+<img src=""http://i.imgur.com/RDnf918.jpg"" alt=""""/>
+Yamandu Costa
+<img src=""http://i.imgur.com/qYdSQm6.jpg"" alt=""""/>
+<img src=""http://i.imgur.com/8jX8Suh.jpg"" alt=""""/></p>
+",livrojazz,//www.youtube.com/embed/MnTdZntls_g,https://www.youtube.com/watch?v=MnTdZntls_g&feature=youtu.be,Fotografia,17,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/4850/IMG_1719.jpg,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/4850/project_thumb_thumb_IMG_1719.jpg,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/4850/project_thumb_small_IMG_1719.jpg,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/4850/project_thumb_large_IMG_1719.jpg,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/4850/project_thumb_video_cover_IMG_1719.jpg,103.88888888888888888900,18700.0,117,87,successful,aon,finished,"2014-07-19 02:59:59","2014-07-18 23:59:59","2014-05-19 13:15:45.563791","2014-05-19 10:15:45.563791",,t,t,f,60,"{""total"" : 0, ""unit"" : ""seconds""}","{""total"" : 60, ""unit"" : ""days""}",0,"{""city"" : ""Pelotas"", ""state_acronym"" : ""RS"", ""state"" : ""Rio Grande do Sul""}","{""id"" : 247638, ""name"" : ""Felipe Estrela Campal""}",0,,f,f,0,f,f,f

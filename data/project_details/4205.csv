@@ -1,0 +1,641 @@
+project_id,id,user_id,name,headline,budget,goal,about_html,permalink,video_embed_url,video_url,category_name,category_id,original_image,thumb_image,small_image,large_image,video_cover_image,progress,pledged,total_contributions,total_contributors,state,mode,state_order,expires_at,zone_expires_at,online_date,zone_online_date,sent_to_analysis_at,is_published,is_expired,open_for_contributions,online_days,remaining_time,elapsed_time,posts_count,address,user,reminder_count,is_owner_or_admin,user_signed_in,in_reminder,total_posts,can_request_transfer,is_admin_role,contributed_by_friends
+4205,4205,60327,"Protoptimus - CNC ao seu alcance","Queremos democratizar o acesso às tecnologias de fabricação digital no Brasil","O orçamento para projetos anteriores a 24/02/2015 normalmente pode ser encontrado na descrição acima.",35685.0,"<p>International backers, <a class=""alt-link"" target=""_blank"" href=""http://www.protoptimus.com/p/arduino-cnc-milling-machine-router.html"">read this</a></p>
+
+<p><img src=""http://lh4.googleusercontent.com/-RFpCtasyujo/U8chM0AJuII/AAAAAAAACcA/DV4HNp0W5T8/s600/fim-de-campanha.png"" alt=""""/></p>
+
+<p>Acesse <strong><a class=""alt-link"" href=""http://www.protoptimus.com.br"" target=""_blank"">www.protoptimus.com.br</a></strong> e confira tudo o que este fabricante nacional de máquinas CNC pode lhe oferecer.
+- Máquinas de usinagem CNC, completas e montadas.
+- Kits e componentes para montagem de máquinas.</p>
+
+<p><a class=""alt-link"" target=""_blank"" href=""http://www.protoptimus.com.br/contato/"">Clique aqui</a> para entrar em contato conosco.</p>
+
+<p><strong><em>&quot;Queremos democratizar o acesso às tecnologias de fabricação digital no Brasil&quot;</em></strong></p>
+
+<p>Nossa campanha no Catarse <strong>chegou ao fim</strong> no dia 16/07/2014. O <a class=""alt-link"" target=""_blank"" href=""http://suporte.catarse.me/hc/pt-br/articles/201982466-O-que-%C3%A9-e-como-funciona-o-Catarse"">Catarse é uma plataforma de financiamento coletivo</a>, onde qualquer pessoa que se interessar por um projeto, pode ajudá-lo fazendo uma colaboração financeira em troca de recompensas. Percebemos que muitos dos interessados na proposta da Protoptimus ainda não conheciam o <em>crowdfunding</em>. <a class=""alt-link"" target=""_blank"" href=""http://suporte.catarse.me/hc/pt-br/articles/201982466-O-que-%C3%A9-e-como-funciona-o-Catarse"">Clique aqui</a> e saiba mais sobre o que é o Catarse.</p>
+
+<p><strong>Nossa campanha não foi financiada.</strong></p>
+
+<p>Não nos restam dúvidas, a partir de feedbacks de nossos primeiros clientes e parceiros, que o fator limitante ao sucesso da campanha foi a falta de opção para o pagamento parcelado das recompensas.</p>
+
+<p>A Protoptimus mantém contato com a plataforma Catarse, compartilhando informações e dados importantes, para que o financiamento coletivo no Brasil comece a se destacar também entre projetos de ciência e tecnologia, incluindo o financiamento de soluções em produtos.</p>
+
+<p>Acreditamos que o financiamento coletivo é uma <strong>ferramenta poderosa</strong> para fomentar a <strong>inovação e o empreendedorismo</strong>, sobretudo entre os agentes que encontram mais dificuldades em começar empreitadas deste teor no país.</p>
+
+<p><strong>Você desenvolve inovação tecnológica?</strong> Entre em contato com a Protoptimus. Teremos prazer em lhe ajudar nesta jornada, e podemos auxiliá-lo gratuitamente na formulação da sua campanha de crowdfunding aqui no Catarse.</p>
+
+<p>Apesar desta campanha não ter sido financiada, os resultados benéficos à proposta superou em muito as expectativas. Por isso, seremos eternamente gratos ao Catarse pela oportunidade dada.
+Além da visibilidade alcançada, a campanha nos permitiu formar entre diversas parcerias, uma equipe de peso para atuar neste projeto em conjunto com seu fundador. Mais informações sobre esta equipe, somente poderão estar disponíveis publicamente em no nosso site a partir de 01/09/2014.</p>
+
+<p>Após o dia 16/07/2014 a Protoptimus estará atuando predominantemente em:</p>
+
+<p>Venda de máquinas CNC diretamente no site <a class=""alt-link"" target=""_blank"" href=""http://www.protoptimus.com.br/maquinas-cnc-acessiveis-open-source/"">Protoptimus.com.br</a></p>
+
+<p>Venda de máquinas CNC em sua sede, em <a class=""alt-link"" target=""_blank"" href=""http://www.protoptimus.com.br/contato/"">São José dos Campos - SP</a></p>
+
+<p>Contato e negociação com mais parceiros estratégicos chave, para que possamos prover soluções em tecnologias do CNC baseados em <em>open source</em>, em larga escala, no curto prazo e em alinhamento com os propósitos da comunidade <em>Maker</em> internacional.
+Entre os parceiros de papel fundamental nesta jornada, destacamos:
+- <em>FabLabs</em>, <em>HackerSpaces</em> e instituições de ensino, pesquisa e desenvolvimento.
+- A comunidade <em>Maker</em> brasileira, para aceleramos a criação do primeiro Wiki nacional, completo e de fácil compreensão, pautado em usinagem CNC <em>open source</em>, compartilhando todos os projetos atuais e futuros da Protoptimus.
+- Novos colaboradores para a empresa.
+- Parceiros institucionais de fomento à inovação e P&amp;D.
+- Agentes do ecossistema brasileiro de crédito e investimento <em>series B</em>.</p>
+
+<p>Ainda no curto prazo, iremos vender kits de montagem para máquinas de usinagem CNC de pequeno e médio porte, e toda gama de componentes para você usar em seus próprios projetos.</p>
+
+<p>No médio prazo, teremos disponibilizado nosso primeiro projeto de Impressora 3D, e iniciaremos sua fabricação e venda de kits, sempre focando no baixo custo. Nossa prioridade inicialmente são as máquinas de usinagem.</p>
+
+<p>Você que apoiou nossa campanha no Catarse, acesse a aba de novidades, no topo, para saber como reivindicar sua recompensa escolhida, ou <a class=""alt-link"" target=""_blank"" href=""http://suporte.catarse.me/hc/pt-br/sections/200408853-Apoiadores-Reembolso-e-cr%C3%A9ditos"">veja o passo a passo para receber sua contribuição de volta.</a></p>
+
+<p><strong>Obrigado!</strong></p>
+
+<p>Jeferson Simões
+CEO - Protoptimus
+CNC ao seu alcance</p>
+
+<p><em>&quot;If the doors of perception were cleansed everything would appear to man as it is, infinite&quot;</em></p>
+
+<div class=""video youtube""><iframe width=""600"" height=""403"" src=""//www.youtube.com/embed/pDsf5eN_liU?wmode=opaque"" frameborder=""0"" allowfullscreen></iframe></div>
+
+<hr>
+
+<p>A Protoptimus irá fabricar <strong>Routers CNC, acessíveis e fáceis de usar</strong>.</p>
+
+<p><strong>Router o que?</strong></p>
+
+<p>Uma Router CNC é uma máquina controlada por computador usada para fazer gravações, cortes e usinagens. <strong>Ela faz trabalhos assim:</strong></p>
+
+<p><img src=""https://lh3.googleusercontent.com/-VacZT-6W-wI/U3wh0RlRbYI/AAAAAAAAB-o/6h-d46IyTuQ/s600/exemplos-iniciais.jpg"" alt=""""/></p>
+
+<p><img src=""https://lh4.googleusercontent.com/-vs8F2WqC3Fo/U3wnZJP_tUI/AAAAAAAAB-4/OpJNbbWj2L0/s600/prototipo-atual.png"" alt=""""/></p>
+
+<p><img src=""https://lh3.googleusercontent.com/-gHVgccII050/U7Rpzl9UJII/AAAAAAAACZw/wDJhHLIRpvg/s600/press.png"" alt=""""/></p>
+
+<p>Veja abaixo quais <strong>recompensas</strong> você pode escolher por <strong>apoiar</strong> a Protoptimus, é só clicar na recompensa desejada na coluna à direita --&gt;</p>
+
+<p><strong>Quer mais de uma recompensa?</strong> Você pode fazer quantos apoios quiser, escolhendo uma recompensa a cada pedido.</p>
+
+<p><img src=""https://lh6.googleusercontent.com/-wK-l5YjC0kE/U7IMnt-pZkI/AAAAAAAACY0/dypcCbqtDME/h2270/resumo-recompensas.png"" alt=""""/></p>
+
+<p><img src=""https://lh6.googleusercontent.com/-ZigCbNu1ucw/U8B0gQOwF3I/AAAAAAAACbg/N_3jPl09Z0w/s600/quadros-chaveiro-unifei-protoptimus.png"" alt=""""/></p>
+
+<p>Colegas e professores Unifeinianos. Irei produzir recompensas personalizadas para vocês:</p>
+
+<p><strong>- Pelo menos 4 opções de quadros com a temática Unifei.</strong>
+Encomende seu quadro através das recompensas #2 ou #4, respectivamente em 15x15cm e 30x30cm.
+Obs: Enviaremos um e-mail para saber sua escolha de arte, e cor/acabamento do MDF.
+<strong>- Chaveiro Unifei usinado em alumínio. Recompensa #14.</strong></p>
+
+<p>Acreditamos que o Catarse é forma mais fácil de oferecer a encomenda de nossas primeiras máquinas CNC, e levantar o capital inicial para construirmos um fabricante sério, nacional, de máquinas mais acessíveis, montadas e calibradas, e claro, mais fáceis de usar e que está sempre em desenvolvimento por optar por plataformas de código aberto.</p>
+
+<p><strong>Para encomendar sua Router:</strong>
+- Leia toda a descrição desta campanha;
+- Clique em &quot;Apoiar este projeto&quot;;
+- Cadastre-se no Catarse (ou clique em &quot;Entrar com o Facebook&quot;);
+- Escolha sua versão da máquina, que são as recompensas de #6 a #10;
+- Escolha a forma de pagamento;</p>
+
+<p><img src=""https://lh4.googleusercontent.com/-i2_JWzl0S7I/U792cC6w6XI/AAAAAAAACbM/-5gmMWF44vs/s600/fale-conosco.png"" alt=""""/>
+<strong>&lt;a target=&quot;_blank&quot; href=&quot;<a class=""alt-link"" href=""http://www.protoptimus.com/p/contato.html"" target=""_blank"">http://www.protoptimus.com/p/contato.html</a></strong>&quot;&gt;Entre em contato conosco clicando aqui</a></p>
+
+<p><strong>Não deixe de ler</strong> após ver nossa história (1) mais abaixo:
+2 - As recompensas em detalhes;
+3 - O estado atual do nosso protótipo;
+4 - Dados Técnicas das nossas Routers CNC;
+5 - Exemplos de trabalhos que você poderá fazer com sua Router CNC;
+6 - Como o dinheiro será usado;
+7 - Cronograma / prazos para envio das recompensas;
+8 - Riscos;
+9 - Sobre nós;
+10 - Links, contato e endereço;</p>
+
+<p><strong>E como se usa uma máquina como essa?</strong>
+Veja nosso primeiro vídeo tutorial de criação de um trabalho. Iremos criar muitos outros vídeos tutoriais, e disponibilizar no Youtube.</p>
+
+<div class=""video youtube""><iframe width=""600"" height=""403"" src=""//www.youtube.com/embed/1zpMW60_G8o?wmode=opaque"" frameborder=""0"" allowfullscreen></iframe></div>
+
+<p><img src=""https://lh3.googleusercontent.com/-kB4selGZBDs/U3skULBv5OI/AAAAAAAAB98/5ZVUbTDmsY0/s600/protoptimus-historia.png"" alt=""""/></p>
+
+<p>Minha mãe e minha tia fazem doces para festas e casamentos, e seus clientes pediam chocolates personalizados. Para isso, elas precisavam de um meio para criar um modelo personalizado, no formato do chocolate, para usar na confecção de uma forminha, que então, seria usada para moldar o chocolate em si.</p>
+
+<p><img src=""https://lh4.googleusercontent.com/-b2HvKAcc8kE/U37ikqV7ygI/AAAAAAAACDg/26pkHcBGT3c/s600/Mae-Tia-Doces.jpg"" alt=""""/>
+<em>Minha mãe, e minha tia</em></p>
+
+<p>A primeira solução que tive em mente para criar os modelos personalizados seria comprar uma Impressora 3D. Mas ao entrar em contato com a tecnologia, vi que ela não seria o ideal, pois o acabamento dos objetos impressos pelas impressoras 3D mais acessíveis era baixo para esta aplicação, e o tempo de impressão, muito alto.</p>
+
+<p>Resolvi pesquisar para comprar uma máquina CNC para usinar os modelos. Me frustrei quando recebi os primeiros orçamentos. Pouquíssimas opções abaixo dos 10 mil reais, e a maioria usam tecnologias ultrapassadas, exigindo conhecimento mais avançado para sua operação e um computador antigo, compatível com a defasada porta paralela de impressora.</p>
+
+<p>Pesquisando fora do Brasil, encontrei diversos modelos de baixo custo e fáceis de operar. Porém importar uma máquina montada estava fora de cogitação devido aos altos custos do frete - as máquinas são pesadas - dos impostos e ainda a falta de suporte e instruções em português.</p>
+
+<p>Eu realmente queria comprar uma máquina desta, pois já imaginava o trabalho que daria eu mesmo construir uma. <strong>Mas não tive e$colha!</strong></p>
+
+<p>Após alguns meses pesquisando, e colocando em prática o conhecimento conquistado na Universidade Federal de Itajubá, importei apenas os componentes que não são produzidos aqui no Brasil, e meu primeiro protótipo ganhou vida na metade de janeiro.</p>
+
+<p><img src=""https://lh4.googleusercontent.com/-R_2CyO8L8tI/U3wrxLF7HdI/AAAAAAAAB_M/pU0afMQX97g/s600/primeira.jpg"" alt=""""/></p>
+
+<p>Desde então, venho aperfeiçoando minhas máquinas, sempre visando o baixo custo e facilidade de operação.</p>
+
+<p><img src=""https://lh3.googleusercontent.com/-TE6BiWqSIwE/U3wq_z6zvzI/AAAAAAAAB_E/qFwppKhStWM/s600/Evolucao-dos-prototipos.jpg"" alt=""""/></p>
+
+<p>A máquina usa eletrônica/controle de código livre, e já há disponível uma ampla gama de softwares gratuitos para desenhar os modelos (processo de CAD), e convertê-los para a linguagem da máquina (processo de CAM).</p>
+
+<p>Levei minha máquina na Campus Party 7 para trocar conhecimentos com a comunidade de desenvolvimento de softwares livres (neste caso, Arduino), e lá me deparei com um mercado carente de inovação, sobretudo no que diz respeito aos custos.</p>
+
+<p>Oras, se eu precisava de uma máquina CNC, mas não dispunha de tanto dinheiro para comprar uma, era de imaginar que outras pessoas estavam na mesma situação.</p>
+
+<p>E realmente estavam. Os Campuseiros e visitantes da Campus Party queriam saber mais sobre a máquina e principalmente, quando e por quanto eu iria vendê-la.</p>
+
+<p><img src=""https://lh4.googleusercontent.com/-jOA_l8zEC3Q/U3wt2jRNEVI/AAAAAAAAB_Y/ZXm9TJ_Ld8g/s600/campus-party.jpg"" alt=""""/></p>
+
+<p>A comunidade RobôLivre me convidou para participar do concurso &quot;Traga seu Robô&quot;. Ficando conhecida como &quot;O Robô que escreve em mármore&quot;, minha máquina foi premiada com a primeira colocação.</p>
+
+<p>O site Designoteca, uma rede social para designers, me selecionou como um dos 12 top makers da Campus Party.</p>
+
+<p><img src=""https://lh5.googleusercontent.com/-bjreHT8L0U4/U3wwxYrvPWI/AAAAAAAAB_k/yMpFcU0CIoU/s600/empreendedorismo.jpg"" alt=""""/></p>
+
+<p>Lanço esta proposta para levantar o capital necessário para começar a fabricar em maior escala as duas primeiras versões de Router CNC da Protoptimus.</p>
+
+<p>Uma máquina CNC como esta, irá garantir renda extra para qualquer  pessoa que comprá-la, ou a profissionalização e melhora da qualidade dos trabalhos feitos por micro-empresas de diversos ramos que ainda não usufruem desta tecnologia.</p>
+
+<p>Máquinas como esta são usadas em comunicação visual, engenharia, prototipagem, e entre muitas outras áreas, até para fazer modelos para forminhas personalizadas para chocolate =]</p>
+
+<p>Você poderá realizar diversos tipos de trabalhos. <strong>A criatividade é o limite!</strong></p>
+
+<p>Mesmo que seu orçamento seja limitado, você pode encontrar formas alternativas para começar a trabalhar.
+Como exemplo, quase todos os trabalhos em MDF que eu fiz com minhas máquinas, incluindo a primeira máquina que construí, a matéria prima foi obtida em uma caçamba de retalhos de uma marcenaria. Será fácil para você encontrar retalhos de materiais que possam ser reciclados, se transformando em produtos legais, com valor agregado.</p>
+
+<p><img src=""https://lh5.googleusercontent.com/-tMHuR2GfM4I/U3wx66x9KyI/AAAAAAAAB_s/Y4pUIuMLQDQ/s600/cacamba-retalhos-mdf.jpg"" alt=""""/></p>
+
+<p>Eu torço para que, com sua Router CNC, você possa começar seu próprio negócio. Para que você gere empregos, fomente a economia à sua volta e traga retornos positivos para a sociedade.</p>
+
+<p><strong>Você já é um empreendedor?</strong>
+Excelente! Com sua primeira Router CNC, por um valor acessível, sua empresa irá faturar mais e com certeza, terá o retorno do investimento em pouco tempo, lhe permitindo comprar uma Router maior (que tomara, também seja da Protoptimus) para escalar ainda mais seu negócio!</p>
+
+<p>A <strong>missão</strong> da Protoptimus se resume em facilitar o acesso à esta tecnologia no Brasil. Estou fundando esta empresa em torno de dois <strong>valores</strong> que eu acredito que nosso país ainda carece muito:</p>
+
+<p><strong>Empreendedorismo</strong></p>
+
+<p>Desejo que você possa lucrar muito ao entrar em contato com esta tecnologia, para então...</p>
+
+<p><strong>Transformação</strong></p>
+
+<p>Quero ouvir e espalhar a sua história! Conte-me:</p>
+
+<ul>
+<li>Como sua primeira Router CNC lhe ajudou a criar/ampliar o próprio negócio?</li>
+<li>Quantos empregos você gerou?</li>
+<li>Qual o impacto econômico e social do seu trabalho na sua região?</li>
+</ul>
+
+<p>Compartilhe conosco fotos e vídeos de sua máquina trabalhando, e <strong>boa usinagem ;]</strong></p>
+
+<p><img src=""https://lh6.googleusercontent.com/-wATtoNZKvFQ/U3skUuhktTI/AAAAAAAAB9s/6sdWaQaqlOU/s600/protoptimus-recompensas.png"" alt=""""/></p>
+
+<p>O Catarse é uma ferramenta de <strong>crowdfunding</strong>, ou seja, aquela que reúne pessoas para apoiar um projeto bacana através de um financiamento coletivo, onde o criador da campanha lhe enviará recompensas pelo apoio.</p>
+
+<p>A Protoptimus oferece duas categorias de recompensas:</p>
+
+<p><em>Trabalhos feitos com nossa Router CNC... e a própria <strong>Router CNC!</strong></em></p>
+
+<p>As recompensas de número 2 a 5 são produtos fabricados pela nossa Router CNC.
+As recompensas de 6 a 10 são as nossas Routers CNC em sua versão final que irão ao mercado, a qual já temos o projeto final concluído, com duas opções de máquina. As imagens mostram nosso protótipo de máquina mais recente, e a versão final será visualmente muito semelhante. Os detalhes das diferenças entre o protótipo atual e a versão final estão descritos a partir do item #3.</p>
+
+<p><img src=""https://lh6.googleusercontent.com/-ETrc_RV2G08/U34N1plhbEI/AAAAAAAACB0/7d5_G3TgXVA/s600/trabalhos.png"" alt=""""/></p>
+
+<p><strong>0) - BACKERS -</strong>
+<em>R$ 10,00 - Valor mínimo para apoiar um projeto no Catarse.</em>
+Soltaremos uma nota de agradecimento, e teremos em nosso site uma lista com o nome de todos os apoiadores.</p>
+
+<p><strong>1) - CHAVEIRINHO -</strong>
+<em>para R$ 30,00 ou mais</em>
+<strong>Frete Grátis</strong>
+Durante a permanência de nossa campanha no Catarse, iremos elaborar 10 modelos de chaveiros legais para você escolher quando a campanha chegar ao seu fim. Serão usinados em nossa própria Router CNC, em acrílico ou mdf, à sua escolha.
+Envie-nos sugestões de modelos =]</p>
+
+<p><strong>2) - MINI QUADRO -</strong>
+<em>para R$ 49,00 ou mais</em>
+<strong>Frete Grátis</strong>
+Você irá escolher entre vários modelos de quadros com temáticas nerd, de bandas e artistas, filmes e seriados. Envie-nos sugestões para elaborarmos os modelos que serão disponibilizados. Usinados em MDF revestido, com 15x15cm.</p>
+
+<p>&quot;<strong>Veja o vídeo da usinagem do Rocky aqui</strong>&quot;:<div class=""video youtube""><iframe width=""600"" height=""403"" src=""//www.youtube.com/embed/3IwfLGbLIRs?wmode=opaque"" frameborder=""0"" allowfullscreen></iframe></div></p>
+
+<p><em>Alguns exemplos de artes para quadros 15x15cm</em>
+<img src=""https://lh3.googleusercontent.com/-zRr-E0mar3Y/U6O_rDoz2OI/AAAAAAAACRs/AFm3GwOLnJk/s600/quadros-15-15.png"" alt=""""/></p>
+
+<p><strong>3) - HALFTONE PHOTO -</strong>
+<em>para R$ 75,00 ou mais</em>
+<strong>Frete Grátis</strong>
+Você receberá uma foto como essas!</p>
+
+<p><img src=""https://lh3.googleusercontent.com/-iOzQrHz9hS0/U315dwm6XaI/AAAAAAAACAE/r7ogVwNy0Ic/s600/Fotos%2520Half%2520Tone.jpg"" alt=""""/></p>
+
+<p>São alguns exemplos que já fizemos com nossas máquinas. As fotos serão usinadas a partir de MDF com revestimento plástico na cor preta, e terão tamanho máximo de 25x25cm.
+Para isso, solicitaremos por e-mail que nos envie a foto desejada, quando a campanha chegar ao fim.
+Você receberá via email uma simulação em computador de como a foto ficará para que possa aprovar sua confecção, ou para que façamos ajustes, ou ainda, para que nos envie outra foto que possa ter um resultado ainda melhor.
+<strong>Dicas:</strong>
+- Consiga uma foto onde haja um bom contraste entre o fundo e o objeto. Em outras palavras, o ideal é que o fundo, cor de pele e cabelos, sejam todos de cores, ou ao menos tonalidades, diferentes.
+- Escolha uma foto que enquadre bem o que se quer reproduzir na foto. Em outras palavras, o ideal é uma foto de rosto, de no máximo duas ou três pessoas.</p>
+
+<p><strong>4) - QUADRO  -</strong>
+<em>Para R$ 85,00 ou mais</em>
+<strong>Frete Grátis</strong>
+Você irá escolher entre vários modelos de quadros com temáticas nerd, de bandas e artistas, filmes e seriados. Envie-nos sugestões para elaborarmos os modelos que serão disponibilizados. Usinados em MDF revestido, com 30x30cm.
+Além do Yoda lá em cima, mais dois exemplos que já fizemos.
+<img src=""https://lh4.googleusercontent.com/-Tw5fJeUMsr0/U58JNory7JI/AAAAAAAACPY/3Wl2nNeBY1E/s600/quadros-30x30.jpg"" alt=""""/></p>
+
+<p>Teremos pelo menos 20 modelos para você escolher =]
+<em>Além de todas as artes dos quadros 15x15cm, estas também estarão disponíveis</em>
+<img src=""https://lh4.googleusercontent.com/-z3ffSxn97sw/U6O_rGuEKkI/AAAAAAAACRo/uaCjcuh6up8/s600/quadros-30-30.png"" alt=""""/></p>
+
+<p><strong>5) - CHOCO-LOGO -</strong>
+<em>para R$ 200,00 ou mais</em>
+(acrescente R$ 5,00 por forma adicional)
+<strong>Frete Grátis</strong></p>
+
+<p><img src=""https://lh4.googleusercontent.com/-pK9qRey3YU8/U37f-tMXhoI/AAAAAAAACDQ/xtOoi1uuaGE/s600/Forminha-Choco-Logo.jpg"" alt=""""/>
+<em>Forminha ThunderCats apenas ilustrativa. Esta eu não vendo de jeito nenhum rss. Mas se quiser o chocolate, minha mãe vende =P</em></p>
+
+<p>Você receberá uma forma de chocolate com o nome, ou logo, ou logo + nome; de sua empresa.
+<strong>Deixe sua marca mais gostosa</strong>
+Será o brinde mais gostoso que você mesmo poderá fabricar para distribuir para seus clientes.
+Você vai receber um tutorial para aprender a moldar os chocolates.</p>
+
+<p>As forminhas de chocolates são produzidas através do processo <strong>Vacuum Forming</strong>. 
+As formas são de PETG, material plástico comumente usado em embalagens/formas de alimentos. Quando compra-se folhas de PETG, elas já vêm com películas/filmes plásticos de proteção em ambos os lados. Desse modo, a forma criada através do processo de Vacuum Forming não entra em contato direto com o modelo, uma vez que retiramos os filmes de proteção do PETG somente após moldá-lo.</p>
+
+<p><img src=""https://lh4.googleusercontent.com/-OM7gWS4aSFg/U315z3QzlGI/AAAAAAAACAU/_I3aCdoRsRE/s600/Vacuum%2520Forming%2520Process.jpg"" alt=""""/></p>
+
+<p>Importante: A depender da complexidade da fonte que sua empresa utiliza no nome, e ou do logotipo, o resultado final do chocolate pode não ser satisfatório.
+Envie-nos um e-mail antes de apoiar através dessa recompensa para que possamos avaliar a fonte/logo de sua empresa e enviar um feedback se será viável sua confecção.</p>
+
+<p><img src=""https://lh5.googleusercontent.com/-qv3KYI9ztD8/U34N1koo6ZI/AAAAAAAACB4/ytF9_TWDa8M/s600/routers.png"" alt=""""/></p>
+
+<p><strong>6) - CNC-MAKER - <em>Promo!</em></strong>
+<em>para R$ 4.499,00.</em>
+Você receberá uma <strong>Router CNC Protoptimus <em>P1</em></strong>
+(detalhes das máquinas mais abaixo no item #4 Dados Técnicos)
+Recompensa limitada à <em><strong>3 unidades da P1 com valor promocional</strong></em> para lançamento de nossa campanha aqui no Catarse.</p>
+
+<p><strong>7) - CNC-MAKER -</strong>
+<em>para R$ 4.699,00.</em>
+Você receberá uma <strong>Router CNC Protoptimus <em>P1</em></strong>
+(detalhes das máquinas mais abaixo no item #4 Dados Técnicos)
+Valor base de nossa Router P1 quando iniciarmos as vendas em nosso próprio site, após a entrega de todas as máquinas encomendadas aqui pelo Catarse.</p>
+
+<p><strong>8) - CNC PRO-MAKER - <em>Promo!</em></strong>
+<em>para R$ 5.599,00.</em>
+Você receberá uma <strong>Router CNC Protoptimus <em>P2</em></strong>
+(detalhes das máquinas mais abaixo no item #4 Dados Técnicos)
+Recompensa limitada à <em><strong>3 unidades da P2 com valor promocional</strong></em> para lançamento de nossa campanha aqui no Catarse.</p>
+
+<p><strong>9 ) - CNC PRO-MAKER -</strong>
+<em>para R$ 5.999,00.</em>
+Você receberá uma <strong>Router CNC Protoptimus <em>P2</em></strong>
+(detalhes das máquinas mais abaixo no item #4 Dados Técnicos)
+Valor base de nossa Router P2 quando iniciarmos as vendas em nosso próprio site, após a entrega de todas as máquinas encomendadas aqui pelo Catarse.</p>
+
+<p><strong>10) - <em>CNC MASTER</em> -</strong>
+<em>para R$ 7.499,00.</em>
+Você receberá uma <strong>Router CNC Protoptimus <em>P2</em></strong>
+(detalhes das máquinas mais abaixo no item #4 Dados Técnicos)
+<strong><em>Recompensa limitada à 4 apoiadores</em></strong>, e <em>somente para retirada</em> na sede da Protoptimus (São José dos Campos - SP).</p>
+
+<p>Além dos tutoriais básicos e dicas de onde conseguir mais informações para se especializar; que todos os compradores de nossas Routers receberão para aprender a trabalhar com a máquina, você que encomendar a recompensa número <strong>10 - CNC MASTER</strong> receberá um <strong>mini-curso com 4 horas de duração, individualmente</strong>, onde seguiremos uma ementa pré-definida, mas podendo ser totalmente alterada para atender às suas necessidades específicas, baseadas no seu grau de conhecimento das tecnologias de CAD/CAM e nos principais usos que fará da máquina.</p>
+
+<p>Também terá direito à um <strong>cupom eterno de 10% de desconto</strong> para todo e qualquer produto ou serviço que a Protoptimus oferecer através de seu site.
+Passamos por dificuldades para encontrar à venda no Brasil não somente os componentes da máquina, mas consumíveis e suprimentos, sobretudo as fresas.
+<em>Iremos vender por unidade, e por kits, as principais fresas utilizadas em máquinas de pequeno porte por um preço justo!</em></p>
+
+<p>Também iremos vender os materiais para você usinar. Alguns materiais, como acrílico ou ACM (alumínio composto) são vendidos, por um preço justo, somente em chapas inteiras, que são enormes, com dimensões da ordem de 5 x 1,5 metros.
+Queremos comprar essas chapas, cortá-las em medidas padrões menores e revendê-las em nosso site para facilitar o acesso a estes materiais. 
+Então, esta recompensa limitada é uma excelente escolha para você poder lucrar ainda mais no médio e longo prazo, ao ganhar este desconto eterno de 10% na Protoptimus =]</p>
+
+<p><strong>Observações:</strong>
+1- Cupom pessoal vinculado ao CPF/CNPJ do apoiador, intransferível. Para usá-lo, o apoiador deverá se cadastrar em nossa loja online quando esta for lançada, usando o mesmo CPF/CNPJ utilizado no apoio em nossa campanha aqui no Catarse.
+2- Despesas de viagens e hospedagem para o mini-curso e retirada da recompensa será de responsabilidade do apoiador.
+3- Estes extras, o <strong>cupom e o mini-curso</strong>, são <strong>exclusivos</strong> para os compradores da recompensa <strong>#10 - CNC MASTER</strong>.</p>
+
+<p><img src=""https://lh6.googleusercontent.com/-eyBmCwIpHfA/U6cNrgsYBjI/AAAAAAAACTU/uJDHFJoXU24/s600/recompensas-kits-eletronica.png"" alt=""""/></p>
+
+<p><strong>11) - <em>ELECTRONICS JUNIOR</em> -</strong>
+<em>para R$ 699,00.</em></p>
+
+<p><img src=""https://lh3.googleusercontent.com/-7lr10vXoMAY/U6cDq_HYMiI/AAAAAAAACTE/UhDJBVqbg90/s600/eletronica-junior.jpg"" alt=""""/></p>
+
+<p>Você irá receber um kit eletrônica para começar a construir sua própria máquina CNC, composto por:
+<em>1 Arduino Uno R3</em>
+<em>3 Motores de Passo Nema 17 4,9kgcm</em>
+<em>3 Drivers A4988</em></p>
+
+<p>Você irá precisar de fonte, cabos, soldar terminais, entre outros, uma estrutura para sua máquina.
+<em>Para máquinas de 3 eixos, 1 motor por eixo.</em></p>
+
+<p><strong>12) - <em>ELECTRONICS MAKER</em> -</strong>
+<em>para R$ 999,00.</em></p>
+
+<p><img src=""https://lh5.googleusercontent.com/-q3LEOL_ziEc/U6cDq8BaJhI/AAAAAAAACTA/lcwZVSiJq0Y/s600/eletronica-maker.jpg"" alt=""""/></p>
+
+<p>Você irá receber um kit eletrônica para começar a construir sua própria máquina CNC, composto por:
+<em>1 Arduino Uno R3</em>
+<em>3 Motores de Passo Nema 23 9kgcm</em>
+<em>3 Drivers DRV-8825</em></p>
+
+<p>Você irá precisar de fonte, cabos, soldar terminais, entre outros, uma estrutura para sua máquina.
+<em>Para máquinas de 3 eixos, 1 motor por eixo.</em></p>
+
+<p><strong>13) - <em>PROTOPTIMUS ELECTRONICS</em> -</strong>
+<em>para R$ 1699,00.</em></p>
+
+<p><img src=""https://lh6.googleusercontent.com/-dW7kCj_vDp4/U6cDqt4ALRI/AAAAAAAACS4/qmwHuI3prYA/s600/eletronica-full-kit.jpg"" alt=""""/></p>
+
+<p>Você irá receber o kit completo da eletrônica de uma <strong>Router Protoptimus P2</strong>:
+<em>1 Arduino Uno R3</em>
+<em>4 Motores de Passo Nema 23 9kgcm</em>
+<em>4 Drivers DRV-8825</em>
+<em>1 CNC Shield for GRBL</em>
+<em>1 Fonte 36V 400W</em>
+<em>Cabos e Interruptores</em></p>
+
+<p>Você irá precisar soldar terminais e cabos, e uma estrutura para sua máquina.
+<em>Para máquinas de 3 eixos, sendo 2 motores no eixo Y.</em></p>
+
+<p><strong>Para você construir sua própria máquina com algum dos kits de eletrônica, comece assistindo esta palestra:</strong></p>
+
+<div class=""video youtube""><iframe width=""600"" height=""403"" src=""//www.youtube.com/embed/w3u9mKRX_lA?wmode=opaque"" frameborder=""0"" allowfullscreen></iframe></div>
+
+<p><strong>mini-FAQ</strong></p>
+
+<p><strong>Se eu comprar algum kit de eletrônica, a Protoptimus irá vender kits mecânicos?</strong>
+Somente após entregarmos todas as máquinas compradas via Catarse.</p>
+
+<p><strong>É fácil eu mesmo construir a parte mecânica?</strong>
+Depende do seu acesso à ferramental e locais para a compra de componentes ou sucata, experiência e capital para investir. Você pode construir uma estrutura/movimentação caseira e bem simples, muito barata (&quot;como as minhas primeiras máquinas&quot;:<div class=""video youtube""><iframe width=""600"" height=""403"" src=""//www.youtube.com/embed/WWFDO1ZfE8k?wmode=opaque"" frameborder=""0"" allowfullscreen></iframe></div>), usando barras roscadas e guias telescópicas de gaveta, até estruturas usando componentes de altíssima qualidade.</p>
+
+<p><strong>Além da sua palestra, onde mais busco informações?</strong>
+Construir nosso próprio <strong>wiki em português</strong> será uma das prioridades tão logo a campanha chegue ao fim. Por hora, no final desta página, em <strong>links</strong>, você encontra várias referências para começar a pesquisar e estudar.</p>
+
+<p><img src=""https://lh3.googleusercontent.com/-dmeLm_9AmkY/U3skTsXhsXI/AAAAAAAAB9U/_mFoMD-WTD0/s600/protoptimus-estado-atual-do-prototipo.png"" alt=""""/></p>
+
+<p>Nosso protótipo atual já é muito semelhante a versão final das Routers CNC que iremos vender.</p>
+
+<p>Abaixo, listamos as principais modificações que serão feitas, e no item seguinte, #4 Dados Técnicos, você confere as especificações de nossas duas opções de Routers que ofereceremos inicialmente, a <strong>Protoptimus P1</strong> e a <strong>Protoptimus P2</strong>.</p>
+
+<ul>
+<li>As placas de alumínio da máquina atual foram cortadas e furadas manualmente, a partir de barras chatas de alumínio, únicas que encontramos à venda aqui em São José dos Campos.
+São barras de apenas 1/8&quot; (3.175mm) de espessura de liga desconhecida, porém muito macia, que inviabilizou sua usinagem com a versão anterior de nossa máquina.
+(Alumínio muito macio é de péssima usinabilidade)
+Para confeccionar estas placas, usinando-as com nossas próprias máquinas, usaremos chapas de alumínio de 6mm, na liga 5052 - alumínio naval; obtendo placas com melhor acabamento e precisão dimensional.</li>
+</ul>
+
+<p><img src=""https://lh4.googleusercontent.com/-JjKLUEKm9mQ/U33qt0NnkSI/AAAAAAAACBI/9_I3chaWmm4/s600/corte-furos-manual.jpg"" alt=""""/></p>
+
+<ul>
+<li>Por falta de capital, precisamos nós mesmos criar/fabricar alguns componentes de fixação e da estrutura. As máquinas finais serão montadas com alguns componentes de fixação padrões do sistema V-Slot da OpenBuilds, para aumentar a rigidez e dar melhor acabamento/aparência à máquina.</li>
+</ul>
+
+<p><img src=""https://lh3.googleusercontent.com/-RP2vbRCcxNE/U33tesVjgMI/AAAAAAAACBU/s5n6Tw5MSOg/s600/adaptacoes-open-builds.jpg"" alt=""""/></p>
+
+<ul>
+<li><p>Nosso protótipo atual não possui sensor de final de curso, unicamente por não termos necessidade. Todas as máquinas vendidas terão os sensores de final de curso para evitar colisões por mal uso/programação.</p></li>
+<li><p>Nosso protótipo atual possui apenas 2 interruptores, que ligam/desligam a placa de controle e o Spindle. Todas as máquinas vendidas, além destes 2, terão um grande botão de parada de emergência.</p></li>
+<li><p>Até hoje, usamos em nossas máquinas 4 diferentes ferramentas de corte: Micro-retífica chinesa, Dremel 4000, Tupia Makita 530W e por fim, um Spindle DC de 300W.
+Ofereceremos duas versões de máquina, uma recomendada para hobbystas (P1), que virá instalada com uma micro-retífica genérica de 130W, e outra para uso comercial (P2), que virá com um Spindle DC de 500W.</p></li>
+</ul>
+
+<p>Os detalhes sobre as diferenças entre essas duas ferramentas de corte foram tratados em nosso FAQ – Perguntas e Respostas disponível em nosso site.
+Acesse-o para saber mais e entender por que <strong>a ferramenta de corte deve ser tratada como um consumível</strong>. (link para o FAQ encontra-se no item #10, no final desta página)</p>
+
+<p>Se você é novo nesta tecnologia, na prática o que diferenciará as duas versões é o tempo para realizar um mesmo trabalho.</p>
+
+<p>Uma mesma usinagem, por exemplo, poderá ser feita na metade do tempo com a versão P2, se comparado à versão P1.</p>
+
+<p>Isso se deve a utilização de motores de passo mais forte, que por sua vez demanda a correia mais espessa e drivers mais robustos, de maior corrente e tensão; e à ferramenta de corte, padrão de máquinas de usinagem, o <strong>Spindle</strong>.</p>
+
+<p><img src=""https://lh3.googleusercontent.com/-2VnlK4Y9szs/U33vUcKw7JI/AAAAAAAACBg/_wqMB2ryhdU/s600/ferramentas-de-corte.jpg"" alt=""""/>
+(<em>Micro-retífica para P1, Spindle 300W - protótipo atual, Spindle 500W para P2</em>)</p>
+
+<p><em>Em resumo, a P1 é indicada para hobbystas, e a P2, para fins comerciais.</em></p>
+
+<p><img src=""https://lh5.googleusercontent.com/-BQAdyEFtGqo/U3skTGYt3DI/AAAAAAAAB9E/4yucBUT8Jbg/s600/protoptimus-especificacoes-tecnicas-routers-cnc.png"" alt=""""/></p>
+
+<p><img src=""https://lh5.googleusercontent.com/-ve2BSC6D7Hw/U5yoBu6mGqI/AAAAAAAACO0/VKnmN626hBA/h890/dados-tecnicos-router-cnc.png"" alt=""""/></p>
+
+<p>As Routers terão garantia legal de 90 dias contra defeitos de fabricação.</p>
+
+<p>Os compradores receberão tutoriais para aprender a fazer os primeiros trabalhos.</p>
+
+<p>Iremos indicar onde encontrar informações e tutoriais para usinagens complexas.</p>
+
+<p>Também receberão um manual técnico de operação, manutenção e limpeza da máquina.</p>
+
+<p><strong>Máquinas CNC apenas obedecem!</strong></p>
+
+<p>Se usada corretamente, a máquina possui longa vida útil, e você irá ter despesas somente com os suprimentos e consumíveis.</p>
+
+<p>Esses detalhes foram tratados em nosso FAQ - Perguntas e Respostas, disponível em nosso site.</p>
+
+<p><img src=""https://lh3.googleusercontent.com/-rkmAi6cxCMo/U3skTwA0PII/AAAAAAAAB9w/6xi0zGd_-7w/s600/protoptimus-exemplos-de-trabalhos-lucrativos.png"" alt=""""/></p>
+
+<p>As recompensas de #1 a #5 já são exemplos do que a máquina faz! Mas veja abaixo mais fotos de trabalhos que você também poderá fazer com sua Router CNC da Protoptimus.</p>
+
+<p>Todos os compradores receberão uma tabela relacionando o tipo de material, com respectivas fresas recomendadas e valores padrões de velocidade de avanço e profundidade máxima de passe que <strong>DEVEM</strong> ser usados. Não seguir à risca os parâmetros de corte para cada tipo de material/trabalho podem ocasionar:
+- Baixa qualidade do corte
+- Quebra de fresas
+- Desgaste prematuro ou quebra da máquina</p>
+
+<p>Você receberá tutoriais de usinagem para que você possa iniciar com trabalhos como os abaixo, e indicaremos onde buscar mais informação gratuita e em português.</p>
+
+<p>Saberá quais os principais e mais fáceis softwares gratuitos serão necessários para cada tipo de trabalho.</p>
+
+<p>Não se preocupe: Você receberá tudo em detalhes, em português digitado por nós e de fácil compreensão, para começar a trabalhar com sua máquina tão logo a receba ;]</p>
+
+<p><strong>Mas atenção</strong>: Leia nosso FAQ - Perguntas e Respostas, pois ele contém informações mais detalhadas sobre quais conhecimentos prévios são necessários para operar este equipamento. (link para o FAQ encontra-se no item #10, no final desta página)</p>
+
+<p><img src=""https://lh6.googleusercontent.com/-sZpk-6le3w8/U343B9ZEt-I/AAAAAAAACCw/NJ-3Upydmrg/s600/Usinagem%2520Protoptimus.png"" alt=""""/>
+<em>Prototipagem rápida de peças técnicas: Em MDF, Plásticos de engenharia, etc.</em></p>
+
+<p><img src=""https://lh4.googleusercontent.com/-m3w33nBdWSc/U343A7maqyI/AAAAAAAACCk/erBOqzivnqs/s600/IMG_20140502_200326_819.jpg"" alt=""""/>
+<em>Diversos tipos de objetos de decoração</em></p>
+
+<p><img src=""https://lh4.googleusercontent.com/-MF8j2LfQNq0/U343A52etNI/AAAAAAAACCo/6nRXFW5HH80/s600/IMG_20140429_161515_011.jpg"" alt=""""/>
+<em>Usinagem de metais não ferrosos, seguindo à risca os parâmetros de corte</em></p>
+
+<p><img src=""https://lh6.googleusercontent.com/-qL8BfRFuy30/U343AheROSI/AAAAAAAACCc/SNv59MoHIR0/s600/M%25C3%25A1rmore.jpg"" alt=""""/>
+<em>Gravação superficial em materiais duros usando fresas adequadas. Na foto acima: Mármore.</em></p>
+
+<p><img src=""https://lh4.googleusercontent.com/-bVZTRsEePZk/U3skTGKsXiI/AAAAAAAAB9Q/dLsAKvsI7no/s600/protoptimus-como-o-dinheiro-sera-usado.png"" alt=""""/></p>
+
+<p><img src=""https://lh6.googleusercontent.com/-ZGKyx42m_1Y/U32I_a0HnFI/AAAAAAAACAw/4XDNI-T4G90/s600/dinheiro.png"" alt=""""/></p>
+
+<p>Compras nacionais e Importações englobam os componentes e materiais para fabricarmos as Routers CNC.</p>
+
+<p>Em Empresa/Infraestrutura vale ressaltar alguns aspectos. Será nosso capital de giro inicial para conseguirmos manter o aluguel e demais despesas de um novo cômodo para a Protoptimus poder aumentar sua produtividade.</p>
+
+<p>Também precisaremos comprar mais uma máquina/ferramenta. Uma serra esquadria para cortar os perfis extrutados em alumínio.</p>
+
+<p>Testamos duas soluções alternativas, usando uma esmerilhadeira angular em conjunto com discos abrasivos de corte para inox. O lado positivo, é que conseguimos cortes com boa precisão por um baixíssimo custo do equipamento.</p>
+
+<p><img src=""https://lh4.googleusercontent.com/-tD5dKkgUwWk/U32K5FfymJI/AAAAAAAACA4/ilcb9RwsFlU/s600/Serra-Esmerilhadeira.jpg"" alt=""""/></p>
+
+<p>Mas para uma produção em escala maior será inviável devido:
+-Rápido desgaste do tipo de disco utilizado (e seu custo).
+-Corte resultante fica com muitas rebarbas, sendo necessário trabalho manual de remoção.
+-Esta solução corta muitíssimo mais lentamente que uma serra esquadria.
+-Falta de segurança.</p>
+
+<p>A serra esquadria será a única máquina/ferramenta de maior valor que será adquirida em nosso início. Todas as demais máquinas/ferramentas a Protoptimus já conseguiu conquistar nos últimos meses, só restando agora terminarmos de montar uma nova Router CNC maior, cujos componentes também já possuímos, que será usada para trabalhos mais pesados, como a usinagem em escala dos componentes das Router P1 e P2.</p>
+
+<p><img src=""https://lh5.googleusercontent.com/-TMQOmH4ytw8/U3skTOrBIKI/AAAAAAAAB84/dCT9m4Da7bA/s600/protoptimus-cronograma-prazos-de-envio-das-recompensas.png"" alt=""""/></p>
+
+<p><img src=""https://lh5.googleusercontent.com/-6M1dwd8B3-c/U3sOPyZ6OxI/AAAAAAAAB7w/DFytTizE__0/s600/cronograma.png"" alt=""""/></p>
+
+<p><strong>Prazo de envio das recompensas de 1 a 5</strong>
+(Recompensas que não são as Router CNC)</p>
+
+<p>O prazo para o envio dessas recompensas está descrito abaixo de cada uma delas (mais acima, à direita) e com certeza não teremos problemas em cumpri-lo.</p>
+
+<p><strong>Prazo de envio das Routers CNC</strong></p>
+
+<p>Os envios (ou disponibilidade para retirada) das Routers CNC compradas como recompensa pelo apoio à nossa proposta, serão efetuados em diferentes prazos, sendo entregues inicialmente aos primeiros colaboradores.</p>
+
+<p>Após o término da campanha aqui no Catarse, Faremos a encomenda de todos os componentes das máquinas. A maior parte dos componentes, não possuem fabricação nacional, e a única forma de reduzir ao máximo seus custos será mediante importação. Neste momento, ficaremos de mãos atadas, pois o prazo para recebimento das encomendas dependerá da liberação aduaneira pela Receita Federal e da logística dos Correios.</p>
+
+<p>Informações mais detalhadas sobre as dificuldades e expectativas sobre os prazos para recebermos as importações estão no item #8 Riscos.</p>
+
+<p>Teremos pelo menos 3 rodadas de envios/retiradas conforme a tabela abaixo, sendo a primeira rodada com prazo máximo previsto de 90 dias após o término de nossa campanha aqui no Catarse, mas dificilmente inferior à 45 dias.</p>
+
+<p><img src=""https://lh6.googleusercontent.com/-ewNeJSORfK0/U3sYQyhz3QI/AAAAAAAAB78/WJjoYMDL7fQ/s600/prazos.png"" alt=""""/></p>
+
+<p><strong>Na prática será assim:</strong></p>
+
+<p>As recompensas limitadas possuem prazo máximo previsto já definido.</p>
+
+<p>As Routers Recompensas sem limite de compra têm seu prazo definido conforme a quantidade de pessoas que as comprarem, independente de ser via a recompensa CNC MAKER (P1) ou a recompensa CNC PRO-MAKER (P2).</p>
+
+<p>O Catarse nos fornecerá uma lista detalhada de todos os apoiadores, incluindo a data da compra, para que possamos classificar cada apoiador e enquadrá-lo na rodada de envio/entrega correspondente.</p>
+
+<p>Ao apoiar este projeto através de uma dessas duas recompensas (CNC MAKER ou CNC PRO-MAKER), para você já estimar o prazo máximo específico para você, some a quantidade de apoiadores que as duas recompensas já possuem, e então siga os critérios abaixo:</p>
+
+<p><strong>A cada 3 apoiadores, some 1 semana ao prazo máximo da Terceira Rodada (118 dias)</strong></p>
+
+<p>Exemplos:</p>
+
+<p>Se a soma for <strong>4</strong>, você estará na <strong>Quarta Rodada</strong> de envio/retirada, com prazo máximo previsto de 125 dias.</p>
+
+<p>Se a soma for <strong>7</strong>, você estará na <strong>Quinta Rodada</strong> de envio/retirada, com prazo máximo previsto de 132 dias.</p>
+
+<p>Este cronograma de entrega foi montado com base em nossa capacidade de fabricar 3 máquinas/semana, uma vez tendo em mãos todas as ferramentas, componentes e materiais. Mas é importante ressaltar novamente que esses são os prazos máximos previstos! Se as compras de nossas Routers forem superiores às nossas expectativas no momento em que lançamos esta campanha, poderemos estar aptos a contratar empregados e ter uma infra-estrutura melhor e maior logo de início, podendo acelerar em muito os envios/retiradas.</p>
+
+<p><strong>Importante:</strong> O prazo máximo previsto refere-se à data em que postaremos sua Router CNC nos Correios, ou a data em que ela estará à sua disposição para retirada em nossa sede, conforme sua escolha/disponibilidade.</p>
+
+<p><strong>Importantíssimo:</strong> Caso você escolha pelo envio pelos Correios, o valor do frete deverá ser pago por você!
+Enviaremos para você com pelo menos 2 semanas de antecedência ao envio, um e-mail com informações e dicas para o recebimento de sua máquina, bem como uma cobrança do MoIP (ou a ferramenta de pagamento online de sua preferência) com o valor do frete. A máquina só será enviada mediante a confirmação deste pagamento.</p>
+
+<p>Para estimar o valor do frete, acesse o site dos <a class=""alt-link"" target=""_blank"" href=""http://www2.correios.com.br/sistemas/precosprazos/default.cfm"">Correios</a>
+- Selecione PAC, e use os seguintes dados.
+CEP de origem: 12224-270
+Dimensões da caixa: 60x60x60cm
+Peso: até 30kg</p>
+
+<p>Para adiantar-lhe a ter uma ideia, para a maioria dos municípios dentro do estado de São Paulo o valor será inferior à R$ 150,00, enquanto que para estados distantes poderá chegar aos R$ 400,00.</p>
+
+<p><strong>Atualização: Recompensas de #11 a #13</strong></p>
+
+<p>O prazo máximo previsto para o envio (ou disponibilidade para retirada) de todos os kits de eletrônica é de 60 dias após o término de nossa campanha no Catarse.
+O frete será pago por você, seguindo o mesmo formato descrito acima para o envio de máquinas montadas.
+Valor médio do frete por PAC ficará entre R$25 e R$80.</p>
+
+<p><img src=""https://lh4.googleusercontent.com/-F1h7Nh5KlDo/U3skU9SxzbI/AAAAAAAAB9k/uqejO7yfqRc/s600/protoptimus-riscos.png"" alt=""""/></p>
+
+<p>O maior risco nesta campanha está relacionado ao prazo de entrega para nós recebermos as importações.
+E como estaremos a depender da liberação pela Receita Federal, e pela entrega pelos Correios, precisamos deixar claro este risco.</p>
+
+<p>Enquanto aguardamos a entrega dos componentes importados, estaremos fabricando os componentes das máquinas com itens e materiais comprados aqui no Brasil.</p>
+
+<p>Os principais itens que começarão a serem fabricados tão logo termine esta campanha no Catarse, serão as placas/chapas em alumínio que compõe a estrutura da máquina. As chapas serão compradas aqui no Brasil, e serão usinadas com uma nova Router CNC, maior, que estaremos construindo enquanto a campanha aqui no Catarse fica no ar, para aumentarmos a produtividade deste trabalho, bem como para a confecção das recompensas de #1 a #5, a depender da quantidade solicitada.</p>
+
+<p>Nossa meta é deixar a maioria dos componentes que necessitam de fabricação prontos antes mesmo do recebimento de todas as encomendas importadas.</p>
+
+<p>Por experiência prévia, verificamos que componentes importados de diferentes países, costumam ter prazos de entrega diferentes.</p>
+
+<p>Importaremos parte dos componentes nos Estados Unidos, e parte na China. </p>
+
+<p>Os componentes dos Estados Unidos, estruturais e eletrônicos, precisarão ser ajustados/trabalhados: Corte, usinagem e confecção de roscas nos perfis de alumínio V-Slot, montagem de rodas, soldagem de circuitos e cabos, etc.</p>
+
+<p>Já os componentes importados da china, como os motores de passo, micro-retífica, spindles e fontes, de modo geral, serão recebidos e diretamente montados nas máquinas.</p>
+
+<p>Importações vindas dos Estados Unidos, costumam chegar relativamente rápido.</p>
+
+<p>Além da alta carga tributária de 60% sobre o valor da encomenda + frete, no caso de importações da China também sofremos com problemas de atraso nas entregas. Atualmente, tem sido considerado normal o recebimento em prazos entre 40 a 60 dias.</p>
+
+<p>Durante o período de importação/fabricação, é provável que você veja no nosso perfil do Facebook, fotos com várias máquinas parcialmente montadas, aguardando apenas o recebimento de alguns componentes da China para efetivamente poderem ser alinhadas, calibradas, empacotadas e entregues.</p>
+
+<p><img src=""https://lh3.googleusercontent.com/-GLVZJtmo8bI/U3skVkytMOI/AAAAAAAAB90/DMKm87YtNDM/s600/protoptimus-sobre-nos.png"" alt=""""/></p>
+
+<p>Fundador: Jeferson Luiz de Oliveira Simões
+Estudei na Universidade Federal de Itajubá, passando pelos cursos de Engenharia da Computação (2008), Engenharia Mecânica (2009/2010) e Engenharia de Produção Mecânica (2011/2012).
+Então, estudei mais um ano, na Fatec, no curso de Análise e Desenvolvimento de Sistemas (2013).
+Não concluí nenhuma das faculdades. Deixei o estudo formal por hora para dedicar em tempo integral ao projeto.
+Técnico em Eletrônica pela Univap em 2004.</p>
+
+<p><img src=""https://lh6.googleusercontent.com/-B-ZOWnAtQO4/U3skUfh1JzI/AAAAAAAAB9g/ff7fX2e08VE/s600/protoptimus-links-contato-endereco.png"" alt=""""/></p>
+
+<p>Estamos em São José dos Campos - SP, por enquanto instituídos como MEI.</p>
+
+<p>Protoptimus - Jeferson Simões
+Av. dos Narcisos, 170, Jardim Motorama
+CEP: 12224-270</p>
+
+<p><a class=""alt-link"" href=""mailto:jefersoneletronica@gmail.com"" target=""_blank"">jefersoneletronica@gmail.com</a></p>
+
+<p>Demais contatos da protoptimus no link: <a class=""alt-link"" href=""http://protoptimus.com/p/contato.html"" target=""_blank"">http://protoptimus.com/p/contato.html</a></p>
+
+<p>FAQ - Perguntas e Respostas no link: <a class=""alt-link"" href=""http://protoptimus.com/p/faq-perguntas-e-respostas.html"" target=""_blank"">http://protoptimus.com/p/faq-perguntas-e-respostas.html</a>
+<em>(importante - recomendamos que leia-o também)</em></p>
+
+<p>Nossa <strong>&lt;a target=&quot;_blank&quot; href=&quot;<a class=""alt-link"" href=""https://www.facebook.com/protoptimus"" target=""_blank"">https://www.facebook.com/protoptimus</a></strong>&quot;&gt;Fanpage no Facebook</a>
+Lá temos muitas fotos das máquinas, e é o nosso principal canal de novidades.</p>
+
+<p><em><strong>Makezine:</strong></em> <a class=""alt-link"" target=""_blank"" href=""http://makezine.com/2014/06/27/affordable-cncs-for-brazilian-makers-the-protoptimus-cnc-router/"">Affordable CNCs For Brazilian Makers: The Protoptimus CNC Router</a></p>
+
+<p><em><strong>Startupi:</strong></em> <a class=""alt-link"" target=""_blank"" href=""http://startupi.com.br/2014/protoptimus-a-startup-de-um-multi-engenheiro-so-aposta-no-financiamento-coletivo/"">De Professor Pardal a Crowdfunder</a></p>
+
+<p><em><strong>Dinheirama:</strong></em> <a class=""alt-link"" target=""_blank"" href=""http://dinheirama.com/blog/2014/06/26/dinheirama-entrevista-jeferson-simoes-protoptimus/"">Entrevista: Jeferson Simões, Inventor da Protoptimus</a></p>
+
+<p><em><strong>NovaEletrônica:</strong></em> <a class=""alt-link"" target=""_blank"" href=""http://blog.novaeletronica.com.br/cnc-com-arduino-ao-alcance-de-todos-protoptimus/"">CNC com Arduino ao Alcance de Todos – Protoptimus</a></p>
+
+<p><em><strong>Revista Polyteck nº 06 – Página 04:</strong></em> <a class=""alt-link"" target=""_blank"" href=""http://www.polyteck.com.br/blog/plataformas-de-codigo-aberto-automatizam-pesquisas-e-processos/"">Plataformas de código aberto automatizam pesquisas e processos</a></p>
+
+<p><em><strong>O Pulo do Gato:</strong></em> <a class=""alt-link"" target=""_blank"" href=""http://www.opulodogato.org/inovacao-era-makers/"">A inovação na era dos makers</a></p>
+
+<p><em><strong>Designoteca:</strong></em><a class=""alt-link"" target=""_blank"" href=""http://site.designoteca.com/2014/06/09/protoptimus-quer-colocar-maquinas-cnc-ao-alcance-de-todos-mas-precisa-de-sua-ajuda-para-isso/"">Protoptimus quer colocar máquinas CNC ao alcance de todos</a>
+<a class=""alt-link"" target=""_blank"" href=""http://site.designoteca.com/2014/02/24/jeferson-simoes-top-maker-na-cpbr7-e-criador-em-destaque-na-designoteca/"">Jeferson Simões – Top Maker na #CPBr7 e criador em destaque na Designoteca</a></p>
+
+<p><strong>Onde buscar mais informações para você mesmo construir sua máquina:</strong></p>
+
+<p><a class=""alt-link"" target=""_blank"" href=""http://forum.fazedores.com/t/fresadora-router-cnc-com-arduino/212"">Fresadora / Router CNC com Arduino</a></p>
+
+<p><a class=""alt-link"" target=""_blank"" href=""http://www.shapeoko.com/wiki/index.php/ShapeOko_2"">Wiki - ShapeOko</a></p>
+
+<p><a class=""alt-link"" target=""_blank"" href=""http://openbuilds.com/"">OpenBuilds</a></p>
+
+<p><img src=""https://lh3.googleusercontent.com/--7hW35mgagU/U34Ql-4ZZxI/AAAAAAAACCI/Iud33seImSI/s600/protoptimus-agradecimentos.png"" alt=""""/></p>
+
+<p>Não teríamos chegados até aqui sem essa <em>galera</em>:</p>
+
+<p><strong>Conrado Navarro</strong> - fundador do <a class=""alt-link"" target=""_blank"" href=""http://dinheirama.com/"">Dinheirama</a>
+<strong>André Sionek</strong> - criador da revista <a class=""alt-link"" target=""_blank"" href=""http://polyteck.com.br/"">Polyteck</a>
+Nos ofereceram dicas para nossa campanha aqui no Catarse.</p>
+
+<p><strong>Professores da &lt;a target=&quot;_blank&quot; href=&quot;<a class=""alt-link"" href=""http://unifei.edu.br/"" target=""_blank"">http://unifei.edu.br/</a></strong>&quot;&gt;Universidade Federal de Itajubá</a>
+- Cleber Gonçalves
+- Carlos Mello
+- Juliana Noronha</p>
+
+<p>Ao <strong>&lt;a target=&quot;_blank&quot; href=&quot;<a class=""alt-link"" href=""http://www.fiesp.com.br/sobre-a-fiesp/comites/jovens-empreendedores/"" target=""_blank"">http://www.fiesp.com.br/sobre-a-fiesp/comites/jovens-empreendedores/</a></strong>&quot;&gt;CJE - FIESP</a> pelo programa <strong>Acelera Startup</strong>, onde recebemos mentorias.</p>
+
+<p>À toda equipe do <strong>&lt;a target=&quot;_blank&quot; href=&quot;<a class=""alt-link"" href=""http://www.designoteca.com/"" target=""_blank"">http://www.designoteca.com/</a></strong>&quot;&gt;Designoteca</a> e <strong>&lt;a target=&quot;_blank&quot; href=&quot;<a class=""alt-link"" href=""http://robolivre.org/"" target=""_blank"">http://robolivre.org/</a></strong>&quot;&gt;RoboLivre.org</a> pelo apoio ao nosso projeto.</p>
+
+<p>À todos os frequentadores do <strong>&lt;a target=&quot;_blank&quot; href=&quot;<a class=""alt-link"" href=""http://sjchackerclube.com.br/"" target=""_blank"">http://sjchackerclube.com.br/</a></strong>&quot;&gt;SJC Hacker Clube</a>, o primeiro hackerspace do vale do paraíba.</p>
+
+<p><img src=""https://lh3.googleusercontent.com/-HF1vKld1VTQ/U6cgknylvyI/AAAAAAAACT4/23ICl5zMSOA/h875/arduino-cnc-compacta-leve.jpg"" alt=""""/></p>
+",protoptimus,//www.youtube.com/embed/uoIGcSMh4W8,https://www.youtube.com/watch?v=uoIGcSMh4W8,"Ciência e Tecnologia",18,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/4205/protoptimus-arduino-cnc-router-catarse.png,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/4205/project_thumb_thumb_protoptimus-arduino-cnc-router-catarse.png,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/4205/project_thumb_small_protoptimus-arduino-cnc-router-catarse.png,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/4205/project_thumb_large_protoptimus-arduino-cnc-router-catarse.png,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/4205/project_thumb_video_cover_protoptimus-arduino-cnc-router-catarse.png,20.78184110970996216900,7416.0,64,64,failed,aon,finished,"2014-07-17 02:59:59","2014-07-16 23:59:59","2014-06-03 17:21:14.433818","2014-06-03 14:21:14.433818",,t,t,f,43,"{""total"" : 0, ""unit"" : ""seconds""}","{""total"" : 43, ""unit"" : ""days""}",3,"{""city"" : ""São José dos Campos"", ""state_acronym"" : ""SP"", ""state"" : ""São Paulo""}","{""id"" : 60327, ""name"" : ""Jeferson Luiz de Oliveira Simões""}",0,,f,f,3,f,f,f

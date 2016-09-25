@@ -1,0 +1,32 @@
+project_id,id,user_id,name,headline,budget,goal,about_html,permalink,video_embed_url,video_url,category_name,category_id,original_image,thumb_image,small_image,large_image,video_cover_image,progress,pledged,total_contributions,total_contributors,state,mode,state_order,expires_at,zone_expires_at,online_date,zone_online_date,sent_to_analysis_at,is_published,is_expired,open_for_contributions,online_days,remaining_time,elapsed_time,posts_count,address,user,reminder_count,is_owner_or_admin,user_signed_in,in_reminder,total_posts,can_request_transfer,is_admin_role,contributed_by_friends
+4349,4349,238510,"A Minha Incrível Coleção de Máscaras","A Minha Incrível Coleção de Máscaras é um curta-metragem a ser realizado por estudantes da Universidade de Brasília","O orçamento para projetos anteriores a 24/02/2015 normalmente pode ser encontrado na descrição acima.",3000.0,"<p>Este projeto é uma realização de estudantes e amadores do cinema. O roteiro de Marina Carrijo foi contemplado no Laboratório de Realização Audiovisual na Universidade de Brasília.</p>
+
+<p>Este projeto tem a intenção de ajudar a movimentar a cena artístico-cultural do Distrito Federal, colocando em evidência a produção cinematográfica da Universidade de Brasília. Além da exibição na própria Universidade, pretende-se alcançar a circulação em festivais nacionais e internacionais, promover sessões em escolas e cineclubes, e posteriormente disponibilizá-lo na internet, com o intuito de difundir o cinema brasiliense. </p>
+
+<p>Sinopse
+Tomás é apaixonado pelas máscaras da mãe, porém não pode tocá-las já que a artista plástica se sente incomodada com isso, pois ela está em uma fase de profunda crise e suas preocupações acabam sendo refletidas em sua produção. E como não pode contemplá-las, o menino decide ter sua própria coleção, o que aflige ainda mais a mãe. Assim, fugindo de seus problemas a mãe se muda com a criança para Brasília, o que levará a história dos dois a um outro rumo.</p>
+
+<p>Equipe do filme:
+Roteiro: Marina Carrijo
+Direção: Paulo Vianna
+Assistência de Direção: Julia Rangel
+Direção de Atores: Bárbara Pina
+Direção de Produção: Sayuri Kawagoe
+Direção de Fotografia: Marcelo Veras e Hugo Carvalho
+Direção de Arte: Catarina Ribeiro
+Figurino: Marina Mustefaga
+Som: Filipe Togawa
+Edição: Marina Carrijo</p>
+
+<p>O dinheiro arrecadado servirá à prensagem dos DVDs, pagamento dos atores, produção (comida principalmente) e figurino.</p>
+
+<p>Toda ajuda é bem vinda, e as contribuições e contra partidas, respectivamente, são:
+R$ 10,00 - Nome nos créditos finais do filme.
+R$ 20,00 - Nome nos créditos finais e um cartaz do filme.
+R$ 30,00 - Nome nos créditos finais, um cartaz e um DVD do filme.
+R$ 40,00 - Nome nos créditos finais, um cartaz, um DVD e uma camiseta do filme.
+R$ 50,00 - Nome nos créditos finais, um cartaz, um DVD, uma camiseta e um ingresso para a festa de estreia do filme.
+R$ 60,00 - Nome nos créditos finais, um cartaz, um DVD, uma camiseta e dois ingressos para a festa de estreia do filme.
+R$ 300,00 - Nome nos créditos finais, um cartaz, um DVD, uma camiseta, dois ingressos para a festa de estreia do filme e créditos como investidor cultural do filme.
+R$ 500,00 - Nome nos créditos finais, um cartaz, um DVD, uma camiseta, dois ingressos para a festa de estreia do filme e créditos como patrocinador do filme.</p>
+",mascaras,//www.youtube.com/embed/F88OQKDQdpc,http://www.youtube.com/watch?v=F88OQKDQdpc&feature=youtu.be,"Cinema e Vídeo",13,,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/video_thumbnail/4349/project_thumb_thumb_open-uri20140218-2-1gxslxe,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/video_thumbnail/4349/project_thumb_small_open-uri20140218-2-1gxslxe,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/video_thumbnail/4349/project_thumb_large_open-uri20140218-2-1gxslxe,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/video_thumbnail/4349/project_thumb_video_cover_open-uri20140218-2-1gxslxe,107.6666666666666700,3230.0,41,35,successful,aon,finished,"2014-04-07 02:59:59","2014-04-06 23:59:59","2014-03-07 14:41:42.265742","2014-03-07 11:41:42.265742",,t,t,f,30,"{""total"" : 0, ""unit"" : ""seconds""}","{""total"" : 30, ""unit"" : ""days""}",1,"{""city"" : ""Brasília"", ""state_acronym"" : ""DF"", ""state"" : ""Distrito Federal""}","{""id"" : 238510, ""name"" : ""Julia Rangel""}",0,,f,f,1,f,f,f

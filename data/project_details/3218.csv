@@ -1,0 +1,23 @@
+project_id,id,user_id,name,headline,budget,goal,about_html,permalink,video_embed_url,video_url,category_name,category_id,original_image,thumb_image,small_image,large_image,video_cover_image,progress,pledged,total_contributions,total_contributors,state,mode,state_order,expires_at,zone_expires_at,online_date,zone_online_date,sent_to_analysis_at,is_published,is_expired,open_for_contributions,online_days,remaining_time,elapsed_time,posts_count,address,user,reminder_count,is_owner_or_admin,user_signed_in,in_reminder,total_posts,can_request_transfer,is_admin_role,contributed_by_friends
+3218,3218,201666,"EU MAIOR - Salvador - 21/11","Quer ver o documentário EU MAIOR no cinema?  Imagine a sala lotada de pessoas ligadas em autoconhecimento e busca da felicidade, como você!","O orçamento para projetos anteriores a 24/02/2015 normalmente pode ser encontrado na descrição acima.",3000.0,"<p>Data: 21 de novembro de 2013 (Quinta-feira)<br/>Local: Cinemark Salvador Shopping<br/>Avenida Tancredo Neves, 2915 <br/>Horário: 21h.<br/>(ver o <a class=""alt-link"" target=""_blank"" href=""http://goo.gl/maps/7QhSW)"">mapa</a></p>
+
+<p><em>ATENÇÃO: OS INGRESSOS PARA A EXIBIÇÃO DO EU MAIOR EM SALVADOR NO DIA 21/11 ESTÃO ESGOTADOS. INFORME-SE SOBRE UMA NOVA EXIBIÇÃO NO DIA 12/12 CLICANDO &lt;a target=&quot;<em>blank&quot; href=&quot;<a class=""alt-link"" href=""http://eumaior.catarse.me/pt/eumaior"" target=""_blank"">http://eumaior.catarse.me/pt/eumaior</a></em>salvador01.</em>&quot;&gt;AQUI</a></p>
+
+<p>EU MAIOR traz uma reflexão contemporânea sobre autoconhecimento e busca da felicidade, por meio de entrevistas com expoentes de diferentes áreas, incluindo líderes espirituais, intelectuais, artistas e esportistas.  Pessoas tão distintas como o surfista Carlos Burle, a Monja Coen, o físico Marcelo Gleiser, e a ex-senadora Marina Silva.</p>
+
+<p>COMO FUNCIONA</p>
+
+<p>Cada contribuição de R$20 dá direito a um ingresso para a exibição - que como projeto precisa atingir o valor mínimo de R$3 mil até 14/11.  Atingido esse valor, novas contribuições poderão ocorrer até 20/11, desde que ainda haja ingressos disponíveis (veja o quadro ao lado).</p>
+
+<p>Você pode fazer a sua contribuição por meio de cartão de crédito, débito, boleto bancário e/ou Paypal.  O ingresso você receberá no dia da exibição, no próprio cinema.  Caso o valor mínimo do projeto não seja atingido a tempo e a exibição seja cancelada, você receberá de volta o valor que contribuiu.</p>
+
+<p><strong>Então, quer ver o EU MAIOR no cinema?  Imagine a sala lotada de pessoas ligadas em autoconhecimento e busca da felicidade, como você!</strong></p>
+
+<p>Saiba mais sobre o filme: <a class=""alt-link"" href=""http://www.eumaior.com.br"" target=""_blank"">www.eumaior.com.br</a><br/>Exibições do filme em outras cidades: <a class=""alt-link"" href=""http://eumaior.catarse.me/"" target=""_blank"">http://eumaior.catarse.me/</a><br><br/>Acompanhe as novidades: <a class=""alt-link"" href=""http://www.facebook.com/eumaior"" target=""_blank"">www.facebook.com/eumaior</a><br/>Contato: <a class=""alt-link"" href=""mailto:canaleumaior@catarse.me"" target=""_blank"">canaleumaior@catarse.me</a></p>
+
+<p>RESPONSÁVEIS PELA EXIBIÇÃO <br/>Angela Amorim, Marcos Monteiro &amp; Vânia Meirelles<br/>&quot;Despertar, Aqui e Agora..&quot;</p>
+
+<p>APOIO<br/>Cinemark<br/>NET</p>
+
+<p>Deduzidos os custos operacionais, os rendimentos obtidos com este projeto serão doados para a <a class=""alt-link"" target=""_blank"" href=""http://www.dobem.org.br"">Associação Dobem</a>, cuja missão é fomentar uma cultura de desenvolvimento humano integral.</p>
+",eumaior_salvador,//player.vimeo.com/video/77457161,https://vimeo.com/77457161,"Cinema e Vídeo",13,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/3218/EM_mosaico.jpg,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/3218/project_thumb_thumb_EM_mosaico.jpg,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/3218/project_thumb_small_EM_mosaico.jpg,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/3218/project_thumb_large_EM_mosaico.jpg,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/3218/project_thumb_video_cover_EM_mosaico.jpg,160.4000000000000000,4812.0,123,106,successful,aon,finished,"2013-11-16 01:59:59","2013-11-15 23:59:59","2013-10-23 18:20:32","2013-10-23 16:20:32",,t,t,f,23,"{""total"" : 0, ""unit"" : ""seconds""}","{""total"" : 23, ""unit"" : ""days""}",7,"{""city"" : ""Florianópolis"", ""state_acronym"" : ""SC"", ""state"" : ""Santa Catarina""}","{""id"" : 201666, ""name"" : ""Canal EU MAIOR""}",0,,f,f,7,f,f,f

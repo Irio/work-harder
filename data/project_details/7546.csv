@@ -1,0 +1,29 @@
+project_id,id,user_id,name,headline,budget,goal,about_html,permalink,video_embed_url,video_url,category_name,category_id,original_image,thumb_image,small_image,large_image,video_cover_image,progress,pledged,total_contributions,total_contributors,state,mode,state_order,expires_at,zone_expires_at,online_date,zone_online_date,sent_to_analysis_at,is_published,is_expired,open_for_contributions,online_days,remaining_time,elapsed_time,posts_count,address,user,reminder_count,is_owner_or_admin,user_signed_in,in_reminder,total_posts,can_request_transfer,is_admin_role,contributed_by_friends
+7546,7546,338152,"Cara Bonita","Não é só uma historia de amor. É uma historia sobre todo tipo de amor!","O orçamento para projetos anteriores a 24/02/2015 normalmente pode ser encontrado na descrição acima.",7500.0,"<p>O Projeto &quot;Cara Bonita&quot; irá retratar a sexualidade alternada, através de um grupo de jovens apaixonados pela arte.</p>
+
+<p>O curta retrata a história de um jovem envolvido em um dilema autoral, entre seu universo particular e sua realidade caótica.
+De um modo exotérico, enxergamos cada personagem envolvido a trama, baseado nos termos sociais versus o sentimento individual não implicados á sociedade.
+Cara Bonita trata-se de uma sátira social, onde o que está fora dos padrões do senso comum, torna-se desprezível. Fala-se de sexualidade, dos preconceitos, dos temores, da religião, da família, dos que ferem, dos que são feridos, e do mundo visto de dentro pra fora, com dança, atuação e interpretação.</p>
+
+<p>Todo o dinheiro arrecadado será direcionado ao Curta-Metragem, destinado aos seguintes itens:</p>
+
+<ul>
+<li>Cenário*</li>
+<li>Figurinos;</li>
+<li>Equipamento de Iluminação;</li>
+<li>Transporte e Alimentação do Elenco;</li>
+<li>Direito Autoral p/ utilização de Música (Ecad).</li>
+</ul>
+
+<p><img src=""http://i62.tinypic.com/28argqf.png"" alt=""""/></p>
+
+<p>Ficha Técnica:</p>
+
+<p><img src=""http://i61.tinypic.com/2s60o7d.png"" alt=""""/></p>
+
+<p>Direção e Roteiro: Alexandre Tavares
+Apoio: Júlio Cristaule
+Produção e Edição: Mirela Lemos
+Direção Fotográfica e Produção: Bruno Sacramento
+Elenco: Alexandre Tavares, Brenda Mello e Cleane Ribeiro.</p>
+",carabonita,//www.youtube.com/embed/7vMJHVK-g34,https://www.youtube.com/watch?v=7vMJHVK-g34&feature=youtu.be,"Cinema e Vídeo",13,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/7546/ID_mask_horror.jpg,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/7546/project_thumb_thumb_ID_mask_horror.jpg,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/7546/project_thumb_small_ID_mask_horror.jpg,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/7546/project_thumb_large_ID_mask_horror.jpg,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/7546/project_thumb_video_cover_ID_mask_horror.jpg,0,0,0,0,failed,aon,finished,"2014-12-10 01:59:59","2014-12-09 23:59:59","2014-10-20 10:00:20.508934","2014-10-20 08:00:20.508934",,t,t,f,50,"{""total"" : 0, ""unit"" : ""seconds""}","{""total"" : 50, ""unit"" : ""days""}",0,"{""city"" : ""Barueri"", ""state_acronym"" : ""SP"", ""state"" : ""São Paulo""}","{""id"" : 338152, ""name"" : ""Alexandre Pedro Tavares""}",0,,f,f,0,f,f,f

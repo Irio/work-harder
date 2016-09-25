@@ -1,0 +1,27 @@
+project_id,id,user_id,name,headline,budget,goal,about_html,permalink,video_embed_url,video_url,category_name,category_id,original_image,thumb_image,small_image,large_image,video_cover_image,progress,pledged,total_contributions,total_contributors,state,mode,state_order,expires_at,zone_expires_at,online_date,zone_online_date,sent_to_analysis_at,is_published,is_expired,open_for_contributions,online_days,remaining_time,elapsed_time,posts_count,address,user,reminder_count,is_owner_or_admin,user_signed_in,in_reminder,total_posts,can_request_transfer,is_admin_role,contributed_by_friends
+6065,6065,286461,"BuscaPet - Encontre o seu cão através do celular","Você não perderá mais seu cão!","O orçamento para projetos anteriores a 24/02/2015 normalmente pode ser encontrado na descrição acima.",12000.0,"<p><img src=""https://scontent-b-dfw.xx.fbcdn.net/hphotos-xpa1/t1.0-9/10502152_667607356656153_2044665209282388617_n.jpg"" alt=""""/>
+No início de 2013 eu e mais um amigo tivemos a ideia de criar um aplicativo que fosse de colaboração para poder encontrar cães perdidos. Sempre fui apaixonado por tecnologia e ele sempre apaixonado por cães. Ai sentamos e chegamos a conclusão de que desenvolver um aplicativo seria muito importante para que os cães perdidos fossem achados facilmente. Depois de alguns meses de projetos e planejamento começamos a desenvolver o aplicativo e lançamos para testes em maio de 2014.
+<img src=""https://fbcdn-sphotos-a-a.akamaihd.net/hphotos-ak-xpf1/t1.0-9/10383970_667603799989842_2734916288351453185_n.jpg"" alt=""""/></p>
+
+<p>Fazendo uma busca pela internet percebemos que mais de 500 mil cães são perdidos por ano no Brasil e deste apenas 60% reencontram os seus donos. Penso nisso buscamos criar uma alternativa ou solução para ajudar as pessoas que perdem os seus grandes companheiros.
+Percebemos também que no brasil existem mais de 90 milhões de pessoas com Smartphones então pensamos em criar o aplicativo para que através do celular as pessoas possam encontrar a localização do seu cachorro em minutos, bastando apenas o Smartphone estar conectado na internet.</p>
+
+<p><img src=""https://fbcdn-sphotos-e-a.akamaihd.net/hphotos-ak-xap1/t1.0-9/10502066_667603829989839_8312427005588783024_n.jpg"" alt=""""/></p>
+
+<p>O cão terá uma medalha em sua coleira e através desta medalha quando o seu dono iniciar o App o cão será localizado e será informado para a pessoa onde está o cachorro.</p>
+
+<p>E em alguns minutos você já terá seu cachorro de volta, assim pretendemos diminuir o números de cães perdidos e dar mais segurança para os seus donos.</p>
+
+<p><img src=""https://scontent-b-dfw.xx.fbcdn.net/hphotos-xap1/t1.0-9/10409488_667603859989836_3113405878704370739_n.jpg"" alt=""""/></p>
+
+<p>Neste momento já estamos com App desenvolvido, mas precisamos investir apenas na programação para que a <strong>medalha de localização</strong> seja integrada ao nosso App.
+Está <strong>medalha de localização</strong> será integrada com o <strong>Google Maps</strong> e informará a localização correta onde está o seu cachorro.
+Não queremos levantar recursos para criar uma empresa, queremos apenas <strong>Desenvolver a programação de integração entre a medalha e o App</strong> e assim poder resolver esse problema com as perdas dos cachorros.
+<img src=""https://scontent-b-dfw.xx.fbcdn.net/hphotos-xpa1/t1.0-9/10456102_667616353321920_7463251486742750438_n.jpg"" alt=""""/> </p>
+
+<p><img src=""https://fbcdn-sphotos-b-a.akamaihd.net/hphotos-ak-xfp1/t1.0-9/10406952_667603876656501_450069632724880046_n.jpg"" alt=""""/></p>
+
+<p>Nossas recompensas serão <strong>adesivos, Medalhas e Camisas</strong>
+Este será o modelo da <strong>medalha de localização</strong> que será enviado para os nossos <strong>apoiadores</strong>
+<img src=""https://scontent-a-dfw.xx.fbcdn.net/hphotos-xaf1/t1.0-9/10441418_667603806656508_7425851574841021479_n.jpg"" alt=""""/></p>
+",buscapet,//player.vimeo.com/video/47140480,https://vimeo.com/47140480,"Ciência e Tecnologia",18,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/6065/cachorro-branco.jpg,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/6065/project_thumb_thumb_cachorro-branco.jpg,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/6065/project_thumb_small_cachorro-branco.jpg,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/6065/project_thumb_large_cachorro-branco.jpg,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/6065/project_thumb_video_cover_cachorro-branco.jpg,0.83333333333333333300,100.0,3,3,failed,aon,finished,"2014-08-03 02:59:59","2014-08-02 23:59:59","2014-07-03 17:08:55.421194","2014-07-03 14:08:55.421194",,t,t,f,30,"{""total"" : 0, ""unit"" : ""seconds""}","{""total"" : 30, ""unit"" : ""days""}",0,"{""city"" : ""Bragança"", ""state_acronym"" : ""PA"", ""state"" : ""Pará""}","{""id"" : 286461, ""name"" : ""Cassio da Silva Reis""}",0,,f,f,0,f,f,f

@@ -1,0 +1,49 @@
+project_id,id,user_id,name,headline,budget,goal,about_html,permalink,video_embed_url,video_url,category_name,category_id,original_image,thumb_image,small_image,large_image,video_cover_image,progress,pledged,total_contributions,total_contributors,state,mode,state_order,expires_at,zone_expires_at,online_date,zone_online_date,sent_to_analysis_at,is_published,is_expired,open_for_contributions,online_days,remaining_time,elapsed_time,posts_count,address,user,reminder_count,is_owner_or_admin,user_signed_in,in_reminder,total_posts,can_request_transfer,is_admin_role,contributed_by_friends
+6280,6280,2780,"Quem manda aqui?","Era uma vez um rei... Mas, por que mesmo ele era um rei?","O orçamento para projetos anteriores a 24/02/2015 normalmente pode ser encontrado na descrição acima.",12000.0,"<h2>Era uma vez</h2>
+
+<p>Era uma vez um rei... Mas, por que mesmo ele era um rei? O imaginário das crianças está repleto de histórias sobre reis e rainhas, mestres e aprendizes, xerifes e prefeitos. No dia a dia, eles lidam com diversas formas de organização política -- do diretor da escola ao colega que escolhe as brincadeiras no intervalo, do capitão do time de futebol ao pai e a mãe que decidem tudo &#39;porque sabem o que é melhor&#39; ou porque &#39;são seus pais&#39;.</p>
+
+<p>A nossa sociedade dá pouco espaço para as crianças refletirem sobre essas formas de controle e poder.</p>
+
+<p>Aqui no Laboratório Hacker, trabalhamos há algum tempo criando ferramentas e dinâmicas para introduzir as crianças e os jovens no mundo da política. Por meio de atividades como a oficina de <em>Projeto de Leis</em> e o <em>Jogo Participativo do Orçamento</em>, estamos sempre tentando encontrar formas de trazer conceitos abstratos e complexos para algo mais tangível e real para os pequenos.</p>
+
+<p>O <strong>Quem manda aqui?</strong> é o primeiro de uma série de livros sobre política voltado para o público infantil. A premissa é dar recursos para que as crianças pensem sobre os diferentes modos de governar e tomar decisões, possam questionar minimamente as coisas como elas são e como poderiam ser. Em um momento de crise do modelo representativo, contribuir para o desenvolvimento de um olhar crítico parece-nos uma boa ideia.</p>
+
+<p>O que faz de um rei... um rei? E um prefeito? Ou um padre? Um pajé?
+O livro, voltado para crianças de 5 a 7 anos, vai traduzir em imagens e poucas palavras conceitos como Monarquia, Ditadura, Democracia, Desígnio Dívino e Meritocracia, além de falar sobre formas de decisão como Voto e Consenso.</p>
+
+<h2>Livro Colaborativo</h2>
+
+<p>Em vez de sentar e escrever sobre todas essas questões do nosso jeito, resolvemos nós mesmos buscar outro processo de produção. Personagens e conceitos, ilustrações e textos, tudo será criado coletivamente, em oficinas com as crianças.</p>
+
+<p>Vamos realizar <strong>4 oficinas abertas</strong> em diferentes regiões de São Paulo e convidar pais e filhos para participarem conosco como autores do livro. Falaremos sobre personagens e situações que serão representados em linguagens visuais como colagem, pintura, desenho. Esse material todo será utilizado como referência para a equipe editorial produzir o livro.</p>
+
+<p><img src=""http://i.imgur.com/s7tDV1W.png"" alt=""""/></p>
+
+<p><em>[Primeiros esboços de linguagem - que serão trabalhados durante as oficinas]</em></p>
+
+<h2>Como vamos utilizar o dinheiro?</h2>
+
+<p>O dinheiro será utilizado basicamente para impressão e remuneração dos profissionais envolvidos.
+O livro será publicado com <strong>Licença Livre (CC-BY)</strong> e ficará disponível gratuitamente para download. Ainda assim, ele só vai acontecer se você colaborar, então contribua mesmo que você só queira uma cópia virtual ;)</p>
+
+<p>A meta mínima cobre apenas os custos de impressão e uma ajuda de custo para os oficineiros.</p>
+
+<p>Todo dinheiro que entrar extra (livros acima da meta mínima) vai ser divido assim:
+    30% - Reserva de recurso para os próximos livros da série
+    70% - Dividido entre a equipe editorial do projeto</p>
+
+<p>Resolvemos fazer a produção e o lançamento por financiamento coletivo porque acreditamos que reflete melhor os nossos valores e nos dá mais liberdade de criação. Mas já estamos também em contato com editoras e distribuidoras que eventualmente podem colocar o livro para circular no mercado nacional -- sempre que respeitada a nossa escolha por uma licença livre. </p>
+
+<h2>Recompensas</h2>
+
+<p><strong>10 reais -&gt; Cópia digital do livro</strong> - o livro e todo o material bruto vão ser disponibilizados gratuitamente e com licença livre, mas gostariamos do seu apoio mesmo assim.
+<strong>35 reais -&gt; Cópia física do livro</strong> - você pode buscar ele no Laboratório Hacker em São Paulo (ou mais r$10 para envio por correio)
+<strong>70 reais -&gt; Compre 1, Doe 1</strong> - Você recebe uma cópia e garante a doação de 1 livro para uma biblioteca no município (ou mais r$10 para envio por correio)
+<strong>100 reais -&gt; Livro + Poster A3</strong> - Você recebe uma cópia do livro e um poster A3 com sua ilustração preferida (ou mais r$10 para envio por correio)
+<strong>2000 reais -&gt; Oficina Adicional</strong> - Junte até 20 crianças, receba um livro por criança e organize uma oficina adicional exclusiva. (Válido para grupos de pais, escolas e outros coletivos.)</p>
+
+<h1>Laboratório Hacker</h1>
+
+<p>O <a class=""alt-link"" target=""_blank"" href=""http://lab.thacker.com.br"">Laboratório Hacker</a> é um espaço em São Paulo que trabalha com cultura digital, transparência e política. Trabalhamos criando projetos e oficinas que pensem novas maneiras de fazer política a partir da tecnologia. Estamos localizados na Rua Alfredo Maia, 506 - ao lado da estação Armênia do Metrô. Venha tomar um café ;)</p>
+",quemmandaaqui,//www.youtube.com/embed/hw9h664UgfY,https://www.youtube.com/watch?v=hw9h664UgfY,Literatura,20,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/6280/quemmandaaqui-small.png,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/6280/project_thumb_thumb_quemmandaaqui-small.png,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/6280/project_thumb_small_quemmandaaqui-small.png,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/6280/project_thumb_large_quemmandaaqui-small.png,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/6280/project_thumb_video_cover_quemmandaaqui-small.png,115.14166666666666666700,13817.0,260,256,successful,aon,finished,"2014-08-26 02:59:59.999999","2014-08-25 23:59:59.999999","2014-07-16 23:31:05.955304","2014-07-16 20:31:05.955304",,t,t,f,40,"{""total"" : 0, ""unit"" : ""seconds""}","{""total"" : 40, ""unit"" : ""days""}",9,"{""city"" : ""São Paulo"", ""state_acronym"" : ""SP"", ""state"" : ""São Paulo""}","{""id"" : 2780, ""name"" : ""Pedro Cobbett Stael Markun""}",0,,f,f,9,f,f,f

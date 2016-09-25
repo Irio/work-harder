@@ -1,0 +1,187 @@
+project_id,id,user_id,name,headline,budget,goal,about_html,permalink,video_embed_url,video_url,category_name,category_id,original_image,thumb_image,small_image,large_image,video_cover_image,progress,pledged,total_contributions,total_contributors,state,mode,state_order,expires_at,zone_expires_at,online_date,zone_online_date,sent_to_analysis_at,is_published,is_expired,open_for_contributions,online_days,remaining_time,elapsed_time,posts_count,address,user,reminder_count,is_owner_or_admin,user_signed_in,in_reminder,total_posts,can_request_transfer,is_admin_role,contributed_by_friends
+6438,6438,114858,"WeCast no Android","Vamos revolucionar a experiência de ouvir podcasts! No Android e no navegador também.","O orçamento para projetos anteriores a 24/02/2015 normalmente pode ser encontrado na descrição acima.",13800.0,"<p><em>Atualização: O aplicativo foi lançado em <em>19/12/2015.</em> Baixe lá no Google Play!<br><a href=""https://play.google.com/store/apps/details?id=com.nostalgictouch.wecast.paid"">https://play.google.com/store/apps/details?id=com....</a><br><br>Meta estendida 1: Player web do WeCast</em></p><p>Agora que a meta do WeCast no Android foi atingida, que tal levarmos esta experiência para a web?</p><p>Uma enorme parte dos ouvintes de podcast usam os navegadores e acessam os sites dos próprios podcasts para poderem desfrutar desta mídia.</p><p>Não seria legal ter a experiência do <em>WeCast no browser</em>?</p><p>Além de poder ter acesso ao conteúdo extra adicionado pela comunidade, vai ficar ainda mais fácil para quem quiser contribuir com mais conteúdo.</p><p>Para isso, vamos precisar de mais R$4.000 líquidos além da meta original.</p><p>Logo, a campanha deverá conseguir atingir o valor de <em>R$18.400</em>, já considerando a comissão do Catarse.</p><p>Veja o vídeo abaixo, contribua e nos ajude a divulgar! Obrigado!</p><p class=""video youtube""><iframe width=""600"" height=""403"" src=""//www.youtube.com/embed/JG4wrzF-4XY?wmode=opaque"" frameborder=""0"" allowfullscreen=""""></iframe></p><p>Falamos sobre a meta inicial, de levar o WeCast para o Android, nos episódios abaixo:</p><p><em>Alô Ténica de 25/08</em> <a class=""alt-link"" target=""_blank"" href=""http://radiofobia.com.br/2014/08/alo-tenica-19-conheca-o-aplicativo-wecast/"">(ouça)</a></p><p><em>Cocatech de 29/08</em> <a class=""alt-link"" target=""_blank"" href=""http://cocatech.com.br/29-de-agosto-de-2014"">(ouça)</a></p><p><em>SciCast de 05/09</em> <a class=""alt-link"" target=""_blank"" href=""http://meiobit.com/296862/scicast-45-bioinformatica/"">(ouça)</a></p><p><em>Aqui começa a revolução!</em></p><p>Imagine a seguinte situação: você está ouvindo um podcast quando um participante cita algum tópico que você desconhece ou não lembra bem. Pode ser o nome de um ator não tão famoso, um título de filme, um personagem, um game ou um acontecimento histórico, por exemplo.</p><p>Não seria legal poder olhar para a tela do seu Android e nesse momento poder ver uma foto ou texto informativo a respeito do assunto em questão?</p><p>Pode ser o pôster do filme, uma foto do ator, a capa do livro, do álbum, uma foto do personagem, o trailer do filme. Por aí vai...</p><p>Tudo isso será possível no WeCast!</p><p><img src=""http://i.imgur.com/PVg9RgZ.png"" alt=""""></p><p>Depois do sucesso no iOS, agora é chance de levarmos juntos o WeCast para o Android.</p><p>Nossa meta é simplesmente fazer o melhor player de podcasts na plataforma Android, mantendo a simplicidade e facilidade de uso mas ao mesmo tempo aproveitando ao máximo tudo que a plataforma Android tem a oferecer.</p><p>Não faremos um mero clone da versão iOS. O WeCast será um aplicativo nativo Android, com excelente performance e seguindo as mais recentes recomendações do Google quanto à interface e usabilidade <em>(Material Design)</em>.</p><p><img src=""http://i.imgur.com/iHTwMHq.png"" alt=""""></p><p><em>Veja lista a lista de funcionalidades que planejamos desenvolver:</em></p><ul>
+<li>Interface simples, limpa e funcional.</li>
+<li>Notificações push sempre que sair um novo episódio dos podcasts inscritos.</li>
+<li>Acesso à informações extras, imagens, fotos e vídeos sobre os assuntos discutidos nos podcasts, no exato momento em que os tópicos são citados. Tudo adicionado pelos próprios usuários.</li>
+<li>Download automático de episódios.</li>
+<li>Download ou streaming de episódios.</li>
+<li>Configuração para download/streaming somente no Wifi</li>
+<li>Sincronização das inscrições na nuvem.</li>
+<li>Suporte ao ChromeCast</li>
+<li>Criação de sua playlist de forma rápida e prática, com possibilidade de filtrar os episódios por categorias.</li>
+<li>Remoção automática de episódios já ouvidos (seguindo parametrização).</li>
+<li>Busca por podcasts ou inscrição pelo endereço do feed. Importação de feeds via OPML.</li>
+<li>Avanço/retrocesso rápido do playback.</li>
+<li>Controle de velocidade do playback</li>
+<li>Sleep timer</li>
+<li>Acesso aos links das notas do episódio</li>
+<li>Nos podcasts mais famosos, os ícones dos episódios aparecem num nível de zoom mais adaptado às telas dos dispositivos móveis.</li>
+</ul><p><img src=""http://i.imgur.com/FdE8MsM.png"" alt=""""></p><p>Somos uma equipe pequena mas com uma enorme paixão pela mídia podcast.</p><p>Temos total capacidade para entregar o que nos propusemos.</p><p>Seu apoio terá retorno garantido!</p><p><em>Comentários sobre a versão iOS do WeCast:</em></p><p>""O WeCast é uma app feita por brasileiros amantes de podcasts para amantes de podcasts. Ele oferece uma experiência diferenciada e interessante"" - Rafael Fischmann do @MacMagazine No Ar</p><p>""O WeCast mudou a maneira como eu consumo podcasts!"" - Tato Tarcan da @Rede_Geek</p><p>""Uma forma de apreciar podcasts única entre seus pares, e o melhor focado na podosfera brazuca"" - Gustavo Faria do @CocaTech</p><p>""Eu curto muito o WeCast, como produtor de podcasts e como ouvinte, pelo conforto, praticidade e possibilidade de descoberta de novos podcasts. Tenho ainda orgulho por ser um aplicativo brasileiro!"" - Luciano Pires do @Cafe_Brasil</p><p>""Uma experiência única para o ouvinte! Nosso podcast ficou ainda mais rico com o banco de imagens do WeCast"" - Prof. Maury da @Rede_Geek</p><p>""É a melhor forma de se aproveitar um podcast!"" - Miotti do @jurassicast</p><p>""Com o WeCast é muito mais fácil para os ouvintes entenderem as referências citadas no podcast"" - Bruno Costa do @cinecast e @CruzadorF</p><p>Ainda não conhece a versão iOS do WeCast? Experimente e se convença a trazer ele para o Android:</p><p><a class=""alt-link"" href=""https://itunes.apple.com/br/app/wecast-podcasts/id521335484?mt=8"" target=""_blank"">https://itunes.apple.com/br/app/wecast-podcasts/id521335484?mt=8</a></p><p><img src=""http://i.imgur.com/EuFveE1.png"" alt=""""></p><p><em>Sobre as recompensas:</em></p><p>Imaginamos que, ao apoiar o projeto, seu objetivo é ter o aplicativo, não é? :)</p><p>Pensando nisso, decidimos deixar o valor da campanha no mínimo necessário. Uma consequência dessa decisão foi eliminarmos qualquer tipo de recompensa que tenha que ser enviada pelo correio.</p><p>Ao invés das recompensas usuais (camisetas, canecas, chaveirinhos etc) achamos que seria legal tentar aproximar os ouvintes dos criadores de podcasts.</p><p>Nós, como ouvintes, com o passar do tempo passamos a admirar diversas figuras da podosfera brasileira e acreditamos que o mesmo aconteça com você.</p><p>Conversamos então com diversos podcasts parceiros que irão premiar os colaboradores com basicamente quatro tipos de prêmio:</p><p>1 - <em>O colaborador poderá participar de um episódio inteiro do podcast e escolher o tema</em></p><p>2 - <em>O colaborador poderá participar de um episódio inteiro do podcast</em></p><p>3 - <em>O colaborador poderá participar de uma leitura de emails de um episódio</em></p><p>4 - <em>O colaborador escolherá o tema de um episódio</em></p><p><img src=""http://i.imgur.com/ooscXYt.jpg"" alt=""""></p><p>Abaixo segue a lista recompensas. Se os seus podcasts favoritos não estiverem nessa lista, ajude a gente a resolver isso. Mande um email ou tweet para eles informando da nossa campanha e que seria uma honra pra gente adicioná-los à campanha.</p><p><em>Ultrageek da <a class=""alt-link"" target=""_blank"" href=""http://www.redegeek.com.br/"">Rede Geek""</a></em><a class=""alt-link"" target=""_blank"" href=""http://www.redegeek.com.br/""> ""(site)</a></p><ul>
+<li>3 vagas para participar de um episódio inteiro</li>
+<li>2 vagas para participar de um episódio inteiro e você escolhe o assunto</li>
+<li>2 vagas para participar da leitura de emails de um episódio</li>
+</ul><p><em>Radiofobia</em> <a class=""alt-link"" target=""_blank"" href=""http://radiofobia.com.br/"">(site)</a></p><ul>
+<li>1 vaga para participar em qualquer um dos três podcasts do Leo (Radiofobia, Alô Ténica ou Radiofobia Classics) + uma cópia do livro ""Reflexões sobre o Podcast"" + uma camiseta ""Keep Calm and Listen to Podcasts""</li>
+</ul><p><em>Papo de Gordo</em> <a class=""alt-link"" target=""_blank"" href=""http://www.papodegordo.com.br"">(site)</a></p><ul>
+<li>1 vaga para participar de um episódio inteiro do Papo de Gordo</li>
+<li>1 vaga para participar de um episódio inteiro do Papo de Gordo e você escolhe o assunto</li>
+<li>1 vaga para participar de um episódio inteiro do Papo de Gordo Café, via Hangouts</li>
+</ul><p><em>Jurassicast</em> <a class=""alt-link"" target=""_blank"" href=""http://jurassicast.com.br"">(site)</a></p><ul>
+<li>1 vaga para participar de um episódio do ""Quem quer ser um Dinossauro""</li>
+<li>1 vaga para participar de um episódio do ""Elo Perdido""</li>
+<li>4 ingressos de cinema para os filmes que estiverem passando na época (se você morar em Brasília, vai poder ir na pré-estréia)</li>
+</ul><p><em>Cidade Gamer</em> <a class=""alt-link"" target=""_blank"" href=""http://cidadegamer.com.br/"">(site)</a></p><ul>
+<li>2 vagas para participar de um episódio inteiro do Cidade Gamer</li>
+<li>1 vaga para participar do episódio inteiro do Dossiê Sega Dreamcast</li>
+<li>1 caneca da Cidade Gamer</li>
+<li>1 caneca de Pixel Art Premium</li>
+</ul><p><em>NerdCast - Jovem Nerd</em> <a class=""alt-link"" target=""_blank"" href=""http://jovemnerd.com.br/categoria/nerdcast/"">(site)</a></p><ul>
+<li>Não puderam oferecer recompensas, mas nos deram uma força na divulgação da campanha. Muito obrigado Nerds!</li>
+</ul><p><em>AeroCast</em> <a class=""alt-link"" target=""_blank"" href=""http://aerocast.com.br/"">(site)</a></p><ul>
+<li>1 vaga para participar de um episódio inteiro + R$20,00 de desconto para compras na <a class=""alt-link"" target=""_blank"" href=""http://www.aerocaststore.com.br/"">AeroCastStore</a></li>
+</ul><p><em>Bacanudo</em> <a class=""alt-link"" target=""_blank"" href=""http://bacanudo.com.br/category/bacanudo/"">(site)</a></p><ul>
+<li>2 vagas para participar da leitura de emails</li>
+<li>2 escolhas do tema de um episódio</li>
+</ul><p><em>BananaCast - Supernovo.net</em> <a class=""alt-link"" target=""_blank"" href=""http://supernovo.net/categoria/podcasts/"">(site)</a></p><ul>
+<li>1 vaga para participar de um episódio inteiro e você escolhe o assunto</li>
+<li>2 vagas para participar dos episódios de reviews de Game of Thrones ou Walking Dead</li>
+</ul><p><em>Bang Cast</em> <a class=""alt-link"" target=""_blank"" href=""http://www.gamebang.com.br/bang-cast/"">(site)</a></p><ul>
+<li>2 vagas para participar da leitura de emails</li>
+<li>2 escolhas do tema de um episódio</li>
+</ul><p><em>BeerCast Brasil</em> <a class=""alt-link"" target=""_blank"" href=""http://www.beercast.com.br/"">(site)</a></p><ul>
+<li>1 escolha do tema de um episódio + uma camiseta do BeerCast</li>
+</ul><p><em>BnCI - Bola nas Costas Iscuitantes</em> <a class=""alt-link"" target=""_blank"" href=""http://www.bnci.com.br/"">(site)</a></p><ul>
+<li>1 vaga para participar de um episódio do ""Quiz BnCI"", um quiz sobre o seu time do coração</li>
+</ul><p><em>CabulosoCast - Leitor Cabuloso</em> <a class=""alt-link"" target=""_blank"" href=""http://leitorcabuloso.com.br/"">(site)</a></p><ul>
+<li>1 vaga para participar de um episódio inteiro</li>
+<li>1 escolha do tema de um episódio</li>
+</ul><p><em>Café Brasil</em> <a class=""alt-link"" target=""_blank"" href=""http://www.podcastcafebrasil.com.br"">(site)</a></p><ul>
+<li>2 escolhas do tema de um episódio</li>
+</ul><p><em>CocaTech</em> <a class=""alt-link"" target=""_blank"" href=""http://cocatech.com.br/"">(site)</a></p><ul>
+<li>1 vaga para participar da leitura de emails</li>
+<li>1 escolha do tema de um episódio</li>
+</ul><p><em>ComéquePOD</em> <a class=""alt-link"" target=""_blank"" href=""http://comequepod.com/"">(site)</a></p><ul>
+<li>2 vagas para participar de um episódio inteiro e você escolhe o assunto</li>
+</ul><p><em>ContraCast</em> <a class=""alt-link"" target=""_blank"" href=""http://contracast.wordpress.com/"">(site)</a></p><ul>
+<li>2 vagas para participar de um episódio inteiro e você poderá ajudar a montar a pauta (de um tema pré-definido)</li>
+</ul><p><em>ComicPod</em> <a class=""alt-link"" target=""_blank"" href=""http://www.terrazero.com.br/"">(site)</a></p><ul>
+<li>2 escolhas de pauta para de um episódio do ""ComicPod One-Shot"" + camiseta do ""Terra Zero""</li>
+</ul><p><em>CineCast</em> <a class=""alt-link"" target=""_blank"" href=""http://supernovo.net/oscinefilos/cinecast/"">(site)</a></p><ul>
+<li>1 vaga para participar de um episódio inteiro + 1 kit com DVDs selecionados pelos Cinéfilos</li>
+</ul><p><em>Crazy Metal Mind</em> <a class=""alt-link"" target=""_blank"" href=""http://crazymetalmind.com/"">(site)</a></p><ul>
+<li>1 vaga para participar de um episódio inteiro e você escolhe o assunto</li>
+</ul><p><em>Dama do Vinho</em> <a class=""alt-link"" target=""_blank"" href=""http://damadovinho.com.br/"">(site)</a></p><ul>
+<li>1 vaga para participar de um episódio inteiro</li>
+<li>1 escolha do tema de um episódio</li>
+</ul><p><em>DatabaseCast</em> <a class=""alt-link"" target=""_blank"" href=""http://imasters.com.br/perfil/databasecast/"">(site)</a></p><ul>
+<li>1 vaga para participar de um episódio inteiro e você ainda pode levar seu modelo de dados para ser analisado (ou esculhambado, hehe)</li>
+</ul><p><em>FalaFreela - Carreira Solo</em> <a class=""alt-link"" target=""_blank"" href=""http://carreirasolo.org/falafreela"">(site)</a></p><ul>
+<li>1 vaga para participação de um episódio, com direito a entrevista e análise de caso do ouvinte (receberá dicas sobre como incrementar a carreira)</li>
+<li>1 escolhas do tema de um episódio</li>
+</ul><p><em>Frango Fino</em> <a class=""alt-link"" target=""_blank"" href=""http://frangofino.com"">(site)</a></p><ul>
+<li>1 vaga para participar da leitura de emails</li>
+<li>1 escolha de matéria ou notícia para um episódio</li>
+</ul><p><em>FreakCast - Área Freak</em> <a class=""alt-link"" target=""_blank"" href=""http://areafreak.com.br/tag/freakcast/"">(site)</a></p><ul>
+<li>1 vaga para participar de um episódio inteiro e você ajudará a criar a pauta</li>
+</ul><p><em>FZCast - Friends Zone</em> <a class=""alt-link"" target=""_blank"" href=""http://www.friendszone.com.br/"">(site)</a></p><ul>
+<li>1 vaga para participar de um episódio inteiro e você escolhe o assunto</li>
+</ul><p><em>FumbleCast</em> <a class=""alt-link"" target=""_blank"" href=""http://fumblecast.com.br/"">(site)</a></p><ul>
+<li>1 vaga para participar de um episódio inteiro</li>
+</ul><p><em>Geek Talk</em> <a class=""alt-link"" target=""_blank"" href=""http://geektalk.com.br/"">(site)</a></p><ul>
+<li>1 vaga para participar de um episódio inteiro</li>
+<li>1 vaga para participar da leitura de emails</li>
+</ul><p><em>GeekVox</em> <a class=""alt-link"" target=""_blank"" href=""http://geekvox.com.br"">(site)</a></p><ul>
+<li>2 vagas para participar da leitura de emails</li>
+<li>2 escolhas do tema de um episódio</li>
+</ul><p><em>Ghost Writer</em> <a class=""alt-link"" target=""_blank"" href=""http://programagw.podomatic.com"">(site)</a></p><ul>
+<li>2 vagas para participar da leitura de emails</li>
+</ul><p><em>Grok Podcast</em> <a class=""alt-link"" target=""_blank"" href=""http://www.grokpodcast.com/"">(site)</a></p><ul>
+<li>Uma empresa vai poder apresentar um spot de 30 segundos sobre seu produto/serviço em 3 episódios (desde que seja relacionado à temática normal do podcast)</li>
+</ul><p><em>Indicadores de Sucesso</em> <a class=""alt-link"" target=""_blank"" href=""http://indicadoresdesucesso.com/"">(site)</a></p><ul>
+<li>1 vaga para participar de um episódio inteiro</li>
+</ul><p><em>Iradex</em> <a class=""alt-link"" target=""_blank"" href=""http://iradex.net/category/podcast"">(site)</a></p><ul>
+<li>3 vagas para participar nos episódios de indicações</li>
+</ul><p><em>OtaCast</em> <a class=""alt-link"" target=""_blank"" href=""http://otacast.com.br/"">(site)</a></p><ul>
+<li>1 vaga para participar de um episódio inteiro</li>
+<li>1 escolha do tema de um episódio</li>
+</ul><p><em>JWave</em> <a class=""alt-link"" target=""_blank"" href=""http://www.jwave.com.br"">(site)</a></p><ul>
+<li>1 vaga para participar de um episódio inteiro</li>
+<li>1 escolha do tema de um episódio</li>
+</ul><p><em>LiterárioCast</em> <a class=""alt-link"" target=""_blank"" href=""http://literariocast.com/"">(site)</a></p><ul>
+<li>1 vaga para participar de um episódio inteiro</li>
+<li>1 escolha do tema de um episódio</li>
+</ul><p><em>Melhores do Mundo</em> <a class=""alt-link"" target=""_blank"" href=""http://melhoresdomundo.net/"">(site)</a></p><ul>
+<li>2 vagas para participar de um episódio inteiro</li>
+<li>1 escolha do tema de um episódio</li>
+</ul><p><em>No Barquinho</em> <a class=""alt-link"" target=""_blank"" href=""http://nobarquinho.com/"">(site)</a></p><ul>
+<li>1 vaga para participar de um episódio inteiro</li>
+<li>1 escolha do tema de um episódio</li>
+</ul><p><em>Na Porteira Cast</em> <a class=""alt-link"" target=""_blank"" href=""http://naporteiracast.com.br"">(site)</a></p><ul>
+<li>1 vaga para participar do episódio inteiro de aniversário</li>
+</ul><p><em>NossoCast</em> <a class=""alt-link"" target=""_blank"" href=""http://www.nossocast.com.br/"">(site)</a></p><ul>
+<li>1 vaga para participar de um episódio inteiro</li>
+<li>1 escolha do tema de um episódio</li>
+</ul><p><em>Papo Acessível</em> <a class=""alt-link"" target=""_blank"" href=""http://papoacessivel.com.br/"">(site)</a></p><ul>
+<li>2 vagas para participar de um episódio inteiro e você escolhe o assunto</li>
+</ul><p><em>Papo Lendário</em> <a class=""alt-link"" target=""_blank"" href=""http://www.mitografias.com.br"">(site)</a></p><ul>
+<li>1 vaga para participar da leitura de emails</li>
+<li>1 escolha do tema de um episódio</li>
+</ul><p><em>Papricast</em> <a class=""alt-link"" target=""_blank"" href=""http://www.papricast.com.br"">(site)</a></p><ul>
+<li>2 escolhas do tema de um episódio</li>
+</ul><p><em>Pauta Livre News</em> <a class=""alt-link"" target=""_blank"" href=""http://www.pautalivrenews.com/"">(site)</a></p><ul>
+<li>2 vagas para participar da leitura de emails</li>
+</ul><p><em>Paranerdia</em> <a class=""alt-link"" target=""_blank"" href=""http://paranerdia.com.br/"">(site)</a></p><ul>
+<li>2 vagas para participar de um episódio inteiro e você escolhe o assunto</li>
+<li>1 vaga para participar de um episódio inteiro</li>
+</ul><p><em>Pelada na Net</em> <a class=""alt-link"" target=""_blank"" href=""http://peladananet.com.br"">(site)</a></p><ul>
+<li>2 vagas para participar da leitura de emails</li>
+</ul><p><em>Perdidos No Play</em> <a class=""alt-link"" target=""_blank"" href=""http://www.perdidosnoplay.com.br"">(site)</a></p><ul>
+<li>1 vaga para participar de um episódio inteiro</li>
+<li>2 escolhas do tema de um episódio</li>
+</ul><p><em>Podcast do Mau (Saldanha)</em> <a class=""alt-link"" target=""_blank"" href=""http://mausaldanha.com/"">(site)</a></p><ul>
+<li>1 vaga para participar de um episódio inteiro</li>
+</ul><p><em>Podcast F1 Brasil</em> <a class=""alt-link"" target=""_blank"" href=""http://www.podcastf1brasil.com.br/"">(site)</a></p><ul>
+<li>3 vagas para participar do episódio especial de final de ano</li>
+</ul><p><em>Pixel Velho</em> <a class=""alt-link"" target=""_blank"" href=""http://pixelvelho.com.br/"">(site)</a></p><ul>
+<li>1 vaga para participar de um episódio inteiro e você escolhe o assunto</li>
+</ul><p><em>Podtrash</em> <a class=""alt-link"" target=""_blank"" href=""http://td1p.com/"">(site)</a></p><ul>
+<li>1 vaga para participar de um episódio inteiro</li>
+<li>1 escolha do tema de um episódio</li>
+</ul><p><em>Professor Bira</em> <a class=""alt-link"" target=""_blank"" href=""http://professorbira.com/"">(site)</a></p><ul>
+<li>2 camisetas ""Sou Fera"", ideal para Vestibulandos</li>
+</ul><p><img src=""http://i.imgur.com/ZmJOd8l.jpg"" alt=""""></p><p><em>Projeto X Podcast</em> <a class=""alt-link"" target=""_blank"" href=""http://www.projetoxpodcast.com.br/"">(site)</a></p><ul>
+<li>2 vagas para participar da leitura de emails</li>
+<li>2 escolhas do tema de um episódio</li>
+</ul><p><em>QuadrimCast</em> <a class=""alt-link"" target=""_blank"" href=""http://www.quadrimcast.com.br/"">(site)</a></p><ul>
+<li>1 vaga para participar de um episódio do QuadrimCast ou QuadrimComenta e você escolhe o assunto</li>
+</ul><p><em>Mundo Freak</em> <a class=""alt-link"" target=""_blank"" href=""http://www.mundofreak.com.br/categoria/podcast/"">(site)</a></p><ul>
+<li>2 vagas para participar de um episódio inteiro</li>
+<li>4 vagas para participar da leitura de emails</li>
+</ul><p><em>Nerds do Fundão</em> <a class=""alt-link"" target=""_blank"" href=""http://www.nerdsdofundao.com.br/"">(site)</a></p><ul>
+<li>1 vaga para participar de um episódio inteiro</li>
+<li>1 escolha do tema de um episódio</li>
+</ul><p><em>Radiobla - Blablaísmo</em> <a class=""alt-link"" target=""_blank"" href=""http://www.blablaismo.com.br/"">(site)</a></p><ul>
+<li>1 vaga para participar de um episódio inteiro, escolher o assunto e ainda levar um amigo</li>
+</ul><p><em>Ser Ou Não Sei</em> <a class=""alt-link"" target=""_blank"" href=""http://www.serounaosei.com/"">(site)</a></p><ul>
+<li>1 vaga para participar de um episódio inteiro, escolher o assunto e opcionalmente montar a pauta</li>
+</ul><p><em>SciCast</em> <a class=""alt-link"" target=""_blank"" href=""http://www.scicast.com.br"">(site)</a></p><ul>
+<li>1 vaga para participar de um episódio inteiro e você escolhe o assunto</li>
+</ul><p><em>Taverna Gamer</em> <a class=""alt-link"" target=""_blank"" href=""http://www.tavernagamer.com"">(site)</a></p><ul>
+<li>1 vaga para participar de um episódio inteiro do ""TavernaCast""</li>
+<li>1 vaga para participar de um episódio inteiro do ""Papo na Taverna""</li>
+</ul><p><em>TelhaCast</em> <a class=""alt-link"" target=""_blank"" href=""http://mundopodcast.com.br/telhacast/"">(site)</a></p><ul>
+<li>1 vaga para participar de um episódio inteiro</li>
+<li>Se você é podcaster vai poder hospedar os arquivos mp3 do seu podcast no servidor do Mundo Podcast</li>
+</ul><p><em>Torre dos Gurus</em> <a class=""alt-link"" target=""_blank"" href=""http://torredosgurus.com.br/"">(site)</a></p><ul>
+<li>1 vaga para participar de um episódio inteiro</li>
+</ul><p><em>Troca o Disco</em> <a class=""alt-link"" target=""_blank"" href=""http://trocaodisco.com.br/"">(site)</a></p><ul>
+<li>1 vaga para participar de um episódio inteiro e você ajudará a escolher o assunto</li>
+</ul><p><em>VinhoCast</em> <a class=""alt-link"" target=""_blank"" href=""http://www.aessenciadovinho.com.br/sessoes/vinhocast/"">(site)</a></p><ul>
+<li>1 vaga para participar de um episódio inteiro e você escolhe o tema</li>
+</ul><p>Observações:</p><ul>
+<li>Para poder participar dos episódios o ouvinte deverá ter internet banda-larga de qualidade e head-set.</li>
+<li>Os temas escolhidos pelos ouvintes premiados deverão estar de acordo com a linha do Podcast e ter aprovação de seus membros, dando tempo necessário para que eles estudem o assunto e encaixem em sua grade de programação.</li>
+</ul><p><em>PRÊMIOS ESPECIAIS</em></p><p><em>Seu podcast na área de Destaques do aplicativo</em></p><p>Este prêmio é direcionado a podcasters que queriam dar mais destaque ao seu podcast, mas também pode ser de interesse dos ouvintes que queriam tornar seus podcasts favoritos mais conhecidos.</p><p>Na área de buscas por podcasts teremos uma aba com uma lista de podcasts ""Em Destaque"", nos moldes da imagem abaixo.</p><p>Essa premiação dará direito a escolher um podcast para fazer parte dessa lista por 30 dias.</p><p><img src=""http://i.imgur.com/NwetR6A.png"" alt=""""></p><p><em>Um dia na Casa Geek, com jogos e prost!#ˆ#&$, que dizer, com muita diversão!</em></p><p>Você vai poder passar um dia inteiro na Casa Geek, lar e escritório da Rede Geek.</p><p>Vai conhecer o Tato Tarcan e o Professor Maury. Quem sabe não rola até um batismo presencial?!</p><p>Ao final do dia você participará da gravação de um episódio do Ultrageek.</p><p>Obs: despesas com transporte e hospedagem não estão inclusas.</p><p><img src=""http://i.imgur.com/jVppzxg.png"" alt=""""></p><p><em>Para empresas: espaço publicitário</em></p><p>Temos duas opções:</p><ul>
+<li>Sua empresa terá um Spot apresentando seu produto/serviço em um episódio do Ultrageek.</li>
+<li>Além do spot, o episódio inteiro terá um tema relacionado ao seu produto/serviço.</li>
+</ul><p><em>Como o dinheiro arrecadado será usado</em></p><p>Para que a versão Android do WeCast possa ficar pronta mais rápido e garantir sua qualidade, nosso programador líder (dele mesmo) desta vez contará com a ajuda de um especialista em Android. Aí que iremos alocar a maior parte dos recursos.</p><p>Além do programador, também precisaremos do trabalho de um designer, já que a ideia é ter um aplicativo visualmente agradável e de acordo com as referências do <em>Material Design</em> do Google.</p><p>O gráfico abaixo mostra como está planejada a distribuição dos recursos:</p><p><img src=""http://i.imgur.com/anYYXg6.png"" alt=""""></p><p><em>Estimativa de prazo</em></p><p>Nossa previsão é entregar o aplicativo no início de março de 2015.</p>",wecast,//www.youtube.com/embed/9SQDNzjHJD8,https://www.youtube.com/watch?v=9SQDNzjHJD8,"Ciência e Tecnologia",18,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/6438/banner-catarse3.png,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/6438/project_thumb_thumb_banner-catarse3.png,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/6438/project_thumb_small_banner-catarse3.png,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/6438/project_thumb_large_banner-catarse3.png,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/6438/project_thumb_video_cover_banner-catarse3.png,155.8840579710144900,21512.0,556,538,successful,aon,finished,"2014-10-28 23:59:59.999999","2014-10-28 21:59:59.999999","2014-08-29 03:00:05.229304","2014-08-29 00:00:05.229304",,t,t,f,60,"{""total"" : 0, ""unit"" : ""seconds""}","{""total"" : 60, ""unit"" : ""days""}",25,"{""city"" : ""Barueri"", ""state_acronym"" : ""SP"", ""state"" : ""São Paulo""}","{""id"" : 114858, ""name"" : ""Eduardo Baião""}",6,,f,f,150,f,f,f

@@ -1,0 +1,57 @@
+project_id,id,user_id,name,headline,budget,goal,about_html,permalink,video_embed_url,video_url,category_name,category_id,original_image,thumb_image,small_image,large_image,video_cover_image,progress,pledged,total_contributions,total_contributors,state,mode,state_order,expires_at,zone_expires_at,online_date,zone_online_date,sent_to_analysis_at,is_published,is_expired,open_for_contributions,online_days,remaining_time,elapsed_time,posts_count,address,user,reminder_count,is_owner_or_admin,user_signed_in,in_reminder,total_posts,can_request_transfer,is_admin_role,contributed_by_friends
+8768,8768,365717,"GymSoft - Automatizando a vida dos amantes de esportes","GymSoft - Facilitando a vida dos praticantes de esportes! Aplicativo que ajudará na procura e reserva de ginásios esportivos!","O orçamento para projetos anteriores a 24/02/2015 normalmente pode ser encontrado na descrição acima.",30000.0,"<p><strong>O QUE É O GYMSOFT</strong></p>
+
+<p>GymSoft é um aplicativo para Android e iOS que proporcionará melhor interação entre os praticantes de esportes e os administradores de ginásios esportivos!<br>
+Com o GymSoft não será mais necessário gastar um bom tempo, geralmente ao telefone, procurando um ginásio ou quadra que possua disponibilidade no horário que você deseja, o GymSoft irá realizar isso de forma automática e gratuita para os usuários!</p>
+
+<p><strong>O QUE O GYMSOFT FARÁ</strong></p>
+
+<p>O que será possível fazer com o GymSoft: </p>
+
+<p>• Reservar o lugar para praticar esportes facilmente, com apenas alguns toques;
+• Grande quantidade de opções: ginásios e quadras em seu smartphone ou tablet;
+• Acesso à agenda dos ginásios;
+• Ficar sabendo sobre promoções e eventos nos lugares que deseja!</p>
+
+<p><strong>GYMSOFT PARA OS ADMINISTRADORES</strong></p>
+
+<p>Para os Administradores, o GymSoft é uma ferramenta de gerenciamento de reservas do seus ginásios e quadras esportivas, e também divulga-os para uma grande quantidade de pessoas e torna eles acessível para todos os seus clientes! 
+O GymSoft oferece aos administradores uma plataforma web de auxílio ao negócio, mostrando todos os dados sobre seu ginásios dentro da plataforma. É possível ainda adquirir maior visibilidade, divulgação de eventos e promoções. Divulgação e Facilidade na administração de reservas, os dois juntos em uma plataforma só.  </p>
+
+<p><strong>ONDE SERÁ UTILIZADO O DINHEIRO ARRECADADO</strong></p>
+
+<p>O dinheiro arrecadado no catarse será utilizado para a compra de recursos necessários para o desenvolvimento do aplicativo e da plataforma. Alguns dos recursos que serão adquiridos são:</p>
+
+<p>• Servidores em nuvem
+        - Para que o aplicativo funcione corretamente terá que haver a terceirização de servidores, pois o app será em tempo real.</p>
+
+<p>• Desenvolvedores 
+        - Haverá a necessidade de contratar outros programadores para que o prazo não se alongue. Os custos com desenvolvedores serão somente durante a criação do aplicativo.</p>
+
+<p>• Designers 
+        - Funcionará igual aos desenvolvedores. Haverá a terceirização de designers para que o aplicativo fique atraente e fácil de usar. Esse custo será somente durante a criação do app.</p>
+
+<p>• Recursos para a pesquisa
+        - Como o aplicativo fará a reserva dos ginásios da sua região, é importantíssimo realizar pesquisas dos mais variados ginásios do Brasil.<br>
+          Esse item será o mais custoso. </p>
+
+<p>• Marketing
+       - O marketing será necessário para a divulgação do app tanto para os usuários, quanto para os administradores.</p>
+
+<p>•       Catarse (13%)
+       - Caso o projeto consiga chegar à sua meta, que é 30.000,00, o catarse fica com 13% desse valor.</p>
+
+<p><img src=""http://i.imgur.com/ezNYntM.png"" alt=""""/></p>
+
+<p>Dessa forma, possuindo os recursos necessários, será possível concretizar o GymSoft.</p>
+
+<p><strong>RECOMPENSAS</strong></p>
+
+<p>Todas as pessoas que investirem no GymSoft receberão o privilégio de utilizá-lo 2 semanas antes de seu lançamento! Além disso, ganharão ainda mais de acordo com o valor de colaboração:</p>
+
+<p>• Até 50$: Ganham agradecimentos na página oficial no facebook e nas demais redes sociais</p>
+
+<p>• +50$ até 100$: Ganham os agradecimentos e uma menção honrosa com seu nome no “Sobre” do GymSoft</p>
+
+<p>• +100$: Recebem os agradecimentos, a menção honrosa e ainda será exibido uma vez, na inicialização do GymSoft, a sua foto com seu nome e o link do seu perfil facebook!</p>
+",gymsoftapp,//www.youtube.com/embed/U3ZI35R8UKU,https://www.youtube.com/watch?v=U3ZI35R8UKU,"Ciência e Tecnologia",18,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/8768/PrincipalGYMSOFT.jpg,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/8768/project_thumb_thumb_PrincipalGYMSOFT.jpg,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/8768/project_thumb_small_PrincipalGYMSOFT.jpg,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/8768/project_thumb_large_PrincipalGYMSOFT.jpg,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/8768/project_thumb_video_cover_PrincipalGYMSOFT.jpg,0.03333333333333333300,10.0,1,1,failed,aon,finished,"2015-01-01 01:59:59","2014-12-31 23:59:59","2014-12-01 21:01:55.988134","2014-12-01 19:01:55.988134",,t,t,f,30,"{""total"" : 0, ""unit"" : ""seconds""}","{""total"" : 30, ""unit"" : ""days""}",0,"{""city"" : ""Lages"", ""state_acronym"" : ""SC"", ""state"" : ""Santa Catarina""}","{""id"" : 365717, ""name"" : ""Jorge Luiz Arruda Coelho""}",0,,f,f,0,f,f,f

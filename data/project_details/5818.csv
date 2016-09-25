@@ -1,0 +1,21 @@
+project_id,id,user_id,name,headline,budget,goal,about_html,permalink,video_embed_url,video_url,category_name,category_id,original_image,thumb_image,small_image,large_image,video_cover_image,progress,pledged,total_contributions,total_contributors,state,mode,state_order,expires_at,zone_expires_at,online_date,zone_online_date,sent_to_analysis_at,is_published,is_expired,open_for_contributions,online_days,remaining_time,elapsed_time,posts_count,address,user,reminder_count,is_owner_or_admin,user_signed_in,in_reminder,total_posts,can_request_transfer,is_admin_role,contributed_by_friends
+5818,5818,276918,"Festa Junina do Assentamento Bela Vista","Quentão, doce de abóbora, quadrilha, milho verde, amor e carinho... vai ficar de fora dessa festa!?","O orçamento para projetos anteriores a 24/02/2015 normalmente pode ser encontrado na descrição acima.",6500.0,"<p>A tradicional festa junina do Bela Vista do Chibarro acontece desde 1989, primeiramente nos lotes do assentamento e, ganhando o interesse do público, no amplo espaço do terreiro de café. Além do conjunto arquitetônico histórico e da tradição caipira preservada, é um momento do produtor rural mostrar as potencialidades da terra e celebrar com a comunidade, oferecendo muita alegria, acolhimento e muito doce de abóbora. Para que a festa aconteça, além da mobilização dos assentados os parceiros são imprescindíveis! A Prefeitura de Araraquara, o Sesc sempre contribuem com o Movimento Pé Vermelho, organizador da festa. Porém, com o crescimento das questões burocráticas que permeiam os eventos públicos, falta-nos alguns reais para financiar a documentação e infra-estrutura. E nessa etapa, você pode nos ajudar! O valor arrecadado no Catarse será destinado a estrutura do palco, banheiros químicos, liberações de alvará e material publicitário.</p>
+
+<p>Quem já apoia essa ideia:
+Prefeitura Municipal de Araraquara
+Secretaria Municipal de Cultura de Araraquara
+SESC Araraquara
+Movimento Pé Vermelho
+Fotoclube Aracoara
+Kruppa Produções
+Coletivo Colmeia
+Grupo Bando Novo
+Medianeiro Projetos</p>
+
+<p>Patrocínio:
+Nupedor
+Agrometa
+Palhas Favarim</p>
+
+<p>A festa acontece nos dias 21 e 22 de junho. O financiamento via Catarse pode acontecer até dia 03/07 porque algumas dessas despesas podem ser pagar após a realização! Muito obrigada!!</p>
+",belavista,//www.youtube.com/embed/jNQLP4Uw4Bc,https://www.youtube.com/watch?v=jNQLP4Uw4Bc&feature=youtu.be,Eventos,10,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/5818/DSC01532.JPG,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/5818/project_thumb_thumb_DSC01532.JPG,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/5818/project_thumb_small_DSC01532.JPG,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/5818/project_thumb_large_DSC01532.JPG,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/5818/project_thumb_video_cover_DSC01532.JPG,13.30769230769230769200,865.0,14,12,failed,aon,finished,"2014-07-04 02:59:59","2014-07-03 23:59:59","2014-06-13 19:57:59.041498","2014-06-13 16:57:59.041498",,t,t,f,20,"{""total"" : 0, ""unit"" : ""seconds""}","{""total"" : 20, ""unit"" : ""days""}",0,"{""city"" : ""Araraquara"", ""state_acronym"" : ""SP"", ""state"" : ""São Paulo""}","{""id"" : 276918, ""name"" : ""Kruppa Consultoria e Produções Artísticas Ltda.""}",0,,f,f,0,f,f,f

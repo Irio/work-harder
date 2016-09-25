@@ -1,0 +1,19 @@
+project_id,id,user_id,name,headline,budget,goal,about_html,permalink,video_embed_url,video_url,category_name,category_id,original_image,thumb_image,small_image,large_image,video_cover_image,progress,pledged,total_contributions,total_contributors,state,mode,state_order,expires_at,zone_expires_at,online_date,zone_online_date,sent_to_analysis_at,is_published,is_expired,open_for_contributions,online_days,remaining_time,elapsed_time,posts_count,address,user,reminder_count,is_owner_or_admin,user_signed_in,in_reminder,total_posts,can_request_transfer,is_admin_role,contributed_by_friends
+5665,5665,263732,"Anjos e Companhia em: RISOTERAPIA","Rir é o melhor remédio! ","O orçamento para projetos anteriores a 24/02/2015 normalmente pode ser encontrado na descrição acima.",27471.0,"<p><img src=""http://i.imgur.com/wcxYt0X.png"" alt=""""/>
+<img src=""http://i.imgur.com/4xWOr2O.jpg"" alt=""""/>
+<img src=""http://i.imgur.com/VYg4GYa.png"" alt=""""/>
+<img src=""http://i.imgur.com/H1fx0W6.jpg"" alt=""""/>
+<img src=""http://i.imgur.com/UkofCFi.png"" alt=""""/>
+<img src=""http://i.imgur.com/Mj4RVRL.jpg"" alt=""""/>
+<img src=""http://i.imgur.com/40kajdF.png"" alt=""""/>
+<img src=""http://i.imgur.com/W2CIhsB.jpg"" alt=""""/>
+<img src=""http://i.imgur.com/48tsTbE.png"" alt=""""/>
+<img src=""http://i.imgur.com/ORZj99G.jpg"" alt=""""/>
+<img src=""http://i.imgur.com/wuDLpcQ.png"" alt=""""/>
+<img src=""http://i.imgur.com/6nWe4fD.jpg"" alt=""""/>
+<img src=""http://i.imgur.com/M4hCWEp.png"" alt=""""/>
+<img src=""http://i.imgur.com/zGk7UQn.jpg"" alt=""""/>
+<img src=""http://i.imgur.com/9X6rnMy.png"" alt=""""/>
+<img src=""http://i.imgur.com/ZSCpBxn.png"" alt=""""/>
+<img src=""http://i.imgur.com/iYIGLHC.jpg"" alt=""""/></p>
+",anjosecompanhia,//www.youtube.com/embed/46WhfhzxE8o,http://www.youtube.com/watch?v=46WhfhzxE8o&feature=youtu.be,"Teatro e Dança",19,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/5665/Grupo.jpg,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/5665/project_thumb_thumb_Grupo.jpg,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/5665/project_thumb_small_Grupo.jpg,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/5665/project_thumb_large_Grupo.jpg,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/5665/project_thumb_video_cover_Grupo.jpg,8.40886753303483673700,2310.0,25,25,failed,aon,finished,"2014-12-07 01:59:59","2014-12-06 23:59:59","2014-10-07 17:16:27.934818","2014-10-07 14:16:27.934818",,t,t,f,60,"{""total"" : 0, ""unit"" : ""seconds""}","{""total"" : 60, ""unit"" : ""days""}",0,"{""city"" : ""Uberlândia"", ""state_acronym"" : ""MG"", ""state"" : ""Minas Gerais""}","{""id"" : 263732, ""name"" : ""Anjos & Companhia""}",0,,f,f,0,f,f,f

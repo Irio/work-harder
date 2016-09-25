@@ -1,0 +1,117 @@
+project_id,id,user_id,name,headline,budget,goal,about_html,permalink,video_embed_url,video_url,category_name,category_id,original_image,thumb_image,small_image,large_image,video_cover_image,progress,pledged,total_contributions,total_contributors,state,mode,state_order,expires_at,zone_expires_at,online_date,zone_online_date,sent_to_analysis_at,is_published,is_expired,open_for_contributions,online_days,remaining_time,elapsed_time,posts_count,address,user,reminder_count,is_owner_or_admin,user_signed_in,in_reminder,total_posts,can_request_transfer,is_admin_role,contributed_by_friends
+6337,6337,295832,SocorreMe,"A Tecnologia no Combate as Drogas.","O orçamento para projetos anteriores a 24/02/2015 normalmente pode ser encontrado na descrição acima.",23000.0,"<p><img src=""http://www.aplicativos9.com.br/catarse/intro.png"" alt=""""/></p>
+
+<p><img src=""http://www.aplicativos9.com.br/catarse/banner/oprojeto4.png"" alt=""""/></p>
+
+<p>O tema Drogas é complexo e polêmico, mas infelizmente está relacionado conosco direta ou indiretamente, ou seja, diretamente com pessoas da nossa família/parentes/amigos e indiretamente com a violência desenfreada em nossa sociedade, na qual, o maior causador são as drogas.</p>
+
+<p>Diante disso ficava imaginando, como ajudar as pessoas que usam drogas saírem dessa vida! Em um sonho eu desenvolvia um Aplicativo web e mobile para ajudar os adictos(Pessoas que querem parar de usar drogas). Fui pesquisar e não conseguir visualizar nenhum projeto parecido. Foi a partir daí que comecei a desenvolver o projeto.</p>
+
+<p>Foram 03 meses de desenvolvimento do sistema e site. <a class=""alt-link"" target=""_blank"" href=""http://socorre.me."">Acesse o site</a> A idéia é causar um impacto nos adictos e com isso todos os dias entrar no sistema e visualizar aquelas imagens e cumprir as suas metas, o antes e depois das drogas. Pois Segundo a americana Jane McGonigal diz que se a pessoa conseguir ficar 21 dias sem o uso do vício em um ciclo de 04 meses, tem uma grande chance de largá-lo.</p>
+
+<p><img src=""http://www.aplicativos9.com.br/catarse/banner/oapp.png"" alt=""""/></p>
+
+<p>A app tem a finalidade de utilizar a tecnologia no combate as drogas, ou seja, ajudar os adictos a parar de usar alguma droga lícita/ilícita. Com apenas um cadastro de 03 campos, é gerado uma estatística informando o valor/tempo/quantidade usada com as drogas. Com isso gera um contador de tempo não usado e traçando planos/metas afim de que o adicto consiga parar de usar as drogas. O app torna-se inovador e diferente pois pesquisamos e não encontramos nenhum projeto parecido, e com o boom de aplicativos torna-se interessante o adicto procurar essa ferramenta, no qual, possui uma privacidade, pois muitos não procuram tratamento devido a enorme exposição em dirigir-se a alguma clínica especializada em tratamentos de recuperação de drogas.</p>
+
+<p><img src=""http://www.aplicativos9.com.br/catarse/banner/recursos.png"" alt=""""/></p>
+
+<p>LOGIN: Ao entrar no app o adicto é obrigatório login e senha; CADASTRO: Ao logar no app é obrigatório o cadastro de 03 campos:
+valor/tempo/quantidade usada com as drogas;
+ESTATÍSTICA: Ao terminar de preencher o cadastro é automaticamente redirecionado para a tela de estatística, onde vai informá-lo o valor/tempo/quantidade usada com as drogas, , tudo em forma de gráficos.O App sugere por exemplo caso ele tenha gastado R$ 120.000,00 o app mostra uma imagem de um apartamento, no qual, ele poderia ter comprado ao invés de usar as drogas;
+PLANOS E METAS: Planos e Metas a curto, médio e longo prazo para ajudá-lo a parar com as drogas, caso consiga atingir as metas pode ganhar uma: Consulta Psicológica/Psquiátrica, Internação em Cínicas, livros etc.
+COMPARTILHAMENTO: Caso o adicto autorize o compartilhamento de suas estatísiicas no facebook por exemplo, aparece diariamente que o Adicto está a um tempo X sem as drogas e que economizou Y com isso as pessoas começam a incentivá-lo a não usar.
+FRASE: Todo dia é enviado via push uma frase motivacional para o adicto; LISTAS DE SONHOS: Preencher um formulário todos os seus sonhos;
+EVITE/ PROCURE: Preencher um formulário com tudo que tem que evitar e tudo que tem que procurar para evitar as drogas;
+LINHA DO TEMPO: Colocar uma foto antes e outra depois para saber o estrago que a droga fez na vida do indivíduo;
+MOTIVACIONAL: Envia fotos dos filhos e da família, para visualizar todos os dias para que antes de usar lembrar das imagens assim evita de usar as drogas. Também nesse módulo ele pode gravar um vídeo com o seu depoimento e enviar para o app;
+NÍVEL DE SATISFAÇÃO: Nessa tela vai avaliar o nível de satisfação
+atual com a sua vida em diversas categorias: saúde, Plenitude/Felicidade, Vida Social etc;
+CONFIGURAÇÃO: Nessa tela tem algumas opções:
+1 – Botão para reiniciar o contador de dias/planos/metas não usados com as drogas; 2 – Limpar as informações de cadastro;
+3 – Opção de não receber notificações das frases via push.</p>
+
+<p><img src=""http://www.aplicativos9.com.br/catarse/banner/estatistica.png"" alt=""""/></p>
+
+<p><img src=""http://www.aplicativos9.com.br/catarse/jovens.png"" alt=""""/></p>
+
+<p><img src=""http://www.aplicativos9.com.br/catarse/dados.png"" alt=""""/></p>
+
+<p><img src=""http://www.aplicativos9.com.br/catarse/banner/financeiro.png"" alt=""""/></p>
+
+<p>Nossa estimativa atual:</p>
+
+<p><img src=""http://www.aplicativos9.com.br/catarse/planilha.png"" alt=""""/></p>
+
+<p>7% do que for arrecado será para a casa de recuperação Novo Amanhecer em Vargem Grande Paulista SP : <a class=""alt-link"" href=""http://www.casanovoamanhecer.org.br"" target=""_blank"">http://www.casanovoamanhecer.org.br</a></p>
+
+<p><img src=""http://www.aplicativos9.com.br/catarse/grafico.png"" alt=""""/></p>
+
+<p><img src=""http://www.aplicativos9.com.br/catarse/banner/cronograma.png"" alt=""""/></p>
+
+<p><img src=""http://www.aplicativos9.com.br/catarse/cronograma.png"" alt=""""/></p>
+
+<p>*As datas poderão sofrer alterações.
+*O Aplicativo no momento é só um protótipo.</p>
+
+<p><img src=""http://www.aplicativos9.com.br/catarse/banner/equipe.png"" alt=""""/></p>
+
+<p>Serão 05 Profissionais envolvidos:</p>
+
+<p>Nome: Daniel dos Santos Cardoso
+Cargo: Analista de sistemas/Coordenador do Projeto
+Perfil: – Graduação em Análise e Desenvolvimento de Sistemas e pós-graduação em análise e Projeto de sistemas pela UFMA</p>
+
+<p>Nome: Ewerton Pereira
+Cargo: Programador
+Perfil: Graduação em Sistemas de Informação</p>
+
+<p>Nome: Rafael Folha
+Cargo: Designer
+Perfil: Técnico em Web Designer</p>
+
+<p>Nome: Dra. Chistina Queiroz Lacerda
+Cargo: Psicóloga
+Perfil: Graduação em Psicologia com especialização em Dependência Química</p>
+
+<p>Nome: Pr. Efigenio P. Dos Santos
+Cargo: Especialista em recuperação de Dependentes Químicos 
+Perfil: Graduação em Teologia</p>
+
+<p><img src=""http://www.aplicativos9.com.br/catarse/banner/prototipo.png"" alt=""""/></p>
+
+<div class=""video youtube""><iframe width=""600"" height=""403"" src=""//www.youtube.com/embed/cNJ9l4_UIXU?wmode=opaque"" frameborder=""0"" allowfullscreen></iframe></div>
+
+<p><img src=""http://www.aplicativos9.com.br/catarse/banner/bannerTelas.png"" alt=""""/></p>
+
+<p><img src=""http://www.aplicativos9.com.br/catarse/telas.png"" alt=""""/></p>
+
+<p><img src=""http://www.aplicativos9.com.br/catarse/banner/premiacao.png"" alt=""""/></p>
+
+<p>O projeto socorre.me foi selecionado entre as 25 melhores idéias de todo o Brasil pelo Sebrae/SP e SET (Sociedade Engenharia de Televisão) para uma mentoria de 02 semanas na escola de negócios do Sebrae/SP. </p>
+
+<p><img src=""http://www.aplicativos9.com.br/catarse/banner/efeitosdasDrogas.png"" alt=""""/></p>
+
+<div class=""video youtube""><iframe width=""600"" height=""403"" src=""//www.youtube.com/embed/qatkbKFPfvc?wmode=opaque"" frameborder=""0"" allowfullscreen></iframe></div>
+
+<p><img src=""http://www.aplicativos9.com.br/catarse/banner/depoimentos.png"" alt=""""/></p>
+
+<div class=""video youtube""><iframe width=""600"" height=""403"" src=""//www.youtube.com/embed/NLAnRnDWuZI?wmode=opaque"" frameborder=""0"" allowfullscreen></iframe></div>
+
+<div class=""video youtube""><iframe width=""600"" height=""403"" src=""//www.youtube.com/embed/RWkc3ke78Pw?wmode=opaque"" frameborder=""0"" allowfullscreen></iframe></div>
+
+<div class=""video youtube""><iframe width=""600"" height=""403"" src=""//www.youtube.com/embed/KtGD8pnhppw?wmode=opaque"" frameborder=""0"" allowfullscreen></iframe></div>
+
+<div class=""video youtube""><iframe width=""600"" height=""403"" src=""//www.youtube.com/embed/ZeflD8Owb8A?wmode=opaque"" frameborder=""0"" allowfullscreen></iframe></div>
+
+<p><img src=""http://www.aplicativos9.com.br/catarse/banner/passo.png"" alt=""""/></p>
+
+<p><img src=""http://www.aplicativos9.com.br/catarse/passoApasso.png"" alt=""""/></p>
+
+<p><img src=""http://www.aplicativos9.com.br/catarse/banner/meta.png"" alt=""""/></p>
+
+<p><img src=""http://www.aplicativos9.com.br/catarse/metas.png"" alt=""""/></p>
+
+<p><img src=""http://www.aplicativos9.com.br/catarse/linha.png"" alt=""""/></p>
+
+<p><img src=""http://www.aplicativos9.com.br/catarse/creditos.png"" alt=""""/></p>
+",socorreme,//www.youtube.com/embed/bj6nLGQKlTc,https://www.youtube.com/watch?v=bj6nLGQKlTc,"Ciência e Tecnologia",18,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/6337/512x400.jpg,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/6337/project_thumb_thumb_512x400.jpg,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/6337/project_thumb_small_512x400.jpg,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/6337/project_thumb_large_512x400.jpg,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/6337/project_thumb_video_cover_512x400.jpg,0.23913043478260869600,55.0,4,4,failed,aon,finished,"2014-12-01 01:59:59","2014-11-30 23:59:59","2014-10-01 11:00:01.867433","2014-10-01 08:00:01.867433",,t,t,f,60,"{""total"" : 0, ""unit"" : ""seconds""}","{""total"" : 60, ""unit"" : ""days""}",0,"{""city"" : ""Cotia"", ""state_acronym"" : ""SP"", ""state"" : ""São Paulo""}","{""id"" : 295832, ""name"" : ""Daniel dos Santos Cardoso""}",0,,f,f,0,f,f,f

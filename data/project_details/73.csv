@@ -1,0 +1,19 @@
+project_id,id,user_id,name,headline,budget,goal,about_html,permalink,video_embed_url,video_url,category_name,category_id,original_image,thumb_image,small_image,large_image,video_cover_image,progress,pledged,total_contributions,total_contributors,state,mode,state_order,expires_at,zone_expires_at,online_date,zone_online_date,sent_to_analysis_at,is_published,is_expired,open_for_contributions,online_days,remaining_time,elapsed_time,posts_count,address,user,reminder_count,is_owner_or_admin,user_signed_in,in_reminder,total_posts,can_request_transfer,is_admin_role,contributed_by_friends
+73,73,942,"São Paulo Polifônica","Múltiplas vozes, sons e ruídos se misturam na capital paulistana. Colabore! Nos ajude a criar um mapa sonoro que irá redescobrir esta cidade","O orçamento para projetos anteriores a 24/02/2015 normalmente pode ser encontrado na descrição acima.",3500.0,"<p>O que é? 
+São Paulo Polifônica é uma reportagem multimídia colaborativa sobre os sons, ruídos e vozes da cidade de São Paulo. Queremos construir um mapa sonoro da maior metrópole da América Latina, junto com quem vive e circula nela. </p>
+
+<p>Quem somos?
+Somos Cecília Cussioli e Letícia Arcoverde, estudantes de jornalismo da Universidade Federal de Santa Catarina. São Paulo Polifônica é nosso trabalho de conclusão de curso, que vamos apresentar em julho desse ano. Desde o ano passado pensamos e trabalhamos nesse projeto. </p>
+
+<p>O problema?
+Os custos para desenvolver o site vão sair bem maiores do que imaginávamos, e agora o projeto corre o risco de não acontecer. Quem é ou já foi estudante sabe o que significa desembolsar uma quantia muito alta quando está prestes a se formar. </p>
+
+<p>A solução?
+É aí que vocês entram! Se conseguirmos arrecadar R$ 3500 aqui no Catarse, vamos completar os gastos e tocar o projeto para frente - e você ainda ganha uma recompensa. Se a quantia arrecadada não chegar ao valor pedido, você recebe o dinheiro de volta. Mas acreditamos que a colaboração é a essência da criação e conseguir financiar o projeto através dessa plataforma será a maneira ideal de provar isso! </p>
+
+<p>O que você ganha com isso?
+Fizemos o máximo para oferecer recompensas legais e viáveis. Cada real vai ajudar, e será recebido com muita festa. Se você acredita que a criação colaborativa é possível como novo modelo de produção de informação e conhecimento, junte-se a nós. </p>
+
+<p>Acompanhe a produção do São Paulo Polifônica:
+<a class=""alt-link"" href=""http://www.spolifonica.com"" target=""_blank"">www.spolifonica.com</a></p>
+",sao-paulo-polifonica,//player.vimeo.com/video/19667612,http://vimeo.com/19667612,Jornalismo,15,,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/video_thumbnail/73/project_thumb_thumb_open-uri20131125-2-clxq9p,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/video_thumbnail/73/project_thumb_small_open-uri20131125-2-clxq9p,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/video_thumbnail/73/project_thumb_large_open-uri20131125-2-clxq9p,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/video_thumbnail/73/project_thumb_video_cover_open-uri20131125-2-clxq9p,132.2857142857142900,4630.0,66,60,successful,aon,finished,"2011-04-10 02:59:59","2011-04-09 23:59:59","2011-02-08 02:59:59","2011-02-08 00:59:59",,t,t,f,60,"{""total"" : 0, ""unit"" : ""seconds""}","{""total"" : 61, ""unit"" : ""days""}",1,"{""city"" : ""São Paulo"", ""state_acronym"" : ""SP"", ""state"" : ""São Paulo""}","{""id"" : 942, ""name"" : ""Leticia Arcoverde""}",0,,f,f,1,f,f,f

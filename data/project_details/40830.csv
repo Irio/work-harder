@@ -1,0 +1,110 @@
+project_id,id,user_id,name,headline,budget,goal,about_html,permalink,video_embed_url,video_url,category_name,category_id,original_image,thumb_image,small_image,large_image,video_cover_image,progress,pledged,total_contributions,total_contributors,state,mode,state_order,expires_at,zone_expires_at,online_date,zone_online_date,sent_to_analysis_at,is_published,is_expired,open_for_contributions,online_days,remaining_time,elapsed_time,posts_count,address,user,reminder_count,is_owner_or_admin,user_signed_in,in_reminder,total_posts,can_request_transfer,is_admin_role,contributed_by_friends
+40830,40830,628712,"Jogo True Heroes ® - Heróis contra a Corrupção","Nos Ajude a exterminar os Zumbis Devoradores de dinheiro público. Apoie esse projeto !!!","<p>Finalizar
+o Jogo True
+Heroes <sup></sup> 50%<br></p><p>Site
+CrowdFunding 13%</p><p>Recompensas
+e Envio 20%</p><p>Divulgação
+5%</p><p>Impostos
+12%</p><p><img src=""https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/redactor_rails/picture/data/64981/Or%C3%A7amento_TrueHeroes.png""></p><p><br></p><p style=""text-align: center;""><strong>Agora
+é hora de você sentar o dedo, e colaborar com esse projeto.</strong></p><p style=""text-align: center;""><strong>Vamos
+lá, contamos com você !!!</strong></p>",50000.0,"<p>Olá
+pessoal, este é o jogo True Heroes <sup>®</sup>,
+um jogo multiplataforma
+(para celulares, tablets, android, IOS, computadores, notebook, etc). Será
+gratuito, e sua monetização se dará pela venda de skins, upgrade,
+etc.<br></p><p>Nesse link você pode baixar e jogar a primeira demo (para windows 64 bits):</p><p><a href=""https://drive.google.com/folderview?id=0B_dDBO1XeQFHMVhPLURCajdHcGM&usp=sharing"">https://drive.google.com/folderview?id=0B_dDBO1XeQ...</a><br></p><p>link do arquivo compactado:</p><p><a href=""https://drive.google.com/file/d/0B_dDBO1XeQFHekhETTM0U01DcTA/view?usp=sharing"">https://drive.google.com/file/d/0B_dDBO1XeQFHekhET...</a><span class=""redactor-invisible-space""><br></span></p><p>Esse
+jogo aborda a corrupção como um todo. Desde
+a corrupção de nossos políticos, como do povo que coloca eles no
+poder. </p><p>O objetivo principal é a conscientização dos gastos públicos causados pela corrupção dos políticos e de todos que participam para elegê-los.<br></p><p><img src=""https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/redactor_rails/picture/data/64982/TrueHeroes_tela_minigun.png""></p><p>
+A
+história do se baseia em uma certa noite, quando o Congresso foi
+invadido por zumbis devoradores de dinheiro público. E a sua missão
+é eliminar todos eles.</p><p>
+A
+cada zumbi eliminado, o jogador acrescenta aos cofres públicos a
+quantia de dinheiro desviada por este zumbi.</p><p>
+E
+determinado números de zumbis eliminados, destrava novas armas,
+personagens amigos, cenários, e recupera recursos públicos
+desviados. 
+</p><p>
+E
+determinado montante de recurso público recuperado, destrava os
+avanços sociais como construção de escolas, hospitais, saneamento,
+etc.</p><p>Dos Cenários<br></p><p>Como temos 5570 câmaras de vereadores, deixamos um link, para que colaboradores possam ajudar com fotos para montarmos o cenário, e informações como quantidade de vereadores e o gasto anual da câmara.</p><p><img src=""https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/redactor_rails/picture/data/64984/TrueHeroes_tela_vereadores.png""></p><p>O mesmo ocorre para as Assembleias Estaduais, temos 27 assembleias e qualquer pessoa pode colaborar com fotos e informações. E conforme a ajuda e o interesse do colaborador, poderemos colocar seu nome/ou apelido nos créditos.</p><p>Queremos que todos possam colaborar, e saber que fazem parte desse projeto.</p><p><br><strong>Câmara de Vereadores</strong><br></p><p>100 zumbis vereadores, 200 zumbis cabos eleitorais, 10 zumbis seguranças, 10 zumbis assessores.</p><p><strong>Assembleias de Deputados Estaduais</strong><br></p><p>100 zumbis deputados estaduais, 200 zumbis cabos eleitorais, 100 zumbis seguranças, 100 zumbis assessores.</p><p><strong>Câmara de Deputados Federais</strong><br></p><p>513 zumbis deputados federais, 300 zumbis cabos eleitorais, 200 zumbis seguranças, 100 zumbis assessores.</p><p><strong>Senado</strong><br></p><p>81 zumbis senadores, 300 zumbis cabos eleitorais, 300 zumbis seguranças, 500 zumbis assessores.</p><p><br>A cena de Loading, é um impostômetro que mostra o valor roubado pelos zumbis.<br></p><p><img src=""https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/redactor_rails/picture/data/64985/TrueHeroes_Impostometro.png""></p><p><br></p><p>No painel esquerdo temos a quantia de dinheiro nos cofres públicos e a cada zumbi eliminado, você acrescenta a quantia de dinheiro desviada por este zumbi.</p><p>E no painel direito temos o números de zumbis a serem eliminados, e quanto cada zumbi desvia por ano.</p><p><img src=""https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/redactor_rails/picture/data/64986/TrueHeroes_tela_sniper.png""></p><br><p>Zumbis
+Inimigos:</p><p>
+Zumbis
+Cabo Eleitorais (vida 1, atacam pelas laterais com bandeiras, pão,
+etc causam danos 10)</p><p>
+Zumbis
+Seguranças (vida 5, atiram causam danos 10)</p><p>
+Zumbis
+Assessoras (vida 2, revitaliza zumbis 10 )</p><p>
+Zumbis
+Vereadores (vida 5, roubam 100k)</p><p>
+Zumbis
+Deputados Estaduais (vida 10, roubam 1M)</p><p>
+Zumbis
+Deputados Federais (vida 30, roubam 10M)</p><p>
+Zumbis
+Senadores (vida 50, roubam 100M)</p><p>
+Zumbis
+Oradores (2X vida, roubam 1,5 vezes mais)</p><p>
+Zumbis
+Presidentes (chefões 10 vezes mais vida, roubam 2 vezes mais)</p><p><img src=""https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/redactor_rails/picture/data/64988/82c34-graphic_zombiehorde.png""><span class=""redactor-invisible-space""></span><br></p><p>Dos
+personagens Amigos temos:<br></p><p>Estudante
+Faber (jovem estudante que denuncia o descaso com a escola)</p><p>Carlos
+Pomerode (ajuda as pessoas com câncer, foi preso e ninguém
+retribuiu a sua ajuda) 
+</p><p>Bioquímico
+Gilberto (professor e pesquisador, menos homenageado pela Academia do
+que Ronaldinho)</p><p>Sol
+(cidadã trabalhadora que enfrentou vereadores inescrupulosos)</p><p>Juiz
+Odilon (perdeu a própria liberdade para poder punir grandes
+criminosos)</p><p>Juiz
+Moro (incorruptível, mudou a história do país)</p><p>Ministro
+Barbosa (lutou contra corruptos, mas infelizmente desistiu da luta)</p><p>Personagens
+Históricos/Extras/Easter Eggs:</p><p>Tiradentes (virou simbolo de que não se pode confiar em ninguém)<br></p><p>Eneas
+(destrava arma nuclear)</p><iframe style=""width: 500px; height: 281px;"" src=""//www.youtube.com/embed/sMmSx44vQcc"" frameborder=""0"" allowfullscreen=""""></iframe><p><br>Para
+destravar esses personagens amigos é preciso eliminar zumbis:<br></p><p>Estudante
+Fabre (eliminar 100 zumbis vereadores) 
+</p><p>Carlos
+Pomerode (eliminar 100 zumbis cabos eleitorais)</p><p>Bioquímico
+Gilberto (eliminar 100 zumbis assessores) 
+</p><p>Sol
+(eliminar 200 zumbis vereadores )</p><p>Juiz
+Odilon (eliminar 100 zumbis seguranças)</p><p>Juiz
+Moro (lava jato – eliminar 100 zumbis deputados estaduais)</p><p>Ministro
+Barbosa (100 zumbis deputados federais)</p><p><img src=""https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/redactor_rails/picture/data/65247/True_Heroes.jpg""></p><p>Para destravar
+as Armas:</p><p>
+Pistola
+.40 – dano 1 (inicia o jogo com ela)</p><p>
+Calibre
+12 – dano 3 (eliminar 100 zumbis vereadores)</p><p>
+Fuzil
+AK 47 – dano 2 (eliminar 200 zumbis vereadores)</p><p>
+Fuzil
+AR 15 c/ lança granadas – dano 2 (eliminar 300 zumbis vereadores)</p><p>
+Rifle
+Sniper – dano 10 (eliminar 100 zumbis seguranças)</p><p>
+Lava
+jato – dano 10 (eliminar 100 zumbis deputados estaduais)</p><p>
+Metralhadora
+giratória/Minigun – dano 5 (100 zumbis deputados federais)</p><p>
+RPG
+– dano 20 (eliminar 500 senadores)</p><p>Arma nuclear – dano 1000
+(eliminar 1000 senadores) 
+</p><p><br>
+</p><p>Tela Final<br></p><p>Parabéns, Missão Cumprida.</p><p>Você conseguiu eliminar todos os
+zumbis devoradores de dinheiro público, se você puder colabore com
+as 10 MEDIDAS CONTRA A CORRUPÇÃO, quem sabe assim podemos diminuir
+a impunidade. 
+</p><p>O
+projeto está em estágio inicial, pretendemos aumentar a nossa
+equipe, pagar por direitos autorais de músicas, imagens, etc,
+modelar e melhorar cenários, personagens, armas, etc.<br></p><p>E
+pra isso precisamos da sua colaboração.</p><p><img src=""https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/redactor_rails/picture/data/65248/True_Heroes4_camisa01.png"" width=""337"" height=""252"" style=""width: 337px; height: 252px;""><img src=""https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/redactor_rails/picture/data/65249/True_Heroes5_camisa01.png"" width=""324"" height=""244"" style=""width: 324px; height: 244px;""></p><p><img src=""https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/redactor_rails/picture/data/64989/True_Heroes3_camisafonte2.png"" width=""330"" height=""252"" style=""width: 330px; height: 252px;""><img src=""https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/redactor_rails/picture/data/64990/True_Heroes3_camisafonte4.png"" width=""333"" height=""250"" style=""width: 333px; height: 250px;""><br></p><p><img src=""https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/redactor_rails/picture/data/64991/True_Heroes3_camisafonte5.png"" width=""332"" height=""249"" style=""width: 332px; height: 249px;""><img src=""https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/redactor_rails/picture/data/64992/True_Heroes3_camisafonte7.png"" width=""323"" height=""242"" style=""width: 323px; height: 242px;""></p><p><img src=""https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/redactor_rails/picture/data/64993/True_Heroes3_camisafonte8.png"" width=""352"" height=""264"" style=""width: 352px; height: 264px;""><img src=""https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/redactor_rails/picture/data/64994/True_Heroes_camisa_back01.png"" width=""286"" height=""288"" style=""width: 286px; height: 288px;""></p><p><img src=""https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/redactor_rails/picture/data/64997/True_Heroes_camisa_back02.png"" width=""327"" height=""328"" style=""width: 327px; height: 328px;""><img src=""https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/redactor_rails/picture/data/64998/True_Heroes_camisa_back05.png"" width=""337"" height=""336"" style=""width: 337px; height: 336px;""></p><p><img src=""https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/redactor_rails/picture/data/64999/True_Heroes3_caneca01.png"" width=""222"" height=""168"" style=""width: 222px; height: 168px;""><img src=""https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/redactor_rails/picture/data/65000/True_Heroes3_caneca04.png"" width=""218"" height=""168"" style=""width: 218px; height: 168px;""><img src=""https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/redactor_rails/picture/data/65004/True_Heroes3_caneca03.png"" width=""221"" height=""168"" style=""font-size: 14px; line-height: 1.6em; width: 221px; height: 168px;""></p><p><img src=""https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/redactor_rails/picture/data/65241/True_Heroes_Bon%C3%A9.png"" width=""320"" height=""237"" style=""width: 320px; height: 237px;""><img src=""https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/redactor_rails/picture/data/65242/True_Heroes_Bon%C3%A901.png"" width=""322"" height=""243"" style=""width: 322px; height: 243px;""></p><p><img src=""https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/redactor_rails/picture/data/65244/True_Heroes_Bon%C3%A903.png"" width=""328"" height=""246"" style=""width: 328px; height: 246px;""><img src=""https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/redactor_rails/picture/data/65245/True_Heroes_Bon%C3%A902.png"" width=""325"" height=""245"" style=""width: 325px; height: 245px;""><br></p><p><img src=""https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/redactor_rails/picture/data/65014/cunha.png"" width=""348"" height=""263"" style=""width: 348px; height: 263px;""><img src=""https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/redactor_rails/picture/data/65015/zombie-2_semfundo.png"" width=""244"" height=""228"" style=""width: 244px; height: 228px;""></p><p style=""text-align: center;""><strong>Não deixem o Cunha Zombie vencer essa guerra !!!</strong></p><p style=""text-align: center;""><strong>Muitos
+já dizem que esse será o jogo preferido da Ex-presidanta, nas suas
+férias.<br></strong></p><p style=""text-align: center;""><strong>Este é o jogo pra você extravasar a sua raiva dessa escória que
+está no poder.<br></strong></p><p style=""text-align: center;""><strong>Nos
+Ajude a exterminar os Zumbis Devoradores de dinheiro público.<br></strong></p><p style=""text-align: center;""><strong><br></strong></p>",trueheroes,//www.youtube.com/embed/JdrZHuz7HVc,https://www.youtube.com/watch?v=JdrZHuz7HVc,Jogos,14,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/40830/TrueHeroes_tela_minigun.png,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/40830/project_thumb_thumb_TrueHeroes_tela_minigun.png,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/40830/project_thumb_small_TrueHeroes_tela_minigun.png,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/40830/project_thumb_large_TrueHeroes_tela_minigun.png,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/40830/project_thumb_video_cover_TrueHeroes_tela_minigun.png,0,0,0,0,online,flex,published,,,"2016-09-01 17:55:47.960785","2016-09-01 14:55:47.960785",,t,f,t,,"{""total"" : 0, ""unit"" : ""seconds""}","{""total"" : 23, ""unit"" : ""days""}",0,"{""city"" : ""São Paulo"", ""state_acronym"" : ""SP"", ""state"" : ""São Paulo""}","{""id"" : 628712, ""name"" : ""True Heroes ® - Verdadeiros Heróis""}",0,,f,f,0,f,f,f

@@ -1,0 +1,31 @@
+project_id,id,user_id,name,headline,budget,goal,about_html,permalink,video_embed_url,video_url,category_name,category_id,original_image,thumb_image,small_image,large_image,video_cover_image,progress,pledged,total_contributions,total_contributors,state,mode,state_order,expires_at,zone_expires_at,online_date,zone_online_date,sent_to_analysis_at,is_published,is_expired,open_for_contributions,online_days,remaining_time,elapsed_time,posts_count,address,user,reminder_count,is_owner_or_admin,user_signed_in,in_reminder,total_posts,can_request_transfer,is_admin_role,contributed_by_friends
+100,100,5117,Morar,"São Vito e Mercúrio, 1959-2011. Um ensaio documental multimídia sobre pessoas e moradias. Ajude a manter viva a memória de São Paulo.","O orçamento para projetos anteriores a 24/02/2015 normalmente pode ser encontrado na descrição acima.",16000.0,"<p>Centro de São Paulo, 2008.</p>
+
+<p>São Vito e Mercúrio: dois gigantes comumente fundidos sob a pejorativa alcunha de “treme-treme”. Na época, passávamos por ali e observávamos o monumento, crendo que estava vazio. Engano nosso. Vazio estava o São Vito, desde 2004. Logo ao lado, colado nele, encontramos o Mercúrio, habitado por quase 30 famílias que resistiam à ordem de despejo recém-recebida.</p>
+
+<p>Maria, Selma, Cláudia, Lili, Joyce (a maioria mulheres), entre outros. À parte gestões, processos, projetos, o fato é que todas essas pessoas, trabalhadores do próprio centro, tiveram suas vidas direta e drasticamente alteradas. Durante alguns meses, acompanhamos as famílias e a luta delas primeiro para resistir, depois para buscar um novo lugar para morar.</p>
+
+<p>Centro de São Paulo, 2011. </p>
+
+<p>No local onde estavam os dois edifícios, restam (por pouco tempo ainda) dois esqueletos de concreto em processo de demolição, cobertos por um tecido semitransparente, já reduzidos a menos da metade da altura original. As famílias que viviam no Mercúrio estão hoje espalhadas; algumas permaneceram na região, outras foram para a periferia da cidade, outras ainda deixaram de vez a vida paulistana e voltaram para suas regiões de origem.</p>
+
+<p>São Paulo sofre de um tipo de amnésia auto-imposta por conta de uma obsessão pelo novo. Diariamente, máquinas pesadas derrubam partes da história da cidade, que são em seguida substituídas por reluzentes paredes de vidro e “espaços gourmet”. A memória refugia-se, portanto, nas pessoas, e é essa a história que queremos contar.</p>
+
+<p>Com esse projeto, pretendemos revisitar a história que iniciamos em 2008, retomando o contato com os antigos moradores, para entender o que mudou e o que eles pensam da demolição da antiga moradia. </p>
+
+<p>Produtos</p>
+
+<p>Como resultado dessa documentação, editaremos uma publicação composta por textos e imagens, estabelecendo assim um arco de memória entre o despejo dos moradores e a demolição dos edifícios. Serão 1000 exemplares impressos em cores em papel jornal, formato tabloide, contendo 20 páginas cada. </p>
+
+<p>Além do jornal, manteremos um blog (<a class=""alt-link"" href=""http://morar.tumblr.com"" target=""_blank"">http://morar.tumblr.com</a>) a fim de monitorar tanto o andamento do projeto quanto dos gastos efetuados na sua execução. Acreditamos que a transparência é item essencial em um projeto apoiado pelo público.</p>
+
+<p>Por que passar o chapéu?</p>
+
+<p>Acreditamos muito no potencial do crowdfunding como alternativa para a viabilização de projetos independentes. Além disso, o Morar trata de um tema difícil de ser apoiado por órgãos públicos e até mesmo empresas, mas que ao mesmo tempo tem forte apelo social, econômico e emocional. Além disso, ele é reflexo das nossas próprias preocupações em relação à cidade em que vivemos, e que acreditamos serem comuns a muitos dos nossos vizinhos. </p>
+
+<p>Quem somos?</p>
+
+<p>Somos o Coletivo Garapa (<a class=""alt-link"" href=""http://garapa.org"" target=""_blank"">http://garapa.org</a>), baseado em São Paulo, e desde 2007 temos explorado a linguagem fotográfica e audiovisual em diversas plataformas, sempre com olhar documental.</p>
+
+<p>Conheça o trabalho realizado em 2008 e 2009: <a class=""alt-link"" href=""http://garapa.org/?s=morar"" target=""_blank"">http://garapa.org/?s=morar</a></p>
+",morar,//player.vimeo.com/video/21411037,http://vimeo.com/21411037,Fotografia,17,,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/video_thumbnail/100/project_thumb_thumb_open-uri20131125-2-jbiqhf,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/video_thumbnail/100/project_thumb_small_open-uri20131125-2-jbiqhf,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/video_thumbnail/100/project_thumb_large_open-uri20131125-2-jbiqhf,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/video_thumbnail/100/project_thumb_video_cover_open-uri20131125-2-jbiqhf,105.65625000000000000000,16905.0,95,93,successful,aon,finished,"2011-06-04 02:59:59","2011-06-03 23:59:59","2011-04-05 02:59:00","2011-04-04 23:59:00",,t,t,f,60,"{""total"" : 0, ""unit"" : ""seconds""}","{""total"" : 60, ""unit"" : ""days""}",3,"{""city"" : ""São Paulo"", ""state_acronym"" : ""SP"", ""state"" : ""São Paulo""}","{""id"" : 5117, ""name"" : ""Coletivo Garapa""}",0,,f,f,3,f,f,f

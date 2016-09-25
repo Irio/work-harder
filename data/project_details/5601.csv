@@ -1,0 +1,22 @@
+project_id,id,user_id,name,headline,budget,goal,about_html,permalink,video_embed_url,video_url,category_name,category_id,original_image,thumb_image,small_image,large_image,video_cover_image,progress,pledged,total_contributions,total_contributors,state,mode,state_order,expires_at,zone_expires_at,online_date,zone_online_date,sent_to_analysis_at,is_published,is_expired,open_for_contributions,online_days,remaining_time,elapsed_time,posts_count,address,user,reminder_count,is_owner_or_admin,user_signed_in,in_reminder,total_posts,can_request_transfer,is_admin_role,contributed_by_friends
+5601,5601,214043,"Curau e Prosa","Valorizando as histórias da cultura popular piracicabana.","O orçamento para projetos anteriores a 24/02/2015 normalmente pode ser encontrado na descrição acima.",3900.0,"<p><strong>O Que é o Projeto?</strong>
+O CURAU &amp; PROSA é uma série documental que resgata as tradições populares, histórias e contos da cidade de Piracicaba. Além de produzir materiais riquíssimos para divulgar e valorizar o histórico da cultura popular da região, o projeto se mostrou essencial para resguardar este conhecimento.
+Seram produzidos 6 mini-docs com entrevistas com conhecedores da cultura popular e um longa metragem com todas entrevistas e imagens de manifestações da cultura da cidade.</p>
+
+<p><strong>O que já foi feito?</strong>
+No ano de 2013  foi produzido dois videos, na primeira edição da série:  entrevista com o Seu Faé, líder comunitário, contando sobre a importância do bairro Vila África (berço das primeiras Festas da Consciência Negra e dos principais músicos envolvidos nos carnavais da cidade) e também com o jornalista e escritor Cecílio Elias Neto, recuperando a memória de Piracicaba e compartilhando seu olhar histórico do município e região.</p>
+
+<p><strong>Porque precisamos do recurso?</strong>
+Para ser realizado o projeto necessita de um recurso mínimo de 3 mil reais para adquirir equipamentos próprios de gravação como microfone de lapela, iluminação e lentes. Além dos equipamentos o recurso será utilizado para produção (transporte e alimentação da equipe) e para gravação do DVD e demais recompensas.</p>
+
+<p><strong>Equipe</strong>
+Leonardo Magnin - Coletivo Piracema
+Fran Lodde - Coletivo Piracema
+Mariana Pedroso - Coletivo Piracema
+Isabela Borghese - Fotografia e Audiovisual
+Karen Silveira - Fotografia
+Stella Sampaio - Estudante de Cinema - Coletivo Piracema
+Caroll Beraldo - Jornalista
+Tui Anandi - Edição e produção de vídeo
+Juliana Valente - Coletivo Piracema</p>
+",curaueprosa,//www.youtube.com/embed/YgqpoS_zwnc,http://youtu.be/YgqpoS_zwnc,"Cinema e Vídeo",13,,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/video_thumbnail/5601/project_thumb_thumb_open-uri20140520-2-n1qhqg,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/video_thumbnail/5601/project_thumb_small_open-uri20140520-2-n1qhqg,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/video_thumbnail/5601/project_thumb_large_open-uri20140520-2-n1qhqg,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/video_thumbnail/5601/project_thumb_video_cover_open-uri20140520-2-n1qhqg,106.5384615384615400,4155.0,60,58,successful,aon,finished,"2014-07-17 02:59:59","2014-07-16 23:59:59","2014-05-27 17:04:04.987476","2014-05-27 14:04:04.987476",,t,t,f,50,"{""total"" : 0, ""unit"" : ""seconds""}","{""total"" : 50, ""unit"" : ""days""}",9,"{""city"" : ""Piracicaba"", ""state_acronym"" : ""SP"", ""state"" : ""São Paulo""}","{""id"" : 214043, ""name"" : ""Coletivo Piracema""}",0,,f,f,9,f,f,f

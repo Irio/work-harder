@@ -1,0 +1,35 @@
+project_id,id,user_id,name,headline,budget,goal,about_html,permalink,video_embed_url,video_url,category_name,category_id,original_image,thumb_image,small_image,large_image,video_cover_image,progress,pledged,total_contributions,total_contributors,state,mode,state_order,expires_at,zone_expires_at,online_date,zone_online_date,sent_to_analysis_at,is_published,is_expired,open_for_contributions,online_days,remaining_time,elapsed_time,posts_count,address,user,reminder_count,is_owner_or_admin,user_signed_in,in_reminder,total_posts,can_request_transfer,is_admin_role,contributed_by_friends
+691,691,55962,"Ode ao fim","Ode ao fim: Nada mais importa, projeto de animação em Anime.","O orçamento para projetos anteriores a 24/02/2015 normalmente pode ser encontrado na descrição acima.",4000.0,"<p>Ode ao fim é um Trabalho de Conclusão de Curso (TCC) de animação em curta-metragem no estilo Anime desenvolvido pelos alunos do último ano do curso de Bacharelado em Imagem e Som da Universidade Federal de São Carlos. Iniciado em janeiro deste ano, deverá ser entregue em dezembro como condição para que os alunos se formem. </p>
+
+<p>Storyline: “Um menino é deixado numa escola de kung fu na China para treinar. A princípio não tem interesse e só deseja rever sua mãe, porém sua perspectiva muda quando a filha de seu mestre se sacrifica para salvá-lo”. 
+O intuito do projeto é, a partir de um estilo mais comercial próximo do cinema clássico, criar uma obra com características humanas a fim de provocar a reflexão nos leitores e estimulá-los a buscar suas próprias respostas que dizem respeito a questões como religião, relações humanas e questões existenciais, as quais serão tratadas em paralelo com as cenas de ação e artes marciais (são dados constantes na maioria dos mangás e animes de referência). 
+A disciplina da relação mestre/ discípulo é conflito central. De tão rígida pode ser interpretada como cruel, mas é baseada inteiramente na confiança da capacidade do aluno. Mesmo que este não perceba isto no começo, após a aparição dos resultados na prática saberá a quem agradecer. </p>
+
+<p>Divulgação:
+Facebook <a class=""alt-link"" href=""http://www.facebook.com/odeaofim"" target=""_blank"">http://www.facebook.com/odeaofim</a> 
+Site: <a class=""alt-link"" href=""http://odeaofim.com/pt/"" target=""_blank"">http://odeaofim.com/pt/</a> </p>
+
+<p><em>Teaser</em>: 
+<iframe src=""//player.vimeo.com/video/42585218?title=0&byline=0&portrait=0"" width=""600"" height=""403"" frameborder=""0""></iframe>
+(realizado no semestre passado como trabalho do curso) </p>
+
+<p>Eventos de anime: Com relação à divulgação ainda, estamos com uma política de participação em eventos de anime nos quais oferecemos uma exposição do projeto Ode ao fim dissecando a experiência de produção de um curta-metragem em animação independente (plano de produção) e introduzindo a plateia no universo do nosso projeto com nossas referências, storyline, personagens, cenários. Estivemos no AnimeRP em São José do Rio Preto e no Anime Sanca em São Carlos e o próximo evento será o Super Eu Anime RPG em Americana. </p>
+
+<p>Vídeo: Procuramos utilizar uma linguagem de anime e uma estrutura típica de um episódio com prólogo, abertura, episódio e epílogo ao melhor estilo decupagem de anime com nós mesmos interpretando os personagens. </p>
+
+<p>Quanto precisamos: R$4.000,00 reais para cobrir os principais custos do projeto que envolvem dublagem, trilha sonora original e compras de licença dos softwares de animação. </p>
+
+<p>Pra quem quiser saber mais, gostaríamos que conhecessem o site e o facebook dando um curtir na nossa página! Obrigado.</p>
+
+<p>Ode ao fim 
+Duração: 7 minutos 
+Resolução: 1920 x 1080 
+Frame rating: 24fps 
+PB/Cor Stereo1 </p>
+
+<p>Equipe do vídeo “Em busca da Catar Z”: 
+Roteiro e direção: Rafael Montassier e Lucas Pelegrino Bonalumi. Montagem: Lucas Domingues. Som e Trilha Sonora: Lucas Dias e Alison Nasario. Atores: Lucas Campoo, Júlia Évora, Pedro Dolosic, Adriano Barbuto, Sônia Segnini, Leonardo Andrade, Tiago Eugenio, toda a equipe do Ode. Agradecimentos especiais: Lauro Pirolla, Raíza Carvalho, Marília Rezende, Mariana Moretto, Amanda Castro, Gabriel Ribeiro, Élcio Sodré, Pedro Dolosic. Orientação: Professores Leonardo Andrade e Tiago Eugenio</p>
+
+<p>Equipe do Projeto Ode ao fim: 
+Orientação: Professores Leonardo Andrade e Tiago Eugenio. Direção e roteiro: Rafael Montassier. Direção de produção: Priscila Halabi. Assistentes de produção: Mariana Moretto, Amanda Castro, Helena Krisman, Marília Rezende. Produção Executiva: Lucas Pelegrino Bonalumi. Direção de Animação 2D: Lauro de Paiva Pirolla. Direção de Animação 3D: Diogo Augusto Gonçalves. Arte Final: Lucas Domingues. Desenhistas: Lucas Domingues, Catarine Ohnuma, Lauro de Paiva Pirolla, Jessica Sayuri Nishiguchi, Jennifer Kaon Cheng Lu, Leonardo Maimoni, Lucas Ferreira Fonseca. Direção de Som: Lucas Dias Baptista e Alison Henrique Nasario. Transmídia: Letícia Ferreira . Assistentes de transmídia: Diego Paulino, Victor Leal, Henrique de Barros. Marketing: Ricardo Lourenço </p>
+",ode-ao-fim,//player.vimeo.com/video/42456582,http://vimeo.com/42456582,"Cinema e Vídeo",13,,,,,,109.0000000000000000,4360.0,58,53,successful,aon,finished,"2012-07-16 02:59:59","2012-07-15 23:59:59","2012-05-17 02:59:59","2012-05-16 23:59:59",,t,t,f,60,"{""total"" : 0, ""unit"" : ""seconds""}","{""total"" : 60, ""unit"" : ""days""}",13,"{""city"" : ""São Carlos"", ""state_acronym"" : ""SP"", ""state"" : ""São Paulo""}","{""id"" : 55962, ""name"" : """"}",0,,f,f,13,f,f,f

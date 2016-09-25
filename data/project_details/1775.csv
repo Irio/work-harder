@@ -1,0 +1,16 @@
+project_id,id,user_id,name,headline,budget,goal,about_html,permalink,video_embed_url,video_url,category_name,category_id,original_image,thumb_image,small_image,large_image,video_cover_image,progress,pledged,total_contributions,total_contributors,state,mode,state_order,expires_at,zone_expires_at,online_date,zone_online_date,sent_to_analysis_at,is_published,is_expired,open_for_contributions,online_days,remaining_time,elapsed_time,posts_count,address,user,reminder_count,is_owner_or_admin,user_signed_in,in_reminder,total_posts,can_request_transfer,is_admin_role,contributed_by_friends
+1775,1775,130347,EDEN,"São seres humanos. Tudo é possível.","O orçamento para projetos anteriores a 24/02/2015 normalmente pode ser encontrado na descrição acima.",5000.0,"<p>Uma família. Dois acontecimentos. 
+Os limites e os extremos das relações pessoais dentro de um lar. Até que ponto aceitamos ou condenamos formas de aproximação e de rejeição entre duas pessoas?</p>
+
+<p>EDEN conta a história de uma família que se encontra numa situação delicada: o afastamento dos pais sugerido pela agressão física e a aproximação dos irmãos que resulta numa relação incestuosa.</p>
+
+<p>Trata-se de um curta metragem com duração aproximada de 15 minutos que será realizado como Trabalho de Conclusão de Curso em Bacharelado em Audiovisual pelo Centro Universitário SENAC. 
+Contamos com o seu apoio para a realização desse projeto pois não temos condições financeiras suficientes para arcar com todos os custos de produção, como alimentação e transporte de equipe e elenco, aluguel de equipamentos e locação, produção de objetos e cenografia.</p>
+
+<p>Queremos tirar o EDEN do papel pois acreditamos em sua verdade. 
+Acreditamos que vale a pena instigar no espectador um olhar crítico sobre os fatos dos quais desviamos nossas atenções, acreditamos num filme que nos estimule a pensar em possibilidades e a fechar os olhos para certos tipos de conceitos pré concebidos.</p>
+
+<p>Somos muitíssimo gratos pela sua colaboração.</p>
+
+<p>Para mais informações, acesse nosso <a class=""alt-link"" target=""_blank"" href=""https://www.facebook.com/edenprojeto"">Facebook</a></p>
+",eden,//player.vimeo.com/video/63837606,https://vimeo.com/63837606,"Cinema e Vídeo",13,,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/video_thumbnail/1775/project_thumb_thumb_open-uri20131125-2-vbj5mg,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/video_thumbnail/1775/project_thumb_small_open-uri20131125-2-vbj5mg,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/video_thumbnail/1775/project_thumb_large_open-uri20131125-2-vbj5mg,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/video_thumbnail/1775/project_thumb_video_cover_open-uri20131125-2-vbj5mg,100.7000000000000000,5035.0,39,31,successful,aon,finished,"2013-06-15 02:59:59","2013-06-14 23:59:59","2013-04-15 19:12:23","2013-04-15 16:12:23",,t,t,f,60,"{""total"" : 0, ""unit"" : ""seconds""}","{""total"" : 60, ""unit"" : ""days""}",1,"{""city"" : ""São Paulo"", ""state_acronym"" : ""SP"", ""state"" : ""São Paulo""}","{""id"" : 130347, ""name"" : ""Daniel Techy Cardoso da Silva""}",0,,f,f,1,f,f,f

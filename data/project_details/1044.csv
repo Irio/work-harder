@@ -1,0 +1,126 @@
+project_id,id,user_id,name,headline,budget,goal,about_html,permalink,video_embed_url,video_url,category_name,category_id,original_image,thumb_image,small_image,large_image,video_cover_image,progress,pledged,total_contributions,total_contributors,state,mode,state_order,expires_at,zone_expires_at,online_date,zone_online_date,sent_to_analysis_at,is_published,is_expired,open_for_contributions,online_days,remaining_time,elapsed_time,posts_count,address,user,reminder_count,is_owner_or_admin,user_signed_in,in_reminder,total_posts,can_request_transfer,is_admin_role,contributed_by_friends
+1044,1044,101085,"Floresta Vermelha","O desafio de gravar um curta-metragem com qualidade de cinema digital utilizando softwares livres e hardware aberto.","O orçamento para projetos anteriores a 24/02/2015 normalmente pode ser encontrado na descrição acima.",6000.0,"<p><a class=""alt-link"" target=""_blank"" href=""http://www.pedrobayeux.com/"">Vídeo sobre o projeto por Pedro Bayeux | Trilha sonora por Mamma Cadela</a></p>
+
+<p><em>FLORESTA VERMELHA // RED FOREST</em></p>
+
+<p><em>We want an accessible digital cinema. We want to tell stories with high image quality, without depending on extremely expensive equipment. We want to do cinema our way, and that other people can do so.</em></p>
+
+<p><em>[SEE ENGLISH VERSION DOWN BELOW]</em></p>
+
+<p><em>Queremos um cinema digital acessível. Queremos contar histórias em alta qualidade de imagem, sem depender de equipamentos caríssimos. Queremos fazer cinema do nosso modo, e que muitas outras pessoas possam fazer também.</em></p>
+
+<p>O Floresta Vermelha é um projeto de gravação de um curta metragem com qualidade de cinema digital (2k) a partir de roteiro, trilha sonora e arte originais. E totalmente produzido utilizando tecnologias de software livre e hardware aberto. Nosso objetivo é contribuir para o desenvolvimento de tecnologias para cinema digital mais personalizáveis do que os modelos já existentes. Você pode nos ajudar nesta jornada, em troca de material exclusivo do filme!</p>
+
+<p><em>Cinema Digital</em>
+Cinema Digital é atualmente a opção mais barata ao cinema de película. A proposta é gravar no mesmo processo frame a frame do cinema tradicional, mas em vez de gravar as informações em película (filme), as imagens são convertidas em bits e bytes (dados digitais). As imagens são capturadas em um formato RAW, formato bruto que permite uma grande variedade de manipulações na pós produção e proporciona ganhos enormes em relação à filmagem comum em full HD. +Saiba mais sobre cinema digital+ <a class=""alt-link"" target=""_blank"" href=""http://florestavermelha.org/cinema-digital/"">aqui.</a></p>
+
+<p><img src=""https://farm9.staticflickr.com/8014/7556672666_198bd70f27.jpg"" alt=""""/>!
+??foto: Regina Elias??</p>
+
+<p><em>A Câmera - Elphel 353</em>
+O grande charme do projeto é a câmera: a Elphel 353. As câmeras Elphel são mais conhecidas por serem usadas para capturar as imagens do Google Street View, e este modelo pode chegar a resoluções de até 2592x1944 px, a 18 quadros por segundo. Para o filme, gravaremos em resolução equivalente ao 2k (2304x960 px), equilibrando-a com a taxa de quadros do cinema (24 fps). Outro ponto interessante é que o tamanho do sensor da Elphel é equivalente ao de um filme Super 8 de película – então, na prática, estaremos rodando um filme digital Super 8 mm. +Saiba mais sobre as câmeras da Elphel+ <a class=""alt-link"" target=""_blank"" href=""http://florestavermelha.org/hardware-aberto/"">aqui.</a></p>
+
+<p><em>Experimentalismo</em>
+Nosso experimentalismo deve ser entendido como parte do pioneirismo, pois o que faremos ainda não foi realizado com estes parâmetros no mundo. Existem vídeos curtos gravados com a Elphel, assim como existem curtas-metragens excelentes de animação realizados com Blender, um software livre. </p>
+
+<p>Queremos dar continuidade a este caminho, gravando um curta metragem com atores, falas, luzes, dentro de um set de filmagem, contando uma história gravada com uma câmera livre e editada em ferramentas também livres. Para isso, realizamos vários testes para estabelecer os reais potenciais e limites da câmera Elphel, inclusive produzimos um mini-curta para testes em campo, que você pode conferir <a class=""alt-link"" target=""_blank"" href=""http://florestavermelha.org/2012/08/27/minicurta-cada-sorriso-e-um-flash/"">aqui</a> e <a class=""alt-link"" target=""_blank"" href=""http://florestavermelha.org/2012/08/17/gravacoes-de-teste-os-videos/"">aqui</a></p>
+
+<p><em>Tecnologias livres - software livre e hardware aberto</em>
+As câmeras Elphel são todas licenciadas como hardware aberto, ou seja, possuem o código acessível e livre (GPL) para que qualquer pessoa possa consultá-lo ou modificá-lo. Embora não tenham sido pensadas para se fazer cinema, uma comunidade internacional de desenvolvedores e programadores se reuniu sob o nome de Apertus (<a class=""alt-link"" target=""_blank"" href=""http://www.apertus.org/)"">www.apertus.org</a> para pesquisá-las na produção de filmes com qualidade profissional. </p>
+
+<p>A empresa Elphel gentilmente nos emprestou um de seus modelos para a realização do projeto. Em troca, todo o conhecimento de campo gerado por nós, em especial sobre os processos de edição e de scripts de automação de processos, está sendo devidamente documentado e disponibilizado sob as licenças GPL ou Creative Commons para outras pessoas que também queiram usá-lo para fazer filmes.</p>
+
+<p>Outro ponto forte do conceito de tecnologias livres é a inteligência coletiva por trás dos desenvolvimentos, onde todo mundo pode colaborar para a melhoria das ferramentas. Além disso, a capacidade de alterá-las, adaptá-las e transformá-las de acordo com suas necessidades fazem com que muitos processos sejam infinitamente mais eficientes quando realizados em Linux. Ou seja, usaremos o potencial da programação a nosso favor.   +Saiba mais sobre o uso da Elphel para cinema+ <a class=""alt-link"" target=""_blank"" href=""https://szaszak.wordpress.com/linux/elphel-as-a-digital-cinema-camera/"">aqui.</a></p>
+
+<p><em>O curta metragem</em></p>
+
+<p><em>Sinopse</em>
+<em>+Floresta Vermelha conta a volta do jovem Nikolai para a casa dos pais, em uma vila que poderia estar em qualquer lugar do mundo. Lá, reencontra a mãe, Liliya, e a irmã menor, Halyna, enquanto espera o pai, Yuriy, voltar do trabalho. Muitas coisas mudaram desde que Nikolai partiu há alguns anos, junto com quase todos os habitantes da região. Outras, em especial com relação a seus familiares, quase não se alteraram. Nikolai espera voltar a fazer parte da família até o final do dia. Porém, o que significa “ser aceito” de novo, em um lugar onde a floresta brilha vermelha no escuro?+</em></p>
+
+<p>Em outubro de 2010, finalizamos o roteiro do curta. Sabíamos como queríamos gravar e das limitações que nossa câmera nos imporia, e a história levou tudo isso em consideração. A linguagem é a de um filme de suspense – não um suspense de horror, mas o suspense de uma linha narrativa que se constroi aos poucos. Trata-se de uma abordagem que necessariamente abre espaço para a arte e para os atores.</p>
+
+<p>De um modo geral, esta é a primeira vez de todo mundo – é a primeira vez que o diretor dirige um filme; é a primeira vez que a fotógrafa fotografa para cinema; é a primeira direção efetiva de arte da diretora de arte, e assim por diante. Mais do que um defeito ou carência, isso nos torna muito mais cúmplices e nos reforça como grupo. Além disso, todos possuem trabalhos fortes em suas áreas, o que os deixa confiantes no resultado final. +Saiba mais sobre a nossa equipe+ <a class=""alt-link"" target=""_blank"" href=""http://florestavermelha.org/quem-somos/"">aqui.</a></p>
+
+<p><em>A Campanha de Crowdfunding / Financiamento colaborativo</em>
+Existe um lugar-comum que diz que é caro fazer cinema. Não estamos aqui para provar o contrário. Há que se ter, sim, objetos de cena, material de iluminação adequado, transportar tudo isso, adequar as locações, alimentar uma equipe grande e assim por diante. Estamos cobrindo estes custos em duas frentes: oferecendo oficinas relacionadas ao nosso projeto ou que mostrem as ferramentas livres que usamos; e por meio desta campanha de crowdfunding. Sua participação é fundamental para que consigamos fazer um filme legal!</p>
+
+<p>Todas as pessoas da equipe, com exceção do pessoal que fará o trabalho mais braçal de preparar a locação, entraram como colaboradores voluntários. Isso quer dizer que elas estão trabalhando sem receber porque acreditam que o processo e o resultado serão interessantes. E, para termos um resultado interessante para todos, não abriremos mão de fazermos um filme bonito, do qual nos orgulhemos.</p>
+
+<p>O dinheiro arrecadado com o seu apoio aqui no Catarse será todo utilizado para viabilizar e melhorar a produção do curta. Temos milhões de ideias e coisas que gostaríamos de fazer e que deixariam o filme ainda mais legal, mas que, no momento, ainda são inviáveis financeiramente. Luzes melhores, locações extras, maquiagem, objetos de cena, enfim, vários detalhezinhos que gostaríamos de adicionar e que certamente fariam toda a diferença no resultado final.</p>
+
+<p><em>Nossas expectativas</em>
+O principal objetivo do filme Floresta Vermelha é provar, com resultados, que é possível fazer uma produção profissional de cinema utilizando ferramentas livres. Mas nossas ambições não param por aí. Estamos nos divertindo bastante, pois a equipe é bem diversificada e poucos (umas 4 pessoas) lidarão com a parte mais tecnológica do curta - o que nos torna muito mais próximos da Mostra Internacional de Cinema do que da Campus Party.</p>
+
+<p>Parte desta diversão será a festa de lançamento, marcada para 30 de Novembro, no Espaço Serralheria. Estamos planejando um evento muito legal, no qual projetaremos o curta finalizado e a banda Mamma Cadela executará a trilha sonora original ao vivo. Além disso, queremos participar de festivais e levá-lo a outras instituições. A internet é o caminho natural para o corte final do curta-metragem, publicado com alguma licença permissiva Creative Commons – só precisamos avaliar qual seria o melhor momento em 2013 para se fazer isto.</p>
+
+<p><em>MAIS INFORMAÇÕES</em>
+Saiba mais sobre o projeto no nosso blog e acompanhe todo o processo em nossa página no Facebook. Se tiver outras dúvidas e comentários, escreva para nós. Ficaremos muito felizes em respondê-los</p>
+
+<p><a class=""alt-link"" target=""_blank"" href=""http://www.florestavermelha.org/""><img src=""http://farm8.staticflickr.com/7221/7177050557_8e98ec6bce_n.jpg"" alt=""""/></a></p>
+
+<p><a class=""alt-link"" target=""_blank"" href=""http://www.florestavermelha.org/"">www.florestavermelha.org</a>
+<a class=""alt-link"" target=""_blank"" href=""http://www.facebook.com/florestavermelha"">www.facebook.com/florestavermelha</a>
+<a class=""alt-link"" href=""mailto:florestavermelha@apertus.org"" target=""_blank"">florestavermelha@apertus.org</a></p>
+
+<p><strong>[ENGLISH VERSION]</strong></p>
+
+<iframe src=""//player.vimeo.com/video/48944427?title=0&byline=0&portrait=0"" width=""600"" height=""403"" frameborder=""0""></iframe>
+
+<p><a class=""alt-link"" target=""_blank"" href=""http://www.pedrobayeux.com/"">Video on the project by Pedro Bayeux | soundtrack by Mamma Cadela</a></p>
+
+<p><em>FLORESTA VERMELHA // RED FOREST</em></p>
+
+<p><em>+“We want an accessible digital cinema. We want to tell stories with high image quality, without depending on extremely expensive equipment. We want to do cinema our way, and that other people can do so.“+</em></p>
+
+<p>Floresta Vermelha // Red Forest is the project of shooting a short movie with digital cinema resolution (2k) from original screenplay, soundtrack and art. And totally produced using free software and open hardware technology. Our aim is to contribute to the development of more customizable technology for digital cinema. You can help us in our quest, in exchange for exclusive material related to the film!</p>
+
+<p><em>Digital Cinema</em>
+Digital Cinema is a cheaper version of the film cinema. It records the same frame-to-frame way traditional cinema does, but instead of using film, it converts this information to bits and bytes (digital data). The images are captured in RAW format, allowing great range of manipulation in post production and enormous gains in relation to common full HD recording. +Read more about digital cinema+ <a class=""alt-link"" target=""_blank"" href=""http://florestavermelha.org/cinema-digital/"">here.</a> </p>
+
+<p><img src=""https://farm9.staticflickr.com/8014/7556672666_198bd70f27.jpg"" alt=""""/>!
+??photo: Regina Elias??</p>
+
+<p><em>The camera - Elphel 353</em>
+Great charm of our project comes from the camera: an Elphel 353. The Elphel cameras are most known for their use by Google Street View. This model can achieve resolutions up to 2592x1944 px, at 18 frames per second. For the movie, we will shoot in a 2k-equivalent resolution (2304x960 px), using standard cinema framerate (24 fps). Another interesting point is that the size of Elphel’s sensor is equivalent to a Super 8 film – so, in practice, we will be shooting a digital Super 8 mm film. +Read more about Elphel´s cameras <a class=""alt-link"" target=""_blank"" href=""http://florestavermelha.org/hardware-aberto/"">here.</a></p>
+
+<p><em>Experiment</em>
+Our experimentation must be understood as part of our pioneering, for what we will do has not been done with these parameters in the world. There are short videos that have been recorded with Elphel, as there are excellent short animation movies that have been done with Blender, a free software. </p>
+
+<p>We want to continue in this same path, doing a short film with actors, dialogs, lights inside a location, telling a story that will be recorded with an open camera and edited – both video and audio – with free tools. To achieve that, we have done many tests to establish the real potential and limits of the Elphel camera, including a mini-short movie for field testing, which you can watch <a class=""alt-link"" target=""_blank"" href=""http://florestavermelha.org/2012/08/27/minicurta-cada-sorriso-e-um-flash/"">here</a> and <a class=""alt-link"" target=""_blank"" href=""http://florestavermelha.org/2012/08/17/gravacoes-de-teste-os-videos/"">here</a></p>
+
+<p><em>Open technology - free software and open hardware</em>
+The Elphel cameras are all licensed as open hardware. This means they have their code and schematics open and accessible (GPL), so that anyone can consult or modify them. Even though they haven’t been made for cinema, an international community of developers and filmmakers has gathered under the name of Apertus (<a class=""alt-link"" target=""_blank"" href=""http://www.apertus.org/)"">www.apertus.org</a> to research on how to do professional quality movies with them. </p>
+
+<p>The Elphel company has kindly lent us one of their models. In exchange, all the field knowledge generated by us, in special on editing and on automation processes (scripting), is being fully documented and released under GPL or Creative Commons licenses so that other people can use it for filming.</p>
+
+<p>Another strong issue when dealing with open technology is the collective intelligence behind the tools’ development. Everyone can collaborate in their improvement. More than that, being able to alter, adapt and transform them according to our needs make many processes infinitely more efficient when done in Linux. In other words, we will use the programming potential in our favor. +Read more about the use of Elphel´s cameras for cinema+ <a class=""alt-link"" target=""_blank"" href=""https://szaszak.wordpress.com/linux/elphel-as-a-digital-cinema-camera/"">here.</a></p>
+
+<p><em>The movie</em></p>
+
+<p><em>Synopsis</em></p>
+
+<p><em>+Floresta Vermelha // Red Forest tells the coming back of young Nikolai to his parents’ house, in a village that could be anywhere in the world. There, he meets his mother, Liliya, and younger sister, Halyna, while waits for the arrival of his father, Yuriy, from work. Many things have changed since Nikolai left with most of the region inhabitants, some years ago. Others, in especial the relationship with his relatives, seems unaltered. Nikolai expects to be part of the family again by the end of the day. But what does “being accepted” mean in a place where the forest shines red in the dark?+</em></p>
+
+<p>In October, 2010, we finished the short movie screenplay. We knew how we wanted it to be recorded and the limitations our camera would impose to us. The story took all that into consideration. The mood is of a suspense movie – not a horror suspense, but one in which the storyline is build little by little. This approach necessarily opens room for the art and the actors.</p>
+
+<p>In a general way, this is the first time of everyone - it is the first time the director directs a movie; it is the first time the photographer photographs for cinema; it is the first effective art direction of the art director and so on. More than being a defect or weakness, this makes us way more partners and strengths us as a group. Also, everyone has solid works in her/his area, making us confident in the final result. +Read more about our team+ <a class=""alt-link"" target=""_blank"" href=""http://florestavermelha.org/quem-somos/"">here.</a></p>
+
+<p><em>The crowdfunding campaign / Collaborative financing</em>
+There is a common-place that says it is expensive to do cinema. We aren’t here to prove otherwise. We must have scene objects, adequate lightning equipment, to transport everything, to improve the locations, to feed everyone after an extensive day’s work. We are covering these costs in two fronts: by offering workshops related to our project or to the free/open tools we use; and via this crowdfunding campaign.  Your participation is essential for us to make a nice movie!</p>
+
+<p>Everyone in the team, with the exception of some people that will do the more physical work of preparing the location, are here as voluntary collaborators. This means they are working without being paid because they believe the process and the results will be interesting. And in order to achieve an interesting result, we will not concede on doing a beautiful movie, one we will be proud of.</p>
+
+<p>The money raised here with your support will all be used to improve production. We have millions of ideas and things we would like to do that would make the movie even more interesting that are, at the moment, financially impractical. Better lightning, extra location, makeup and hairstyle, scene objects... many small details that we’d like to add and that will certainly make all the difference in the final result.</p>
+
+<p><em>Our expectations</em>
+The main objective of the Floresta Vermelha // Red Forest movie is to prove, with results, that it is possible to do a professional cinema production with the use of open/free tools. But our ambitions don’t stop there. We are also having a good time - our crew is very diverse and only a few (about 4 people) will deal with the most technological part of the film - putting us way closer to the International Movie Festival than from Campus Party.</p>
+
+<p>Part of the fun is the release party, scheduled for November the 30th, 2012, in São Paulo (Brazil). We are planning a very nice event in which we will exhibit the movie and the band Mamma Cadela will perform the original soundtrack live. We also want to participate in other festivals and take it to other institutions. The internet is the natural place for the final cut, published under a permissive Creative Commons license – we just need to analyse when will be the best moment in 2013 to do that.</p>
+
+<p><em>MORE INFORMATION</em>
+Know more about our project in our production blog and follow all the process in our page at Facebook. If you have other doubts and comments, please write us. We’ll be very glad to answer you!</p>
+
+<p><a class=""alt-link"" target=""_blank"" href=""http://www.florestavermelha.org/"">www.florestavermelha.org</a>
+<a class=""alt-link"" target=""_blank"" href=""http://www.facebook.com/florestavermelha"">www.facebook.com/florestavermelha</a>
+<a class=""alt-link"" href=""mailto:florestavermelha@apertus.org"" target=""_blank"">florestavermelha@apertus.org</a></p>
+",florestavermelha,//player.vimeo.com/video/48944427,http://vimeo.com/48944427,"Cinema e Vídeo",13,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/1044/florestavermelha_logo.jpg,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/1044/project_thumb_thumb_florestavermelha_logo.jpg,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/1044/project_thumb_small_florestavermelha_logo.jpg,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/1044/project_thumb_large_florestavermelha_logo.jpg,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/1044/project_thumb_video_cover_florestavermelha_logo.jpg,133.3333333333333300,8000.0,100,88,successful,aon,finished,"2012-11-16 01:59:59","2012-11-15 23:59:59","2012-09-17 01:59:00","2012-09-16 22:59:00",,t,t,f,60,"{""total"" : 0, ""unit"" : ""seconds""}","{""total"" : 60, ""unit"" : ""days""}",6,"{""city"" : ""São Paulo"", ""state_acronym"" : ""SP"", ""state"" : ""São Paulo""}","{""id"" : 101085, ""name"" : ""Floresta Vermelha""}",0,,f,f,6,f,f,f

@@ -1,0 +1,17 @@
+project_id,id,user_id,name,headline,budget,goal,about_html,permalink,video_embed_url,video_url,category_name,category_id,original_image,thumb_image,small_image,large_image,video_cover_image,progress,pledged,total_contributions,total_contributors,state,mode,state_order,expires_at,zone_expires_at,online_date,zone_online_date,sent_to_analysis_at,is_published,is_expired,open_for_contributions,online_days,remaining_time,elapsed_time,posts_count,address,user,reminder_count,is_owner_or_admin,user_signed_in,in_reminder,total_posts,can_request_transfer,is_admin_role,contributed_by_friends
+7710,7710,343706,"Gravação de primeiro disco solo.","Ajude um artista independente a realizar seu projeto!","O orçamento para projetos anteriores a 24/02/2015 normalmente pode ser encontrado na descrição acima.",5000.0,"<p>O projeto de gravação de primeiro disco solo, do músico Alexandre Lora, é uma forma independente de arrecadar verbas para viabilizar a gravação do primeiro disco solo do artista, totalmente autoral.
+O disco terá como instrumento principal o &quot;Hand Pan&quot;, um instrumento novo na história da música, pouco conhecido no Brasil e de sonoridade mística e peculiar. O primeiro exemplar desse instrumento foi inventado no ano de 2000 por um casal de Suíços. Desde então algumas fábricas ao redor do mundo começaram a desenvolver seus próprios projetos similares ao original. O instrumento utilizado pelo artista chama-se &quot;Harmonic Art&quot;, vem da Colômbia, e tem o poder de reproduzir melodias e harmonias mesmo sendo considerado um instrumento de percussão.
+Para poder concluir o projeto, toda verba arrecadada no catarse se destinará as seguintes etapas:
+-gravação do disco
+-mixagem
+-masterização,
+-material gráfico do CD
+-prensagem de 2000 mil exemplares.
+O produto final será um cd autoral, com 9 a 11 músicas inéditas, todas instrumentais, e contará com a participação de 3 grandes músicos: Douglas Lora, Fábio Luna e Dudu Maia.
+O disco será gravado em novembro de 2014 no estúdio &quot;Casa do Som&quot; em Brasília, do músico Dudu Maia.
+O prazo para entrega do CD é abril de 2015.
+Para conhecer um pouco mais sobre o artista, acesse :
+<a class=""alt-link"" href=""http://www.alexandrelora.com"" target=""_blank"">www.alexandrelora.com</a> 
+Outros projetos que o artista participa:
+Trio Brasileiro, Grupo Caraivana, Samba Trio.</p>
+",alexandrelora,//player.vimeo.com/video/109589979,http://vimeo.com/spacek/lora,Música,16,,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/video_thumbnail/7710/project_thumb_thumb_open-uri20141022-2-5df34i,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/video_thumbnail/7710/project_thumb_small_open-uri20141022-2-5df34i,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/video_thumbnail/7710/project_thumb_large_open-uri20141022-2-5df34i,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/video_thumbnail/7710/project_thumb_video_cover_open-uri20141022-2-5df34i,106.3000000000000000,5315.0,59,58,successful,aon,finished,"2014-12-09 01:59:59","2014-12-08 23:59:59","2014-10-23 02:00:00.751321","2014-10-23 00:00:00.751321",,t,t,f,46,"{""total"" : 0, ""unit"" : ""seconds""}","{""total"" : 46, ""unit"" : ""days""}",0,"{""city"" : ""São Paulo"", ""state_acronym"" : ""SP"", ""state"" : ""São Paulo""}","{""id"" : 343706, ""name"" : ""Alexandre Lora Las Casas""}",2,,f,f,0,f,f,f

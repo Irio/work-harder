@@ -1,0 +1,28 @@
+project_id,id,user_id,name,headline,budget,goal,about_html,permalink,video_embed_url,video_url,category_name,category_id,original_image,thumb_image,small_image,large_image,video_cover_image,progress,pledged,total_contributions,total_contributors,state,mode,state_order,expires_at,zone_expires_at,online_date,zone_online_date,sent_to_analysis_at,is_published,is_expired,open_for_contributions,online_days,remaining_time,elapsed_time,posts_count,address,user,reminder_count,is_owner_or_admin,user_signed_in,in_reminder,total_posts,can_request_transfer,is_admin_role,contributed_by_friends
+1019,1019,92377,"Capital Philharmonia - Beethoven: Sinfonia Eroica","Ajude uma orquestra a realizar Beethoven aberto ao público amante da boa música!","O orçamento para projetos anteriores a 24/02/2015 normalmente pode ser encontrado na descrição acima.",12000.0,"<p>A Capital Philharmonia é um uma nova fonte de música erudita em Brasília, composta por músicos movidos pela vontade e paixão de apresentar a música que amamos. Nossa estréia foi em grande estilo com a apresentação da ópera Don Giovanni, de Mozart.</p>
+
+<p>O nosso próximo passo é oferecer à capital federal um concerto com a belíssima Sinfonia op.55 &quot;Eróica&quot;, de Ludwig van Beethoven no dia 22 de novembro. Para isso, precisamos da sua caridosa ajuda! </p>
+
+<p>Essa sinfonia exige, no mínimo, 30 músicos para ser executada, distribuídos entre flautas, oboés, clarinetes, fagotes, trompas, trompetes, tímpano e cordas. Eles necessitam dispor de tempo para estudar a peça a fim de executá-la bem, e essa dedicação precisa ser remunerada. Além disso, também temos custos logísticos de material e espaço, que devem ser arcados antes da apresentação e, portanto, não podemos contar apenas com a renda de ingressos.</p>
+
+<p>Elaboramos um curto FAQ, mas estamos à disposição para tirar alguma dúvida que não esteja respondida!
+Da Capital Philharmonia, muito obrigado!</p>
+
+<p>FAQ:</p>
+
+<p>1 ) Como será usado o dinheiro arrecadado?
+R) Será totalmente dividido entre os músicos, após descontado o custo do aluguel da sala. O regente não receberá cachê (ver abaixo), assim como alguns músicos que optaram por não receber e estão dispondo o seu tempo pelo amor à obra, ajudando a reduzir custos e facilitar a execução do espetáculo.</p>
+
+<p>2 ) Há alguma relação entre o tamanho da orquestra e o dinheiro arrecadado?
+R) Toda! Com essa verba de R$12.000, limitamos a orquestra a 33 instrumentistas: 2 flautas, 2 oboés, 2 clarinetes, 2 fagotes, 3 trompas, 2 trompetes, 1 tímpano, 11 violinos, 3 violas, 3 violoncelos, 2 contrabaixos. Esse é o tamanho mínimo para apresentar a obra, embora não seja o ideal. Portanto, a cada 3% a mais arrecadados, incluiremos um músico nas cordas.
+Se o valor arrecadado exceder em 40% os R$12.000 inicialmente planejados, interromperemos o acréscimo de músicos e começaremos a expandir o concerto melhorando a remuneração dos músicos (e o regente passa a receber!). Após atingirmos 60% de excedente, teremos duas apresentações, em dois dias diferentes.</p>
+
+<p>3 ) A apresentação é gratuita?
+R) Completamente! Nosso objetivo é, acima de tudo, realizar o concerto. Uma vez atingido o objetivo de arrecadação, é correr para o abraço e convidar a cidade para ver!</p>
+
+<p>4 ) Haverá gravação?
+R) Sim, se chegarmos a 80% de excedente de arrecadação, gravaremos e colocaremos, em HD, no youtube e vimeo.</p>
+
+<p>5 ) Beethoven é o cara?
+R) É sim. Ele é o homem. The boss.</p>
+",CapitalBeethoven,//player.vimeo.com/video/50487315,http://vimeo.com/50487315,Música,16,,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/video_thumbnail/1019/project_thumb_thumb_open-uri20131125-2-1o8bafu,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/video_thumbnail/1019/project_thumb_small_open-uri20131125-2-1o8bafu,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/video_thumbnail/1019/project_thumb_large_open-uri20131125-2-1o8bafu,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/video_thumbnail/1019/project_thumb_video_cover_open-uri20131125-2-1o8bafu,105.50000000000000000000,12660.0,30,28,successful,aon,finished,"2012-11-05 01:59:59","2012-11-04 23:59:59","2012-09-06 01:59:59","2012-09-05 22:59:59",,t,t,f,60,"{""total"" : 0, ""unit"" : ""seconds""}","{""total"" : 60, ""unit"" : ""days""}",0,"{""city"" : ""Brasília"", ""state_acronym"" : ""DF"", ""state"" : ""Distrito Federal""}","{""id"" : 92377, ""name"" : """"}",0,,f,f,0,f,f,f

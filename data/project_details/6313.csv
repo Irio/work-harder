@@ -1,0 +1,26 @@
+project_id,id,user_id,name,headline,budget,goal,about_html,permalink,video_embed_url,video_url,category_name,category_id,original_image,thumb_image,small_image,large_image,video_cover_image,progress,pledged,total_contributions,total_contributors,state,mode,state_order,expires_at,zone_expires_at,online_date,zone_online_date,sent_to_analysis_at,is_published,is_expired,open_for_contributions,online_days,remaining_time,elapsed_time,posts_count,address,user,reminder_count,is_owner_or_admin,user_signed_in,in_reminder,total_posts,can_request_transfer,is_admin_role,contributed_by_friends
+6313,6313,266933,"Troche, vem pro Brasil! ","Campanha da editora Lote 42 para trazer o artista uruguaio Troche ao Brasil para lançar seu livro ""Desenhos Invisíveis""","O orçamento para projetos anteriores a 24/02/2015 normalmente pode ser encontrado na descrição acima.",4000.0,"<p><img src=""http://s23.postimg.org/f7qpewd3f/artes_02.jpg"" alt=""""/>
+Queremos trazer o quadrinista uruguaio Gervasio Troche ao Brasil para o lançamento do seu livro, <em>Desenhos Invisíveis</em>. O livro será publicado pela Lote 42 -- os custos estão garantidos pela editora, quer este projeto atinja seu objetivo ou não. Mas gostaríamos de contar com a presença do autor no evento que vai pôr o livro no mundo. </p>
+
+<p>Se atingirmos o objetivo de R$ 4 mil, Troche vem a São Paulo e participará de uma série de atividades na cidade. Se conseguirmos R$ 8 mil, a turnê será estendida para o Rio de Janeiro. Já se chegarmos a R$ 12 mil, vamos abrir uma enquete entre os apoiadores para que decidam onde quadrinista deve ir no Brasil. E por aí vai.</p>
+
+<p>(Lea sobre la campaña en espanhol <a class=""alt-link"" target=""_blank"" href=""http://lote42.tumblr.com/post/92467238486/campana-de-crowdfunding-troche-vem-pro-brasil)"">aqui</a></p>
+
+<p><img src=""http://s28.postimg.org/tz4hvhbnx/artes_03.jpg"" alt=""""/>
+Gervasio Troche nasceu em Buenos Aires, em 1976, durante o exílio dos seus pais uruguaios na Argentina. Passou sua infância na França e no México, até que em 1985 se mudou definitivamente para o Uruguai, onde se nacionalizou. </p>
+
+<p>Publicou no ano 2000 o livro de histórias em quadrinhos <em>Mangrullo</em> pela Editorial Almacén -- o livro teve tiragem baixa e já está esgotado. E em 2013 lançou o livro <em>Dibujos Invisibles</em> pela editora Sudamericana (© Penguim Random House), cujos direitos para publicação no Brasil foram cedidos à Lote 42. </p>
+
+<p>Uma característica marcante do humor gráfico de Troche é a falta da palavra escrita. O artista consegue expressar mensagens profundas e sensíveis apenas com personagens, objetos e cenas de um universo particular. Sem a barreira do idioma, nos últimos anos os cartuns começaram a ganhar seguidores no Brasil, que passaram a interagir com o artista e admirar seu trabalho. </p>
+
+<p><img src=""http://s8.postimg.org/ltrd77swl/artes_04.jpg"" alt=""""/>
+Precisamos arrecadar R$ 4 mil para trazê-lo para São Paulo. Se arrecadarmos mais, iremos para outras cidades. E, nesse caso, vamos precisar do mesmo valor de R$ 4 mil para cada novo destino, pois, mesmo sendo viagens dentro do Brasil, o valor inclui as despesas de um produtor da Lote 42 para acompanhar o autor. Os custos serão divididos desta forma:</p>
+
+<p><img src=""http://s23.postimg.org/44ga0s6kr/artes_06.jpg"" alt=""""/></p>
+
+<p><img src=""http://s30.postimg.org/ideiw9o75/artes_07.jpg"" alt=""""/></p>
+
+<p><img src=""http://s9.postimg.org/p7ng5xqtb/artes_05.jpg"" alt=""""/>
+<img src=""http://s27.postimg.org/khmuh0o7n/artes_08_2.jpg"" alt=""""/>
+<img src=""http://s16.postimg.org/720ca2k7p/artes_09.jpg"" alt=""""/></p>
+",troche,//www.youtube.com/embed/F_ipQerE2vk,http://youtu.be/F_ipQerE2vk,Literatura,20,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/6313/videocapa.jpg,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/6313/project_thumb_thumb_videocapa.jpg,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/6313/project_thumb_small_videocapa.jpg,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/6313/project_thumb_large_videocapa.jpg,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/6313/project_thumb_video_cover_videocapa.jpg,461.7000000000000000,18468.0,336,331,successful,aon,finished,"2014-09-05 02:59:59","2014-09-04 23:59:59","2014-07-21 17:11:29.272362","2014-07-21 14:11:29.272362",,t,t,f,45,"{""total"" : 0, ""unit"" : ""seconds""}","{""total"" : 45, ""unit"" : ""days""}",10,"{""city"" : ""São Paulo"", ""state_acronym"" : ""SP"", ""state"" : ""São Paulo""}","{""id"" : 266933, ""name"" : ""Lote 42""}",0,,f,f,10,f,f,f

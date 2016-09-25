@@ -1,0 +1,39 @@
+project_id,id,user_id,name,headline,budget,goal,about_html,permalink,video_embed_url,video_url,category_name,category_id,original_image,thumb_image,small_image,large_image,video_cover_image,progress,pledged,total_contributions,total_contributors,state,mode,state_order,expires_at,zone_expires_at,online_date,zone_online_date,sent_to_analysis_at,is_published,is_expired,open_for_contributions,online_days,remaining_time,elapsed_time,posts_count,address,user,reminder_count,is_owner_or_admin,user_signed_in,in_reminder,total_posts,can_request_transfer,is_admin_role,contributed_by_friends
+934,934,18,"Cidades para Pessoas - parte 2","O Cidades para Pessoas busca pelo mundo soluções urbanísticas pelo Brasil. Ajude o projeto a continuar.","O orçamento para projetos anteriores a 24/02/2015 normalmente pode ser encontrado na descrição acima.",15000.0,"<p>O Cidades para Pessoas (cidadesparapessoas.com.br) é um projeto jornalístico que tem como objetivo investigar, pelo mundo, boas práticas e boas ideias que tenham melhorado as cidades para seus moradores. Em viagens pelo mundo, documentamos soluções possíveis para os problemas mais comuns das cidades brasileiras (crescimento desordenado, má gestão de lixo, urbanização dos rios, dificuldades de mobilidade, impermeabilização do solo, poluição do ar, sonora e visual, ilhas de calor, etc) e projetos que nos ensinem a aproveitar nossos POTENCIAIS (iniciativas de agricultura urbana, economia criativa, espaços públicos financiados pela sociedade civil, movimentos de engajamento cívico e projetos adequados a climas quentes, etc). </p>
+
+<p>O objetivo do Cidades para Pessoas é trazer INSPIRAÇÃO para nortear os olhares do poder público, da iniciativa privada e da sociedade civil para, juntos, fazermos cidades melhores.</p>
+
+<p>O Cidades para Pessoas foi idealizado em 2010 pela jornalista Natália Garcia. Diferente das iniciativas da imprensa tradicional, esse foi o primeiro projeto jornalístico no Brasil a ser financiado por crowdfunding aqui no Catarse.me, em março de 2011. Assim, já nasceu com uma audiência engajada e consolidada. Com o financiamento do Catarse, Natália Garcia partiu para a primeira viagem do Cidades para Pessoas. Percorreu sete cidades europeias (Amsterdam, Copenhague, Friburgo, Londres, Lyon, Paris e Estrasburgo), onde entrevistou urbanistas, gestores públicos, líderes de movimentos de engajamento cívico, além de registrar em vídeos, fotos e textos suas percepções. De volta ao Brasil, ministrou mais de 20 palestras em cidades pelo Brasil para disseminar as ideias apuradas pelo projeto. O Cidades para Pessoas também esteve presente na 9a. Bienal de Arquitetura e teve uma exposição de fotos, dados, vídeos e ilustrações na Matilha Cultural.</p>
+
+<p>O material apurado durante as viagens pelo mundo está sendo publicado na forma de reportagens em texto e em vídeos: </p>
+
+<p>– no site <a class=""alt-link"" href=""http://www.cidadesparapessoas.com.br"" target=""_blank"">www.cidadesparapessoas.com.br</a> 
+– na coluna planetasustentavel.abril.com.br/blog/cidades-para-pessoas/</p>
+
+<p>O Cidades para Pessoas foi dividido em três fases:</p>
+
+<p>Fase 1 – Planejamento urbano e soluções clássicas (já concluída)
+Copenhague, Amsterdam, Londres, Paris, Friburgo, Estrasburgo e Lyon.
+De maio a novembro de 2011, com Natália Garcia na estrada. </p>
+
+<p>Fase 2 - Novas ideias e paradigmas das cidades do futuro
+São Francisco, Portland, Nova Iorque, Cidade do México e Barcelona.
+De setembro a dezembro, com Natália Garcia e Juliana Russo na estrada.  </p>
+
+<p>Fase 3 - A lógica do improviso, da criatividade e da informalidade
+Accra, Nairob, Rishkesh, Tympu, Seoul e Melbourne. 
+No primeiro semestre de 2013.</p>
+
+<p>Para completar as Fases 2 e 3, estamos negociando algumas possibilidades de viabilização financeira. Como não queremos deixar de ser um projeto colaborativo, que tem uma rede de pessoas engajadas em nossa produção de conteúdo, DECIDIMOS TENTAR FINANCIAR A FASE 2 POR CROWDFUNDING AQUI NO CATARSE. Para isso, estamos tentando arrecadar R$ 15 mil em um mês.   </p>
+
+<p>Na estrada estarão a jornalista Natália Garcia e a ilustradora Juliana Russo. </p>
+
+<p>(O orçamento total inclui: passagens aéreas, hospedagem, alimentação, transporte diário, pré-produção, produção, planos de saúde e equipamentos eletrônicos essenciais. O valor arrecadado aqui no Catarse corresponderá a aproximadamente 20% do orçamento total da viagem.)   </p>
+
+<p>Equipe:</p>
+
+<p>Ana Catarina Pinheiro
+Juliana Russo
+Marina Chevrand
+Natália Garcia</p>
+",cidadesparapessoas2,//player.vimeo.com/video/47916391,"<a href=""http://vimeo.com/47916391"" target=""_blank"">Vimeo</a>",Jornalismo,15,,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/video_thumbnail/934/project_thumb_thumb_open-uri20131125-2-zdfpnm,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/video_thumbnail/934/project_thumb_small_open-uri20131125-2-zdfpnm,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/video_thumbnail/934/project_thumb_large_open-uri20131125-2-zdfpnm,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/video_thumbnail/934/project_thumb_video_cover_open-uri20131125-2-zdfpnm,115.78000000000000000000,17367.0,291,286,successful,aon,finished,"2012-09-21 02:59:59","2012-09-20 23:59:59","2012-07-23 02:59:59","2012-07-22 23:59:59",,t,t,f,60,"{""total"" : 0, ""unit"" : ""seconds""}","{""total"" : 60, ""unit"" : ""days""}",0,"{""city"" : ""São Paulo"", ""state_acronym"" : ""SP"", ""state"" : ""São Paulo""}","{""id"" : 18, ""name"" : ""Cidades para Pessoas""}",0,,f,f,0,f,f,f

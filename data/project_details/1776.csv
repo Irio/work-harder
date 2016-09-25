@@ -1,0 +1,49 @@
+project_id,id,user_id,name,headline,budget,goal,about_html,permalink,video_embed_url,video_url,category_name,category_id,original_image,thumb_image,small_image,large_image,video_cover_image,progress,pledged,total_contributions,total_contributors,state,mode,state_order,expires_at,zone_expires_at,online_date,zone_online_date,sent_to_analysis_at,is_published,is_expired,open_for_contributions,online_days,remaining_time,elapsed_time,posts_count,address,user,reminder_count,is_owner_or_admin,user_signed_in,in_reminder,total_posts,can_request_transfer,is_admin_role,contributed_by_friends
+1776,1776,141866,"MateriaBrasil 2013","Ajude a financiar o desenvolvimento do primeiro acervo open-source de materiais sustentáveis brasileiros.","O orçamento para projetos anteriores a 24/02/2015 normalmente pode ser encontrado na descrição acima.",33500.0,"<p><a class=""alt-link"" target=""_blank"" href=""http://asas.catarse.me""><img src=""http://i.imgur.com/gibiFV2.jpg"" alt=""""/></a></p>
+
+<p>Bem-vindos! Antes de ler o texto abaixo, é melhor assistir ao vídeo aqui em cima, que tal? ;)</p>
+
+<p>Estamos aqui no Catarse para pedir a você que nos ajude a construir uma plataforma (<a class=""alt-link"" href=""http://www.materiabrasil.net"" target=""_blank"">www.materiabrasil.net</a>) mais eficiente e mais colaborativa. Nossa ideia é fazer com que a fila de materiais e fornecedores, que está hoje na gaveta, possa entrar no ar de forma mais rápida do que é feito hoje. Já temos um plano para isso, que envolve a implementação de uma tecnologia mais inteligente do que a que usamos atualmente. Com ela, vamos ter menos trabalho para colocar um material no ar, e poderemos focar nosso trabalho no que mais interessa: pesquisar o que tem de mais novo no mercado para manter o acervo constantemente atualizado. Além disso, queremos que a plataforma se transforme cada vez mais em um fórum de discussão aberto, onde você possa se conectar diretamente com o fornecedor, e compartilhar dúvidas, ideias e insights com a comunidade, acelerando o aprendizado e a disseminação de informações.</p>
+
+<p>O valor de R$33.500,00 servirá para:
+R$15.000 - Desenvolvimento web
+R$6.000   - Equipe MateriaBrasil para a realização da campanha
+R$8.000   - Recompensas com frete incluído
+R$4.500   - Taxas do Catarse e MOIP</p>
+
+<p>Se passarmos desse valor, poderemos incluir outras metas no projeto, como a tradução da plataforma para o inglês!</p>
+
+<p>Abaixo algumas imagens que ilustram as recompensas que estamos oferecendo em troca de quem apoiar e ajudar a construir os próximos passos da plataforma ;)</p>
+
+<p>Vamos construir juntos a MateriaBrasil?</p>
+
+<p><img src=""http://i.imgur.com/Uj8DEwy.jpg"" alt=""""/></p>
+
+<p><img src=""http://i.imgur.com/ygP5MR5.jpg"" alt=""""/></p>
+
+<p><img src=""http://i.imgur.com/1ZUzu5k.jpg"" alt=""""/></p>
+
+<p><img src=""http://i.imgur.com/T63XBIl.jpg"" alt=""""/></p>
+
+<p><img src=""http://i.imgur.com/g2KRIPO.jpg"" alt=""""/></p>
+
+<p><img src=""http://i.imgur.com/EniC2wu.jpg"" alt=""""/></p>
+
+<p><img src=""http://i.imgur.com/xGytcqT.jpg"" alt=""""/></p>
+
+<p><img src=""http://i.imgur.com/skSpM7V.jpg"" alt=""""/></p>
+
+<p><img src=""http://i.imgur.com/X1SIw0Z.jpg"" alt=""""/></p>
+
+<p><img src=""http://i.imgur.com/uCLPdN7.jpg"" alt=""""/></p>
+
+<p><img src=""http://i.imgur.com/RKIZlSz.jpg"" alt=""""/></p>
+
+<p><img src=""http://i.imgur.com/wYfkwsX.jpg"" alt=""""/></p>
+
+<p><img src=""http://i.imgur.com/0xPAmiq.jpg"" alt=""""/></p>
+
+<p><img src=""http://i.imgur.com/boiyacN.jpg"" alt=""""/></p>
+
+<p><img src=""http://i.imgur.com/20OYokJ.jpg"" alt=""""/></p>
+",mb2013,//player.vimeo.com/video/63851624,https://vimeo.com/63851624,"Ciência e Tecnologia",18,,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/video_thumbnail/1776/project_thumb_thumb_open-uri20131125-2-1vwcc4x,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/video_thumbnail/1776/project_thumb_small_open-uri20131125-2-1vwcc4x,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/video_thumbnail/1776/project_thumb_large_open-uri20131125-2-1vwcc4x,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/video_thumbnail/1776/project_thumb_video_cover_open-uri20131125-2-1vwcc4x,100.22388059701492537300,33575.0,235,222,successful,aon,finished,"2013-05-18 02:59:59","2013-05-17 23:59:59","2013-04-12 12:26:47","2013-04-12 09:26:47",,t,t,f,35,"{""total"" : 0, ""unit"" : ""seconds""}","{""total"" : 35, ""unit"" : ""days""}",17,"{""city"" : ""Rio de Janeiro"", ""state_acronym"" : ""RJ"", ""state"" : ""Rio de Janeiro""}","{""id"" : 141866, ""name"" : ""MateriaBrasil""}",0,,f,f,17,f,f,f

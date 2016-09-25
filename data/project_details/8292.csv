@@ -1,0 +1,65 @@
+project_id,id,user_id,name,headline,budget,goal,about_html,permalink,video_embed_url,video_url,category_name,category_id,original_image,thumb_image,small_image,large_image,video_cover_image,progress,pledged,total_contributions,total_contributors,state,mode,state_order,expires_at,zone_expires_at,online_date,zone_online_date,sent_to_analysis_at,is_published,is_expired,open_for_contributions,online_days,remaining_time,elapsed_time,posts_count,address,user,reminder_count,is_owner_or_admin,user_signed_in,in_reminder,total_posts,can_request_transfer,is_admin_role,contributed_by_friends
+8292,8292,356976,"iWater: dê uma chance à água.","Economize. Reutilize. Antes que seja tarde demais. iWater.","O orçamento para projetos anteriores a 24/02/2015 normalmente pode ser encontrado na descrição acima.",1000.0,"<p>Estávamos cansados de trabalhos impressos e comuns, aqueles que passam despercebidos e se tornam repetitivos. Pensando nisso, desenvolvemos o <strong>iWater</strong>.</p>
+
+<p><img src=""http://i.imgur.com/K4HZyxq.jpg"" alt=""""/></p>
+
+<p>iWater é uma forma de calcular seus gastos diários de água com o seu smartphone. Ele é uma iniciativa livre e sem a inserção de propagandas. Ele tem a distribuição completamente grátis e acessível a todos que detém de uma conexão com a internet.</p>
+
+<p>O aplicativo calcula o seu gasto de água em atividades do dia a dia. Em &quot;Novo Consumo&quot;, o usuário tem a possibilidade de escolher o tipo de gasto (banho, escovar os dentes, beber água) e o tempo de duração da atividade. O programa também exibe uma opção de &quot;Histórico&quot; e &quot;Gráficos&quot;, onde o usuário pode acompanhar sua rotina e seus gastos. Também na página &quot;Curiosidades&quot;, há dados sobre o uso de água pelo mundo que são desconhecidos pela população em geral.</p>
+
+<p><img src=""http://i.imgur.com/5bySNRY.jpg"" alt=""""/></p>
+
+<p>Esse aplicativo foi desenvolvido para ser apresentado durante a Feira de Ciências de 2013 da escola Garriga de Menezes, Rio de Janeiro.</p>
+
+<p>— <em>Nós colocamos todas as matérias neste trabalho. Na parte de história e geografia, por exemplo, falamos de guerras por causa da água e do consumo na indústria</em> — conta a aluna Letícia Jordão.</p>
+
+<p>— <em>As pessoas ficaram chocadas, porque isso diz respeito a elas. Ninguém se dá conta do quanto de água consome</em> — frisa Pedro Borges.</p>
+
+<p>— <em>Como comecei a me interessar por computador, resolvi fazer o aplicativo para as pessoas terem algo além de material para ler. Nunca tínhamos feito nada assim.</em> — diz Victor Capilé.</p>
+
+<p><img src=""http://i.imgur.com/udtk06M.jpg"" alt=""""/></p>
+
+<p><strong>Quer que o projeto continue crescendo? Faça uma doação.</strong></p>
+
+<p><strong>Por que o serviço não é pago?</strong>
+Acreditamos que a falta de água em estados como <strong>São Paulo</strong> é gravíssima, e ter de pagar por um serviço que pode beneficiar a todos não é o jeito mais honesto de tentar ajudar.</p>
+
+<p><strong>Por que não vendemos anúncio?</strong>
+Anúncios danificam o projeto visual do serviço. Pop-ups e propagandas atrapalham a experiência de usuário. Por isso, pensamos em um jeito mais honesto de sermos monetizados pelo nosso trabalho.</p>
+
+<p><strong>Doe! Seja nosso patrão!</strong> Nada melhor que deixar você mesmo escolher o quanto acha que vale nosso serviço.</p>
+
+<ol>
+<li><p>Com a sua doação, tornará possível a inserção do aplicativo nas plataformas mobile (iOS, Android e Windows Phone), no momento, ele está apenas disponível na web (tanto no PC, quanto no celular).</p></li>
+<li><p>13% do valor arrecadado irá para o Catarse (caso a meta seja atingida)</p></li>
+<li><p>Sua doação ajudará a toda a equipe a aprimorar o software (com novas funções, dados, etc), assim como a desenvolver projetos futuros com foco na inovação e utilização para o benefício da comunidade humana em geral.</p></li>
+</ol>
+
+<p><strong>METAS</strong></p>
+
+<p><strong>50 REAIS</strong> (referente aos 20 dólares exigidos pelo google) — iWater será colocado na Google Play (Android)</p>
+
+<p><strong>300 REAIS</strong> (referente aos 100 dólares exigidos pela apple + 20 dólares) — iWater será colocado na App Store (iPhone)</p>
+
+<p><strong>550 REAIS</strong> (referente aos 100 dólares exigidos pela microsoft + 100 dólares + 20 dólares) —  iWater será colocado na Windows Store (Windows Phone. Sim, nós não nos esquecemos de vocês.)</p>
+
+<p><strong>até 850 REAIS</strong> — Dinheiro que será investido na manutenção dos servidores do iWater para que ele se mantenha no ar por mais 3 meses. Após esse tempo, as doações esporádicas também entrarão em parte nos servidores.</p>
+
+<p>P.S: conversão feita a partir da cotação do dólar do dia 27/10/2014.</p>
+
+<p>Seu feedback é muito importante! Contate-nos: <a class=""alt-link"" href=""mailto:equipeiwater@gmail.com"" target=""_blank"">equipeiwater@gmail.com</a></p>
+
+<p>Para acessar: <strong><a class=""alt-link"" href=""http://iwater.capile.net"" target=""_blank"">http://iwater.capile.net</a></strong></p>
+
+<p><strong>FONTES</strong>
+iWater na mídia:
+<a class=""alt-link"" href=""http://extra.globo.com/noticias/educacao/vida-de-calouro/aplicativo-desenvolvido-por-estudantes-auxilia-no-combate-ao-desperdicio-de-agua-14398467.html"" target=""_blank"">http://extra.globo.com/noticias/educacao/vida-de-calouro/aplicativo-desenvolvido-por-estudantes-auxilia-no-combate-ao-desperdicio-de-agua-14398467.html</a></p>
+
+<p><a class=""alt-link"" href=""http://oglobo.globo.com/rio/bairros/alunos-do-ensino-medio-criam-aplicativo-iwater-para-mensurar-consumo-de-agua-14341171"" target=""_blank"">http://oglobo.globo.com/rio/bairros/alunos-do-ensino-medio-criam-aplicativo-iwater-para-mensurar-consumo-de-agua-14341171</a></p>
+
+<p><a class=""alt-link"" href=""http://noticias.r7.com/tecnologia-e-ciencia/iwater-adolescente-cria-aplicativo-para-combater-o-desperdicio-de-agua-29072014"" target=""_blank"">http://noticias.r7.com/tecnologia-e-ciencia/iwater-adolescente-cria-aplicativo-para-combater-o-desperdicio-de-agua-29072014</a></p>
+
+<p><a class=""alt-link"" href=""http://g1.globo.com/sao-paulo/blog/como-economizar-agua/post/como-economizar-agua-com-ajuda-de-aplicativos-de-celular.html"" target=""_blank"">http://g1.globo.com/sao-paulo/blog/como-economizar-agua/post/como-economizar-agua-com-ajuda-de-aplicativos-de-celular.html</a></p>
+
+<p><a class=""alt-link"" href=""http://agenciabrasil.ebc.com.br/pesquisa-e-inovacao/noticia/2014-11/aplicativos-e-ferramentas-online-ajudam-economizar-agua-em-casa"" target=""_blank"">http://agenciabrasil.ebc.com.br/pesquisa-e-inovacao/noticia/2014-11/aplicativos-e-ferramentas-online-ajudam-economizar-agua-em-casa</a></p>
+",iwater,,"","Ciência e Tecnologia",18,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/8292/iwater-512.png,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/8292/project_thumb_thumb_iwater-512.png,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/8292/project_thumb_small_iwater-512.png,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/8292/project_thumb_large_iwater-512.png,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/8292/project_thumb_video_cover_iwater-512.png,106.5000000000000000,1065.0,34,32,successful,aon,finished,"2014-12-30 01:59:59","2014-12-29 23:59:59","2014-10-30 14:56:07.13409","2014-10-30 12:56:07.13409",,t,t,f,60,"{""total"" : 0, ""unit"" : ""seconds""}","{""total"" : 60, ""unit"" : ""days""}",3,"{""city"" : ""Rio de Janeiro"", ""state_acronym"" : ""RJ"", ""state"" : ""Rio de Janeiro""}","{""id"" : 356976, ""name"" : ""Victor Capilé""}",3,,f,f,9,f,f,f

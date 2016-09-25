@@ -1,0 +1,22 @@
+project_id,id,user_id,name,headline,budget,goal,about_html,permalink,video_embed_url,video_url,category_name,category_id,original_image,thumb_image,small_image,large_image,video_cover_image,progress,pledged,total_contributions,total_contributors,state,mode,state_order,expires_at,zone_expires_at,online_date,zone_online_date,sent_to_analysis_at,is_published,is_expired,open_for_contributions,online_days,remaining_time,elapsed_time,posts_count,address,user,reminder_count,is_owner_or_admin,user_signed_in,in_reminder,total_posts,can_request_transfer,is_admin_role,contributed_by_friends
+339,339,24703,BikeAnjo,"Experimente uma vida sem trânsito, prática e saudável: use a bicicleta como meio de transporte. O Bike Anjo te ajuda a começar!","O orçamento para projetos anteriores a 24/02/2015 normalmente pode ser encontrado na descrição acima.",17500.0,"<p>Você já reparou que boa parte das bicicletas vivem encostadas e empoeiradas nas garagens das casas e prédios? Todo mundo gosta de ter uma bike, mas pedalar na cidade, no meio da rua, como parte do trânsito, não parece algo tão simples assim. O <em>Bike Anjo surgiu</em> para mostrar que, ao contrário do que somos acostumados a pensar, é sim possível experimentar um novo estilo de vida com o uso da bicicleta como meio de transporte: pedalando sem medo, vivenciando a cidade de forma prática.</p>
+
+<p><em>Bike Anjos são</em> ciclistas experientes e apaixonados pelo seu meio de transporte que ajudam pessoas que querem aprender a andar de bicicleta na cidade com mais segurança.</p>
+
+<p>O <em>projeto Bike Anjo</em> busca intermediar a comunicação entre estes ciclistas experientes dispostos a ajudar e pessoas que querem começar a pedalar. Damos assistência em melhores trajetos para se fazer, acompanhamos o ciclista iniciante em suas primeiras pedaladas, e ensinamos o Bê-a-Bá da bicicleta.
+E tudo isso <em>voluntariamente</em>!</p>
+
+<p><em>Fazemos isso porque</em> acreditamos em uma cidade melhor, com um trânsito mais seguro para as pessoas, por meio da educação e orientação, e mais do que isso, porque nós também já fomos iniciantes e sabemos como é começar a pedalar em uma cidade urbanizada.</p>
+
+<p>O projeto conta com uma plataforma (bikenajo.com.br) onde temos mapeado <em>mais de 250 ciclistas voluntários</em> do projeto em <em>26 cidades do Brasil</em>.</p>
+
+<p>O <em>grande sucesso</em> desta prática está no entendimento dos ciclistas urbanos de que quanto mais bicicletas nas ruas maior a visibilidade para este meio de transporte, de que o ato de pedalar com companhia traz mais segurança, e que uma bicicleta a mais pode significar um carro a menos no trânsito.</p>
+
+<p>E <em>agora queremos mais</em>! Queremos atingir mais pessoas, causar uma diferença em mais e mais cidades. Mostrar que um trânsito mais compartilhado é possível.</p>
+
+<p><em>Para expandir a prática do Bike Anjo</em>, o projeto visa criar um site com um sistema automatizado que estimule e facilite a comunicação entre os Bike Anjos e pessoas que desejam começar a pedalar.</p>
+
+<p>Este sistema automatizado possibilitaria que o projeto pudesse se <em>crescer para outras ações</em>, como elaboração de conteúdo mais detalhado com dicas no site, oficinas e cursos para quem quer começar a pedalar, campanhas de educação com instituições, entre outras ações.</p>
+
+<p>Visite o projeto Bike Anjo: <a class=""alt-link"" href=""http://bikeanjo.com.br"" target=""_blank"">http://bikeanjo.com.br</a></p>
+",bikeanjo,//player.vimeo.com/video/29399799,http://www.vimeo.com/29399799,Socioambiental,4,,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/video_thumbnail/339/project_thumb_thumb_open-uri20131125-2-b2syeh,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/video_thumbnail/339/project_thumb_small_open-uri20131125-2-b2syeh,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/video_thumbnail/339/project_thumb_large_open-uri20131125-2-b2syeh,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/video_thumbnail/339/project_thumb_video_cover_open-uri20131125-2-b2syeh,126.7771428571428600,22186.0,296,280,successful,aon,finished,"2011-10-30 01:59:59","2011-10-29 23:59:59","2011-08-31 01:59:00","2011-08-30 22:59:00",,t,t,f,60,"{""total"" : 0, ""unit"" : ""seconds""}","{""total"" : 60, ""unit"" : ""days""}",3,"{""city"" : ""São Paulo"", ""state_acronym"" : ""SP"", ""state"" : ""São Paulo""}","{""id"" : 24703, ""name"" : ""Bike Anjo""}",0,,f,f,3,f,f,f

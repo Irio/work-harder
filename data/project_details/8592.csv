@@ -1,0 +1,37 @@
+project_id,id,user_id,name,headline,budget,goal,about_html,permalink,video_embed_url,video_url,category_name,category_id,original_image,thumb_image,small_image,large_image,video_cover_image,progress,pledged,total_contributions,total_contributors,state,mode,state_order,expires_at,zone_expires_at,online_date,zone_online_date,sent_to_analysis_at,is_published,is_expired,open_for_contributions,online_days,remaining_time,elapsed_time,posts_count,address,user,reminder_count,is_owner_or_admin,user_signed_in,in_reminder,total_posts,can_request_transfer,is_admin_role,contributed_by_friends
+8592,8592,122022,"Livro Lobotomia e Comunicação","Me ajude a reimprimir meu livro!","O orçamento para projetos anteriores a 24/02/2015 normalmente pode ser encontrado na descrição acima.",2900.0,"<p>O dinheiro arrecadado será utilizado para mandar <strong>reimprimir 100 (cem) exemplares</strong> do livro na Multifoco, editora da obra.  Desses livros, 78 (setenta e oito) serão disponibilizados como recompensa; 22 (vinte e dois) distribuídos para bibliotecas universitárias e públicas.</p>
+
+<p>Custo de impressão: R$ 2,720,00</p>
+
+<p>Custo de postagem -  78 livros (recompensa): R$ 468,00</p>
+
+<p>Custo de postagem - 22 livros (doações à bibliotecas): R$ 132,00</p>
+
+<p>Comissão de 13% Cartase: R$ 431,60</p>
+
+<p><strong>Total do financiamento: R$ 3.751,60</strong></p>
+
+<p>Obs: O preço de venda sugerido pela editora é de R$ 34,00. O autor quando solicita impressão obtém um desconto de 20%. Então, o custo unitário da impressão fica orçado em R$ 27,20  </p>
+
+<p>Detalhes específicos:</p>
+
+<p>TÍTULO: LOBOTOMIA E COMUNICAÇAO
+ISBN: 9788582733998
+IDIOMA: Português
+ENCADERNAÇÃO: Brochura
+FORMATO: 14 x 21
+PÁGINAS: 120
+ANO DE EDIÇÃO: 2013
+EDIÇÃO: 1ª
+EDITORA: MULTIFOCO</p>
+
+<p><em>Sobre o livro:</em>
+A Mídia em debate: Lobotomia e Comunicação é uma analogia que faço entre o procedimento cirúrgico e a construção de sentidos por parte da imprensa comercial.</p>
+
+<p>A sociedade está sofrendo um processo de “lobotomização” a partir do noticiário construído pelos grandes grupos de comunicação? E como a mídia está encarando a nova realidade de qualquer pessoa poder ter uma rádio, um blog e falar o que quiser por meio da internet? O livro do jornalista André Lobão lançado pela editora Multifoco traz artigos e entrevistas sobre as coberturas feitas pela imprensa e como as redes sociais ganharam papel fundamental no processo de disseminação da informação e descentralização do poder. A obra, que surgiu a partir do site de mesmo nome, analisa também como as manifestações que aconteceram no Brasil a partir de  junho/2013, trazem à tona o posicionamento e a relação dos veículos com o Estado. André Lobão traz em seus textos opiniões de pesquisadores da comunicação, globalização e cibercultura como Sylvia Moretzshon, Giuseppe Cocco, Renato Rovai, Bernardo Gutiérrez, entre outros, e referências sobre a era da comunicação veloz, farta e caótica em que vivemos, além de suas próprias impressões. Lobotomia e Comunicação propõe a reflexão sobre nova forma de se fazer e pensar jornalismo.</p>
+
+<p><em>Sobre o autor:</em></p>
+
+<p>André Lobão é jornalista, carioca, formado em 2006, pela Universidade Estácio de Sá – Rio de Janeiro, onde também se especializou (Latu Sensu) em mídias digitais em 2009. Como jornalista coordena o Projeto Radiotube, rede social voltada para comunicadores comunitários. 
+Também é ativista do movimento de Rádios Comunitárias, tendo participado do processo de formação da Rádio Cúpula dos Povos, um coletivo de ONGs e rádios que levou ao ar uma programação radiofônica em uma frequência alternativa e pela web, durante a realização da Cúpula dos Povos na Rio + 20.</p>
+",lobotomiaecomunicacao,,"",Literatura,20,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/8592/livro_2.jpg,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/8592/project_thumb_thumb_livro_2.jpg,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/8592/project_thumb_small_livro_2.jpg,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/8592/project_thumb_large_livro_2.jpg,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/8592/project_thumb_video_cover_livro_2.jpg,2.89655172413793103400,84.0,2,2,failed,aon,finished,"2015-01-09 01:59:59","2015-01-08 23:59:59","2014-11-19 21:36:07.860937","2014-11-19 19:36:07.860937",,t,t,f,50,"{""total"" : 0, ""unit"" : ""seconds""}","{""total"" : 50, ""unit"" : ""days""}",0,"{""city"" : ""Rio de Janeiro"", ""state_acronym"" : ""RJ"", ""state"" : ""Rio de Janeiro""}","{""id"" : 122022, ""name"" : ""André Luiz Almeida de Souza Bezerra Botelho""}",0,,f,f,0,f,f,f

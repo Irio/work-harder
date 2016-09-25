@@ -1,0 +1,18 @@
+project_id,id,user_id,name,headline,budget,goal,about_html,permalink,video_embed_url,video_url,category_name,category_id,original_image,thumb_image,small_image,large_image,video_cover_image,progress,pledged,total_contributions,total_contributors,state,mode,state_order,expires_at,zone_expires_at,online_date,zone_online_date,sent_to_analysis_at,is_published,is_expired,open_for_contributions,online_days,remaining_time,elapsed_time,posts_count,address,user,reminder_count,is_owner_or_admin,user_signed_in,in_reminder,total_posts,can_request_transfer,is_admin_role,contributed_by_friends
+2959,2959,188457,"BIOMED Talks","Ideias que mudam o mundo","O orçamento para projetos anteriores a 24/02/2015 normalmente pode ser encontrado na descrição acima.",5000.0,"<p>O <strong>BIOMEDTalks</strong> é um evento, realizado pelo blog Biomedicina Padrão e Biomédicos, em comemoração ao Dia do Biomédico (20 de novembro), que tem por objetivo reunir estudantes e profissionais da Biomedicina para o compartilhamento de ideias.</p>
+
+<p>São conversas de no máximo 25 minutos, que desafiam os melhores pensadores e profissionais a expor, de forma inspiradora, suas histórias, experiências e conselhos às pessoas presentes.</p>
+
+<p>Nós acreditamos que toda ideia tem poder de mudança de atitudes, de vidas e, consequentemente, do mundo em que vivemos. A Biomedicina conta com centenas de profissionais que fazem a diferença na vida das pessoas e nada melhor do que o Dia do Biomédico para reuni-los com o intuito de compartilhar suas ideias com todos.</p>
+
+<p>E , para que esse encontro seja possível, precisamos do apoio e colaboração de todos. Mesmo sendo um evento sem fins lucrativos, precisamos de patrocínios e dinheiro para fazê-lo acontecer.</p>
+
+<p>Precisamos de dinheiro para:
+Locação do auditório (1 dia), Decoração/Iluminação, Gravação profissional, Gráfica (certificado e crachá), Suplementos (ex.: água, papel) e Domínio do site (anual).</p>
+
+<p>A primeira edição acontecerá no dia 23 de novembro de 2013, das 14h às 18h, em Goiânia – GO. Esperamos que essa seja a primeira de muitas edições que virão.</p>
+
+<p><img src=""https://lh5.googleusercontent.com/-aZDeaRfvLS4/UkQ2cMhQeGI/AAAAAAAABMU/MyPssTQ0Jeg/s640/convidados.png"" alt=""""/></p>
+
+<div class=""video youtube""><iframe width=""600"" height=""403"" src=""//www.youtube.com/embed/jU27_KivAaE?wmode=opaque"" frameborder=""0"" allowfullscreen></iframe></div>
+",biomedtalks,//player.vimeo.com/video/75121271,https://vimeo.com/75121271,Eventos,10,,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/video_thumbnail/2959/project_thumb_thumb_open-uri20131125-2-zy1379,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/video_thumbnail/2959/project_thumb_small_open-uri20131125-2-zy1379,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/video_thumbnail/2959/project_thumb_large_open-uri20131125-2-zy1379,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/video_thumbnail/2959/project_thumb_video_cover_open-uri20131125-2-zy1379,1.80000000000000000000,90.0,4,4,failed,aon,finished,"2013-10-31 01:59:59","2013-10-30 23:59:59","2013-09-25 16:40:37","2013-09-25 13:40:37",,t,t,f,35,"{""total"" : 0, ""unit"" : ""seconds""}","{""total"" : 35, ""unit"" : ""days""}",0,"{""city"" : ""Goiânia"", ""state_acronym"" : ""GO"", ""state"" : ""Goiás""}","{""id"" : 188457, ""name"" : ""Brunno Câmara Lopes Costa""}",0,,f,f,0,f,f,f

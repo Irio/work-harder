@@ -1,0 +1,50 @@
+project_id,id,user_id,name,headline,budget,goal,about_html,permalink,video_embed_url,video_url,category_name,category_id,original_image,thumb_image,small_image,large_image,video_cover_image,progress,pledged,total_contributions,total_contributors,state,mode,state_order,expires_at,zone_expires_at,online_date,zone_online_date,sent_to_analysis_at,is_published,is_expired,open_for_contributions,online_days,remaining_time,elapsed_time,posts_count,address,user,reminder_count,is_owner_or_admin,user_signed_in,in_reminder,total_posts,can_request_transfer,is_admin_role,contributed_by_friends
+38765,38765,612988,"Fakuo - Leitura de Cifras por Foto","Tocar as músicas que você mais gosta no teclado não será um problema com este aplicativo inovador!","<p style=""margin-left: 20px;""><strong>Uso do Fundo Monetário Arrecadado</strong></p><p>Para
+ que o nosso aplicativo seja bem produzido necessitamos da sua ajuda! 
+Gastos dos mais diversos estão incluídos em nossa pauta.</p>  <ul><li>Compra de banners, anúncios virtuais, e gastos com publicidade em geral (arte, publicação na Play store);</li><li>Recompensa para os colaboradores (camisetas);</li><li>Compra e manutenção de equipamentos e produtos, como: pedais, cabos, papéis etc.</li><li> Possíveis Implementações futuras, como: conexão direta do teclado MIDI com o celular, leitura de partituras, etc.</li><li>Gastos com fontes bibliográficas para incorporação de base  no projeto.</li></ul><p><img style=""display: block; margin: auto;"" alt=""Gráfico de gastos"" src=""https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/redactor_rails/picture/data/59837/grafico2.png""></p><ol><li>Recompensas - <strong><em></em>R$ 140,00<em></em></strong> (Camisetas e chaveiros personalizados)</li><li>Equipamentos - <strong><em></em>R$ 110,00<em></em></strong> (1 cabo P10 e 1 pedal Sustain para uso no teclado)**</li><li>Publicação na Play Store - <em><strong></strong></em><strong>R$ 90,00</strong><em><strong></strong></em> (25 USD)*</li><li>Bibliografia - <strong><em></em>R$ 80,00</strong> (Harmonia Funcional - H. J. Koellreutter, Harmonia e Improvisação Vol. 1 - Almir Chediak)**</li><li>Banners - <strong><em></em>R$ 80,00<em></em></strong> (2 banners de 120 X 80 cm)</li><li>Catarse - <strong><em></em>R$ 78,00<em></em></strong> (Taxa de 13% do total) </li></ol><p style=""margin-left: 20px;""><strong>Total - R$ 578,00</strong><br></p><hr><p><strong></strong><strong>*</strong> - <em>25 USD convertidos para o Real, no preço atual do dólar somado ao IOF (29/07)</em><br></p><p><strong>**</strong> - <em>Média de </em><span class=""redactor-invisible-space""><span class=""redactor-invisible-space""><em>preços pesquisados no Mercado Livre, Ponto Frio e Submarino no dia 29/07.</em></span></span></p><p style=""margin-left: 20px;"" rel=""margin-left: 20px;""><strong>Duvidas com o projeto?</strong><strong><em></em></strong></p><p>Mande seus questionamentos e sugestões para <a href=""mailto:mailto:fakuosoftware@gmail.com"">fakuosoftware@gmail.com</a>, e responderemos assim que possível ;) <br></p><p style=""text-align: center;""><strong><em>Agradecemos  o seu interesse e colaboração com o nosso projeto!</em></strong><br></p>",578.0,"<p style=""margin-left: 20px;""><strong>Fakuo, Aplicativo de Processamento de Cifras</strong><br></p><p>O
+ aplicativo Fakuo tem como objetivo auxiliar o aspirante a tecladista na
+ compreensão e execução de músicas de estilo popular, apresentando 
+recursos que facilitem o desenvolvimento de estudantes da maneira mais 
+simples e contundente com as necessidades que se apresentam no dia a 
+dia, como leitura de cifras, abertura de acordes, reconhecimento de 
+funções harmônicas, entre outros. </p><p style=""margin-left: 20px;""><strong>Por que criar este aplicativo?</strong><br></p>  <p>A
+ ideia deste aplicativo emerge da necessidade de sistemas informatizados
+ que trabalhem nessa perspectiva: de que a conciliação entre o prático e
+ o teórico é possível, necessário e, acima de tudo prazeroso para 
+qualquer instrumentista. Infelizmente não existem aplicativos que 
+trabalhem apresentando ao usuário, em uma música qualquer, como esta 
+pode ser tocada e entendida de forma simples e prática. Assim o Fakuo 
+entra em cena para suprir essa deficiência existente na área.</p><p style=""margin-left: 20px;""><strong>Que nome, não?</strong></p><p>Fakuo vem da junção de duas palavras gregas: φοτογραφη (<em>fotografê</em>), que significa ""fotografia"" e ακυο (<em>akuo</em>),
+ que significa ""eu escuto"". Formando ""eu escuto a fotografia"", que se 
+trata de umas das funcionalidades do aplicativo cuja ação é reproduzir 
+áudios referentes às cifras presentes na foto.<br></p><p style=""margin-left: 20px;""><strong>Como isso será realizado?</strong><br></p>  <p>Para
+ isso, o aplicativo, em desenvolvimento para smartphones, receberá fotos
+ de cifras, estas serão passarão por uma análise que tem como objetivo 
+reconhecer os acordes separando-os do texto sobressalente; feito isso, 
+demonstrar como estes podem ser executados, através de diagramas de 
+notas, e como eles devem soar através de áudios pré-carregados; também 
+reconhecer a estrutura harmônica, que nos indicará como a relação entre 
+os acordes acontece, com base em teorias de harmonia funcional; e, por 
+fim, mostrar possíveis substituições aos acordes originais.</p><p>Desta 
+maneira, o aplicativo faz o processamento da música, de forma prática 
+através de uma foto, mostrando como esta pode ser feita no instrumento, e
+ apresentando variações que fornecem ao usuário a possibilidade de 
+desenvolver sua criatividade enquanto intérprete da canção, algo que 
+necessitaria de conhecimentos de harmonia aplicada agora será realizado 
+de forma automatizada pelo sistema.</p><p style=""margin-left: 20px;""><strong>Por que apoiar o nosso projeto?<br></strong></p><p>O
+ nosso aplicativo se trata de algo exclusivo na área em que se apresenta
+ e no que se propõe a fazer, em desenvolvimento para ser <em><strong></strong></em>disponibilizado<em>
+ <strong>gratuitamente</strong></em><strong> </strong><strong>para todos</strong>
+ os que tiverem interesse em utilizá-lo sem 
+nenhum tipo de restrição ou funcionalidades bloqueadas, apoiando os 
+nossos futuros artistas, tanto profissionais quanto amadores, que já tem
+ buscado facilitadores para o seu desenvolvimento  musical. Ao apoiar o 
+nosso projeto você fará parte de uma contribuição para a cultura do 
+nosso país, que tem um grande potencial para gerar novos músicos, além 
+de ajudar os desenvolvedores mirins a concretizar este sonho. </p><p style=""margin-left: 20px;""><strong>Desenvolvimento do Aplicativo</strong><br></p>  <p>O aplicativo será desenvolvido para o sistema Android, utilizando a plataforma <a href=""https://developer.android.com/studio/index.html"">Android Studio</a> para o seu desenvolvimento de código-fonte, <a href=""https://musescore.org/pt-br"">MuseScore</a> para elaboração de arquivos MIDI e <a href=""https://inkscape.org/en/"">Inkscape</a> para design gráfico. </p><p style=""margin-left: 20px;""><strong>Entrega do Projeto</strong><span class=""redactor-invisible-space""><br></span></p><p><span class=""redactor-invisible-space"">O projeto será publicado para download <strong><em>gratuito</em></strong> na <em>Play Store</em>, da <em>Google</em>, após a revisão, testes e ajustes finais (Previsto para meados de Novembro). </span><br></p><p style=""margin-left: 20px;"" rel=""margin-left: 20px;""><strong>Considerações </strong><br></p><p>Para
+
+ dar fundamento teórico do que será feito no aplicativo, já que, embora 
+tenhamos conhecimento do assunto, nenhum de nós tem formação na área, 
+livros dos mais
+ diversos autores de renome na área da música serão usados como fonte de
+ informações, como <em>Almir Chediak</em>, <em>Arnold Schoenberg</em>, <em>Koellreütter</em> etc. Sendo as obras dos estudiosos apresentadas a pedra angular da explanação de harmonia.</p><p><em>E acaba sendo que, se alguém quer ser um  instrumentista de jazz sério, este alguém ensina-se a si mesmo.</em> - <strong>Bill Evans, Um dos maiores pianistas do século XX.</strong> <br></p><hr><p style=""margin-left: 20px;""><strong>Integrantes</strong><br></p><p>Os integrantes deste projeto são: </p><ul><li>Fábio Félix Gonçalves Rosa;</li></ul><ul><li>Guilherme Batista do Nascimento ; e </li></ul><ul><li>Igor Caetano Santos da Silva.</li></ul><p>Todos citados acima são estudantes do curso de Ensino Técnico Integrado ao Médio de Informática pela Escola Técnica da Zona Leste, localizada em São Paulo, capital.</p><hr>",fakuo_leitura_de_cifras_por_foto_2ea9,,,Música,16,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/38765/fakuo.png,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/38765/project_thumb_thumb_fakuo.png,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/38765/project_thumb_small_fakuo.png,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/38765/project_thumb_large_fakuo.png,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/38765/project_thumb_video_cover_fakuo.png,0,0,0,0,online,flex,published,"2016-11-19 01:59:59.999999","2016-11-18 23:59:59.999999","2016-07-31 02:51:33.09303","2016-07-30 23:51:33.09303",,t,f,t,111,"{""total"" : 54, ""unit"" : ""days""}","{""total"" : 56, ""unit"" : ""days""}",0,"{""city"" : ""São Paulo"", ""state_acronym"" : ""SP"", ""state"" : ""São Paulo""}","{""id"" : 612988, ""name"" : ""Igor Caetano""}",0,,f,f,0,f,f,f

@@ -1,0 +1,45 @@
+project_id,id,user_id,name,headline,budget,goal,about_html,permalink,video_embed_url,video_url,category_name,category_id,original_image,thumb_image,small_image,large_image,video_cover_image,progress,pledged,total_contributions,total_contributors,state,mode,state_order,expires_at,zone_expires_at,online_date,zone_online_date,sent_to_analysis_at,is_published,is_expired,open_for_contributions,online_days,remaining_time,elapsed_time,posts_count,address,user,reminder_count,is_owner_or_admin,user_signed_in,in_reminder,total_posts,can_request_transfer,is_admin_role,contributed_by_friends
+6947,6947,23626,"O Pedido de Casamento","Um homem encalhado, uma enérgica jovem e seu pai cansado. Uma farsa russa clássica; com um ""leve"" toque de muita ""palhaçaria""!!","O orçamento para projetos anteriores a 24/02/2015 normalmente pode ser encontrado na descrição acima.",2500.0,"<p>Nós somos o Coletivo Avulsos e temos a honra de convidá-los a ser um Avulso Honorário, nos ajudando nesta campanha para realizar um espetáculo! Estamos à procura de apoiadores. E esperamos que você possa nos ajudar a produzir um belíssimo trabalho artístico. Contamos com seu apoio!!</p>
+
+<p>Recompensas
+Além de contribuir para a viabilização de um espetáculo que possibilitará o acesso a arte para milhares de pessoas, você ainda ganhará recompensas maravilhosas. Confira as recompensas do seu lado direito da tela.
+<em>Todas as recompensas serão entregues na bilheteria.</em></p>
+
+<p>Apoiar é fácil, rápido e seguro!</p>
+
+<p>Como eu faço para apoiar o projeto?
+Basta clicar em uma das cotas do lado direito, fazer um cadastro rápido com email ou Facebook, definir qual o valor que quer colocar no projeto e escolher a forma de pagamento – boleto, cartão de crédito ou PayPal. É tudo 100% seguro e você pode fazer até anonimamente. Você ainda pode tirar todas as suas dúvidas aqui.</p>
+
+<p>Pra quem vai o dinheiro?
+Depois que você faz a sua contribuição, ela vai pro sistema do Catarse, que só vai transferir para o grupo se a meta for alcançada no fim do prazo estipulado. O dinheiro vem pra gente sem intermediários.
+E se a proposta não bater a meta?
+Se não chegarmos ao valor estipulado, você recebe de volta todo o dinheiro que depositou.</p>
+
+<p>Distribuição dos Gastos
+R$ 325,00 = Taxa de 13% do Catarse
+R$ 400,00 = Recompensas
+R$ 425,00 = Divulgação física (Cartazes e panfletos)
+R$ 600,00 = Figurinos
+R$ 750,00 = Trilha (Composição e estúdio para gravação)</p>
+
+<p>E se ultrapassar a meta?
+Nesse caso, poderemos investir mais no espetáculo e no grupo. 
+ 
+Equipe
+Direção:    Rafael Andrade
+Produção: Dani Middleton</p>
+
+<p>Elenco: 
+                 Érica Rodrigues
+                 Caio Lins
+                 Pamela Alves</p>
+
+<p>Para contato, dúvidas, sugestões e parcerias</p>
+
+<p>Facebook
+<a class=""alt-link"" href=""https://www.facebook.com/coletivo.avulsos"" target=""_blank"">https://www.facebook.com/coletivo.avulsos</a>
+E-mail
+<a class=""alt-link"" href=""mailto:coletivo.avulsos@gmail.com"" target=""_blank"">coletivo.avulsos@gmail.com</a></p>
+
+<p>Junte-se a nós!</p>
+",opedidodecasamento,//www.youtube.com/embed/X6A0UiqrTu8,http://youtu.be/X6A0UiqrTu8,"Teatro e Dança",19,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/6947/Nome.jpg,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/6947/project_thumb_thumb_Nome.jpg,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/6947/project_thumb_small_Nome.jpg,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/6947/project_thumb_large_Nome.jpg,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/6947/project_thumb_video_cover_Nome.jpg,107.4000000000000000,2685.0,32,29,successful,aon,finished,"2014-11-03 01:59:59","2014-11-02 23:59:59","2014-10-03 03:00:22.929584","2014-10-03 00:00:22.929584",,t,t,f,30,"{""total"" : 0, ""unit"" : ""seconds""}","{""total"" : 30, ""unit"" : ""days""}",0,"{""city"" : ""Rio de Janeiro"", ""state_acronym"" : ""RJ"", ""state"" : ""Rio de Janeiro""}","{""id"" : 23626, ""name"" : ""Rafael Andrade Souto""}",1,,f,f,0,f,f,f

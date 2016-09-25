@@ -1,0 +1,44 @@
+project_id,id,user_id,name,headline,budget,goal,about_html,permalink,video_embed_url,video_url,category_name,category_id,original_image,thumb_image,small_image,large_image,video_cover_image,progress,pledged,total_contributions,total_contributors,state,mode,state_order,expires_at,zone_expires_at,online_date,zone_online_date,sent_to_analysis_at,is_published,is_expired,open_for_contributions,online_days,remaining_time,elapsed_time,posts_count,address,user,reminder_count,is_owner_or_admin,user_signed_in,in_reminder,total_posts,can_request_transfer,is_admin_role,contributed_by_friends
+164,164,7329,"Canção pra Não Voltar ","entre outras coisas, vamos brincar com samples da música original do radiohead. essa vai ser uma música bem “de estúdio”.","O orçamento para projetos anteriores a 24/02/2015 normalmente pode ser encontrado na descrição acima.",4000.0,"<p>Escute essa música no youtube:
+<div class=""video youtube""><iframe width=""600"" height=""403"" src=""//www.youtube.com/embed/kTS64qgHuIo?wmode=opaque"" frameborder=""0"" allowfullscreen></iframe></div></p>
+
+<p>Se você quiser contribuir para que esta música entre no CD d’A Banda Mais Bonita da Cidade, clique ali no canto direito em &quot;Quero apoiar esse projeto&quot;!</p>
+
+<p>Canção pra Não Voltar (Leo Fressato)</p>
+
+<p>Não volte pra casa meu amor que aqui é triste
+Não volte pro mundo onde você não existe
+Não volte mais
+Não olhe pra trás
+Mas não se esqueça de mim não
+Não em lembre que o sol nasce no leste e no oeste morre depois
+O que acontece é triste demais
+Pra quem não sabe viver pra quem não sabe amar</p>
+
+<p>Não volte pra casa meu amor que a casa é triste
+Desde que você partiu aqui nada existe
+Então não adianta voltar
+Acabou o seu tempo acabou o seu mar acabou seu dia
+Acabou, acabou</p>
+
+<p>Não volte pra casa meu amor que aqui é triste
+Vá voar com o vento que só lá você existe
+Não esqueça que não sei mais nada
+Nada de você
+Não me espere porque eu não volto logo
+Não nade porque eu me afogo
+Não voe porque eu caio do ar
+Não sei flutuar nas nuvens como você
+Você não vai entender
+Que eu não sei voar
+Eu não sei mais nada</p>
+
+<p>Dó com baixo em dó
+Sol com baixo em si
+Lá com baixo em lá
+Lá com baixo em sol
+Fá com baixo em fá
+Fá com baixo em fá sustenido
+Sol com baixo em sol
+Sol com lá bemol</p>
+",cancao-pra-nao-voltar,//player.vimeo.com/video/24396486,http://vimeo.com/24396486,Música,16,,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/video_thumbnail/164/project_thumb_thumb_open-uri20131125-2-s4d3o5,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/video_thumbnail/164/project_thumb_small_open-uri20131125-2-s4d3o5,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/video_thumbnail/164/project_thumb_large_open-uri20131125-2-s4d3o5,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/video_thumbnail/164/project_thumb_video_cover_open-uri20131125-2-s4d3o5,117.0250000000000000,4681.0,126,123,successful,aon,finished,"2011-07-02 02:59:59","2011-07-01 23:59:59","2011-05-03 02:59:59","2011-05-02 23:59:59",,t,t,f,60,"{""total"" : 0, ""unit"" : ""seconds""}","{""total"" : 60, ""unit"" : ""days""}",0,"{""city"" : ""Curitiba"", ""state_acronym"" : ""PR"", ""state"" : ""Paraná""}","{""id"" : 7329, ""name"" : ""Joao Caserta""}",0,,f,f,0,f,f,f

@@ -1,0 +1,53 @@
+project_id,id,user_id,name,headline,budget,goal,about_html,permalink,video_embed_url,video_url,category_name,category_id,original_image,thumb_image,small_image,large_image,video_cover_image,progress,pledged,total_contributions,total_contributors,state,mode,state_order,expires_at,zone_expires_at,online_date,zone_online_date,sent_to_analysis_at,is_published,is_expired,open_for_contributions,online_days,remaining_time,elapsed_time,posts_count,address,user,reminder_count,is_owner_or_admin,user_signed_in,in_reminder,total_posts,can_request_transfer,is_admin_role,contributed_by_friends
+6324,6324,295262,"Aprenda a programar (começando do zero)","Curso completo para aprender a programar - disponilibilizado através de vídeo-aulas, desde o básico até aulas mais avançadas.","O orçamento para projetos anteriores a 24/02/2015 normalmente pode ser encontrado na descrição acima.",15000.0,"<p>Sou programador com mais de 10 anos de experiência, trabalhei em grandes empresas no Brasil e atualmente trabalho no exterior. Já realizei palestras em vários eventos de programação, lightning talks em várias empresas e também apresentações através da plataforma Eventials. Possuo vários <a class=""alt-link"" target=""_blank"" href=""https://github.com/lucascaton/"">projetos open-source</a> e sempre gostei de ensinar e compartilhar meus conhecimentos através de <a class=""alt-link"" target=""_blank"" href=""http://www.youtube.com/playlist?list=PLz4HUyGp2Iyk4tANWisKz4JfVXF8JzivN"">meus vídeos</a> e através do <a class=""alt-link"" target=""_blank"" href=""http://blog.lucascaton.com.br/."">meu blog</a> E agora acredito que chegou o momento de tornar isso algo profissional.</p>
+
+<p><em>Curso</em></p>
+
+<p>Depois de ver uma quantidade enorme de cursos e tutoriais ensinando de forma incompleta, decidi criar um curso que pudesse ensinar àqueles que não tem a menor idéia de onde começar. O foco desse curso será desenvolvimento web, mas você conseguirá não apenas criar softwares, mas entender como funciona a criação dos diferentes tipos de software e ainda como uma equipe composta de diferentes profissionais trabalha em conjunto e de forma organizada.</p>
+
+<p>O curso será criado e disponibilizado através de vídeo-aulas (os vídeos poderão ser baixados), separadas por módulos (listados abaixo) que vão desde o básico até aulas mais avançadas. Todas as aulas incluirão um arquivo PDF com o resumo do conteúdo apresentado. Um grupo de discussões (Google Groups) também será criado para dúvidas e demais discussões relevantes.</p>
+
+<ul>
+<li>Introdução à programação (o que é um Software e como ele é criado)</li>
+<li>Diferentes áreas para se trabalhar e como um time trabalha de forma organizada</li>
+<li>Linguagem de programação Ruby</li>
+<li>Versionamento de código com Git</li>
+<li>Banco de dados</li>
+<li>Básico sobre redes</li>
+<li>Aplicações web (entenda o que é protocolo HTTP, HTML, Javascript, CSS, MVC, ORM e mais)</li>
+<li>Criando aplicações web com Rails (incluindo autenticação de usuários, upload de arquivos, integração com Facebook, envio de emails, exportação de dados para CSV ou Excel, criação de buscas e muito mais). A idéia nesse tópico é criar uma aplicação real mostrando vários conceitos bacanas do Rails, sendo que na maioria deles será utilizado TDD / BDD.</li>
+<li>Processamento de tarefas em background</li>
+<li>Criação de testes automatizados para sua aplicação</li>
+<li>O que é e como criar uma API que poderá será utilizado por uma aplicação externa ou uma aplicação mobile (Android, iOS, entre outros)</li>
+<li>Configuração completa de um servidor, começando do zero (utilizando vários softwares, como Ubuntu Linux, PostegreSQL, MySQL, Nginx, Unicorn, Monit, entre outros)</li>
+<li>Deploy (como colocar sua aplicação em produção)</li>
+</ul>
+
+<p><em>Não deixe de ver também os vídeos abaixo</em></p>
+
+<p>Setor de Tecnologia da Informação oferece 276 mil vagas:</p>
+
+<div class=""video youtube""><iframe width=""600"" height=""403"" src=""//www.youtube.com/embed/3jg7Vfp88E4?wmode=opaque"" frameborder=""0"" allowfullscreen></iframe></div>
+
+<p>The Hour of Code is here (vídeo em inglês):</p>
+
+<div class=""video youtube""><iframe width=""600"" height=""403"" src=""//www.youtube.com/embed/FC5FbmsH4fw?wmode=opaque"" frameborder=""0"" allowfullscreen></iframe></div>
+
+<p>A área de desenvolvimento de software e de TI em geral já é o <a class=""alt-link"" target=""_blank"" href=""http://www1.folha.uol.com.br/mercado/2013/07/1305304-setor-de-ti-liderou-geracao-de-vagas-entre-profissionais-com-ensino-superior.shtml."">setor responsável pelo maior crescimento de vagas do país</a></p>
+
+<p><em>Transparência Financeira</em></p>
+
+<p>O valor de R$ 15000 não é somente para a criação do material. Além da preparação do conteúdo, tem a gravação das aulas, a edição dos vídeos (a edição é de qualidade e isso toma bastante tempo), a produção dos arquivos PDFs e ainda a taxa do Catarse, que é de 13%. Abaixo você encontra mais detalhes sobre esses items:</p>
+
+<p>Produção do curso - preparação do conteúdo e gravação das aulas (R$ 8.000)
+Produção dos arquivos PDFs (R$ 1.325)
+Edição dos vídeos (R$ 3.950)
+Taxa Catarse - 13% (R$ 1.725)
+Total (R$ 15.000)</p>
+
+<p>Existe muitos tutorias separados, mas não na forma de um curso que apresente conteúdo que comece do básico (pra quem nunca programou na vida) e ainda apresente conteúdos mais avançadas. Tudo isso leva tempo e esse valor não é aleatório. Ele foi calculado com base no tempo que será gasto para produzir o curso. Outro ponto é que o valor mínimo para apoiar o projeto é R$ 30, ou seja, valor bastante acessível. Eu diria que é quase impossível achar um curso completo de qualidade por esse valor. E quando eu estava negociando com o pessoal do Catarse para aprovação do projeto, eles deixam bem claro que não é possível alterar a meta uma vez que o projeto vai ao ar, então o cálculo foi feito de forma que não me prejudicasse e que eu não me arrependesse de assumir esse compromisso também. Sem contar que eu terei um prazo pra finalizar o curso e disponibilizar os vídeos e materiais em PDFs.</p>
+
+<p><em>Como apoiar?</em></p>
+
+<p>Para poder realizar esse projeto estou usando o “sistema de financiamento coletivo” pelo site Catarse. Esse é um sistema onde quem tem interesse pelo projeto pode comprar o material antecipadamente e com isso ajudar a financiar a produção dele. Ah, e se por acaso a meta não for atingida, o próprio Catarse devolve o dinheiro de vocês. Ou seja, não tem perigo nenhum para os compradores!</p>
+",aprendaaprogramar,//www.youtube.com/embed/8t3cdywzB_w,http://youtu.be/8t3cdywzB_w,Educação,31,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/6324/aprenda_a_programar.png,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/6324/project_thumb_thumb_aprenda_a_programar.png,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/6324/project_thumb_small_aprenda_a_programar.png,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/6324/project_thumb_large_aprenda_a_programar.png,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/6324/project_thumb_video_cover_aprenda_a_programar.png,16.00000000000000000000,2400.0,48,48,failed,aon,finished,"2014-09-28 02:59:59","2014-09-27 23:59:59","2014-07-29 16:20:40.42852","2014-07-29 13:20:40.42852",,t,t,f,60,"{""total"" : 0, ""unit"" : ""seconds""}","{""total"" : 60, ""unit"" : ""days""}",2,"{""city"" : ""São Paulo"", ""state_acronym"" : ""SP"", ""state"" : ""São Paulo""}","{""id"" : 295262, ""name"" : ""Lucas Caton""}",1,,f,f,2,f,f,f

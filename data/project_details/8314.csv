@@ -1,0 +1,39 @@
+project_id,id,user_id,name,headline,budget,goal,about_html,permalink,video_embed_url,video_url,category_name,category_id,original_image,thumb_image,small_image,large_image,video_cover_image,progress,pledged,total_contributions,total_contributors,state,mode,state_order,expires_at,zone_expires_at,online_date,zone_online_date,sent_to_analysis_at,is_published,is_expired,open_for_contributions,online_days,remaining_time,elapsed_time,posts_count,address,user,reminder_count,is_owner_or_admin,user_signed_in,in_reminder,total_posts,can_request_transfer,is_admin_role,contributed_by_friends
+8314,8314,357389,"Aplicativo de Mobilidade Urbana - MOBBUS","Mobbus - O jeito divertido de andar de ônibus e conhecer lugares","O orçamento para projetos anteriores a 24/02/2015 normalmente pode ser encontrado na descrição acima.",25000.0,"<p><img src=""http://i.imgur.com/lLrskDb.jpg"" alt=""""/></p>
+
+<p>Mobbus é um aplicativo para smartphone de mobilidade urbana, a fim de facilitar a rotina dos usuários que utilizam o transporte publico nas cidades proporcionando segurança e comodidade no que se refere à economia de tempo e sua gestão e organização pessoal. O aplicativo estará disponível para as duas principais plataformas móbiles: Android e iOS.</p>
+
+<p>Nosso intuito no momento é divulgar para o Brasil esta acessibilidade para a sociedade, na qual contem as rotas dos ônibus em tempo real, guia comercial inteligente e ferramentas de acessibilidade para deficientes visuais e deficientes físicos.
+O MOBBUS é um aplicativo, rápido e de fácil acesso que possibilitará ao usuário rastrear em tempo real a rota de seu ônibus em cidades e pontos específicos, possibilitando ao usuário ver o trajeto do ônibus, rua em que está, velocidade, distância, e o tempo estimado para chegar.
+Basta abrir o aplicativo onde já ira aparecerá uma barra de pesquisa solicitando a escrita da linha de ônibus desejado. Assim que a pesquisa for concretizada o ônibus solicitado aparecerá no mapa abaixo da barra de pesquisa.</p>
+
+<p><img src=""http://i.imgur.com/nCeIo3E.jpg"" alt=""""/></p>
+
+<p>O MOBBUS conta com outra ferramenta que possibilita o acesso a um guia comercial completo, contendo lojas, restaurantes estabelecimentos em geral cadastrados no sistema.
+- Basta clicar no menu “Guia Comercial” e selecionar a categoria de pesquisa desejada: Alimentação, serviços públicos, lojas, diversão, empresas e etc...
+- Aparecerão em seguida no mapa de localização os lugares próximos referente à categoria escolhida;
+- Clicando no estabelecimento, aparecerão as informações gerais como: cardápio, endereço, horário, formas de pagamento, reservas, e-mails, traçar rotas até o local desejado e etc. </p>
+
+<p><img src=""http://i.imgur.com/8L2rbJz.jpg"" alt=""""/></p>
+
+<ul>
+<li>Também no aplicativo você conta com a opção “Telefones Úteis”, possibilitando ao usuário acessar um guia da cidade contendo as informações úteis como hospitais, escolas, delegacias, entre outros. </li>
+</ul>
+
+<p>A versão beta do Mobbus deverá ser lançada até dezembro de 2014. Curta nossa página no facebook e mantenha-se atualizado sobre as novidades! <a class=""alt-link"" href=""http://www.facebook.com/mobbus"" target=""_blank"">www.facebook.com/mobbus</a></p>
+
+<p>Os recursos arrecadados através do Catarse servirão para que o projeto possa produzir e divulgar o material de publicidade para as cidades mais próximas.
+Sendo um parceiro Mobbus é uma oportunidade também de divulgação para empresas podendo coloca-las no Guia Comercial Inteligente, para assim promover uma perspectiva de um futuro melhor para a sociedade.
+<img src=""http://i.imgur.com/Dx0Q0jk.jpg"" alt=""""/></p>
+
+<p>Confira nossas recompensas. Você poderá ser um dos primeiros a conhecer o app, e sua empresa ou a organização que você representa poderão ser divulgados como apoiadores e como guia comercial dessa grande mobilidade urbana, além de ter a possibilidade de divulgação em mídia nacional!
+<img src=""http://i.imgur.com/87G989q.jpg"" alt=""""/></p>
+
+<p>O aplicativo foi lançado na cidade de Gravataí no dia 16 de outubro para os empresários e autoridades locais, mas estamos em tramite para a liberação dos dados GPS dos ônibus, pois o aplicativo necessita dos IPs de rastreamento dos Ônibus para que possamos colocar no banco de dados do aplicativo.</p>
+
+<div class=""video youtube""><iframe width=""600"" height=""403"" src=""//www.youtube.com/embed/yulrUsT3Vck?wmode=opaque"" frameborder=""0"" allowfullscreen></iframe></div>
+
+<p>Confira abaixo o orçamento com detalhamento dos custos deste projeto:
+<img src=""http://i.imgur.com/N0WEwHg.png"" alt=""""/>
+<img src=""http://i.imgur.com/8gflPfi.png"" alt=""""/></p>
+",mobbus,//www.youtube.com/embed/UpSWt8w78Ws,http://www.youtube.com/watch?v=UpSWt8w78Ws&list=UUbN0Uq476_yqhp6wJoQzW8Q,Socioambiental,4,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/8314/mobbussss.jpg,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/8314/project_thumb_thumb_mobbussss.jpg,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/8314/project_thumb_small_mobbussss.jpg,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/8314/project_thumb_large_mobbussss.jpg,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/8314/project_thumb_video_cover_mobbussss.jpg,0,0,0,0,failed,aon,finished,"2014-12-18 01:59:59","2014-12-17 23:59:59","2014-11-07 17:46:08.204702","2014-11-07 15:46:08.204702",,t,t,f,40,"{""total"" : 0, ""unit"" : ""seconds""}","{""total"" : 40, ""unit"" : ""days""}",1,"{""city"" : ""Gravataí"", ""state_acronym"" : ""RS"", ""state"" : ""Rio Grande do Sul""}","{""id"" : 357389, ""name"" : ""Alexsandro Wildner de Jesus""}",0,,f,f,1,f,f,f

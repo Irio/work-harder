@@ -1,0 +1,56 @@
+project_id,id,user_id,name,headline,budget,goal,about_html,permalink,video_embed_url,video_url,category_name,category_id,original_image,thumb_image,small_image,large_image,video_cover_image,progress,pledged,total_contributions,total_contributors,state,mode,state_order,expires_at,zone_expires_at,online_date,zone_online_date,sent_to_analysis_at,is_published,is_expired,open_for_contributions,online_days,remaining_time,elapsed_time,posts_count,address,user,reminder_count,is_owner_or_admin,user_signed_in,in_reminder,total_posts,can_request_transfer,is_admin_role,contributed_by_friends
+1972,1972,149029,"Puro Malte Clube","Quer degustar uma cerveja artesanal/premium? Quer aprender ao beber? O Puro Malte Clube chegou para fornecer informação e cerveja boa!","O orçamento para projetos anteriores a 24/02/2015 normalmente pode ser encontrado na descrição acima.",1000.0,"<p><strong>De Onde Veio o Puro Malte ?</strong>
+O Puro Malte Clube surgiu (no papel) durante uma aula da Planejamento de Negócios na faculdade PUC-RIO. Levamos como brincadeira por um tempo, mas agora, é para valer. Está na hora de fazer acontecer e contamos com você para isso.</p>
+
+<p><strong>Nossa Equipe:</strong>
+Nossa sociedade é formada por 2 engenheiros de produção e um desenvolvedor. Todos, é claro, apaixonados por cerveja, estudantes da PUC-RIO e com gás suficiente para tirar este projeto do papel.</p>
+
+<p><strong>Nosso Modelo de Negócio/Serviço:</strong>
+O Puro Malte Clube vem com o compromisso de oferecer opções mensais de kits de cervejas premium/artesanais para nossos assinantes. Trabalharemos com 2 a 6 Modelos Diferentes de Assinaturas ( resultando em cervejas diferentes em cada kit). </p>
+
+<p>Nós somos apaixonados por cerveja e sabemos que &quot;beber por beber&quot; não tem tanta graça. Pensando neste problema chegamos a conclusão de que todos os kits recebidos precisam ter informativos sobre oque você está bebendo (País de origem, cervejas parecidas, oque comer para acompanhar esta cerveja entre outras informações).</p>
+
+<p><strong>Todo mês haverão kits diferentes para os mais variados gostos e bolsos</strong></p>
+
+<p><strong>Utilização do Catarse:</strong>
+Nosso objetivo aqui no Catarse é validar nosso conceito, nossa idéia, nosso negócio. Estipulamos um valor de R$ 1.000 em colaborações ( faixas de benefícios abaixo) como sendo um valor suficiente para nós levarmos o Puro Malte Clube a diante.</p>
+
+<p>Caso nós consigamos R$ 1.000 em colaborações, nos damos por satisfeitos/convencidos de que há público suficiente e, logo, tiraremos o Puro Malte Clube do papel. </p>
+
+<p><strong>Faixas de Benefícios:</strong>
+R$10+ : Obrigado por acreditar em nós, prometemos ser seu parceiro de bar.</p>
+
+<p>R$20+ : Uma cerveja artesanal/Premium brasileira com um informativo
+detalhado sobre a  cerveja recebida + uma carta de agradecimento
+assinada pelo nosso time</p>
+
+<p>R$30+ : Uma cerveja artesanal/Premium internacional, com um
+informativo detalhado sobre a cerveja recebida + uma carta de
+agradecimento assinada pelo nosso time</p>
+
+<p>R$40+ : Duas cervejas artesanal/Premium brasileiras com um informativo
+detalhado sobre as cerveja recebidas + uma carta de agradecimento
+assinada pelo nosso time</p>
+
+<p>R$50+ : Duas cervejas artesanal/Premium internacionais com um
+informativo detalhado sobre as cervejas recebidas + uma carta de
+agradecimento assinada pelo nosso time</p>
+
+<p>R$60+ : Duas cervejas artesanal/Premium internacionais + uma
+brasileira com um informativo detalhado sobre as  cervejas recebidas +
+uma carta de agradecimento assinada pelo nosso time</p>
+
+<p>R$70+ : Duas cervejas artesanal/Premium internacionais + duas
+brasileiras com um informativo detalhado sobre as  cervejas recebidas
++ uma carta de agradecimento assinada pelo nosso time</p>
+
+<p>R$100: Três cervejas artesanal/Premium internacionais + três
+brasileiras com um informativo detalhado sobre as  cervejas recebidas
++ uma carta de agradecimento assinada pelo nosso time.</p>
+
+<p><strong>Contatos:</strong>
+Qualquer dúvida, entrar em contato : 
+<strong>Email:</strong> <a class=""alt-link"" href=""mailto:puro.malte.clube@gmail.com"" target=""_blank"">puro.malte.clube@gmail.com</a>
+<strong>Facebook Page:</strong> <a class=""alt-link"" href=""https://www.facebook.com/PuroMalteClube"" target=""_blank"">https://www.facebook.com/PuroMalteClube</a>
+<strong>Feed do Catarse:</strong> Comentários, críticas e perguntas são mais do que bem vindas.</p>
+",PuroMalteClube,//player.vimeo.com/video/65837269,http://vimeo.com/65837269,Gastronomia,12,,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/video_thumbnail/1972/project_thumb_thumb_open-uri20131125-2-cav1gj,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/video_thumbnail/1972/project_thumb_small_open-uri20131125-2-cav1gj,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/video_thumbnail/1972/project_thumb_large_open-uri20131125-2-cav1gj,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/video_thumbnail/1972/project_thumb_video_cover_open-uri20131125-2-cav1gj,106.0000000000000000,1060.0,12,12,successful,aon,finished,"2013-06-11 02:59:59","2013-06-10 23:59:59","2013-05-27 18:58:50","2013-05-27 15:58:50",,t,t,f,14,"{""total"" : 0, ""unit"" : ""seconds""}","{""total"" : 14, ""unit"" : ""days""}",3,"{""city"" : ""Rio de Janeiro"", ""state_acronym"" : ""RJ"", ""state"" : ""Rio de Janeiro""}","{""id"" : 149029, ""name"" : ""Puro Malte Clube""}",0,,f,f,3,f,f,f

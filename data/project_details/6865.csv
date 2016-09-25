@@ -1,0 +1,25 @@
+project_id,id,user_id,name,headline,budget,goal,about_html,permalink,video_embed_url,video_url,category_name,category_id,original_image,thumb_image,small_image,large_image,video_cover_image,progress,pledged,total_contributions,total_contributors,state,mode,state_order,expires_at,zone_expires_at,online_date,zone_online_date,sent_to_analysis_at,is_published,is_expired,open_for_contributions,online_days,remaining_time,elapsed_time,posts_count,address,user,reminder_count,is_owner_or_admin,user_signed_in,in_reminder,total_posts,can_request_transfer,is_admin_role,contributed_by_friends
+6865,6865,319979,"GRAD no TechCrunch Disrupt","Vamos para o um dos maiores eventos Nos ajude a alavancar este projeto!","O orçamento para projetos anteriores a 24/02/2015 normalmente pode ser encontrado na descrição acima.",3200.0,"<p>O Grad é uma plataforma web que ajuda os formandos a gerenciar formaturas. Somos uma startup e fomos selecionados no processo seletivo da APEX BRASIL, agencia que promove produtos e serviços brasileiros no exterior com o objetivo de atrair investidores. Nós vamos para a TechCrunch Disrupt, um dos eventos mais importantes do mundo da tecnologia que ocorrerá no Vale do Silício (São Francisco, Califórnia) para apresentar nossa ideia a inúmeros investidores.</p>
+
+<p>Até aí tudo lindo, o problema é que só ganhamos as passagens de avião. Estadia, transporte local, alimentação, passaporte e visto são por nossa conta. Como a empresa ainda é um embrião, não temos fundos para arcar com as despesas, logo, precisamos da sua ajuda! Ficaremos por 10 dias na Califórnia-EUA. </p>
+
+<p>O nosso objetivo é de não somente estar presente em um dos maiores eventos de tecnologia do mundo a fim de bons contatos e investimento, como também expor a inovação gerada no Espírito Santo e fortificar a imagem do ecossistema empreendedor do Brasil.</p>
+
+<p>Vamos para representar, no mínimo, muito bem.    </p>
+
+<p><strong>Notícias:</strong>
+- <a class=""alt-link"" target=""_blank"" href=""http://gazetaonline.globo.com/_conteudo/2014/08/noticias/cidades/1494210-oito-startups-capixabas-vao-apresentar-projetos-em-evento-no-vale-do-silicio-na-california.html"">Oito startups capixabas vão apresentar projetos em evento no Vale do Silício, na Califórnia</a></p>
+
+<ul>
+<li><a class=""alt-link"" target=""_blank"" href=""http://www.soues.com.br/plus/modulos/noticias/ler.php?cdnoticia=1406&amp"">Startup capixaba ajuda estudantes a organizar formaturas</a>;categoria=2&amp;nocache=1408134152</li>
+</ul>
+
+<p><strong>Orçamento:</strong>
+GRU passaporte........R$156.07
+GRU emergência.......  R$202.48
+GRU visto.................R$365.00
+Passagem SP/RJ......    R$200.00
+Hospedagem ............R$900.00
+Passagens locais......  R$160.00
+Comida.....................R$800.00</p>
+",grad,//www.youtube.com/embed/y0fyEuudMh8,https://www.youtube.com/watch?v=y0fyEuudMh8,"Ciência e Tecnologia",18,,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/video_thumbnail/6865/project_thumb_thumb_open-uri20140813-2-1gbkvlq,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/video_thumbnail/6865/project_thumb_small_open-uri20140813-2-1gbkvlq,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/video_thumbnail/6865/project_thumb_large_open-uri20140813-2-1gbkvlq,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/video_thumbnail/6865/project_thumb_video_cover_open-uri20140813-2-1gbkvlq,0,0,0,0,failed,aon,finished,"2014-09-13 02:59:59","2014-09-12 23:59:59","2014-08-25 21:40:00.380413","2014-08-25 18:40:00.380413",,t,t,f,18,"{""total"" : 0, ""unit"" : ""seconds""}","{""total"" : 18, ""unit"" : ""days""}",0,"{""city"" : ""Serra"", ""state_acronym"" : ""ES"", ""state"" : ""Espírito Santo""}","{""id"" : 319979, ""name"" : ""Felipe da Silva Rodrigues""}",0,,f,f,0,f,f,f

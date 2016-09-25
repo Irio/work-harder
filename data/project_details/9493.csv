@@ -1,0 +1,121 @@
+project_id,id,user_id,name,headline,budget,goal,about_html,permalink,video_embed_url,video_url,category_name,category_id,original_image,thumb_image,small_image,large_image,video_cover_image,progress,pledged,total_contributions,total_contributors,state,mode,state_order,expires_at,zone_expires_at,online_date,zone_online_date,sent_to_analysis_at,is_published,is_expired,open_for_contributions,online_days,remaining_time,elapsed_time,posts_count,address,user,reminder_count,is_owner_or_admin,user_signed_in,in_reminder,total_posts,can_request_transfer,is_admin_role,contributed_by_friends
+9493,9493,350431,"Osciloscópio para Áudio","Osciloscópio USB! Áudio, Automobilística e eletrônica!
+ Visualize os sinais de seu circuito! 
+Projeto 100% brasileiro!","O orçamento para projetos anteriores a 24/02/2015 normalmente pode ser encontrado na descrição acima.",5000.0,"<p><img src=""http://www.eletronpi.com.br/images/catarse/titulo.png"" alt=""""/></p>
+
+<p>Este projeto é 100% brasileiro!</p>
+
+<p><img src=""http://www.eletronpi.com.br/images/catarse/duvida1.png"" alt=""""/></p>
+
+<p>Se você curte eletrônica, não pode ficar sem este osciloscópio!</p>
+
+<p><img src=""http://www.eletronpi.com.br/images/catarse/scopi300big.png"" alt=""""/></p>
+
+<p><img src=""http://www.eletronpi.com.br/images/catarse/pontas.png"" alt=""""/></p>
+
+<p><img src=""http://www.eletronpi.com.br/images/catarse/arduino1.png"" alt=""""/></p>
+
+<p><img src=""http://www.eletronpi.com.br/images/catarse/circuito.png"" alt=""""/></p>
+
+<p><img src=""http://www.eletronpi.com.br/images/catarse/carsound1.png"" alt=""""/></p>
+
+<p>Você agora vai contar com esta <strong>ferramenta</strong> para te auxiliar em seus projetos <strong>eletrônicos</strong> !.</p>
+
+<p>O scopePi300 é um equipamento de <strong>baixo custo</strong> mas com <strong>desempenho de equipamentos de classe superior!</strong></p>
+
+<p>Nós do eletronPi prezamos pela <strong>qualidade do projeto</strong>! Nosso osciloscópio apresenta o <strong>melhor custo benefício do mercado!</strong>, mesmo comparado com equipamentos importados.</p>
+
+<p>Além disto <strong>você</strong> ajuda a desenvolver a <strong>tecnologia nacional!</strong></p>
+
+<p>Analise seus circuitos, visualize sinais, verifique frequências e distorções!</p>
+
+<p>Conecte ao seu <strong>tablet</strong>, <strong>PC</strong> ou <strong>NoteBook</strong>:</p>
+
+<p><img src=""http://www.eletronpi.com.br/images/catarse/tablet1.png"" alt=""""/></p>
+
+<p><img src=""http://www.eletronpi.com.br/images/catarse/carac.png"" alt=""""/></p>
+
+<p>Visualize sinais entre <strong>20mV /div</strong> até <strong>50V/div</strong> (ponta x 10).</p>
+
+<p><strong>Cursores</strong> para medir <strong>tensão</strong>, <strong>tempo</strong> e <strong>frequência</strong>.</p>
+
+<p><img src=""http://www.eletronpi.com.br/images/catarse/tef.png"" alt=""""/></p>
+
+<p><img src=""http://www.eletronpi.com.br/images/catarse/scopetela.png"" alt=""""/></p>
+
+<p><img src=""http://www.eletronpi.com.br/images/catarse/scopetelafft.png"" alt=""""/></p>
+
+<p><strong>Como Funciona:</strong></p>
+
+<p>O scopePi300 trabalha conectado a uma porta USB de um computador, notebook, ou tablet. Não é necessário outra fonte de tensão, pois a própria porta USB alimenta o osciloscópio.</p>
+
+<p>No computador, um aplicativo desenvolvido pelo eletronPi, transforma seu monitor na tela do osciloscópio, com todas as funções mais comuns para este tipo de equipamento.</p>
+
+<p><strong>Aplicações:</strong></p>
+
+<p>O scopePi300 pode ser utilizado em todas as medições onde a visualização do sinal elétrico é necessária:</p>
+
+<p><em>Verificação de circuitos eletrônicos em geral;</em></p>
+
+<p><em>Análise de distorção de sinais;</em></p>
+
+<p><em>Verificação da atenuação e perda de frequências em circuitos;</em></p>
+
+<p><em>Verificação do desempenho de circuitos de áudio;</em></p>
+
+<p><em>Verificação da qualidade de som automotivo;</em></p>
+
+<p><em>Análise de harmônicas;</em></p>
+
+<p><strong>Som Automotivo</strong></p>
+
+<p>Aqui no Catarse nós estamos divulgando uma versão especial do scopePi300 especificamente para você que trabalha com som automotivo. Você poderá escolher o Kit scopePi300 + CD de teste + microfone especial. Você coloca o CD no CD player do carro e ajusta o som no volume normal de audição. O scopePi300 vai captar o som pelo microfone especial (posicionado no lugar da cabeça do motorista) e analisar todas as distorções detectadas. Tem alto-falante mal fixado? Alto-falante rasgado ou mal dimensionado? Placa solta? A resposta em frequência está legal? O CD player é de boa qualidade?</p>
+
+<p>O scopePi300 vai te ajudar a descobrir todas estas questões!</p>
+
+<p><strong>Estado atual do Projeto:</strong></p>
+
+<p>O scopePi300 está em fase de projeto. Nós já testamos as principais funções do osciloscópio, utilizando placas separadas, projetadas anteriormente pelo eletronPi, para outras aplicações, mas com recursos semelhantes (veja abaixo). A interface de software, mostrada acima foi desenvolvida em Visual Basic Express Edition e também já está testada.</p>
+
+<p>Agora precisamos juntar as funcionalidades de hardware numa única placa e desenvolver a interface de atualização do firmware, via internet.</p>
+
+<p><img src=""http://www.eletronpi.com.br/images/catarse/boards.png"" alt=""""/></p>
+
+<p><img src=""http://www.eletronpi.com.br/images/catarse/vbtela.png"" alt=""""/></p>
+
+<p><strong>Cronograma</strong></p>
+
+<p>01/04/2015: Final da Campanha Catarse;</p>
+
+<p>01/04/2015: Início da fabricação do lote de PCB;</p>
+
+<p>01/04/2015: Compra de componentes para lote inicial (recompensas);</p>
+
+<p>20/04/2015: Início de testes com placas definitivas;</p>
+
+<p>10/05/2015: Montagem do lote inicial (recompensas);</p>
+
+<p>01/06/2015: Início do envio das peças de Recompensas;</p>
+
+<p><strong>Recompensas</strong></p>
+
+<p><img src=""http://www.eletronpi.com.br/images/catarse/recompensas3.png"" alt=""""/></p>
+
+<p><strong>Porque Precisamos de Sua Ajuda?</strong></p>
+
+<p>Nós acreditamos que o scopePi300 é um instrumento muito útil para estudantes e profissionais. Mas os custos de desenvolvimento são elevados. Verificamos também que um lote mínimo de 30 peças viabiliza o projeto e fabricação do scopePi300. Assim todos que tem interesse no equipamento podem apoiar e viabilizar o projeto!</p>
+
+<p><strong>Como os Recursos Serão Gastos?</strong></p>
+
+<p><img src=""http://www.eletronpi.com.br/images/catarse/graphic.png"" alt=""""/></p>
+
+<p><strong>Quem Somos?</strong></p>
+
+<p>O eletronPi é um site de divulgação de informações e tecnologias na área de eletrônica. Acreditamos que não basta divulgar mas é importante desenvolver tecnologias. </p>
+
+<p>Mantemos um curso de eletrônica gratuito e atualizamos o site com novas informações frequentemente.</p>
+
+<p>Conheça o eletronPi aqui:</p>
+
+<p><a class=""alt-link"" href=""http://www.eletronpi.com.br"" target=""_blank"">http://www.eletronpi.com.br</a></p>
+",audioscope,,"","Ciência e Tecnologia",18,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/9493/scopecard3.png,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/9493/project_thumb_thumb_scopecard3.png,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/9493/project_thumb_small_scopecard3.png,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/9493/project_thumb_large_scopecard3.png,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/9493/project_thumb_video_cover_scopecard3.png,31.10000000000000000000,1555.0,13,13,failed,aon,finished,"2015-03-30 02:59:59","2015-03-29 23:59:59","2015-01-26 02:00:37.583312","2015-01-26 00:00:37.583312",,t,t,f,62,"{""total"" : 0, ""unit"" : ""seconds""}","{""total"" : 63, ""unit"" : ""days""}",2,"{""city"" : ""Cajamar"", ""state_acronym"" : ""SP"", ""state"" : ""São Paulo""}","{""id"" : 350431, ""name"" : ""E2pro Engenharia Eletrônica Ltda""}",1,,f,f,2,f,f,f

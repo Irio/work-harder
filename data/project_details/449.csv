@@ -1,0 +1,24 @@
+project_id,id,user_id,name,headline,budget,goal,about_html,permalink,video_embed_url,video_url,category_name,category_id,original_image,thumb_image,small_image,large_image,video_cover_image,progress,pledged,total_contributions,total_contributors,state,mode,state_order,expires_at,zone_expires_at,online_date,zone_online_date,sent_to_analysis_at,is_published,is_expired,open_for_contributions,online_days,remaining_time,elapsed_time,posts_count,address,user,reminder_count,is_owner_or_admin,user_signed_in,in_reminder,total_posts,can_request_transfer,is_admin_role,contributed_by_friends
+449,449,30024,"Amigo não se Compra","Se voce acha que todo animal de rua merece um lar de verdade, faça parte desse projeto.","O orçamento para projetos anteriores a 24/02/2015 normalmente pode ser encontrado na descrição acima.",13500.0,"<p><em>O Amigo não se Compra</em>
+O Amigo não se Compra será um site onde ONGs e protetores poderão divulgar cães e gatos para adoção. </p>
+
+<p><em>Como vai funcionar</em>
+ONGs e protetores vão poder se cadastrar gratuitamente e divulgar os animais. Com isso, pessoas que estão interessadas em ter um novo bichinho vão entrar no site e procurar um que tenha a ver com o perfil dele. Quando acharem aquele especial, elas clicam em &quot;quero adotar&quot; e pronto, é só combinar com a ONG como buscar o mais novo membro da família.</p>
+
+<p><em>O site terá</em>:</p>
+
+<p>• Cadastro gratuito para ONGs e protetores de animais
+• Espaço para publicação de cães e gatos com foto e informações sobre o temperamento e estado de saúde do bicho
+• Busca detalhada por cidade, espécie, porte e sexo do animal, pra garantir que cada pessoa encontre um amigo com o seu perfil
+• Canal de denúncia para garantir que não haja venda de animais através do site (afinal, é um site de adoção)
+• Dicas para adotar com consciência e cuidar do novo amigo</p>
+
+<p><em>O que já temos</em>
+Já temos o planejamento de todas as funcionalidades do site, o layout (que está uma graça), uma logomarca supercativante e centenas de pessoas que curtiram nossa ideia no Facebook!</p>
+
+<p><em>O que ainda precisamos</em>
+Só falta agora desenvolver os mecanismos do site – e pra garantir que ele realmente estimule a adoção de animais precisamos de recursos avançados. Encontramos programadores muito competentes que farão o site com todos os recursos que precisamos, mas isso tem um custo. Por isso, o valor arrecadado será para pagar a programação, a divulgação do site, as taxas do Catarse, a produção do guia do animal de estimação e as outras recompensas.</p>
+
+<p><em>Agora é com você!</em>
+Pra ajudar os animais abandonados a conseguirem um lar, escolha sua recompensa ao lado e apoie o projeto. Não se esqueça de divulgar o Amigo não se Compra entre seus amigos, pra que mais e mais pessoas conheçam e apoiem o projeto!</p>
+",amigo-nao-se-compra,//player.vimeo.com/video/32267627,http://vimeo.com/32267627,Socioambiental,4,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/449/Thumbnail_Catarse.png,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/449/project_thumb_thumb_Thumbnail_Catarse.png,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/449/project_thumb_small_Thumbnail_Catarse.png,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/449/project_thumb_large_Thumbnail_Catarse.png,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/449/project_thumb_video_cover_Thumbnail_Catarse.png,102.96296296296296296300,13900.0,127,118,successful,aon,finished,"2012-02-01 01:59:59","2012-01-31 23:59:59","2011-12-03 01:59:59","2011-12-02 23:59:59",,t,t,f,60,"{""total"" : 0, ""unit"" : ""seconds""}","{""total"" : 60, ""unit"" : ""days""}",7,"{""city"" : ""Rio de Janeiro"", ""state_acronym"" : ""RJ"", ""state"" : ""Rio de Janeiro""}","{""id"" : 30024, ""name"" : ""Natalia Kelbert Gornattes""}",0,,f,f,7,f,f,f

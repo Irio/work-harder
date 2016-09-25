@@ -1,0 +1,22 @@
+project_id,id,user_id,name,headline,budget,goal,about_html,permalink,video_embed_url,video_url,category_name,category_id,original_image,thumb_image,small_image,large_image,video_cover_image,progress,pledged,total_contributions,total_contributors,state,mode,state_order,expires_at,zone_expires_at,online_date,zone_online_date,sent_to_analysis_at,is_published,is_expired,open_for_contributions,online_days,remaining_time,elapsed_time,posts_count,address,user,reminder_count,is_owner_or_admin,user_signed_in,in_reminder,total_posts,can_request_transfer,is_admin_role,contributed_by_friends
+7919,7919,348266,"IPêrformático - 1° Encontro de Performance de Campo Grande MS","Contribua para deixar Campo Grande IPêrformática! de 12 a 15 de novembro de 2014","O orçamento para projetos anteriores a 24/02/2015 normalmente pode ser encontrado na descrição acima.",9900.0,"<p>O IPêrformático será realizado nos dias 12 a 15 de novembro em Campo Grande, Mato Grosso do Sul e é produzido por artistas sul-matogrossenses independentes. O nome do encontro dialoga com nome da árvore “Ipê”, nativa brasileira e muito presente nas terras sul-matogrossenses; com o prefixo “hiper” que significa em excesso; e com “IP”, o número de identificação do computador, do local de contato, conexão. Para essa primeira edição do encontro, tem-se como tema “No princípio era nada”.</p>
+
+<p>A proposta de realização do encontro pretende difundir a linguagem da performance entre as artes no estado e estreitar relações de diálogo entre as produções artísticas e performáticas de artistas locais e de outros estados. </p>
+
+<p>Essa primeira edição do encontro não possui recursos financeiros. Toda a produção tem sido realizada por meio de apoios públicos e privados, bem como parcerias de amigos e instituições. Além disso, estamos participando de um financiamento coletivo pelo Crowdfunding para agregar recursos ao evento.</p>
+
+<p>Ajuda de custo para performers: R$ 2.400
+Catálogo A4, 30 pg papel couchet:  R$ 1.645,00
+Fotografia e envio: R$ 500,00
+produção de dvd: R$ 380,00
+catarse: R$ 1.200,00
+Produção evento : R$ 1.275,00
+Estadia de performer e alimentação: R$ 1.500,00
+Transporte: aluguel e gasolina : R$ 1.000,00</p>
+
+<p>Quem realiza o encontro?</p>
+
+<p>CARIN LOURO <a class=""alt-link"" href=""https://www.facebook.com/carinlouro"" target=""_blank"">https://www.facebook.com/carinlouro</a>
+JH YURA  <a class=""alt-link"" href=""https://www.facebook.com/jh.yura"" target=""_blank"">https://www.facebook.com/jh.yura</a>
+THIAGO MORAES  <a class=""alt-link"" href=""https://www.facebook.com/thethimoraes"" target=""_blank"">https://www.facebook.com/thethimoraes</a></p>
+",iperformatico,//www.youtube.com/embed/AYdgqkPLLmI,https://www.youtube.com/watch?v=AYdgqkPLLmI&feature=youtu.be,Artes,1,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/7919/catarse01.Quadro001.jpg,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/7919/project_thumb_thumb_catarse01.Quadro001.jpg,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/7919/project_thumb_small_catarse01.Quadro001.jpg,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/7919/project_thumb_large_catarse01.Quadro001.jpg,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/7919/project_thumb_video_cover_catarse01.Quadro001.jpg,0.30303030303030303000,30.0,2,2,failed,aon,finished,"2014-11-11 01:59:59","2014-11-10 23:59:59","2014-10-15 11:00:03.631026","2014-10-15 08:00:03.631026",,t,t,f,26,"{""total"" : 0, ""unit"" : ""seconds""}","{""total"" : 26, ""unit"" : ""days""}",0,"{""city"" : ""Campo Grande"", ""state_acronym"" : ""MS"", ""state"" : ""Mato Grosso do Sul""}","{""id"" : 348266, ""name"" : ""Thiago Silva de Moraes""}",0,,f,f,0,f,f,f

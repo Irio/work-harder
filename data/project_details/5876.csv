@@ -1,0 +1,63 @@
+project_id,id,user_id,name,headline,budget,goal,about_html,permalink,video_embed_url,video_url,category_name,category_id,original_image,thumb_image,small_image,large_image,video_cover_image,progress,pledged,total_contributions,total_contributors,state,mode,state_order,expires_at,zone_expires_at,online_date,zone_online_date,sent_to_analysis_at,is_published,is_expired,open_for_contributions,online_days,remaining_time,elapsed_time,posts_count,address,user,reminder_count,is_owner_or_admin,user_signed_in,in_reminder,total_posts,can_request_transfer,is_admin_role,contributed_by_friends
+5876,5876,141693,"Votar Acordado","Gostaria de ter em um só lugar as informações sobre todos os candidatos às eleições 2014? Nós também!","O orçamento para projetos anteriores a 24/02/2015 normalmente pode ser encontrado na descrição acima.",31414.0,"<p><strong>Nossa proposta vai além de uma ferramenta para o voto. Queremos tornar a política algo mais leve e fácil de acompanhar. Acreditamos que com isso as pessoas participarão mais e os avanços virão por consequência.</strong></p>
+
+<p>As manifestações recentes tiveram um importante papel para o brasileiro. Porém, é preciso seguir em frente. Acreditamos que a melhor forma de construir uma sociedade que se sinta representada é criando uma identidade entre políticos e eleitores, para que propostas e ações não sejam esquecidas antes das próximas eleições.</p>
+
+<p>Para isso, traremos as informações do Tribunal Superior Eleitoral, Twitter e Facebook, as cruzando com sites dos partidos e de dados abertos para fornecer uma lista completa dos candidatos, possibilitando um voto mais consciente e um acompanhamento durante os mandatos. Um esboço de como essas informações aparecerão segue abaixo:</p>
+
+<p><img src=""http://www.votaracordado.com.br/img/esquema11.jpg"" alt=""""/></p>
+
+<p>Os pilares para essa plataforma serão transparência e qualidade. </p>
+
+<p><img src=""http://www.votaracordado.com.br/img/transp.jpg"" alt=""""/></p>
+
+<p>Criar uma plataforma em código aberto é a melhor forma de trazer transparência ao projeto. Assim, o código será disponibilizado para que desenvolvedores possam validar e principalmente colaborar com sua evolução.</p>
+
+<p>Além disso, os critérios de exibição de dados e candidatos serão baseados em regras automatizadas, que se aplicarão para todos estes candidatos, sem exceções. Garantindo assim uma plataforma apartidária.</p>
+
+<p><img src=""http://www.votaracordado.com.br/img/qual.jpg"" alt=""""/></p>
+
+<p>A qualidade da plataforma se baseia nas tecnologias utilizadas e na equipe.</p>
+
+<p><strong>Tecnologias:</strong></p>
+
+<p><strong>Mobile:</strong> O mundo dos smartphones está levando a internet a pessoas e lugares onde ela nunca esteve, o que abre espaço para um novo cenário social. Por isso, a plataforma será preparada para dispositivos móveis.</p>
+
+<p><strong>Nuvem:</strong> Os serviços atuais (Nerds, estamos falando do EC2 da Amazon) fornecem uma maneira barata e adaptável de se entregar uma plataforma como esta para todo o Brasil, com velocidade.</p>
+
+<p><strong>Github:</strong> Para dar transparência à plataforma, buscando com que desenvolvedores possam validar e colaborar em sua evolução, disponibilizaremos o código (Repositório GitHub) oficial do projeto, adotando a filosofia do código aberto.</p>
+
+<p><strong>APIs Facebook/Twitter:</strong> Queremos usar as redes sociais existentes para criar um ambiente de comunicação. Com essa dupla, possibilitamos que candidatos e eleitores falem o que pensam. As mensagens de maior repercussão serão consolidadas e trocadas entre ambos.</p>
+
+<p><strong>Equipe</strong> </p>
+
+<p><strong><a class=""alt-link"" target=""_blank"" href=""https://www.twitter.com/emanuelpiza"">Emanuel Piza</a> -</strong> Formou-se em Análise de Sistemas pela USP São Carlos, quando teve sua primeira experiência empreendedora. Criou com a ajuda de colegas o maior site de fotografias da região. Em seguida, morou por dois anos em São Paulo, trabalhando em consultoria gerencial em uma grande multinacional e, em paralelo, aprofundando seus conhecimentos em tecnologia e empreendedorismo, tanto pelo <a class=""alt-link"" target=""_blank"" href=""https://www.coursera.org/course/startup"">Coursera</a> quanto pelo <a class=""alt-link"" target=""_blank"" href=""http://www.meetup.com/BRNewTech."">BRNewTech</a> Optou então por voltar para Campinas-SP, sua cidade natal, na oportunidade de se reaproximar de seus familiares e amigos e de aplicar melhor suas ideias no mundo que o cerca.</p>
+
+<p><em>&quot;A melhor maneira de conseguir com que as pessoas votem de forma consciente é criando as ferramentas para tal. Isso não é uma tarefa fácil, mas com as tecnologias de hoje, já é possível.&quot;</em> </p>
+
+<p><strong><a class=""alt-link"" target=""_blank"" href=""https://www.twitter.com/maahfragoas"">Maria Fragoas</a> -</strong> Estudante de Administração Pública na Fundação Getúlio Vargas, apaixonada por política, Direito e tecnologia. Paulistana que já morou pelo Brasil todo, de família campineira e que atualmente reside em São Paulo por causa dos estudos.</p>
+
+<p><em>“A solução para o problema que encontramos depois que o Gigante Acordou é a informação. Acreditamos que com o Votar Acordado, poderemos suprir essa necessidade dos brasileiros”</em> </p>
+
+<p><strong>Você -</strong> Se interessou pela ideia? Além de doar e compartilhar, você pode ajudar fazendo parte da equipe. Precisamos unir nossos esforços se quisermos chegar mais longe! Se você tem domínio nas tecnologias acima, em marketing digital ou acredita que pode contribuir de alguma outra forma, mande um email para <a class=""alt-link"" href=""mailto:contato@votaracordado.com.br"" target=""_blank"">contato@votaracordado.com.br</a> :)</p>
+
+<p><img src=""http://www.votaracordado.com.br/img/recompensas2.jpg"" alt=""""/></p>
+
+<p>Queremos reconhecer todo o apoio e confiança recebidos. Para isso, as recompensas se empilharão de acordo com a sua doação. Veja ao lado os prêmios para os que ajudarem. Abaixo, segue nossa camiseta de lançamento.</p>
+
+<p><img src=""http://www.votaracordado.com.br/img/camisetass.jpg"" alt=""""/></p>
+
+<p><strong>Estimativa de gastos:</strong></p>
+
+<p>Construção da plataforma (Logo + Layout + Desenvolvimento): R$ 11.800,00 
+Hospedagem (24 meses: AWS + GApps + Registro): R$ 3.800,00
+Vídeo de divulgação (Produção + Drone + Trilha Sonora): R$ 4.200,00
+Divulgação + Acessoria de Imprensa: R$ 5.000,00
+Brindes: R$ 3.000,00
+Taxa Catarse (13%) : R$ 3.614,00 
+TOTAL: R$ 31.414,00</p>
+
+<p><img src=""http://www.votaracordado.com.br/img/inf_social.jpg"" alt=""""/></p>
+
+<p>Quer acompanhar mais de perto? Curta nossa <a class=""alt-link"" target=""_blank"" href=""http://www.facebook.com/VotarAcordado."">página no Facebook</a> A evolução do nosso governo está nas nossas mãos. Contribua, compartilhe e <strong>faça parte.</strong></p>
+",VotarAcordado,//player.vimeo.com/video/99305301,https://vimeo.com/99305301,Socioambiental,4,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/5876/logo_v1.png,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/5876/project_thumb_thumb_logo_v1.png,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/5876/project_thumb_small_logo_v1.png,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/5876/project_thumb_large_logo_v1.png,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/5876/project_thumb_video_cover_logo_v1.png,15.29572801935442796200,4805.0,44,40,failed,aon,finished,"2014-07-29 02:59:59","2014-07-28 23:59:59","2014-06-27 03:00:07.290548","2014-06-27 00:00:07.290548",,t,t,f,31,"{""total"" : 0, ""unit"" : ""seconds""}","{""total"" : 31, ""unit"" : ""days""}",3,"{""city"" : ""Campinas"", ""state_acronym"" : ""SP"", ""state"" : ""São Paulo""}","{""id"" : 141693, ""name"" : ""Emanuel Thales Lara Piza""}",0,,f,f,3,f,f,f

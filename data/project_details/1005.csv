@@ -1,0 +1,112 @@
+project_id,id,user_id,name,headline,budget,goal,about_html,permalink,video_embed_url,video_url,category_name,category_id,original_image,thumb_image,small_image,large_image,video_cover_image,progress,pledged,total_contributions,total_contributors,state,mode,state_order,expires_at,zone_expires_at,online_date,zone_online_date,sent_to_analysis_at,is_published,is_expired,open_for_contributions,online_days,remaining_time,elapsed_time,posts_count,address,user,reminder_count,is_owner_or_admin,user_signed_in,in_reminder,total_posts,can_request_transfer,is_admin_role,contributed_by_friends
+1005,1005,85895,"Keep Of Indra","Aventure-se nos labirintos de uma torre inversa, fonte de toda a magia do mundo, em busca de respostas para restaurá-la.","O orçamento para projetos anteriores a 24/02/2015 normalmente pode ser encontrado na descrição acima.",9769.0,"<p>h1. <em>Atualização #1 Novos Gráficos e Camisetas</em>: <a class=""alt-link"" href=""http://catarse.me/pt/koi#updates"" target=""_blank"">http://catarse.me/pt/koi#updates</a></p>
+
+<p>Nós da <strong>Miris Studio</strong> somos apaixonados por jogos. E mais do que isso, apaixonados por fazê-los.</p>
+
+<p>Somos formados em Jogos Digitais pelo Senac e acreditamos que a indústria brasileira de jogos tem um grande potencial e queremos mostrar que podemos fazer jogos com conteúdo e qualidade apesar das dificuldades e falta de incentivo.</p>
+
+<p>Nosso projeto é o <strong>Keep of Indra</strong>, um jogo inicialmente direcionado à dispositivos móveis (celulares e tablets).</p>
+
+<p><img src=""http://2.bp.blogspot.com/-y218C-jNqmo/UGG2PCqCr1I/AAAAAAAAE0g/yAUbfsi4Iuw/s1600/Hist%C3%B3ria.png"" alt=""""/></p>
+
+<p>??Você jogará como um aprendiz de mago, que vive em um mundo unido pela magia.??
+??Esta magia é canalizada em uma grande torre, dentro de uma montanha. Um dia a magia acaba e um aprendiz de mago decide procurar esta torre.??
+??Ao encontrá-la ele começa a descer e, no caminho, encontra diversos monstros e armadilhas. Alguns dos monstros, quando derrotados, dão ao personagem habilidades que o ajudam a continuar descendo. E, ao longo da descida, o jogador deve decidir quais habilidades usar em cada fase.??</p>
+
+<p><img src=""http://1.bp.blogspot.com/-19AlaS4aFD0/UGG2OcqS3bI/AAAAAAAAE0Y/IjYipZdwAjo/s1600/Estrutura.png"" alt=""""/></p>
+
+<p>As fases serão divididas em seções, que correspondem à partes da torre. Cada seção tem sua própria temática, com inimigos e ambientes característicos. Desse modo, cada seção apresentará um ou mais inimigos que poderão aparecer daquela parte do jogo em diante.</p>
+
+<p><img src=""http://4.bp.blogspot.com/-GyrFukdFQYo/UGG7MbM4IWI/AAAAAAAAE1c/pV7m46rqoPc/s1600/1_Small.png"" alt=""""/></p>
+
+<p>Para garantir que o jogo seja disponibilizado mais rapidamente e possamos melhorá-lo em tempo de produção, ele será dividido em pacotes (Packs) de seções que serão lançados separadamente. Assim, enquanto trabalhamos em um Pack, podemos ter o feedback do anterior e lançar o próximo com melhorias e correções.</p>
+
+<p><img src=""http://3.bp.blogspot.com/-1C890brLxhQ/UGG7N5o04XI/AAAAAAAAE1k/CLAhV5IrrmU/s1600/2_SMall.png"" alt=""""/></p>
+
+<p><img src=""http://4.bp.blogspot.com/-SPh61ppDhKU/UGG2Mle0F4I/AAAAAAAAE0I/e8xLRk1CTh8/s1600/Achievements.png"" alt=""""/></p>
+
+<p>Após o lançamento da primeira versão (Free), adicionaremos um sistema em que você poderá desbloquear <strong>Achievements</strong> (Conquistas) com determinadas combinações de ações.
+Cada Achievement o recompensará com uma quantidade de <strong>Orbs</strong>, que além de recuperarem os usos das habilidades durante o jogo, funcionarão como moeda para comprar os Upgrades.
+Os <strong>Upgrades</strong> (ou Melhorias) variam desde aumentar a potência da habilidade e seu limite de usos na fase, até a quantidade de habilidades que você pode escolher para usar nas fases.</p>
+
+<p>h3. <strong>“O dinheiro arrecadado é só para produzir o projeto?”</strong></p>
+
+<p>Uma parte do dinheiro será usado para arcar com os custos dos prêmios. A outra parte será usada para pagar os custos do projeto. Muitos criadores de projetos esquecem desses gastos e depois que conseguem o dinheiro lembram que tem que usar parte do dinheiro para pagar os prêmios e no fim acabam com uma quantia insuficiente pra conseguir terminar o projeto. No nosso caso tudo está calculado (inclusive uma taxa de 7,5% que o Catarse cobra) para conseguirmos pagar por todos os prêmios que estamos oferencendo e no fim termos dinheiro suficiente pra fazer o projeto. Infelizmente não pudemos incorporar o frete no valor do prêmio pois esse valor pode variar muito e entregas mais próximas seriam prejudicadas com a valores muito altos.
+A parte destinada ao pagamento do projeto cobre, basicamente, gastos com transporte e alimentação da equipe durante os meses de produção.</p>
+
+<p>!imageurl!:<img src=""http://4.bp.blogspot.com/-Sbl0Qq8t5fw/UGG2SCWqBfI/AAAAAAAAE1A/FyRq3b7jUO4/s1600/O+que+J%C3%A1+Fizemos.png"" alt=""""/></p>
+
+<ul>
+<li>Arte de duas seções;</li>
+<li>4 inimigos;</li>
+<li>6 habilidades;</li>
+<li>Pathfinding e movimentação;</li>
+<li>Além de um sistema de criação de fases.</li>
+</ul>
+
+<p><img src=""http://2.bp.blogspot.com/-HoTLXOqn3Es/UGG8UzuqC9I/AAAAAAAAE10/Sp7GXx6Zrak/s1600/concept_rhino_Small.jpg"" alt=""""/></p>
+
+<p><img src=""http://3.bp.blogspot.com/-mjUQeS9LW0k/UGG8UDH6iEI/AAAAAAAAE1s/eok5HJ7n7t4/s1600/concept_ca%C3%A7ador_Small.jpg"" alt=""""/></p>
+
+<p>h3. <strong>Criador de Fases</strong></p>
+
+<p>Para a criação dos leveis é preciso primeiro criar uma imagem que mostra como a fase será. Depois disso é preciso transcrevê-la para código. São quase <strong>2000</strong> números e letras que definem como apenas uma fase será, e transcrever 70 fases na mão levaria <strong>mais de 12 horas</strong> escrevendo sem parar e sem errar se quer uma vez.
+Com o novo sistema podemos fazer isso em apenas <strong>6 minutos</strong> e com a garantia de que não haverá nenhum erro.</p>
+
+<p>Em outras palavras, criar fases agora é extremamente rápido. E isso libera tempo para que os Level Designers aprimorem cada uma delas, entregando uma experiência melhor para os jogadores.</p>
+
+<p>h3. <strong>“O que garantem do projeto se conseguirem o mínimo? Ou mais? Ou menos?”</strong></p>
+
+<p><img src=""http://2.bp.blogspot.com/-oiRY9wG0gcU/UGG2Rgv72FI/AAAAAAAAE04/_1y7t_r8tpE/s1600/M%C3%ADnimo.png"" alt=""""/></p>
+
+<p>Se o projeto conseguir arrecadar o dinheiro mínimo podemos garantir o seguinte:</p>
+
+<ul>
+<li>Versão Free com lançamento em Novembro, 2012;</li>
+<li>Primeiro Pack garantido (Lançamento no começo de 2013).</li>
+<li>Total de 4 seções que incluem aproximadamente 70 fases, 15 tipos de inimigos e 9 habilidades.</li>
+<li>Trabalho full time (das 13:00 às 22:30).</li>
+<li>Equipe muito feliz! =D</li>
+</ul>
+
+<p><img src=""http://4.bp.blogspot.com/-U3LsNLmQFU0/UGG2P5B3mTI/AAAAAAAAE0o/XUGvVmhkYqs/s1600/Mais.png"" alt=""""/></p>
+
+<p>Dividimos a arrecadação em metas e conforme formos atingindo essas metas, podemos garantir que mais coisas legais serão incluídas no jogo. Os Packs serão disponibilizados por um preço, com cada Pack contendo um adicional de aproximadamente 40 fases (2 seções), 14 inimigos e 4 habilidades. Para os que adquirirem qualquer um dos prêmios aqui no Catarse, todos os Packs serão disponibilizados de graça conforme forem lançados.
+Com todos os Packs, o jogo contará com aproximadamente 200 fases, mais de 20 habilidades, quase 50 Inimigos, além de contar com um sistema de Achievements (tanto gerais quanto específicos de cada fase) e Upgrades para todas as Habilidades.
+Abaixo você encontra as nossas metas, junto com o que podemos garantir se arrecadarmos a quantia.</p>
+
+<p><img src=""http://1.bp.blogspot.com/-xlwKqUCM4MI/UGS11Aot7AI/AAAAAAAAE5s/Zl7hOArRT0U/s320/Gr%C3%A1fico.png"" alt=""""/></p>
+
+<p><img src=""http://1.bp.blogspot.com/-H13ezomaf3Q/UGG2QkkyHyI/AAAAAAAAE0w/OwjWekAkR38/s1600/Menos.png"" alt=""""/></p>
+
+<p>Caso no final do período de arrecadação não alcancemos o mínimo, além, de ficarmos tristes =(, a campanha falhará e não receberemos nada do dinheiro, assim como não teremos como produzir vários dos prêmios e nem como enviar à todos que colaboraram com a arrecadação.
+Nesse caso teremos que tentar levar o projeto por conta própria. O progresso será bem mais lento, pois acabaremos trabalhando remotamente, e a versão free não existirá, sendo lançada com menos conteúdo do que gostaríamos e somente em 2013, sem previsão para nenhum dos Packs, pois dependerão somente de quão bem o jogo se sair nas vendas.</p>
+
+<p>Durante o período de arrecadação vamos acrescentar opções de modelos para as miniaturas assim como estaremos abertos às sugestões de prêmios que vocês tiverem. Caso seja bem legal e nós possamos fazer, pode ter certeza que tentaremos colocá-la como uma opção.</p>
+
+<p>h3. <strong>“E enquanto a arrecadação acontece vocês ficarão de pernas pro ar esperando o dinheiro?”</strong></p>
+
+<p>Claro que não! Além de continuar trabalhando no projeto, vamos disponibilizar atualizações e novidades do projeto na página do Catarse, no <a class=""alt-link"" target=""_blank"" href=""http://www.pt.mirisstudio.com/""><strong>Blog</strong></a>, <a class=""alt-link"" target=""_blank"" href=""https://www.facebook.com/MirisStudio""><strong>Facebook</strong></a>, <a class=""alt-link"" target=""_blank"" href=""http://gplus.to/MirisStudio""><strong>Google+</strong></a> e <a class=""alt-link"" target=""_blank"" href=""http://www.twitter.com/Mirisstudio""><strong>Twitter</strong></a> pra que vocês fiquem por dentro do que estamos fazendo e possam opinar e dar suas sugestões.</p>
+
+<p><img src=""http://1.bp.blogspot.com/-P_o0Z1mw_EY/UGG2S0KIKpI/AAAAAAAAE1I/fCyG4Tka2Jw/s1600/O+que+falta+Fazer.png"" alt=""""/></p>
+
+<p>Para termos a versão do lançamento (Free) e o primeiro Pack precisamos fazer o seguinte:
+* Criar + 23 Inimigos;
+* Implementar + 3 Habilidades;
+* Criar a arte de outras 2 seções;
+* Implementar o Sistema de Upgrades;
+* Criar a arte e terminar a HUD (a Interface do jogo);
+* Sistema de Orbs;
+* Criar Menus;
+* Criar as 70 primeiras fases;</p>
+
+<p>h3. <strong>&quot;Tenho uma dúvida que não está esclarecida aqui. E agora? &#39;Comofas&#39;&quot;?</strong></p>
+
+<p>É só postar um comentário aqui no Catarse usando o Facebook. Se preferir tem também nosso email: <a class=""alt-link"" href=""mailto:miris@mirisstudio.com"" target=""_blank"">miris@mirisstudio.com</a>
+Ficaremos felizes com seu contato e vamos tentar esclarecer sua dúvida o quanto antes, ok?</p>
+
+<p>Acho que é isso. Se você gostou, é só nos ajudar!
+Seja contribuindo com algum valor ou divulgando pros amigos por Facebook, Twitter, email ou pessoalmente (&amp;amp;amp;amp;amp;lt;- nosso favorito).
+<a class=""alt-link"" target=""_blank"" href=""https://www.facebook.com/MirisStudio"">Aqui</a> tem a nossa página no Facebook, caso você queira deixar o seu <a class=""alt-link"" target=""_blank"" href=""http://www.twitter.com/Mirisstudio"">like&quot; e o nosso &quot;Twitter</a>
+De qualquer maneira, <strong>muito obrigado</strong> pela atenção =)</p>
+",koi,//player.vimeo.com/video/50238027,http://vimeo.com/50238027,Jogos,14,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/1005/Thumbnail.png,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/1005/project_thumb_thumb_Thumbnail.png,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/1005/project_thumb_small_Thumbnail.png,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/1005/project_thumb_large_Thumbnail.png,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/1005/project_thumb_video_cover_Thumbnail.png,5.70170948920053229600,557.0,9,9,failed,aon,finished,"2012-11-02 01:59:59","2012-11-01 23:59:59","2012-09-03 01:59:00","2012-09-02 22:59:00",,t,t,f,60,"{""total"" : 0, ""unit"" : ""seconds""}","{""total"" : 60, ""unit"" : ""days""}",3,"{""city"" : ""São Paulo"", ""state_acronym"" : ""SP"", ""state"" : ""São Paulo""}","{""id"" : 85895, ""name"" : ""Miris Studio""}",0,,f,f,3,f,f,f

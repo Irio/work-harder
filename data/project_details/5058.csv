@@ -1,0 +1,41 @@
+project_id,id,user_id,name,headline,budget,goal,about_html,permalink,video_embed_url,video_url,category_name,category_id,original_image,thumb_image,small_image,large_image,video_cover_image,progress,pledged,total_contributions,total_contributors,state,mode,state_order,expires_at,zone_expires_at,online_date,zone_online_date,sent_to_analysis_at,is_published,is_expired,open_for_contributions,online_days,remaining_time,elapsed_time,posts_count,address,user,reminder_count,is_owner_or_admin,user_signed_in,in_reminder,total_posts,can_request_transfer,is_admin_role,contributed_by_friends
+5058,5058,55662,"Os Viajantes - Musical","Teatro infanto-juvenil, feito por crianças e adolescentes do Espaço Cultural Vamos Fazer Artes. Venha fazer parte dessa viagem inesquecível!","O orçamento para projetos anteriores a 24/02/2015 normalmente pode ser encontrado na descrição acima.",3500.0,"<p>O espetáculo “Os Viajantes” é um musical infanto-juvenil, interpretada por crianças e adolescentes que durante alguns meses tiveram aulas de teatro, dança e música, com o objetivo de aperfeiçoar as técnicas do teatro musical. Reunindo músicas empolgantes (e também inéditas) e um texto bem humorado, o espetáculo promete ser um sucesso.</p>
+
+<p>Essa peça é mais uma realização do ESPAÇO CULTURAL VAMOS FAZER ARTE, escola idealizada pela atriz, coreógrafa, professora, diretora e preparado de elenco mirim da Rede Globo Mareliz Rodrigues e pelo ator, dublador e diretor Cláudio Galvan.
+O ESPAÇO CULTURAL VAMOS FAZER ARTE vem desenvolvendo seu trabalho sempre com bom gosto e qualidade. Nosso objetivo é formar profissionais diferenciados e aptos para ingressar no mercado de trabalho, prontos para “Fazer Arte” com qualidade. .</p>
+
+<p>Nossa temporada já está marcada!
+Será:
+07 a 29 de Junho de 2014 às 17h - Sábados e domingos 
+Teatro dos Grandes Atores - Shopping Barra Square - Subsolo
+Av. das Américas 3.555 - Barra – RJ</p>
+
+<p>Ficha técnica:
+Texto e direção: Amanda Zagnoli 
+Assistente de direção: Roberta Campos
+Coreógrafa: Renata Ferreira
+Preparação Vocal e Direção Musical: Marcelo Rezende
+Técnico de Som e Microfone: Vinicius Melo
+Produção Gráfica: Gabriela Bodin
+Camareira: Cícera Maria
+Supervisão Geral: Mareliz Rodrigues
+Realização: Espaço Cultural Vamos Fazer Arte
+Elenco: 
+Alycia Araújo                         Aylla Marques
+Beatriz Messias                     Bebel Gandra
+Dyego Menezes                     Duda Spinelli
+Gabriela Serrano                    Gabrielly Duarte
+Laura D&#39;Ávila                          Laura Pires<br>
+Luisa Bisaggio                       Maria Clara Duarte<br>
+Maria Clara Machado             Mayla Vicente<br>
+Nathália Costa                       Nicole Canavez<br>
+Otávio Maciel                         Renato Canavez. </p>
+
+<p>..
+Essa arrecadação servirá para custear parte das despesas com o teatro, cenário, equipe técnica entre outros.</p>
+
+<p>Contamos com a sua ajuda, ela é muito importante pra nós!</p>
+
+<p>Esperamos vocês na nossa viagem,
+Os Viajantes.</p>
+",osviajantes,//www.youtube.com/embed/_IGwjXVB9sc,https://www.youtube.com/watch?v=_IGwjXVB9sc,"Teatro e Dança",19,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/5058/1.jpg,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/5058/project_thumb_thumb_1.jpg,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/5058/project_thumb_small_1.jpg,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/5058/project_thumb_large_1.jpg,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/5058/project_thumb_video_cover_1.jpg,7.14285714285714285700,250.0,1,1,failed,aon,finished,"2014-06-19 02:59:59","2014-06-18 23:59:59","2014-05-14 18:05:06.482709","2014-05-14 15:05:06.482709",,t,t,f,35,"{""total"" : 0, ""unit"" : ""seconds""}","{""total"" : 35, ""unit"" : ""days""}",0,"{""city"" : ""Rio de Janeiro"", ""state_acronym"" : ""RJ"", ""state"" : ""Rio de Janeiro""}","{""id"" : 55662, ""name"" : ""Amanda Zagnoli Sobrinho""}",0,,f,f,0,f,f,f

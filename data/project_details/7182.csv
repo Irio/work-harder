@@ -1,0 +1,83 @@
+project_id,id,user_id,name,headline,budget,goal,about_html,permalink,video_embed_url,video_url,category_name,category_id,original_image,thumb_image,small_image,large_image,video_cover_image,progress,pledged,total_contributions,total_contributors,state,mode,state_order,expires_at,zone_expires_at,online_date,zone_online_date,sent_to_analysis_at,is_published,is_expired,open_for_contributions,online_days,remaining_time,elapsed_time,posts_count,address,user,reminder_count,is_owner_or_admin,user_signed_in,in_reminder,total_posts,can_request_transfer,is_admin_role,contributed_by_friends
+7182,7182,326901,ColorLEDS,"Ilumine seu ambiente do seu jeito com apenas um toque no smartphone. Com ColorLEDS você deixa tudo com a sua cara com apenas um toque.","O orçamento para projetos anteriores a 24/02/2015 normalmente pode ser encontrado na descrição acima.",10000.0,"<p>Após 12 meses de desenvolvimento o sistema ColorLEDS está na reta final e quase pronto para iniciar sua produção, esperando apenas a sua ajuda para conseguir um volume mínimo de produção para torná-lo viável.</p>
+
+<p><strong>Por que o projeto ColorLEDS é tão legal?</strong>
+Trata-se de um sistema inteiramente desenvolvido no Brasil e inovador em seu segmento. Hoje em dia cada vez mais as pessoas vivem conectadas em seus Smartphones o tempo todo e porque não poder controlar o seu ambiente com ele? Deixe tudo da cor que te faz mais a vontade com apenas um toque. São mais de 16 milhões de cores, 7 funções de troca de cores distintas e também é possível escolher a velocidade.</p>
+
+<p><strong>Como funciona?</strong>
+O sistema ColorLEDS ficará conectado a sua rede doméstica através do roteador. No seu Smartphone Android ou iPhone você poderá controlar a vontade as cores e intensidade de iluminação do seu ambiente, podendo criar efeitos, escolher funções e muito mais.
+<div class=""video youtube""><iframe width=""600"" height=""403"" src=""//www.youtube.com/embed/nzHgIqvoaLY?wmode=opaque"" frameborder=""0"" allowfullscreen></iframe></div></p>
+
+<p><strong>Por que precisamos do seu apoio?</strong>
+O sistema se encontra desenvolvido, porém devido a falta de verba não é possível manter o projeto de forma sustentável. Já se passaram 12 meses desde o inicio deste projeto e agora com o projeto pronto precisamos garantir uma quantidade mínima de vendas para que possamos continuar com ele.</p>
+
+<p><strong>Do que precisamos?</strong>
+Para podermos vender a um preço mais acessível e tornarmos o negócio sustentável precisamos ter uma quantidade mínima de pedidos para fazermos as placas pci e comprarmos componentes em quantidade que torne o produto mais viável. Com uma quantidade mínima de 50 unidades já conseguimos fazer o projeto engrenar e tirá-lo do papel.</p>
+
+<p><strong>Sentir um gostinho do sistema</strong>
+O aplicativo já está disponível na apple store e google play. Baixe no seu smartphone e veja como é o visual do sistema.
+<img src=""http://i.imgur.com/TdR2q7W.jpg"" alt=""""/>
+<a class=""alt-link"" target=""_blank"" href=""https://itunes.apple.com/pt/app/colorleds/id911100754?mt=8"">link App Store</a>
+<a class=""alt-link"" target=""_blank"" href=""https://play.google.com/store/apps/details?id=air.com.colorleds.colorleds&amp"">link Google Play</a>;hl=pt_BR</p>
+
+<p><strong>Como funcionam as fitas LED RGB</strong>
+As fitas LED RGB possuem 3 cores: vermelho, verde e azul. Com apenas essas três cores ela é capaz de criar uma infinidade de cores. No sistema ColorLEDS são possíveis mais de 16 milhões de cores devido aos 24 bits que usamos.
+<img src=""http://i.imgur.com/dmimVqS.jpg"" alt=""""/></p>
+
+<p>Elas são alimentadas por 12V, por isso basta uma fonte de corrente contínua. As fitas que usamos são com LED 5050, o maior disponível no mercado, que tem as 3 cores no mesmo LED. Utilizamos a fita de 60 LEDs/metro que pode ser cortada a cada 3 LEDs (5 centímetros), assim você pode preencher praticamente cada espacinho livre.</p>
+
+<p><strong>Onde posso instalar?</strong>
+Onde sua imaginação quiser. Elas são muito versáteis e podem ser colocadas em praticamente qualquer lugar. Pode ser na sua sala de TV... e então você poderia controlar a cor e a intensidade da iluminação para combinar com seu filme favorito. Na cozinha para realçar as cores daquele prato especial que você preparou e os detalhes nos armários. Pode ser no banheiro para fazer aquela cromoterapia relaxante. Você poderia enfeitar sua casa para o natal. São infinitas possibilidades, basta você deixar sua imaginação fluir!
+<img src=""http://i.imgur.com/RRqyC3a.jpg"" alt=""""/>
+Obs. Lembrando que você pode colocá-lo no banheiro, mas a fonte e o ColorLEDS devem ficar protegidos contra umidade. A fita IP65 que usamos é a prova d&#39;agua porem recomendamos não expô-la a umidade excessiva para não diminuir a vida útil. E os terminais deve ser protegidos contra umidade também.</p>
+
+<p><strong>O que irei precisar, consigo instalar em casa?</strong>
+Você precisará da fita LED RGB (Caso seu kit não acompanhe), fonte 12V DC (Caso seu kit não acompanhe, recomendamos pelo menos 4A por rolo de 5 metros), solda e fios dependendo da distância do local de instalação e o início da fita. Mas basicamente é só ligar cada fio na sua respectiva cor.
+O ColorLEDS vem configurado para usar o ip &quot;192.168.0.10&quot;. Se você já usa essa faixa de ip, perfeito! Você não precisará configurar nada. Senão será necessário um roteador o qual você possa mudar a configuração ou um cabo de rede tipo &quot;cross&quot; além de um computador. Mas não se preocupe! Vamos disponibilizar um manual detalhado com tudo que você irá precisar.
+E claro que você pode contar com nossa ajuda em tudo que precisar seja por telefone, email, Facebook, WhatsApp, Skype ou sinal de fumaça.</p>
+
+<p><strong>Quantos metros de fita consigo ligar?</strong>
+O ColorLEDS pode ligar até 8 metros de fita (porém recomendamos 5 metros para não sobrecarregar nada), Já o ColorLEDS TURBO pode ligar até 4 rolos (20 metros).
+Obs: a versão turbo possui um cooler inteligente que liga de acordo com a carga que está sendo utilizada.</p>
+
+<p><strong>Esse programa vai acabar com a bateria do meu Smartphone?</strong>
+Claro que não! Utilizamos a comunicação via Wi-Fi que você já utiliza em seu dispositivo. Nada de Bluetooth drenado bateria!</p>
+
+<p><strong>Se não tiver como ligar via cabo, posso fazer via Wi-FI?</strong>
+Claro! basta colocar um pequeno roteador como o pequeno WR702N da TP-Link que esta a venda na maioria das lojas de informática. A configuração é fácil e vamos te ensinar a fazer.</p>
+
+<p><strong>Nossas metas</strong>
+R$10.000,00 - Nosso projeto será financiado!!! AAAEEEE e seremos capazes de continuar o trabalho com nosso produto
+R$18.000,00 - Faremos o desenvolvimento de um dispositivo de controle por relês, para controlar TV, portões, luzes, e muito mais. E todos nossos apoiadores ganharão 15% de desconto na compra de um dispositivo.
+R$25.000,00 - Faremos o desenvolvimento de um emissor IR para controlar sua TV, som, ar condicionado ou qualquer outra coisa que você quiser e que possua controle remoto IR. E também todos nossos apoiadores ganharão 15% de desconto na compra de um deles.</p>
+
+<p><strong>Recompensas</strong>
+Você pode verificar as recompensas ao lado. Todas já incluem o frete para o Brasil e também deixará seu nome em nossa lista de colaboradores em nosso site para sempre! As recompensas serão enviadas conforme a ordem que foram apoiadas, então quem foi primeiro a apoiar receberá seu kit primeiro. Não perca tempo! Assim que o projeto atingir o valor de R$10.000,00 as encomendas de componentes já serão feitas para agilizar ao máximo a entrega dos kits. A previsão é que uma parte fique pronta ainda em Dezembro de 2014.</p>
+
+<p><strong>Como será gasto o dinheiro</strong>
+Claro que cada recompensa terá diferentes valores gastos na produção. Considerando a produção das unidades básicas a distribuição será:
+<img src=""http://i.imgur.com/VrZEYf3.jpg"" alt=""""/></p>
+
+<p><strong>Nossa equipe</strong>
+Adriano - Formado em uma engenharia completamente nada a ver, que se apaixonou por eletrônica, automação, programação e essas coisas e agora tenta levar a vida com isso.</p>
+
+<p>William - Um cara com dom para artes, detalhista que faz cada uma das 16 milhões de cores estarem exatamente no tom exato.</p>
+
+<p>John - A pessoa mais famosa das redondezas responsável pelo nosso marketing, correrias do dia a dia e todos os outros pepinos aleatórios.</p>
+
+<p><strong>Apoio dentro e fora do Catarse</strong>
+Você é apaixonado por tecnologia? Eletrônica? Desenvolvimento de softwares para dispositivos móveis? Um bom vendedor?  Gosta de instalações elétricas e quer ganhar um dindin extra? Então junte-se a nós nesse projeto. Temos grandes ambições para criarmos uma excelente equipe de desenvolvimento e representação. Temos muitas idéias de novos produtos e para desenvolvê-los e levá-los ao mercado precisamos de pessoas comprometidas e capazes que amam o que fazem, pois ColorLEDS é muito mais que um produto... É a paixão pelo que fazemos materializada em produto.</p>
+
+<p><strong>Nossos parceiros</strong>
+Durante essa jornada da campanha retomamos o contato com muitas pessoas que há tempos não víamos, fazemos novos contatos e achamos quem também tem afinidade do nosso projeto e nossos ideais. E é com muito prazer que colocamos aqui seus emblemas: 
+<img src=""http://i.imgur.com/NTeBne3.jpg"" alt=""""/>
+<a class=""alt-link"" target=""_blank"" href=""http://porquenaopenseinisso.com.br/2014/10/09/colorleds-iluminacao-em-led-inovadora-controlada-pelo-celular"">Por que não pensei nisso</a></p>
+
+<p><strong>Fale conosco! Vamos adorar saber o que você achou e suas sujestões</strong>
+Email: <a class=""alt-link"" href=""mailto:contato@colorleds.com.br"" target=""_blank"">contato@colorleds.com.br</a>
+Facebook: <a class=""alt-link"" target=""_blank"" href=""http://fb.com/ColorLEDSbr"">fb.com/ColorLEDSbr</a>
+WhatsApp: (31) 7325 5548
+<a class=""alt-link"" target=""_blank"" href=""http://colorleds.com.br"">www.colorleds.com.br</a></p>
+
+<p><img src=""http://i.imgur.com/00oJ2On.jpg"" alt=""""/></p>
+",colorleds,//www.youtube.com/embed/Obo3bejU_xQ,http://youtu.be/Obo3bejU_xQ,"Ciência e Tecnologia",18,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/7182/foto_catarse.jpg,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/7182/project_thumb_thumb_foto_catarse.jpg,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/7182/project_thumb_small_foto_catarse.jpg,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/7182/project_thumb_large_foto_catarse.jpg,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/7182/project_thumb_video_cover_foto_catarse.jpg,14.64000000000000000000,1464.0,9,9,failed,aon,finished,"2014-11-18 01:59:59","2014-11-17 23:59:59","2014-10-07 09:00:11.806874","2014-10-07 06:00:11.806874",,t,t,f,41,"{""total"" : 0, ""unit"" : ""seconds""}","{""total"" : 41, ""unit"" : ""days""}",0,"{""city"" : ""Belo Horizonte"", ""state_acronym"" : ""MG"", ""state"" : ""Minas Gerais""}","{""id"" : 326901, ""name"" : ""Adriano Sugimoto""}",3,,f,f,0,f,f,f

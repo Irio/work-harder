@@ -1,0 +1,17 @@
+project_id,id,user_id,name,headline,budget,goal,about_html,permalink,video_embed_url,video_url,category_name,category_id,original_image,thumb_image,small_image,large_image,video_cover_image,progress,pledged,total_contributions,total_contributors,state,mode,state_order,expires_at,zone_expires_at,online_date,zone_online_date,sent_to_analysis_at,is_published,is_expired,open_for_contributions,online_days,remaining_time,elapsed_time,posts_count,address,user,reminder_count,is_owner_or_admin,user_signed_in,in_reminder,total_posts,can_request_transfer,is_admin_role,contributed_by_friends
+570,570,50885,"A Terra é Azul","Curta metragem de ficção, idealizado por estudantes universitários que precisam da sua ajuda para contar a história de Bill.","O orçamento para projetos anteriores a 24/02/2015 normalmente pode ser encontrado na descrição acima.",1705.0,"<p>Somos um grupo de estudantes universitários com um roteiro em mãos e muita vontade de fazer acontecer. </p>
+
+<p>&quot;A Terra é Azul&quot; conta a história de Bill, um escritor recluso com um desafio à sua frente: escrever um livro didático sobre a teoria do Big Rip e o fim do mundo. Ele se veste de astronauta durante seu processo criativo, o que cria uma zona de conforto e isolamento com o mundo à sua volta. Enquanto acompanhamos ele lutando contra seu bloqueio criativo, conhecemos as personagens que são suas poucas ligações com a realidade: sua vizinha, seu porteiro, seu editor, e Yuri, seu peixe-beta.</p>
+
+<p>O curta traz no elenco a atriz e apresentadora Carla Lamarca, além de trilha sonora com composição original de Vitor Trida (Mutantes).</p>
+
+<p>O projeto é independente e de baixo orçamento, por isso toda e qualquer ajuda é bem vinda. No Catarse pretendemos conseguir o valor de *R$1.500 para suprir os gastos com equipamentos de luz e som utilizados nas filmagens. </p>
+
+<p>Contamos com a sua ajuda para tirar essa ideia do papel!</p>
+
+<p>Contato:
+<a class=""alt-link"" href=""mailto:curta.aterraeazul@gmail.com"" target=""_blank"">curta.aterraeazul@gmail.com</a></p>
+
+<p><em>R$1.705 = R$1.500 + taxas Catarse
+*</em> Caso o valor arrecadado passe de R$1.500 (o que torcemos MUITO!), a verba será usada para direção de arte e pós-produção.</p>
+",570-a-terra-e-azul,//player.vimeo.com/video/37415169,http://vimeo.com/37415169,"Cinema e Vídeo",13,,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/video_thumbnail/570/project_thumb_thumb_open-uri20131125-2-80nm4k,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/video_thumbnail/570/project_thumb_small_open-uri20131125-2-80nm4k,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/video_thumbnail/570/project_thumb_large_open-uri20131125-2-80nm4k,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/video_thumbnail/570/project_thumb_video_cover_open-uri20131125-2-80nm4k,108.5043988269794700,1850.0,38,36,successful,aon,finished,"2012-04-30 02:59:59","2012-04-29 23:59:59","2012-03-01 02:59:59","2012-02-29 23:59:59",,t,t,f,60,"{""total"" : 0, ""unit"" : ""seconds""}","{""total"" : 60, ""unit"" : ""days""}",0,"{""city"" : ""São Paulo"", ""state_acronym"" : ""SP"", ""state"" : ""São Paulo""}","{""id"" : 50885, ""name"" : """"}",0,,f,f,0,f,f,f

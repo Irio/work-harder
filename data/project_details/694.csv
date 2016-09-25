@@ -1,0 +1,27 @@
+project_id,id,user_id,name,headline,budget,goal,about_html,permalink,video_embed_url,video_url,category_name,category_id,original_image,thumb_image,small_image,large_image,video_cover_image,progress,pledged,total_contributions,total_contributors,state,mode,state_order,expires_at,zone_expires_at,online_date,zone_online_date,sent_to_analysis_at,is_published,is_expired,open_for_contributions,online_days,remaining_time,elapsed_time,posts_count,address,user,reminder_count,is_owner_or_admin,user_signed_in,in_reminder,total_posts,can_request_transfer,is_admin_role,contributed_by_friends
+694,694,65418,"VOTO COMO VAMOS ","Acompanhe, interaja e compare as propostas e os candidatos das eleições 2012.","O orçamento para projetos anteriores a 24/02/2015 normalmente pode ser encontrado na descrição acima.",12500.0,"<p>O que é? 
+O Voto Como Vamos será uma aplicação no Facebook que vai revolucionar a relação eleitor-candidato. Nele você vai saber tudo sobre as propostas e candidatos das próximas eleições de maneira simples, didática e rápida. </p>
+
+<p>O Voto Como Vamos será implementado primeiramente em Porto Alegre. No entanto, por ter o código aberto, a plataforma pode ser replicável para qualquer cidade que quiser ter uma iniciativa semelhante. </p>
+
+<p>Por que o Voto Como Vamos? 
+Reclamamos que a política é chata, que só há corrupção, não sabemos o que fazer, mas não agimos para melhorar essa situação. Por isso, construímos esta plataforma para descobrir uma maneira de ajudá-lo e também de nos ajudar a escolher melhor os candidatos nas eleições, tendo em vista que este momento é crucial para a transformação da nossa sociedade. </p>
+
+<p>Como você pode interagir com a plataforma:
+1)Se informar sobre o que faz um vereador e um prefeito
+2)Sugerir propostas como se você fosse um candidato 
+3)Conhecer os candidatos que representam o que você quer 
+4)Comparar as propostas dos políticos que estão concorrendo 
+5)Confrontar notícias da mídia e opiniões de outros cidadãos com as promessas dos candidatos 
+Tudo isso para escolher melhor quem vai nos representar no ano que vem. </p>
+
+<p>O que vamos fazer com o dinheiro que voce doar? 
+Vamos pagar os serviços de planejamento, programação, design e arquitetura para construir a plataforma digital. Todos os outros trabalhos estão e continuarão sendo feitos de maneira voluntária. Para a plataforma estar completa precisamos de R$18.500,00. Se reduzirmos algumas funcionalidades (como a possibilidade de confrontar as notícias da mídia e comparar as suas ideias com as dos candidatos), o projeto pode ser realizado com R$12.500,00. Acreditamos que estas funcionalidades são importantes para que a revolução eleitor candidato realmente aconteça. </p>
+
+<p>Quem Somos? 
+O Porto Alegre Como Vamos, criador da plataforma Voto Como Vamos, é um movimento da sociedade civil, apartidário, sem fins lucrativos, que pretende ampliar a participação do portoalegrense nas políticas publicas por meio de espaços de interação para a melhoria da cidade. Temos como objetivo elevar os níveis locais de democracia e de qualidade de vida, mantendo um compromisso com o desenvolvimento sustentável e com a justiça social. Somos um organismo aberto, com o dever de acolher qualquer pessoa que com ele resolver interagir. </p>
+
+<p>Os focos da nossa atuação são: Educação Política, Transparência e Desenvolvimento Humano.</p>
+
+<p>Conheça mais: <a class=""alt-link"" href=""http://voto.poacomovamos.org/"" target=""_blank"">http://voto.poacomovamos.org/</a></p>
+",694-voto-como-vamos,//player.vimeo.com/video/42349429,http://vimeo.com/42349429,Socioambiental,4,,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/video_thumbnail/694/project_thumb_thumb_open-uri20131125-2-14l4wzd,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/video_thumbnail/694/project_thumb_small_open-uri20131125-2-14l4wzd,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/video_thumbnail/694/project_thumb_large_open-uri20131125-2-14l4wzd,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/video_thumbnail/694/project_thumb_video_cover_open-uri20131125-2-14l4wzd,124.80000000000000000000,15600.0,257,252,successful,aon,finished,"2012-06-16 02:59:59","2012-06-15 23:59:59","2012-04-17 02:59:59","2012-04-16 23:59:59",,t,t,f,60,"{""total"" : 0, ""unit"" : ""seconds""}","{""total"" : 60, ""unit"" : ""days""}",1,"{""city"" : ""Porto Alegre"", ""state_acronym"" : ""RS"", ""state"" : ""Rio Grande do Sul""}","{""id"" : 65418, ""name"" : """"}",0,,f,f,1,f,f,f

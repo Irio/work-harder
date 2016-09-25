@@ -1,0 +1,19 @@
+project_id,id,user_id,name,headline,budget,goal,about_html,permalink,video_embed_url,video_url,category_name,category_id,original_image,thumb_image,small_image,large_image,video_cover_image,progress,pledged,total_contributions,total_contributors,state,mode,state_order,expires_at,zone_expires_at,online_date,zone_online_date,sent_to_analysis_at,is_published,is_expired,open_for_contributions,online_days,remaining_time,elapsed_time,posts_count,address,user,reminder_count,is_owner_or_admin,user_signed_in,in_reminder,total_posts,can_request_transfer,is_admin_role,contributed_by_friends
+2617,2617,179065,Ausência,"Ajude o longa-metragem ""Ausência"". Um filme quase independente (porque agora precisa de você pra ser finalizado)","O orçamento para projetos anteriores a 24/02/2015 normalmente pode ser encontrado na descrição acima.",6300.0,"<p><strong>Ausência</strong> é o resultado de esforço de gente que trabalha movida por paixão e sonho. Diretor, elenco e equipe técnica encararam o desafio de fazer um longa-metragem na raça, sem cobrar cachê, acreditando na força do projeto.</p>
+
+<p>Da concepção às filmagens, foram seis meses de um processo que precisa agora de apoio financeiro para se concretizar. Todo o dinheiro arrecadado com esta iniciativa irá para a edição, montagem e pós-produção do filme. Isso dará a forma final ao trabalho de todos que se dedicaram para que o projeto <strong>Ausência</strong> se concretizasse.</p>
+
+<p>Contamos com a sua ajuda, e, se tudo der certo, nos vemos na estreia!</p>
+
+<p>Curta nossa página no facebook e fique por dentro de como anda o processo: <a class=""alt-link"" href=""https://www.facebook.com/filmeausencia"" target=""_blank"">https://www.facebook.com/filmeausencia</a></p>
+
+<p><strong>Sinopse do filme:</strong>
+Após ser abandonado sem muitas explicações por Ana, Pedro perde o chão. Assombrado pelas lembranças do relacionamento, procura o ex-namorado dela, Alexandre, em busca de pistas de como superar a situação. Os dois desenvolvem uma amizade à medida que Alexandre lida com os problemas de seu casamento e com outra separação: a dos seus pais.</p>
+
+<p><strong>Direção e roteiro:</strong> Diego Olivares
+<strong>Elenco:</strong> Pedro Casali, Thiago De Rogatis, Bernardo Fonseca Machado, Lívia Camargo, Mariana Fleury, Ricardo Torelly, Thays Palomares, Monica Rossetto, Júlia Amaral, Marcelo Cavalcante
+<strong>Direção de fotografia:</strong> Leandro Bugni
+<strong>Assistente de fotografia:</strong> Carlos Ximenes
+<strong>Trilha sonora:</strong> Rafael Olivares
+<strong>Operador de áudio:</strong> Tiago Lopes Bastos</p>
+",filmeausencia,//player.vimeo.com/video/72526456,https://vimeo.com/72526456,"Cinema e Vídeo",13,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/2617/Imagem_063.png,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/2617/project_thumb_thumb_Imagem_063.png,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/2617/project_thumb_small_Imagem_063.png,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/2617/project_thumb_large_Imagem_063.png,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/2617/project_thumb_video_cover_Imagem_063.png,100.6349206349206300,6340.0,58,54,successful,aon,finished,"2013-10-20 02:59:59","2013-10-19 23:59:59","2013-08-20 18:50:56","2013-08-20 15:50:56",,t,t,f,60,"{""total"" : 0, ""unit"" : ""seconds""}","{""total"" : 60, ""unit"" : ""days""}",6,"{""city"" : ""São Paulo"", ""state_acronym"" : ""SP"", ""state"" : ""São Paulo""}","{""id"" : 179065, ""name"" : ""Diego Riveira Olivares""}",0,,f,f,6,f,f,f

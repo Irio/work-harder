@@ -1,0 +1,47 @@
+project_id,id,user_id,name,headline,budget,goal,about_html,permalink,video_embed_url,video_url,category_name,category_id,original_image,thumb_image,small_image,large_image,video_cover_image,progress,pledged,total_contributions,total_contributors,state,mode,state_order,expires_at,zone_expires_at,online_date,zone_online_date,sent_to_analysis_at,is_published,is_expired,open_for_contributions,online_days,remaining_time,elapsed_time,posts_count,address,user,reminder_count,is_owner_or_admin,user_signed_in,in_reminder,total_posts,can_request_transfer,is_admin_role,contributed_by_friends
+2043,2043,143456,Contraste,"Um livro poético visual. Para inspirar, elevar e refletir.","O orçamento para projetos anteriores a 24/02/2015 normalmente pode ser encontrado na descrição acima.",25000.0,"<p>Buscamos a publicação do livro &quot;Contraste&quot;, cuja proposta é promover o diálogo entre poesia e fotografia. </p>
+
+<p>Idealizado pela fotógrafa artística Danny Bittencourt e pelo poeta João Kanieski, o projeto procura articular estas duas formas de arte, de maneira que estas se complementem para a construção de sentidos.</p>
+
+<p>O livro será formado por 20 ensaios distintos, em que parte são realizados através do olhar do poeta sobre imagens já criadas pela fotógrafa e os demais são constituídos por fotografias inspiradas em poemas.</p>
+
+<p>Parte dos livros serão distribuídos em bibliotecas de escolas  públicas a fim de promover a arte e incentivar a leitura.</p>
+
+<p>É possível acompanhar nosso trabalho através do blog <a class=""alt-link"" href=""http://livrocontraste.wordpress.com/"" target=""_blank"">http://livrocontraste.wordpress.com/</a> 
+Assista também ao Teaser de divulgação pelo link <iframe src=""//player.vimeo.com/video/65936321?title=0&byline=0&portrait=0"" width=""600"" height=""403"" frameborder=""0""></iframe></p>
+
+<p>Ficha Técnica:</p>
+
+<p>Criação e  Fotografia: Danny Bittencourt
+Criação e Poesia: João Kanieski
+Produção: Petci Pedron
+Apoio e luz: Rika Barcellos
+Assessoria de Imprensa: Leticia Marchetti
+Videos: Marco Brizolla/ Querosene
+Make: Dani Herok
+Atrizes: Aline Jones, Gabriela Martins, Graci Caputti, Joana Vieira, Camila Vergara, Camila Souza, Renata de Lélis e Ohana Homem</p>
+
+<p>O dinheiro arrecadado será direcionado às atrizes participantes, maquiadora, produtora e principalmente para edição e impressão dos exemplares.</p>
+
+<p>Abaixo a tabela financeira do projeto:</p>
+
+<p>Cache das atrizes e maquiagem por ensaio:
+R$200 x 20 ensaios = 4 mil</p>
+
+<p>Cachê da equipe:
+Vídeo Catarse 
+Produção 
+Assessoria de imprensa 
+Fotografia e direção 
+Poesia e direção
+R$ 3 mil</p>
+
+<p>Impressão de 200 livros
+R$15 mil</p>
+
+<p>Gastos com a exposição
+R$ 2 mil</p>
+
+<p>Porcentagem Catarse
+R$ 1 mil</p>
+",livrocontraste,//player.vimeo.com/video/66193315,http://vimeo.com/66193315,Artes,1,,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/video_thumbnail/2043/project_thumb_thumb_open-uri20131125-2-10jdoh,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/video_thumbnail/2043/project_thumb_small_open-uri20131125-2-10jdoh,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/video_thumbnail/2043/project_thumb_large_open-uri20131125-2-10jdoh,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/video_thumbnail/2043/project_thumb_video_cover_open-uri20131125-2-10jdoh,4.20000000000000000000,1050.0,17,16,failed,aon,finished,"2013-07-22 02:59:59","2013-07-21 23:59:59","2013-05-22 16:21:29","2013-05-22 13:21:29",,t,t,f,60,"{""total"" : 0, ""unit"" : ""seconds""}","{""total"" : 60, ""unit"" : ""days""}",1,"{""city"" : ""Porto Alegre"", ""state_acronym"" : ""RS"", ""state"" : ""Rio Grande do Sul""}","{""id"" : 143456, ""name"" : ""Danny Bittencourt""}",0,,f,f,1,f,f,f

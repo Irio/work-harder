@@ -1,0 +1,37 @@
+project_id,id,user_id,name,headline,budget,goal,about_html,permalink,video_embed_url,video_url,category_name,category_id,original_image,thumb_image,small_image,large_image,video_cover_image,progress,pledged,total_contributions,total_contributors,state,mode,state_order,expires_at,zone_expires_at,online_date,zone_online_date,sent_to_analysis_at,is_published,is_expired,open_for_contributions,online_days,remaining_time,elapsed_time,posts_count,address,user,reminder_count,is_owner_or_admin,user_signed_in,in_reminder,total_posts,can_request_transfer,is_admin_role,contributed_by_friends
+1034,1034,99478,"SAMBA 3","A SAMBA é uma antologia de quadrinhos independente, ajude a realizar a próxima edição.","O orçamento para projetos anteriores a 24/02/2015 normalmente pode ser encontrado na descrição acima.",15000.0,"<p>A SAMBA 3 é uma antologia de quadrinhos e até o momento conta com os seguintes colaboradores:</p>
+
+<ul>
+<li>André Valente</li>
+<li>Bruno Maron</li>
+<li>Carlos Ferreira</li>
+<li>Eduardo Belga</li>
+<li>Gabriel Góes</li>
+<li>Gabriel Mesquita</li>
+<li>Pedro Cobiaco</li>
+<li>Pedro Ivo Verçosa</li>
+<li>DW</li>
+<li>Diego Gerlach</li>
+<li>João Lavieri</li>
+<li>Julio Lapagesse</li>
+<li>Lucas Gehre</li>
+<li>Mateus Acioli</li>
+<li>Mateus Gandara</li>
+<li>Pedro Dias</li>
+<li>Pietro Luigi</li>
+<li>Rafael Campos Rocha</li>
+<li>Rafael Corrêa</li>
+<li>Rodrigo Urbano</li>
+<li>Stêvz</li>
+</ul>
+
+<p>A proposta da SAMBA sempre foi produzir o material de forma independente, cuidando de todas as etapas do processo, desde desenhar, escrever e convidar colaboradores até editar, publicar e distribuir o material.</p>
+
+<p>Desde o início o nosso contato com o público final do projeto vem sendo direto, com poucos intermediários em alguns casos. O Catarse surgiu para nós como uma ferramenta muito interessante de captação de recursos e viabilização do projeto, possibilitando um contato mais próximo e dando a oportunidade ao público de se envolver ainda antes.</p>
+
+<p>Estamos oferecendo diversas recompensas pela sua colaboração, você pode escolher ao lado na lista de opções, entre receber a revista em sua casa em primeira mão, ou originais incríveis e muitos outros produtos. É simples colaborar, são aceitas as mais diversas formas de pagamento.</p>
+
+<p>O dinheiro arrecadado pelo Catarse será destinado aos custos de impressão da revista e envio do material para os que contribuirem com o projeto.</p>
+
+<p>Conheça melhor a SAMBA no <a class=""alt-link"" target=""_blank"" href=""http://www.revistasamba.com"">revistasamba.com</a> , contamos com atualizações diárias, diversas séries de desenhos e quadrinhos, fotos de eventos e muito mais.</p>
+",samba3,//player.vimeo.com/video/51032502,http://vimeo.com/51032502,Quadrinhos,7,,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/video_thumbnail/1034/project_thumb_thumb_open-uri20131125-2-1bmqjuo,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/video_thumbnail/1034/project_thumb_small_open-uri20131125-2-1bmqjuo,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/video_thumbnail/1034/project_thumb_large_open-uri20131125-2-1bmqjuo,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/video_thumbnail/1034/project_thumb_video_cover_open-uri20131125-2-1bmqjuo,117.70000000000000000000,17655.0,249,243,successful,aon,finished,"2012-12-10 01:59:59","2012-12-09 23:59:59","2012-10-11 01:59:00","2012-10-10 22:59:00",,t,t,f,60,"{""total"" : 0, ""unit"" : ""seconds""}","{""total"" : 60, ""unit"" : ""days""}",2,"{""city"" : ""Brasília"", ""state_acronym"" : ""DF"", ""state"" : ""Distrito Federal""}","{""id"" : 99478, ""name"" : ""(SAMBA)""}",0,,f,f,2,f,f,f

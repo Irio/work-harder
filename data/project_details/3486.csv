@@ -1,0 +1,140 @@
+project_id,id,user_id,name,headline,budget,goal,about_html,permalink,video_embed_url,video_url,category_name,category_id,original_image,thumb_image,small_image,large_image,video_cover_image,progress,pledged,total_contributions,total_contributors,state,mode,state_order,expires_at,zone_expires_at,online_date,zone_online_date,sent_to_analysis_at,is_published,is_expired,open_for_contributions,online_days,remaining_time,elapsed_time,posts_count,address,user,reminder_count,is_owner_or_admin,user_signed_in,in_reminder,total_posts,can_request_transfer,is_admin_role,contributed_by_friends
+3486,3486,179787,"ERP Open Source para Provedores (módulo 0/14)","ERP Open Source para Provedores de Internet: Faça parte você também! Ajude a melhorar a Internet e contribua para o mundo Open Source.","O orçamento para projetos anteriores a 24/02/2015 normalmente pode ser encontrado na descrição acima.",27000.0,"<p><strong>...Explicando ERP (Enterprise Resource Planning):</strong> <a class=""alt-link"" href=""http://pt.wikipedia.org/wiki/Sistema"" target=""_blank"">http://pt.wikipedia.org/wiki/Sistema</a><em>integrado</em>de<em>gest%C3%A3o</em>empresarial</p>
+
+<p><strong>...E explicando Open Source (código aberto):</strong> <a class=""alt-link"" href=""http://pt.wikipedia.org/wiki/C%C3%B3digo_aberto"" target=""_blank"">http://pt.wikipedia.org/wiki/C%C3%B3digo_aberto</a></p>
+
+<p>Atualmente quem é dono de provedor de internet sofre muito nas mãos de terceiros que querem apenas ter &quot;um fixo&quot; todo mês, sem fazer absolutamente nada. Falo de empresas e pessoas que cobram muito caro, por sistemas (software) do tipo ERP, para controle de clientes e gestão de provedores, de acesso a internet.</p>
+
+<p>Existe uma forma de fugir dessas ciladas que sempre prejudicam o desenvolvimento de pequenas e médias empresas no país. A saída é a criação de um sistema Open Source. </p>
+
+<p>Isso mesmo! Open Source, que no fim será Livre e Gratuito e que pode ser feito através do financiamento coletivo, aqui no Catarse.</p>
+
+<p>Um ERP pra controle de clientes e gestão é algo de extrema importância para o funcionamento de um provedor. Sem ele nada flui e sem ele as coisas andam devagar. O mesmo acontece quando se usa um sistema ruim... e nesse caso a internet entregue aos clientes pode vir a ser a pior de todas.</p>
+
+<p>Vejo nos dias de hoje, donos de provedores reclamando o tempo todo dos sistemas que usam. Sempre dizem que está dando pau,  que está parando toda a empresa dele e que ele não aguenta mais pagar altas mensalidades por um sistema que não vale muita coisa e que ninguém nunca resolve os problemas que aparecem no dia a dia. Um sistema desses, de suma importância, não pode apresentar falhas! isso é inadmissível.</p>
+
+<p>Hoje, um ERP instalado em uma empresa, pode custar até 120 mil reais ou mais. Isso, fora as mensalidades referentes a suporte técnico ou garantia de atendimento, em caso de falhas e dúvidas.</p>
+
+<p>Assim como todo projeto 100% Open Source, nosso projeto tende a ser gratuito no final. Isso mesmo. E sem mensalidades! Ao final de tudo, será distribuído gratuitamente na internet, contribuindo assim grandiosamente para evolução do mundo Open Source.</p>
+
+<p>100% do código fonte do ERP será disponibilizado de forma gratuita no site SourceForge. Com isso, qualquer desenvolvedor do país ou do mundo poderá compilar ou adaptar o ERP em qualquer sistema operacional Linux existente. vide: <a class=""alt-link"" href=""http://sourceforge.net"" target=""_blank"">http://sourceforge.net</a>
+No término de cada módulo, o código será compartilhado. Do jeito que tem que ser.</p>
+
+<p>Meu projeto é um sonho de liberdade. Sonho esse que muitos jogam na minha cara que não pode se tornar realidade. Acho isso um absurdo. Assim como também acho perfeitamente possível, esse sonho se tornar realidade. A ideia é criar um sistema do Zero.  É algo para ser feito a médio e longo prazo, porém será novo e exclusivo.</p>
+
+<p>Gostaria de realizar algo que ninguém até hoje conseguiu realizar. Mas é algo que tenho certeza de que é possível. Para que seja possível, é preciso ter dinheiro. Isso porque os profissionais que preciso pra realizar esse sonho são caros e também são muito difíceis de achar. Mas hoje posso dizer que tenho os profissionais certos e confiáveis para realizar o trabalho:</p>
+
+<p><a class=""alt-link"" href=""https://www.facebook.com/washington.rodrigues.10?fref=ts"" target=""_blank"">https://www.facebook.com/washington.rodrigues.10?fref=ts</a>
+<a class=""alt-link"" href=""https://www.facebook.com/bruno.vescovi.9"" target=""_blank"">https://www.facebook.com/bruno.vescovi.9</a>
+<a class=""alt-link"" href=""https://www.facebook.com/marcioteck"" target=""_blank"">https://www.facebook.com/marcioteck</a></p>
+
+<p>Washington Rodrigues é o criador do sistema operacional linux, BrazilFW, versão 3.x e também é o atual mantenedor.</p>
+
+<p>Confira algo no SourceForge: <a class=""alt-link"" href=""http://sourceforge.net/projects/brazilfw/files/3.x/iso/"" target=""_blank"">http://sourceforge.net/projects/brazilfw/files/3.x/iso/</a></p>
+
+<p>Marcio Oliveira é o atual mantenedor do linux BrazilFW  2.x e Bruno Vescovi é o autor do fork BFWCache 1.x e 2.x. Além de membros antigos do fórum BrazilFW, são programadores experientes e confiáveis.</p>
+
+<p>Eu (Ary Ribeiro), além de membro (beta tester) do fórum BrazilFW, sou também autor desse projeto.</p>
+
+<p>Visite: <a class=""alt-link"" href=""http://www.brazilfw.com.br"" target=""_blank"">www.brazilfw.com.br</a></p>
+
+<p>É possível sim! Basta querer e basta acreditar. 
+Open Source existe pra isso. Para quebrar o monopólio de empresas como a Microsoft e outras mais, que só pensam em dinheiro e com isso acabam prejudicando o desenvolvimento de cidades, empresas e também da inclusão digital em nossa sociedade.</p>
+
+<p>O projeto ERP passou pela fase de planejamento e agora precisa de recursos financeiros para sair do papel.</p>
+
+<p>Além das taxas de praxe do Catarse, cerca de 73 % do valor final aqui arrecadado será usado para pagar os desenvolvedores. E cerca de 14% será usado para pagar despesas referentes a transferência dos valores para contas correntes dos profissionais, assim como a divulgação do projeto nas redes sociais, demais áreas da internet e despesas com a edição / gravação do vídeo informativo, em estúdio. Afinal precisamos explicar bem o projeto e a nossa ideologia Open Source. Precisamos assim, estar alinhados com os apoiadores, antes e depois de cada módulo.</p>
+
+<p>Para pagar os desenvolvedores, o valor arrecadado para o módulo zero será repassado da seguinte forma: 10 mil reais serão entregues mediante contrato assinado no início do trabalho e os outros 10 mil reais serão entregues no término do trabalho, após o módulo ser testado e aprovado pelos apoiadores. O contrato mencionado ( e recibos ) será disponibilizado aqui no Catarse ou no nosso blog, para que todos possam conferir.</p>
+
+<p>O Sistema Operacional usado será o linux, BrazilFW versão 3.x, que atualmente usa um webadmin em PHP, para fins de gerenciamento e administração.</p>
+
+<p>O banco de dados utilizado será o Mysql e a linguagem de programação será PHP.</p>
+
+<p>Estamos propondo um sistema em módulos, afim de organizar todo o projeto e proporcionar escalabilidade e modularidade a ele. Assim, mais tarde, qualquer desenvolvedor ou administrador poderá adicionar novos módulos ou necessidades específicas no sistema, afim de suprir as necessidades distintas de sua empresa. </p>
+
+<p>A ideia aqui é fazer algo completo. Mas o fato de podermos deixar algo com a &quot;nossa cara&quot; ou com a cara da nossa empresa, agrada a muitos.</p>
+
+<p>Como o projeto é MUITO GRANDE, demorado e complexo, estaremos dividindo o mesmo em 15 módulos, aqui no catarse.</p>
+
+<p>Daremos início no módulo zero (que já é complexo) e assim que terminarmos, iniciaremos outra campanha aqui no catarse, para o módulo 1. Mais tarde para o módulo 2 e assim por diante, até chegarmos ao módulo 14.</p>
+
+<p>Os módulos serão interligados. Ou seja, o módulo Zero irá interagir com o módulo Um, de geração de boletos e assim por diante. Do jeito que tem que ser.</p>
+
+<p>Maiores detalhes do que precisamos no ERP:</p>
+
+<p>0 - módulo para controle de clientes. ou seja: cadastro (e edição) de usuário / senha de autenticação, nome, telefones, endereço completo, e-mail, CPF, identidade, ponto de referência, observações, torre utilizada, velocidade (QOS), cadastro de IP (válido ou não), subredes, MAC, cliente que será cobrado e cliente que será isento de mensalidades, opção de marcar manualmente cliente que pagou no mês, avisos, bloqueios, pré-bloqueios, mensagem privada, login de funcionários com privilégios distintos e log das atividades dos mesmos dentro do sistema, gerador de usuário e senha de autenticação temporários (para testes de curta duração, na casa do cliente e campo para inserir o tempo), lista branca (IP de dispositivos que não passam pelo controle) e um portal cliente (hotspot), com autenticação free radius isolando os clientes.</p>
+
+<p>geração de cupons de horas, para clientes temporários. opção de ativar ou não esse recurso. se ativo, será apresentada opção de inserir código (único) do cupom na tela do hotspot, afim de iniciar a navegação temporária. geração de cupons (ou cartão) com tamanho 8 x 5 cm, para ser impresso e vendido avulso e campo pra inserir uma unidade ou várias, a serem impressas. opção para o cupom durar 1 hora ou &quot;N&quot; horas. e velocidade de 1 mega ou &quot;N&quot; megas, a escolher. telas personalizadas enviadas automaticamente após o término do tempo, informando o bloqueio.</p>
+
+<p>informe do consumo de banda do cliente em tempo real, informando download e upload (e o total de download e upload), para fins de diagnóstico da conexão do cliente. </p>
+
+<p>testes de ping para o IP do cliente com apenas um clique, também para fins de diagnóstico e teste de latência da conexão cliente / servidor.</p>
+
+<p>hotspot personalizável com imagens, avisos e área de SAC, no cliente, para envio de mensagens SMS (com opção para enviar e-mail) ,  pedindo suporte técnico ou tirando dúvidas de forma gratuita. 
+telas resumidas e simples de operar. telas de configuração, cadastro e administração resumidas em poucas telas, afim de simplificar e agilizar todo o processo de adição ou remoção de clientes no sistema.
+opções de apresentar o cliente na tela por nome (ordem alfabética), telefone, CPF, identidade, IP, MAC, QOS, bloqueados, pré-bloqueados, liberados, pagos, não pagos, isentos, Online, Offline, data de vencimento, bairro, rua e torre cadastrada. </p>
+
+<p>além do método de autenticação por hotspot com radius, deverá também ser disponibilizado o método de autenticação com servidor PPPoE, onde obrigatoriamente se configura um discador com usuário e senha no cliente. será de livre escolha do administrador, trabalhar com um dos dois métodos.</p>
+
+<p>controle de horário para pais. ou seja, bloqueio e desbloqueio por horário, a pedido do cliente, com aviso na tela informando horário de bloqueio e desbloqueio, informado pelo próprio cliente, afim de controlar horários de acesso.</p>
+
+<p>interação com rádios mikrotik e ubiquiti, afim de adicionar ou remover um determinado endereço MAC da área conhecida como Access List. 
+tela de cadastro de IP, MAC, usuário e senha dos rádios em questão para gerenciamento das listas de MAC em um ou vários rádios ao mesmo tempo. recurso perfeito para agilizar o processo de adição e remoção de clientes do sistema.</p>
+
+<p>aviso de manutenção no sistema, caso a internet caia ou algum link do fornecedor venha a falhar. tela (personalizável) de manutenção enviada ao cliente de forma automática, assim que for detectada a queda do link, evitando problemas e chamados desnecessários. o controle de clientes funcionará normalmente na rede local, mesmo sem internet. 
+opção de botão para travar o sistema e enviar a tela de manutenção, em casos de manutenção de emergência ou preventiva.</p>
+
+<p>opção para backup e restauração do banco de dados (mysql) com dados cadastrados e configurações do sistema.</p>
+
+<p>pré-bloqueio e bloqueio automático por data, configurando dias para os acontecimentos e avisos personalizáveis enviados automaticamente nas telas hotspot, para que seja visto pelo cliente.
+opção pra registrar com segurança o cliente que pagou duas ou mais mensalidades adiantadas.
+opção para o administrador escolher entre a política de cobrança pré-paga ou pós-paga para vigorar no sistema.
+opção de usar ou não o controle automático por boletos bancários, existente no módulo Um, abaixo descrito. </p>
+
+<p>1 - módulo boletos e contratos. módulo para geração de boletos e deixar opção pra cadastrar pelo menos 6 bancos (ou mais) mais conhecidos, além de baixa automática dos clientes pagantes, bloqueio dos que estão pendentes e opções pra receber o boleto na loja, dando baixa manual, usando ou não leitor de código de barras. checagem online automática, dos boletos pagos na rede bancária e posterior desbloqueio e bloqueio automático dos clientes no sistema. possibilidade de dar mais dias de prazo ao cliente que pede, caso ele esteja bloqueado.
+opção de emitir segunda via do boleto (com valor e data atualizados), na tela do hotspot, dando autonomia ao cliente para resolver o problema financeiro de forma local, sem depender de sites na internet. nesse caso, mesmo bloqueado, o cliente digitando seu CPF, terá o acesso a emissão da segunda via, considerando ainda se o sistema é pré-pago ou pós-pago.
+opções para o administrador personalizar os boletos em carnês com várias folhas ou boleto único em tamanho A4. opções para incluir instruções diversas de recebimento, que serão acatadas pelo caixa do banco.
+opções para personalizar as capas dos carnês com logomarcas e tamanhos de fonte distintos.
+módulo para emissão de contrato em duas vias, com opção de inserir textos vindos de modelos do Word ou criados do zero, inserindo textos, logomarcas e quantas páginas quiser.</p>
+
+<p>2- um modulo pra geração de protocolos de atendimento telefônico. quando o cliente liga, é gerado um número q deve ser passado ao cliente e no fim do mês, passado pra Anatel. relatório de chamadas atendidas e protocolos gerados.</p>
+
+<p>3 -  geração de log de navegação do cliente, para casos de uso de NAT no provedor. no caso, log  do acessos http, https, ftp e outros. informação de IP, MAC, URL completa visitada, portas utilizadas, data e hora.</p>
+
+<p>4 - módulo relatórios. relatório dos clientes cadastrados, assim como fornecedores, funcionários e bancos. listagem dos relatórios por nomes, endereços, bairros, cidades, estado, IP, MAC, QOS, telefone, cpf, identidade, torre e filial.</p>
+
+<p>5 - ordem de serviço e emissão de recibos e fichas. emissão de OS com via do cliente e via da empresa. incluindo serviços diversos na loja,  reparo de instalação com problemas, instalação nova e ficha de cadastro de novos clientes na tela. geração de relatório das ordens, fichas e emissão de recibos aos clientes. recibos gerados em PDF para envio por email ou impresso na hora.</p>
+
+<p>6 - folha de pagamento. com relatórios e estatísticas mensais e anuais.</p>
+
+<p>7 - controle financeiro e contabilidade c/ relatório de tudo q entrou e saiu, além de mostrar médias, lucros, contas a pagar, receber e bancos e etc</p>
+
+<p>8 - cadastro de fornecedores e funcionários. portfólio de empresas e currículos de funcionários, além dos dados cadastrais necessários.</p>
+
+<p>9 - módulo de acesso remoto. funcionamento via webadmin, internamente ou externamente (remoto). assim como será acessado localmente, será acessado remotamente via webadmin, de qualquer lugar que tenha internet.</p>
+
+<p>10 - cadastro de usuários do sistema com privilégios distintos e  geração de log´s de utilização dos mesmos.</p>
+
+<p>11 - módulo inventário para cadastro e gerenciamento de patrimônio da empresa. cadastro de equipamentos, móveis, imóveis, etc, q a empresa possui.</p>
+
+<p>12 - controle de estoque. quantas antenas, quantos roteadores, o que está acabando, etc...</p>
+
+<p>13 - rastreamento e histórico de tudo que entrar e sair. ex.: de onde veio e pra onde foi os parafusos, antenas, fios, cabos, etc...</p>
+
+<p>14 - um módulo pra geração de nota fiscal modelo 21 e nota fiscal eletrônica.</p>
+
+<p>Acredito que os módulos listados de zero a 14 está do jeito que precisamos. Mas podemos melhorar ainda mais, com o andamento do projeto. Devemos estar unidos nesse momento e sugestões melhores e adicionais serão bem vindas.</p>
+
+<p>Nossa estimativa para conclusão de TODOS os módulos do projeto é de três anos ou mais. Quem é desenvolvedor sabe o quanto é complexo e demorado realizar tal coisa.</p>
+
+<p>Demanda muito tempo e muito trabalho. Estamos falando aqui de tempo integral dos profissionais. Os mesmos estarão entregues ao projeto, deixando de realizar outros trabalhos, assim como também estarão sacrificando algumas horas de suas vidas pessoais.</p>
+
+<p>Assim, após concluirmos a arrecadação dos recursos, começará a fase de execução do projeto com o módulo zero. E começará a contagem do tempo para cumprir o cronograma. A previsão para entrega do módulo zero, de controle de clientes, é de até  6 meses após o início do projeto, podendo ser entregue antes. </p>
+
+<p>As primeiras versões de teste, que incluem o módulo zero, serão entregues aos apoiadores para fins de teste e avaliação. Será entregue link para baixar os arquivos instaladores e instruções iniciais. Sugestões de melhorias e relatos dos testes realizados pelos apoiadores, poderão também ser postadas no Blog da minha empresa: <a class=""alt-link"" href=""http://internetamiga.com.br/blog/?page_id=158"" target=""_blank"">http://internetamiga.com.br/blog/?page_id=158</a></p>
+
+<p>Se você não é empresário ou dono de provedor, mas é usuário Linux ou simpatiza com a causa Open Source, contribua com nosso projeto. Contribua para um mundo melhor.</p>
+
+<p>Obrigado a todos.</p>
+",ERP,//www.youtube.com/embed/2HfK-jAk4zY,http://www.youtube.com/watch?v=2HfK-jAk4zY,"Ciência e Tecnologia",18,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/3486/bfw.jpg,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/3486/project_thumb_thumb_bfw.jpg,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/3486/project_thumb_small_bfw.jpg,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/3486/project_thumb_large_bfw.jpg,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/3486/project_thumb_video_cover_bfw.jpg,3.96296296296296296300,1070.0,18,17,failed,aon,finished,"2014-03-17 02:59:59","2014-03-16 23:59:59","2014-01-15 20:48:43.774974","2014-01-15 18:48:43.774974",,t,t,f,60,"{""total"" : 0, ""unit"" : ""seconds""}","{""total"" : 60, ""unit"" : ""days""}",2,"{""city"" : ""São Paulo"", ""state_acronym"" : ""SP"", ""state"" : ""São Paulo""}","{""id"" : 179787, ""name"" : ""jose ary ribeiro morari""}",0,,f,f,2,f,f,f

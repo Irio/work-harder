@@ -1,0 +1,139 @@
+project_id,id,user_id,name,headline,budget,goal,about_html,permalink,video_embed_url,video_url,category_name,category_id,original_image,thumb_image,small_image,large_image,video_cover_image,progress,pledged,total_contributions,total_contributors,state,mode,state_order,expires_at,zone_expires_at,online_date,zone_online_date,sent_to_analysis_at,is_published,is_expired,open_for_contributions,online_days,remaining_time,elapsed_time,posts_count,address,user,reminder_count,is_owner_or_admin,user_signed_in,in_reminder,total_posts,can_request_transfer,is_admin_role,contributed_by_friends
+6738,6738,316738,"Projeto Polímata - NodeJS","Aprender a aprender é a habilidade mais inteligente que podemos desenvolver.","O orçamento para projetos anteriores a 24/02/2015 normalmente pode ser encontrado na descrição acima.",13000.0,"<h1>Entendendo o Todo</h1>
+
+<p>O Projeto Polímata, de forma geral, foi criado para incentivar seus colaboradores e beneficiados a desbravar diversas áreas do conhecimento e atividade humana.</p>
+
+<p>Os materiais gerados neste projeto SEMPRE estarão disponíveis GRATUITAMENTE, pois o conhecimento não deve ser impedido de chegar a quem o deseja por limitações financeiras.</p>
+
+<p>Para cada tema serão aplicadas abordagens e metodologias diferentes, resultando em um material ímpar, visando que este seja o mais completo criado até então.</p>
+
+<p>Este material sempre será confeccionado como um guia teórico e prático para que um leigo possa estudá-lo e se tornar um conhecedor do tema, com conhecimento, no mínimo, de nível intermediário.</p>
+
+<h1>Escolha do primeiro curso</h1>
+
+<p>Para escolha do nosso primeiro curso/material criado, foi feita uma votação que pode ser vista neste link: <a class=""alt-link"" href=""https://ericdouglas.typeform.com/to/Yw8QzZ"" target=""_blank"">https://ericdouglas.typeform.com/to/Yw8QzZ</a> </p>
+
+<p>Nessa votação, o tema escolhido foi o NodeJS!</p>
+
+<h1>Projeto Polímata - NodeJS</h1>
+
+<p>Os materiais que irão compor este curso serão:</p>
+
+<ol>
+<li><p>Livro Teórico (formato: pdf, epub, mobi)</p></li>
+<li><p>Projeto Prático</p></li>
+<li><p>Áudio Livro (adaptado do livro teórico)</p></li>
+<li><p>Caderno de Exercícios (formato: pdf, epub, mobi)</p></li>
+<li><p>Curso em vídeo (equivalente ao livro teórico)</p></li>
+</ol>
+
+<h1>Conhecendo o Material</h1>
+
+<p>Para que você tenha uma noção real do que será feito no projeto, confira a descrição de como será cada tipo de material citado.</p>
+
+<ul>
+<li>Livro Teórico </li>
+</ul>
+
+<p>Será dividido basicamente em 3 partes. </p>
+
+<pre><code>Parte I - Será uma introdução a Ciência da Computação utilizando o NodeJS. Após os conhecimentos adquiridos nessa etapa, o estudante estará apto à escrever pequenos programas, mapear problemas científicos em algoritmos, tendo toda a base lógica necessária para se programar em qualquer linguagem.
+
+Parte II - Aqui iremos aprofundar nos módulos básicos do NodeJS, como Stream, File System, Process, dentre outros, começando a realmente por a mão na massa e criar nossos primeiros programas com essa tecnologia.
+
+Parte III - Na etapa final do curso, iremos aprender a trabalhar com os principais frameworks utilizados pela comunidade NodeJS, com mais exemplos de uso e aplicações para entendimento dos mesmos.
+</code></pre>
+
+<p>Todo material escrito ficará disponível para download no site <a class=""alt-link"" href=""https://leanpub.com"" target=""_blank"">https://leanpub.com</a></p>
+
+<ul>
+<li>Projeto Prático</li>
+</ul>
+
+<p>Iremos criar um sistema onde cada usuário poderá logar e salvar links, sendo que estes ficarão separados por categorias. A finalidade deste sistema é ser um gerenciador de links estudados, onde iremos separar e quantificar o quanto estudamos de cada matéria.</p>
+
+<p>ps: Ao decorrer do curso novas funcionalidades poderão ser adicionadas ao sistema.</p>
+
+<ul>
+<li>Áudio Livro</li>
+</ul>
+
+<p>O objetivo do áudio livro é facilitar para quem tem pouco tempo para ler, ou que passa muito tempo no trânsito, poder estudar de forma mais cômoda e otimizada.</p>
+
+<p>Será uma adaptação do livro teórico em formato de aula, contendo os mesmos assuntos abordados em tal.</p>
+
+<ul>
+<li>Caderno de Exercícios</li>
+</ul>
+
+<p>Neste material teremos diversos exercícios propostos e resolvidos de acordo com os temas estudados em cada parte do livro teórico, sendo um complemento essencial para fixação do conteúdo aprendido.</p>
+
+<p>Primeiramente teremos os exercícios propostos, onde o estudante deverá tentar resolvê-lo sem verificar a resolução. Caso não consiga desenvolver o que foi pedido, o estudante terá a sua disposição uma (ou mais) formas de resolução do exercício.</p>
+
+<ul>
+<li>Curso em Vídeo</li>
+</ul>
+
+<p>Sabemos que algumas pessoas aprendem melhor com vídeo aulas do que com livros. Esse material será o equivalente a soma de todos os outros, porém no formato de vídeo-aulas.</p>
+
+<h1>Parceria Webschool.io</h1>
+
+<p>Por ter recebido um convite do grande divulgador nacional do JavaScript, Jean Carlo Nascimento (Suissa), para ser professor da sua escola Webschool.io, fizemos uma parceria onde os materiais criados neste projeto ficarão disponíveis para download no site da Webschool.</p>
+
+<p><img src=""http://i.imgur.com/1iigDMh.jpg"" alt=""""/></p>
+
+<h1>Financiamento e Recompensa</h1>
+
+<p>Como já foi dito anteriormente, o material produzido ficará disponível gratuitamente para qualquer pessoa usufruir do mesmo, porém, isso não significa que ele não terá um custo para ser produzido, muito pelo contrário! Se a proposta é deixar disponível um material de excelente qualidade, seu &quot;custo de fabricação&quot; será igual ou maior a qualquer outro.</p>
+
+<p>Mas ai você pode pensar: &quot;Se terei o material de forma gratuita, por que contribuir?&quot;</p>
+
+<p>Pelo simples motivo de que essa contribuição será um presente seu para o autor, assim como o autor irá lhe presentear caso seja alcançada as metas de arrecadação, descritas logo abaixo.</p>
+
+<p>As recompensas serão basicamente as mesmas: Todos os colaboradores terão seus nomes creditados no início do livro, na sessão de agradecimentos. Para as contribuições maiores, além do nome da pessoa ou empresa aparecer nos agradecimentos do livro, também será colocado o nome da pessoa ou logo da empresa na capa do livro e no início de cada vídeo do curso.</p>
+
+<p>Lembrem-se, a ajuda é de acordo com sua disponibilidade e interesse nessa iniciativa como um tudo. Colaborar financiando este projeto é algo bem maior que apenas pagar por um curso, mas de fato, é colaborar para uma forma totalmente nova de compartilhamento de conhecimento e desenvolvimento cognitivo, incentivando cada vez mais as pessoas a conhecerem mais sobre diversas áreas, onde a experiência adquirida em cada uma é fator diferencial para potencialização de resultados em todas.</p>
+
+<h1>Etapas de Arrecadação</h1>
+
+<p>Temos 5 metas de arrecadação, onde em cada uma teremos mais um material disponibilizado de forma GRATUITA para todos!</p>
+
+<ul>
+<li><p>R$ 13.000 : livro teórico + projeto prático</p></li>
+<li><p>R$ 16.000 : livro teórico + projeto prático + áudio livro</p></li>
+<li><p>R$ 20.000 : livro teórico + projeto prático + áudio livro + caderno de exercícios</p></li>
+<li><p>R$ 25.000 : livro teórico + projeto prático + áudio livro + caderno de exercícios + curso em vídeo</p></li>
+<li><p>R$ 40.000 : Caso o valor arrecadado ultrapasse esta quantia, será feito mais um curso completo de JavaScript, do básico ao avançado!!!</p></li>
+</ul>
+
+<h1>Mais projetos do autor</h1>
+
+<p>Confira abaixo alguns outros projetos que iniciei com o mesmo objetivo deste projeto apresentado: compartilhar conhecimento!</p>
+
+<ul>
+<li>Traduz-ai: Projeto de grande sucesso onde traduzo artigos para nosso idioma. <a class=""alt-link"" href=""https://github.com/ericdouglas/traduz-ai"" target=""_blank"">https://github.com/ericdouglas/traduz-ai</a></li>
+</ul>
+
+<p>ps: Citação do projeto traduz-ai pela Revista InfoAbril como referência de material para estudo de desenvolvimento web. <a class=""alt-link"" href=""http://info.abril.com.br/noticias/it-solutions/2014/04/acervo-online-reune-materiais-gratuitos-sobre-linguagens-sistemas-e-ciencias-da-computacao.shtml"" target=""_blank"">http://info.abril.com.br/noticias/it-solutions/2014/04/acervo-online-reune-materiais-gratuitos-sobre-linguagens-sistemas-e-ciencias-da-computacao.shtml</a></p>
+
+<ul>
+<li><p>JavaScript Furtivo: livro de minha autoria disponibilizado de forma gratuita. <a class=""alt-link"" href=""https://leanpub.com/javascriptfurtivo/"" target=""_blank"">https://leanpub.com/javascriptfurtivo/</a></p></li>
+<li><p>Dev-Log: registro de estudos sobre desenvolvimento web. <a class=""alt-link"" href=""https://github.com/ericdouglas/dev-log"" target=""_blank"">https://github.com/ericdouglas/dev-log</a></p></li>
+<li><p>Blog: <a class=""alt-link"" href=""http://ericdouglas.github.io/"" target=""_blank"">http://ericdouglas.github.io/</a></p></li>
+<li><p>jasmine-br-docs: Tradução da documentação da versão 2.0.0 do framework Jasmine para testes de código JavaScript. <a class=""alt-link"" href=""http://ericdouglas.github.io/jasmine-br-docs/"" target=""_blank"">http://ericdouglas.github.io/jasmine-br-docs/</a></p></li>
+<li><p>ES6-Learning: Compilação de materiais para estudo da ECMAScript 6. <a class=""alt-link"" href=""https://github.com/ericdouglas/ES6-Learning"" target=""_blank"">https://github.com/ericdouglas/ES6-Learning</a></p></li>
+<li><p>MEAN-Learning: Compilação de materiais para estudo da stack MEAN. <a class=""alt-link"" href=""https://github.com/ericdouglas/MEAN-Learning"" target=""_blank"">https://github.com/ericdouglas/MEAN-Learning</a></p></li>
+<li><p>Meteor-Learning: Compilação de links para estudo de Meteor. <a class=""alt-link"" href=""https://github.com/ericdouglas/Meteor-Learning"" target=""_blank"">https://github.com/ericdouglas/Meteor-Learning</a></p></li>
+<li><p>web-proudcast: Site para reunir podcasts e palestras em áudio com conteúdo técnico para profissionais da web! <a class=""alt-link"" href=""http://ericdouglas.github.io/web-proudcast/"" target=""_blank"">http://ericdouglas.github.io/web-proudcast/</a></p></li>
+<li><p>Codecademy-solutions: Disponibilização de exercícios resolvidos dos cursos do Codecademy. <a class=""alt-link"" href=""https://github.com/ericdouglas/codecademy-solutions"" target=""_blank"">https://github.com/ericdouglas/codecademy-solutions</a></p></li>
+<li><p>nodeschoolcast: Exercícios resolvidos do site NodeSchool. <a class=""alt-link"" href=""https://github.com/ericdouglas/nodeschoolcast"" target=""_blank"">https://github.com/ericdouglas/nodeschoolcast</a></p></li>
+<li><p>gridJS: Adaptação de um guia de design responsivo utilizando os pré-processadores Jade e Stylus. <a class=""alt-link"" href=""http://ericdouglas.github.io/gridJS/"" target=""_blank"">http://ericdouglas.github.io/gridJS/</a></p></li>
+<li><p>angularjs-style-guide: tradução deste guia de estilos para AngularJS. <a class=""alt-link"" href=""https://github.com/ericdouglas/angularjs-style-guide"" target=""_blank"">https://github.com/ericdouglas/angularjs-style-guide</a></p></li>
+</ul>
+
+<h1>Agradecimento Final</h1>
+
+<p>Para você que se dispos a entender o projeto, meu sincero muito obrigado! Caso tenha gostado e se interessado em fazer parte do mesmo, será uma honra para mim tê-lo como colaborador!</p>
+
+<p>Um grande abraço, e bons estudos a todos nós!</p>
+",polimata-nodejs,//www.youtube.com/embed/EIdjHoSZSxc,https://www.youtube.com/watch?v=EIdjHoSZSxc,Educação,31,,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/video_thumbnail/6738/project_thumb_thumb_open-uri20140820-2-1ml3z4n,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/video_thumbnail/6738/project_thumb_small_open-uri20140820-2-1ml3z4n,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/video_thumbnail/6738/project_thumb_large_open-uri20140820-2-1ml3z4n,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/video_thumbnail/6738/project_thumb_video_cover_open-uri20140820-2-1ml3z4n,2.19230769230769230800,285.0,10,10,failed,aon,finished,"2014-10-22 01:59:59","2014-10-21 23:59:59","2014-08-22 19:17:31.669367","2014-08-22 16:17:31.669367",,t,t,f,60,"{""total"" : 0, ""unit"" : ""seconds""}","{""total"" : 60, ""unit"" : ""days""}",0,"{""city"" : ""Pouso Alegre"", ""state_acronym"" : ""MG"", ""state"" : ""Minas Gerais""}","{""id"" : 316738, ""name"" : ""Eric Douglas Ferreira de Oliveira""}",0,,f,f,0,f,f,f

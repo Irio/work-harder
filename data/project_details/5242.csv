@@ -1,0 +1,83 @@
+project_id,id,user_id,name,headline,budget,goal,about_html,permalink,video_embed_url,video_url,category_name,category_id,original_image,thumb_image,small_image,large_image,video_cover_image,progress,pledged,total_contributions,total_contributors,state,mode,state_order,expires_at,zone_expires_at,online_date,zone_online_date,sent_to_analysis_at,is_published,is_expired,open_for_contributions,online_days,remaining_time,elapsed_time,posts_count,address,user,reminder_count,is_owner_or_admin,user_signed_in,in_reminder,total_posts,can_request_transfer,is_admin_role,contributed_by_friends
+5242,5242,2261,"AppCirandas: um aplicativo da Economia Solidária para o Facebook","Ajude a economia solidária a ocupar o facebook!","O orçamento para projetos anteriores a 24/02/2015 normalmente pode ser encontrado na descrição acima.",23475.0,"<p><em>Ajude a Economia Solidária a ocupar o Facebook!</em></p>
+
+<p>O <a class=""alt-link"" target=""_blank"" href=""http://cirandas.net"">Cirandas.net</a> existe desde 2009, e tem hoje mais de 650 grupos produtivos de economia solidária mostrando mais de 1.800 produtos e serviços, abrangendo os 27 estados do país.</p>
+
+<p>A ideia deste projeto é desenvolver um aplicativo que permitirá que usuários do facebook criem uma <em>loja virtual com os produtos dos empreendimentos de economia solidária do Cirandas</em>. A <em>Loja da Economia Solidária no Facebook</em> poderá ter produtos de um ou mais empreendimentos solidários. Esta loja poderá ser <em>TEMÁTICA</em> (por exemplo uma loja de produtos  feitos por mulheres, ou de produtos agroecológicos), <em>TERRITORIAL</em> (por exemplo, uma loja de produtos de São Paulo) ou de <em>UM OU MAIS EMPREENDIMENTOS SOLIDÁRIOS</em> específicos. Veja abaixo a imagem de um protótipo ainda inicial:</p>
+
+<p><img src=""http://dtygel.eita.org.br/cirandas_fb/loja_ecosol_cirandas.png"" alt=""""/>
+<em>(protótipo de loja em teste na página <a class=""alt-link"" href=""https://www.facebook.com/lojartgravata/app"" target=""_blank"">https://www.facebook.com/lojartgravata/app</a></em>231071397085577)_</p>
+
+<p>Este aplicativo permitirá, além disso, uma <em>ligação automática com a linha do tempo do seu perfil no facebook</em>, notificando, para seus amigos e contatos do facebook, os eventos do cirandas, como por exemplo quando um novo produto é adicionado ao Cirandas, ou quando acontece uma oferta de um produto existente, ou quando um novo conteúdo de economia solidária é postado no cirandas, entre outras possibilidades.</p>
+
+<p><img src=""http://dtygel.eita.org.br/cirandas_fb/facebook_exemplo1_cortada.png"" alt=""""/>
+<em>(simulação)</em></p>
+
+<hr>
+
+<p><em>Queremos, assim, contribuir para dar maior visibilidade a uma outra economia, em que a vida, a comunidade e a cooperação são o centro, e não o lucro e o individualismo. Ao promover a Economia Solidária para mais pessoas, a sociedade se conscientiza de que é possível vivermos em um mundo justo, solidário e em que não exista a marginalização e a pobreza</em>. </p>
+
+<p>Seus amigos e conhecidos poderão encontrar produtos de ótima qualidade de todos os tipos, feitos por catadoras/es, mulheres, indígenas, agricultoras/es familiares, pessoas em situação de vulnerabilidade social, cooperativas territoriais, do comércio justo e solidário, entre outros!!</p>
+
+<p>Para apresentarmos este projeto no Catarse, fizemos uma pesquisa junto aos mais de 7.000 usuários do <a class=""alt-link"" target=""_blank"" href=""http://cirandas.net"">Cirandas.net</a>,  para saber se era importante desenvolver o aplicativo cirandas.net para facebook e se estariam dispostos a contribuir financeiramente com o projeto. Em 5 dias, mais de 730 pessoas responderam, indicando que é importante o projeto e que teriam disposição para contribuir. Isso nos animou a lançar o projeto!</p>
+
+<hr>
+
+<p><em>E o que é o &lt;a target=&quot;_blank&quot; href=&quot;<a class=""alt-link"" href=""http://cirandas.net"" target=""_blank"">http://cirandas.net</a>?</em>&quot;&gt;Cirandas.net</a></p>
+
+<p>O <a class=""alt-link"" target=""_blank"" href=""http://cirandas.net"">Cirandas.net</a> é uma rede social e econômica sem fins lucrativos. Ele surgiu por iniciativa do <a class=""alt-link"" target=""_blank"" href=""http://fbes.org.br"">FBES (Fórum Brasileiro de Economia Solidária)</a> com o objetivo oferecer ferramentas na internet em software livre para apoiar a articulação econômica, social e política de quem faz Economia Solidária e assim fortalecer este movimento social. O <a class=""alt-link"" target=""_blank"" href=""http://cirandas.net"">Cirandas.net</a> é um espaço democrático de divulgação da economia solidária e da busca de seus produtos e serviços para consumidores individuais e coletivos. </p>
+
+<p>Cada empreendimento solidário tem gratuitamente seu site no  <a class=""alt-link"" target=""_blank"" href=""http://cirandas.net"">Cirandas.net</a>, em que pode contar sua história, disponibilizar seus produtos e receber pedidos na loja virtual. Saiba mais sobre o que é o Cirandas em <a class=""alt-link"" href=""http://cirandas.net/fbes/o-que-e-o-cirandas"" target=""_blank"">http://cirandas.net/fbes/o-que-e-o-cirandas</a></p>
+
+<hr>
+
+<p><em>Imagens de dois dos 650 empreendimentos solidários ativos hoje no cirandas:</em></p>
+
+<p><img src=""http://dtygel.eita.org.br/cirandas_fb/screenshot_adocci.png"" alt=""""/>
+<em>(página da &lt;a target=&quot;</em>blank&quot; href=&quot;<a class=""alt-link"" href=""http://cirandas.net/adocci)_&quot;&gt;Adocci"" target=""_blank"">http://cirandas.net/adocci)_&quot;&gt;Adocci</a></a></p>
+
+<p><img src=""http://dtygel.eita.org.br/cirandas_fb/screenshot_redeostra.png"" alt=""""/>
+<em>(página da &lt;a target=&quot;</em>blank&quot; href=&quot;<a class=""alt-link"" href=""http://cirandas.net/redeostra)_&quot;&gt;Rede"" target=""_blank"">http://cirandas.net/redeostra)_&quot;&gt;Rede</a> Ostra</a></p>
+
+<hr>
+
+<p><em>Como será usado o recurso?</em></p>
+
+<p>Se conseguirmos alcançar a meta, o recurso deste projeto será utilizado para:</p>
+
+<p>. Realizar uma especificação e estudo estratégico sobre como permitir que a economia solidária tenha mais visibilidade aproveitando o Facebook.</p>
+
+<p>. Desenvolver um aplicativo do Cirandas.net para o Facebook.</p>
+
+<p>. Produzir material de orientações: vídeos,  banners e conteúdos sobre como instalar e usar o aplicativo.</p>
+
+<p>Abaixo disponibilizamos uma planilha com a distribuição dos custos:
+<img src=""http://dtygel.eita.org.br/cirandas_fb/orcamento2.jpg"" alt=""""/></p>
+
+<p>O aplicativo será desenvolvido pela cooperativa <a class=""alt-link"" target=""_blank"" href=""http://eita.org.br"">EITA (Educação, Informação e Tecnologia para Autogestão)</a>, que é a gestora técnica do <a class=""alt-link"" target=""_blank"" href=""http://cirandas.net"">Cirandas.net</a> e aliada do <a class=""alt-link"" target=""_blank"" href=""http://fbes.org.br"">FBES</a> na sua manutenção, melhorias e dinamização.</p>
+
+<hr>
+
+<p><em>Eu quero mais...</em></p>
+
+<p>Nós também! Caso consigamos ultrapassar a meta de R$ 23.475,00, temos duas outras ideias super legais para o <a class=""alt-link"" target=""_blank"" href=""http://cirandas.net:"">Cirandas.net</a></p>
+
+<ol>
+<li><p><em>Se atingirmos 30 mil reais</em>: Adaptar o Cirandas.net para celulares e tablets, desenvolvendo uma plataforma do Cirandas.net especial para ser usado diretamente em aparelhos móveis como celulares e tablets!</p></li>
+<li><p><em>Se atingirmos 40 mil reais</em>: Desenvolver novas funcionalidades para empreendimentos solidários no Cirandas.net indicadas participativamente pelos empreendimentos  solidários aqui: <a class=""alt-link"" href=""http://e.eita.org.br/ideiascirandas"" target=""_blank"">http://e.eita.org.br/ideiascirandas</a></p></li>
+</ol>
+
+<hr>
+
+<p><em>Poxa, legal: mas o que é Economia Solidária?</em></p>
+
+<p>A economia solidária é um movimento social que luta pela mudança da sociedade e pela superação do capitalismo, tendo como base a democratização da economia por meio da produção e reprodução da vida de forma justa, solidária, autogestionária e sustentável. </p>
+
+<p><img src=""http://www.adital.com.br/arquivos/feira%20de%20economia%20solidaria%202.jpg"" alt=""""/></p>
+
+<p>Ela se expressa em iniciativas de organização coletiva, como grupos produtivos, associações e cooperativas, também conhecidos como <em>empreendimentos econômicos solidários</em>, que atuam nos setores de produção rural e urbana, serviços, consumo, educação, cultura, finanças solidárias e comércio justo e solidário. </p>
+
+<p>Também contribuem para o desenvolvimento da economia solidária organizações da sociedade civil (como ONGs, fundações e outras entidades) e órgãos da gestão pública que implementam ações de fomento na perspectiva emancipatória e de organização para o trabalho autogestionário. Atualmente o movimento se organiza em redes e fóruns de articulação destes trabalhadores/as no país e também com atuação em redes internacionais.</p>
+
+<p>Para saber mais sobre Economia Solidária, acesse o site do <a class=""alt-link"" target=""_blank"" href=""http://fbes.org.br"">FBES - Fórum Brasileiro de Economia Solidária</a> (<a class=""alt-link"" href=""http://fbes.org.br"" target=""_blank"">http://fbes.org.br</a>)</p>
+",cirandasnoface,//www.youtube.com/embed/8dL8c7h7cA8,http://youtu.be/8dL8c7h7cA8,"Ciência e Tecnologia",18,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/5242/FBES_logo_sem_texto_quadrado_400x400_sombreado.png,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/5242/project_thumb_thumb_FBES_logo_sem_texto_quadrado_400x400_sombreado.png,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/5242/project_thumb_small_FBES_logo_sem_texto_quadrado_400x400_sombreado.png,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/5242/project_thumb_large_FBES_logo_sem_texto_quadrado_400x400_sombreado.png,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/5242/project_thumb_video_cover_FBES_logo_sem_texto_quadrado_400x400_sombreado.png,113.13738019169329073500,26559.0,418,388,successful,aon,finished,"2014-07-22 02:59:59","2014-07-21 23:59:59","2014-05-22 14:13:16.945779","2014-05-22 11:13:16.945779",,t,t,f,60,"{""total"" : 0, ""unit"" : ""seconds""}","{""total"" : 60, ""unit"" : ""days""}",10,"{""city"" : ""Novo Hamburgo"", ""state_acronym"" : ""RS"", ""state"" : ""Rio Grande do Sul""}","{""id"" : 2261, ""name"" : ""EITA - Cooperativa de Trabalho Educação, Informação e Tecnologia para Autogestão""}",0,,f,f,10,f,f,f

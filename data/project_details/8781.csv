@@ -1,0 +1,54 @@
+project_id,id,user_id,name,headline,budget,goal,about_html,permalink,video_embed_url,video_url,category_name,category_id,original_image,thumb_image,small_image,large_image,video_cover_image,progress,pledged,total_contributions,total_contributors,state,mode,state_order,expires_at,zone_expires_at,online_date,zone_online_date,sent_to_analysis_at,is_published,is_expired,open_for_contributions,online_days,remaining_time,elapsed_time,posts_count,address,user,reminder_count,is_owner_or_admin,user_signed_in,in_reminder,total_posts,can_request_transfer,is_admin_role,contributed_by_friends
+8781,8781,366864,"X Studio: Mídia social para músicos e amantes de música","Create music, together.","O orçamento para projetos anteriores a 24/02/2015 normalmente pode ser encontrado na descrição acima.",20000.0,"<p><em>English description below</em></p>
+
+<p><strong>Create music, together</strong></p>
+
+<p>Já imaginou uma plataforma onde se pudesse criar música junto com pessoas de várias partes do mundo? Estimular desde músicos iniciantes, de garagem até os mais experientes a fazerem parte de um mesmo projeto musical?
+Pois então, para isso apresentamos nosso projeto chamado X Studio, uma plataforma em nuvem que possibilitará a criação de música colaborativa. Um lugar onde se poderá ter seu perfil e fazer parte de uma comunidade disposta a ajudar pelo gosto de fazer música.</p>
+
+<p><strong>Como irá funcionar</strong></p>
+
+<p>Será uma plataforma online com estilo de redes sociais, onde se poderá adicionar novos músicos, conversar com eles, postar ideias, combinar projetos, etc. Será baseado em controle de versionamento, ou seja, qualquer pessoas pode alterar o projeto e mesmo assim a versão anterior ainda ficará guardada. Os projetos ficarão a cargo dos usuários, podendo ser baixados e alterados, recebendo novas ideias, comentários e críticas. </p>
+
+<p><strong>Um espaço para divulgação</strong></p>
+
+<p>Juntar pessoas que, talvez, ainda nem se conheçam para realizar simplesmente música, poderá abrir novas portas até, quem sabe, profissionalmente. Quantas pessoas que tocam em festinhas, garagens e rodas de amigos podem ajudar outras iniciantes ou, até mesmo, se descobrir como músico e partir para algo mais sério. Ou pessoas que às vezes tem ideias, já até concretas, como trilhas de algum instrumento, e não conseguem encontrar outros músicos para completar a música, poderá ser auxiliado pela nossa ferramenta. Um espaço para estimular a criatividade e colaboração, além de poder divulgar o seu trabalho.</p>
+
+<p><strong>Como iremos usar o dinheiro</strong></p>
+
+<p>Com uma meta de R$ 20.000, usaremos para o desenvolvimento da plataforma, armazenamento em nuvem, testes, implementação, marketing e taxa do Catarse. </p>
+
+<p><strong>Para o futuro</strong></p>
+
+<p>E se você se destacar em nossa plataforma, tanto a chamar atenção de produtores e gravadoras? Podemos fazer uma ponte entre o músico e a gravadora, obviamente ganhando uma taxa de participação no negócio. Podendo haver uma relação de reciprocidade entre nossos usuários e a gente.</p>
+
+<p><strong>Recompensas</strong></p>
+
+<p><em>R$ 15</em>:    Acesso <em>premium</em> ao sistema por um ano, podendo inclusive usar a ferramenta para fins de contratação profissional.
+<em>R$ 30</em>: Acesso <em>premium</em> ao sistema por um ano, podendo inclusive usar a ferramenta para fins de contratação profissional + nome nos créditos da música.
+<em>R$ 40</em>: Acesso <em>premium</em> ao sistema por um ano, podendo inclusive usar a ferramenta para fins de contratação profissional + nome nos créditos da música + nome na página inicial da rede.</p>
+
+<p><strong>Lembrando que...</strong></p>
+
+<p>A nossa ideia ainda está em apreciação, estamos abertos a críticas e sugestões. Então comente. :)</p>
+
+<p><img src=""http://i.imgur.com/yCGx3IZ.png"" alt=""""/>
+<img src=""http://i.imgur.com/99PeuOG.png"" alt=""""/></p>
+
+<p>Yeah! We are musicians. We make music
+And we believe that music makes a better world.
+We are collaborative, we know what we want. We make the difference. Create collaborative and online music may be a dream. But, we are musicians! We make dreams come true. X Studio. Create music, together.</p>
+
+<p>Hello, folks. My name is Rafael Salgueiroza and I&#39;m the project creator of X Studio.
+With me, to make things done, are Aldori Philipe, Bruno Schmidt and Felipe Eguimar.
+Our idea is a create a new social network, to musicians.
+Today, the musician have tools to post his content on web, but only
+the result of his music. What we want is create a social network
+that encourage the collaboration between musicians. By the way, the musician may post his music from beginning, and accepting the collaboration of other musicians that come to work together to create new songs.</p>
+
+<p>For example: a musician in some place of country, plays a particular music style. Other musician, of another world place, plays a typical instrument from that region, but it will fit well in this music. Imagine
+if both can meet virtually and let the needed files available
+to record together the same music! It would be great, isn&#39;t?</p>
+
+<p>X Studio. Create music, together.</p>
+",xstudio,//www.youtube.com/embed/wStq5VuIlzE,https://www.youtube.com/watch?v=wStq5VuIlzE,Música,16,,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/video_thumbnail/8781/project_thumb_thumb_open-uri20141125-2-1oyvch7,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/video_thumbnail/8781/project_thumb_small_open-uri20141125-2-1oyvch7,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/video_thumbnail/8781/project_thumb_large_open-uri20141125-2-1oyvch7,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/video_thumbnail/8781/project_thumb_video_cover_open-uri20141125-2-1oyvch7,0.07500000000000000000,15.0,1,1,failed,aon,finished,"2015-01-12 01:59:59","2015-01-11 23:59:59","2014-12-02 20:02:15.24097","2014-12-02 18:02:15.24097",,t,t,f,40,"{""total"" : 0, ""unit"" : ""seconds""}","{""total"" : 40, ""unit"" : ""days""}",0,"{""city"" : ""Lages"", ""state_acronym"" : ""SC"", ""state"" : ""Santa Catarina""}","{""id"" : 366864, ""name"" : ""Rafael Amaral Salgueiroza""}",0,,f,f,0,f,f,f

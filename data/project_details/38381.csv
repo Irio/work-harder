@@ -1,0 +1,107 @@
+project_id,id,user_id,name,headline,budget,goal,about_html,permalink,video_embed_url,video_url,category_name,category_id,original_image,thumb_image,small_image,large_image,video_cover_image,progress,pledged,total_contributions,total_contributors,state,mode,state_order,expires_at,zone_expires_at,online_date,zone_online_date,sent_to_analysis_at,is_published,is_expired,open_for_contributions,online_days,remaining_time,elapsed_time,posts_count,address,user,reminder_count,is_owner_or_admin,user_signed_in,in_reminder,total_posts,can_request_transfer,is_admin_role,contributed_by_friends
+38381,38381,611218,"Contribua com a robótica do Brasil!","A equipe UaiSoccer constrói robôs para jogar futebol, assim gerando pesquisa e desenvolvimento.","<p>As principais prioridades para a utilização do dinheiro arrecadado são:</p><ul><li>Material para desenvolvimento de peças em impressora 3D;<span></span></li><li>Hospedagem, deslocamento e alimentação durante a viagem;</li><li>Material para novas baterias;</li><li>Material para manutenção das placas da eletrônica; </li><li>Material para novo sistema de detecção de bola;</li><li>Material para novo sistema de conexões;</li><li>Material para desenvolvimento do novo sistema de chute;</li><li>Equipamento de rede para melhorar testes no laboratório;</li><li>Taxas de inscrições da competição;</li><li>Material para desenvolvimento do novo sistema de controle de bola, parte mecânica e elétrica;</li><li>Material de manutenção na parte mecânica.</li></ul>",3000.0,"<p>A pesquisa robótica é uma das <strong>fontes principais dos novos avanços da humanidade,</strong> ela <strong>extrai todos os benefícios que a tecnologia nos oferece</strong>, no entanto, está seriamente comprometida por falta de apoio financeiro aqui no Brasil, diminuindo consideravelmente a velocidade de desenvolvimento e qualidade dos estudos – e nós da equipe de pesquisa e competição UaiSoccer Futebol de Robôs da UFSJ - Universidade Federal de São João del-Rei estamos com dificuldades. <strong>Sua contribuição é fundamental para ajudar a fazer a robótica brasileira brilhar! </strong>Para fazer sua parte, basta clicar numa das recompensas ao lado! temos recompensas também voltadas para empresas!<br></p><p>O valor arrecadado nesta campanha irá ajudar a equipe a pagar o custo de manutenção e de inovação dos robôs e o deslocamento até a competição, o que é apenas uma parte da quantia que precisamos. Não temos condições financeiras de fechar um time com 6 robôs, que é o número máximo de robôs em um time.</p><h2>Vamos mostrar como valorizamos a robótica brasileira! Clique ao lado e faça sua parte!</h2><p>A equipe Uaisoccer é um projeto da Universidade Federal de São João del-Rei, MG. A UaiSoccer foi fundada em janeiro de 2009 e atualmente faz parte do núcleo de Sistemas Cibernéticos e Robótica (<em>CyRoS</em>) da UFSJ.</p><p>O principal objetivo da equipe desde então é, através da competição de futebol de robôs, incentivar e possibilitar o desenvolvimento de atividades científicas e tecnológicas nas áreas de inteligência artificial e robótica.</p><p>Em meados de 2005 algumas pessoas iniciaram os esforços para a criação de uma equipe de futebol de robôs da UFSJ.<br></p><p>Foi então que em 2009, com o apoio do recém-criado Programa de Pós-Graduação em Engenharia Elétrica (Associação entre a UFSJ e o CEFET-MG), a equipe adquiriu um conjunto de cinco robôs capazes de competir na RoboCup Small Size League (F180), uma das maiores competições de futebol robótico do mundo. Neste período um grupo de alunos foi formado, dando início a atividades da UaiSoccer - Equipe de Futebol de Robôs da UFSJ.</p><p>A partir de 2010 a equipe começou a participar de competições oficiais da RoboCup, conquistando no seu ano de estreia o quarto lugar na Concurso Latino-Americano de Robótica (LARC) / Competição Brasileira de Robótica (CBR). No ano seguinte, a equipe cresceu e passou a competir também na categoria RoboCup Simulation League 2D. Em 2012 esta mesma categoria foi qualificada para o mundial da RoboCup, tornando-se a primeira equipe mineira a qualificar-se para o evento. </p><p>Em 2013 a UaiSoccer participou novamente da CBR, conquistando o terceiro lugar na categoria Small Size o vice-campeonato da Simulation 2D. Em 2014 as duas categorias da equipe foram qualificadas para o mundial da RoboCup 2014, mostrando assim parte dos resultados obtidos. Na competição, a Small Size foi eliminada na fase de grupos e a Simulation 2D foi até as quartas de final, conquistando o sétimo lugar. Já, nesta última competição, em 2015, conquistamos o 5º lugar no ranking Latino-Americano.</p><h2><br></h2><h2><strong>A formação de recursos humanos:</strong></h2><img src=""https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/redactor_rails/picture/data/59063/Imagem1.png"" alt="""" width=""249"" height=""163"" style=""float: left; width: 249px; height: 163px; margin: 0px 10px 10px 0px;""><p>Um ponto da equipe a se ressaltar é a formação de recursos humanos, já que cerca de 200 alunos já participaram do projeto. Para se desenvolver uma equipe de futebol de robôs é necessária uma integração de várias áreas do conhecimento. A UaiSoccer estruturou sua organização em três áreas: Mecânica, Eletrônica e Software.</p><p><img src=""https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/redactor_rails/picture/data/59067/fotosite-150x150.jpg"" alt="""" style=""float: left; margin: 0px 10px 10px 0px;"">A Mecânica trata das questões estruturais, otimização de peso e espaço, além da locomoção do robô, tendo seus estudos e pesquisas voltados para as áreas de materiais e projeto CAD.</p><p><br></p><p><br></p><p><img src=""https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/redactor_rails/picture/data/59065/474630_438084122912849_323888823_o-150x150.jpg"" alt="""" style=""float: left; margin: 0px 10px 10px 0px;"">A Eletrônica trata de questões relativas aos dispositivos eletrônicos, tais como placas de comunicação wireless, placas de controle do motor, circuito eletrônico de processamento.</p><p><br></p><p><br></p><img src=""https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/redactor_rails/picture/data/59068/software.jpg"" width=""172"" height=""129"" alt="""" style=""width: 172px; height: 129px; float: left;""><p>O Software é responsável pelo processamento e comando direto do robô, integrado à Mecânica e a Eletrônica através do uso de técnicas de Inteligência Artificial.</p><p><br></p><p>Essa multidisciplinaridade permite uma grande interação entre os alunos integrantes da equipe, proporcionando-os uma rica experiência no que tange à troca de conhecimentos, servindo principalmente como amadurecimento profissional, pois o aluno que participa deste projeto tem a oportunidade de vivenciar e participar de uma equipe de projetos real.</p><p><br></p><h2><strong>Objetivos:</strong></h2><p>O projeto UaiSoccer visa possibilitar aos alunos da Universidade:</p><ul><li>Um ambiente para aplicação dos conhecimentos adquiridos;</li><li>Trabalho em equipe;</li><li>Pesquisa científica;</li><li>Experiências profissionais.</li></ul><p><br></p><h2><strong>Histórico de competições:</strong></h2><ul><li>2010: Concurso Latino-Americano de Robótica (LARC) / Competição Brasileira de Robótica (CBR). São Bernardo do Campo - Colocação: 4° lugar na categoria Small Size (F-180);</li><li>2011: Competição Brasileira de Robótica (CBR). São João del-Rei. Colocação: Chegou até a fase de grupos;</li><li>2012: Mundial da Robocup no México. Simulação 2D - 17° colocado no ranking mundial</li><li>2012: Concurso Latino-Americano de Robótica (LARC) / Competição Brasileira de Robótica (CBR). Fortaleza Small Size (F-180) Colocação: fase de grupos;</li><li>2013: Competição Brasileira de Robótica (CBR). Colocação: 3° lugar na categoria Small Size (F-180) e 2° da categoria Simulação 2D.</li><li>2014: Mundial da RoboCup no Brasil. Small Size (F-180) Colocação: Chegou até a fase de grupos.</li><li>2014: Mundial da Robocup no Brasil. Simulação 2D -  7° colocado no ranking mundial</li><li>2015: Concurso Latino-Americano de Robótica (LARC) / Competição Brasileira de Robótica (CBR). Uberlândia. Small Size (F-180) Colocação: 5º lugar no ranking Latino-Americano.</li></ul><p><strong></strong></p><h2><strong>Equipe atual:</strong></h2><p><strong>Departamento de eletrônica:</strong></p><table>
+	<colgroup><col></colgroup>
+	<tbody>
+		<tr>
+			<td>Amanda Souza Morato</td>
+		</tr>
+		<tr>
+			<td>Ana Luiza Silva Miranda</td>
+		</tr>
+		<tr>
+			<td>Henrique Simão Batista de Almeida</td>
+		</tr>
+		<tr>
+			<td>Mariana Teixeira</td>
+		</tr>
+		<tr>
+			<td>Iago Mateus Rosa Candido</td>
+		</tr>
+		<tr>
+			<td>Bruno de Paula Ossalin Paiva</td>
+		</tr>
+		<tr>
+			<td>Bernardo Caetano de Barros Freitas</td>
+		</tr>
+		<tr>
+			<td>André Luiz Leal da Costa Junior</td>
+		</tr>
+		<tr>
+			<td>Pedro Moreira de Oliveira</td>
+		</tr>
+		<tr>
+			<td>Mariana Fernandes Souto</td>
+		</tr>
+		<tr>
+			<td>Lucas da Silva cunha</td>
+		</tr>
+		<tr>
+			<td>Gabriel Percínio Costa</td>
+		</tr>
+		<tr>
+			<td>Anderson Martins Silva</td>
+		</tr>
+		<tr>
+			<td>Ângelo Marcelo Rodrigues Meneguini dos Santos</td>
+		</tr>
+	</tbody></table><p style=""margin-left: 20px;""><br></p><p><strong>Departamento de software:</strong></p><table>
+	<colgroup><col></colgroup>
+	<tbody>
+		<tr>
+			<td>Gabriel Silva Araujo</td>
+		</tr>
+		<tr>
+			<td>Wesley Gustavo de Sousa</td>
+		</tr>
+		<tr>
+			<td>Gustavo Detomi Rodrigues</td>
+		</tr>
+		<tr>
+			<td>Larissa Neves Viana</td>
+		</tr>
+		<tr>
+			<td>Ludmila Lima Duarte Machado</td>
+		</tr>
+		<tr>
+			<td>Guilherme Henrique Gomes</td>
+		</tr>
+		<tr>
+			<td>Ana Izabel rezende</td>
+		</tr>
+		<tr>
+			<td>Marcos Araújo Peres</td>
+		</tr>
+	</tbody></table><p><br></p><p><strong>Departamento de mecânica:</strong></p><table>
+	<colgroup><col></colgroup>
+	<tbody>
+		<tr>
+			<td>Gabriel Vieira Barbosa</td>
+		</tr>
+		<tr>
+			<td>Marco Antônio da Mata Vieira</td>
+		</tr>
+		<tr>
+			<td>Gustavo Antônio Reis</td>
+		</tr>
+		<tr>
+			<td>João Gabriel da Cruz Passos</td>
+		</tr>
+		<tr>
+			<td>Alexandre Antônio dos Santos</td>
+		</tr>
+		<tr>
+			<td>Caio Lopes Martins Marques</td>
+		</tr>
+		<tr>
+			<td>André Lucas Pereira Sousa</td>
+		</tr>
+		<tr>
+			<td>Guilherme Oliveira Godtfredsen</td>
+		</tr>
+		<tr>
+			<td>Isadora Guimarães da Rocha</td>
+		</tr>
+		<tr>
+			<td>Hugo Guilherme Santos</td>
+		</tr>
+	</tbody></table><p><br></p><h2><strong>Facebook e contato:</strong></h2><p><span class=""InternetLink""><a data-cke-saved-href=""https://www.facebook.com/uaisoccer"" href=""https://www.facebook.com/uaisoccer"">https://www.facebook.com/uaisoccer</a></span></p>",contribua_com_a_robotica_do_brasil_fdcf,//www.youtube.com/embed/FCZLN8kzPno,https://www.youtube.com/watch?v=FCZLN8kzPno,"Ciência e Tecnologia",18,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/38381/12122570_962911737083418_6894610146556737758_n.jpg,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/38381/project_thumb_thumb_12122570_962911737083418_6894610146556737758_n.jpg,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/38381/project_thumb_small_12122570_962911737083418_6894610146556737758_n.jpg,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/38381/project_thumb_large_12122570_962911737083418_6894610146556737758_n.jpg,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/38381/project_thumb_video_cover_12122570_962911737083418_6894610146556737758_n.jpg,3.33333333333333333300,100.0,1,1,online,flex,published,"2016-09-27 02:59:59.999999","2016-09-26 23:59:59.999999","2016-08-21 20:10:59.75637","2016-08-21 17:10:59.75637",,t,f,t,26,"{""total"" : 1, ""unit"" : ""days""}","{""total"" : 34, ""unit"" : ""days""}",0,"{""city"" : ""São João del Rei"", ""state_acronym"" : ""MG"", ""state"" : ""Minas Gerais""}","{""id"" : 611218, ""name"" : ""Gabriel Percínio Costa""}",0,,f,f,0,f,f,f

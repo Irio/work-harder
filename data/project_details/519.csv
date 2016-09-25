@@ -1,0 +1,24 @@
+project_id,id,user_id,name,headline,budget,goal,about_html,permalink,video_embed_url,video_url,category_name,category_id,original_image,thumb_image,small_image,large_image,video_cover_image,progress,pledged,total_contributions,total_contributors,state,mode,state_order,expires_at,zone_expires_at,online_date,zone_online_date,sent_to_analysis_at,is_published,is_expired,open_for_contributions,online_days,remaining_time,elapsed_time,posts_count,address,user,reminder_count,is_owner_or_admin,user_signed_in,in_reminder,total_posts,can_request_transfer,is_admin_role,contributed_by_friends
+519,519,28433,Funghi,"Uma coorporação decomposta","O orçamento para projetos anteriores a 24/02/2015 normalmente pode ser encontrado na descrição acima.",10000.0,"<p>O Funghi é um filme de curta metragem que está sendo desenvolvido como TCC por alunos do curso de Cinema da Universidade Anhembi Morumbi.
+Se trata de um thriller que faz uso de uma linguagem metafórica e irônica para tratar das discrepâncias entre as gerações X, Y e baby boom no mercado de trabalho.</p>
+
+<p>SOBRE O FILME
+O filme conta a história do Guilherme, um jovem de 18 anos que, pressionado pelo pai, sai em busca de seu primeiro emprego.
+Após muita procura, é admitido em uma empresa que fabrica produtos a partir de cogumelos e leveduras, onde tem que conviver com o Sr. Apolônio, um chefe extremamente abusivo.
+Sua função é fazer entregas internas. Encarregado de fazer uma entrega no subsolo, Guilherme acaba entrando em uma área restrita da empresa, onde acaba descobrindo a verdadeira natureza desta estranha instituição.</p>
+
+<p>A PRODUÇÃO
+Para garantir a execução do projeto, precisamos reunir o valor de R$ 10 mil reais.
+Este valor é o mínimo necessário para cobrir as despesas de confecção do cenário do subsolo da empresa, que além de ser de vital importância para a história, é uma ambiente surreal, então não há uma locação pronta que possamos usar. O ambiente será todo erguido em madeira dentro de um galpão que será alugado para o filme.</p>
+
+<p>A previsão para a finalização do filme é em outubro de 2012. </p>
+
+<p>SAIBA MAIS!
+Para conhecer melhor o projeto e ver imagens das recompensas acompanhe nossas páginas:</p>
+
+<p><a class=""alt-link"" href=""http://www.cargocollective.com/funghi"" target=""_blank"">http://www.cargocollective.com/funghi</a></p>
+
+<p><a class=""alt-link"" href=""http://www.facebook.com/pages/Funghi/163885117047509?sk=info"" target=""_blank"">http://www.facebook.com/pages/Funghi/163885117047509?sk=info</a></p>
+
+<p><a class=""alt-link"" href=""https://twitter.com/#!/funghifilme"" target=""_blank"">https://twitter.com/#!/funghifilme</a></p>
+",funghi,//player.vimeo.com/video/36062202,http://www.vimeo.com/36062202,"Cinema e Vídeo",13,,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/video_thumbnail/519/project_thumb_thumb_open-uri20131125-2-pdvxdf,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/video_thumbnail/519/project_thumb_small_open-uri20131125-2-pdvxdf,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/video_thumbnail/519/project_thumb_large_open-uri20131125-2-pdvxdf,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/video_thumbnail/519/project_thumb_video_cover_open-uri20131125-2-pdvxdf,13.12000000000000000000,1312.0,10,10,failed,aon,finished,"2012-04-07 02:59:59","2012-04-06 23:59:59","2012-02-06 02:59:59","2012-02-06 00:59:59",,t,t,f,60,"{""total"" : 0, ""unit"" : ""seconds""}","{""total"" : 61, ""unit"" : ""days""}",0,"{""city"" : ""Paulo Jacinto"", ""state_acronym"" : ""AL"", ""state"" : ""Alagoas""}","{""id"" : 28433, ""name"" : """"}",0,,f,f,0,f,f,f

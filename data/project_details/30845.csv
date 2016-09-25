@@ -1,0 +1,34 @@
+project_id,id,user_id,name,headline,budget,goal,about_html,permalink,video_embed_url,video_url,category_name,category_id,original_image,thumb_image,small_image,large_image,video_cover_image,progress,pledged,total_contributions,total_contributors,state,mode,state_order,expires_at,zone_expires_at,online_date,zone_online_date,sent_to_analysis_at,is_published,is_expired,open_for_contributions,online_days,remaining_time,elapsed_time,posts_count,address,user,reminder_count,is_owner_or_admin,user_signed_in,in_reminder,total_posts,can_request_transfer,is_admin_role,contributed_by_friends
+30845,30845,556285,"Software Escultura e Pintura 3D 100% Brasileiro","Projeto de desenvolvimento e aperfeiçoamento de software gratuito de escultura e pintura em 3D para ","<p>O Projeto é orientado em três fases:</p><p>*Fase 1: Aperfeiçoamento de software, correção e controle de bugs, desenvolvimento de versões para outros sistemas operacionais, testes de interface realizadas com usuários em sistema de acompanhamento cognitivo;</p><p>*Fase 2: Empacotamento de dados para distribuição, marketing direcionado a escolas e universidades, desenvolvimento de tutoriais, desenvolvimento de vídeos tutoriais, criação de manual do usuário e arquivos de ajuda. Palestras e disseminação de conhecimentos.</p><p>*Fase 3: Finalização e distribuição gratuita em redes sociais, desenvolvedores de jogos e interessados. Incentivo e apresentação do software no SIGGRAPH, evento mundial de disseminação de desenvolvimentos na área de computação gráfica e ferramentas para desenvolvimento na área 3D.<br></p>",20000.0,"<p>O Projeto consiste no desenvolvimento e aperfeiçoamento de um 
+software de escultura e pintura em 3D, gratuito e 100% brasileiro. 
+Objetiva a criação de uma interface de fácil manuseio para criação de 
+personagens para jogos digitais e multimídia em geral. Preciso apoio 
+para fazer uma versão em português, com capacidade 
+profissional(semelhante a Zbrush da Pixologic e MudBox da Autodesk) 
+e que possa ser útil para todas as áreas, da criação de personagens para
+ jogos até formas orgânicas para processamento digital e utilização em <em><strong>impressoras 3D</strong></em>. Como o aplicativo é gratuito e será sempre assim, <strong><em>poderá ser utilizado em escolas e universidades</em></strong>, com intuito de pesquisas tecnológicas e desenvolvimento da interação entre professores e alunos. </p><p><strong>Abaixo demonstramos a interface atual na versão Beta, 
+demonstrando o nível do desenvolvimento do sistema e as possibilidades 
+de expansão com a sua colaboração</strong>.</p><p>Acredito realmente no desenvolvimento da área de tecnologia aqui no 
+Brasil, de forma que possamos ter ferramentas tão boas ou melhores que 
+aquelas que são utilizadas mundialmente na criação de arte 3d, jogos, 
+multimídia digital e efeitos especiais para TV e cinema. Podemos fazer a
+ diferença, podemos mostrar que nosso crescimento no mercado de games e 
+3D é mais do que o mundo imagina. Como recompensa por acreditarem neste 
+projeto, convido vocês a entrarem nessa revolução, incentivo vocês a 
+conhecerem meu site e se quiserem enviar suas contribuições de 
+esculturas, de idéias, de expansão, de possibilidades, seria 
+gratificante para o desenvolvimento desta área que sou apaixonado. Pode 
+ser num computador escolar, ou de universidade, pode ser no interior ou 
+em capitais, pode ser no trabalho voluntário de ensino ou simplesmente 
+por amar a arte 3D, mas o certo é que podemos expandir a idéia, podemos 
+evoluir a nossa tecnologia, podemos depender menos de outros e acreditar
+ que possamos crescer como país tecnológico. </p><p>Programo a mais de 10 anos, sempre gostei da área de computação 
+gráfica e acho que não existem limites para ela, podendo ser usada na 
+medicina, no cinema, em jogos e na arte. Ela se mostra extremamente 
+ampla em seus horizontes e acredito que com ajuda de vocês possamos 
+fazer mais. Essa área exige custos constantes de hardware, editoração, 
+marketing, disponibilidade temporal, serviços, softwares e estudos para 
+seu aperfeiçoamento e nesses aspectos peço sua colaboração com meu 
+projeto.</p><p><img alt=""Tartaruga"" src=""https://drupalcdn.kickante.com.br/styles/content_medium/media/ninja.jpg?itok=XfGV4onq""></p><p><img alt=""Alien"" src=""https://drupalcdn.kickante.com.br/styles/content_medium/media/alienmesh2.jpg?itok=fD-yW0cq""></p><p>Como Recompensas pela sua ajuda você receberá modelos 3D <strong>em formato digital(como os modelos das imagens acima)</strong>
+ exclusivo do software e com pintura (liberados para alterar, modificar e
+ pintar do seu jeito) . </p><p><br></p><iframe style=""width: 500px; height: 281px;"" src=""//www.youtube.com/embed/_68nlTz5n1k"" allowfullscreen="""" frameborder=""0""></iframe>",software_escultura_e_pintura_3d_100_brasileiro_d712,//www.youtube.com/embed/_68nlTz5n1k,https://youtu.be/_68nlTz5n1k,Jogos,14,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/30845/projeto.jpg,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/30845/project_thumb_thumb_projeto.jpg,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/30845/project_thumb_small_projeto.jpg,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/30845/project_thumb_large_projeto.jpg,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/30845/project_thumb_video_cover_projeto.jpg,0,0,0,0,online,flex,published,,,"2016-05-02 20:52:41.904837","2016-05-02 17:52:41.904837",,t,f,t,,"{""total"" : 0, ""unit"" : ""seconds""}","{""total"" : 145, ""unit"" : ""days""}",0,"{""city"" : ""Porto Alegre"", ""state_acronym"" : ""RS"", ""state"" : ""Rio Grande do Sul""}","{""id"" : 556285, ""name"" : ""Karlay Souza""}",1,,f,f,0,f,f,f

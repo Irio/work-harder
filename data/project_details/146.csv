@@ -1,0 +1,23 @@
+project_id,id,user_id,name,headline,budget,goal,about_html,permalink,video_embed_url,video_url,category_name,category_id,original_image,thumb_image,small_image,large_image,video_cover_image,progress,pledged,total_contributions,total_contributors,state,mode,state_order,expires_at,zone_expires_at,online_date,zone_online_date,sent_to_analysis_at,is_published,is_expired,open_for_contributions,online_days,remaining_time,elapsed_time,posts_count,address,user,reminder_count,is_owner_or_admin,user_signed_in,in_reminder,total_posts,can_request_transfer,is_admin_role,contributed_by_friends
+146,146,4300,"Foto Escambo","O Foto Escambo é um projeto democrático que visa fomentar o colecionismo e um resgate do hábito de possuir uma foto impressa.","O orçamento para projetos anteriores a 24/02/2015 normalmente pode ser encontrado na descrição acima.",3600.0,"<p>O Foto Escambo é um projeto democrático que visa fomentar o colecionismo e o apreço pela imagem. Um resgate do hábito de possuir uma foto impressa.</p>
+
+<p>Usando esta forma ancestral de comércio, a troca de um bem por outro, sem a necessidade de dinheiro, promovemos uma interação entre pessoas que gostam de fotografia.</p>
+
+<p>A dinâmica é simples: formado um banco inicial de imagens, estas são expostas em forma de varal, sem identificação do autor e disponibilizadas para serem trocadas pelos interessados. Amadores e profissionais se misturam e escolhem a foto que mais lhes agrada, deixando uma de autoria própria no lugar da retirada.</p>
+
+<p><em>Como Funciona</em></p>
+
+<p>Solicitamos doações fotográficas de profissionais, estas formam um banco de reserva e servem para atrair os participantes e alimentar sistematicamente o varal.</p>
+
+<p>É montado um varal onde são expostas fotos de doadores e inscritas, misturadas e sem divulgação do nome do autor.</p>
+
+<p>Os participantes escolhem de uma a cinco fotos de sua autoria. De preferência, imagens variadas, copiam em processo para longa duração, em papel fotográfico ou de algodão no tamanho mínimo de 20x30cm. Não devem identificar suas fotos. Este procedimento visa a fortalecer o apreço pela imagem e não, pelo autor. Inscrevem as fotos antes de trocar. As inscrições são feitas no dia do evento. O processo é simples: registra-se um contato do participante e cada foto inscrita recebe uma etiqueta numerada. Uma vez inscrito o participante escolhe uma foto em exposição e troca pela sua, conforme o número de trabalhos inscritos no máximo de cinco.</p>
+
+<p>A autoria dos trabalhos é revelada após o evento, com a publicação da lista no blog do Escambo com os autores correspondentes aos números colados em cada foto.</p>
+
+<p>Os profissionais abaixo já participaram do Foto Escambo:</p>
+
+<p>Daniel Marenco, Fernanda Chemale, Arnaldo Carvalho, Dirceu Maués, Luciana Whitaker, Leopoldo Plenz, Juan Esteves, Jonne Roriz, Marcos Issa, Adri Felden, Kazuo Okubo, Felipe Lopez, Eduardo Muylaert, Lucille Kanzawa, Paula Marina, Anik Polo, Luciana Cavalcanti, Stefan Schmeling, Fernando Martinho, Fifi Tong, Du Ribeiro, Gabriel Boieras, Luciana Cattani, Galeria Experiência, Inaê Coutinho, Walter Firmo, Penna Prearo, Claudio Edinger, Clício, Eneida Serrano, Gui Mohallem, Iatã Cannabrava, João Wainer, Nair Benedicto, Ricardo Teles, Rosângela Rennó, Saulo Haruo Ohara, Tom Lisboa, Tadeu Vilani, Orlando Brito, Rogério Reis, Evandro Teixeira e Tony de Marco.</p>
+
+<p>Preciso de R$ 3.600,00 (três mil e seiscentos reais) para produzir o evento, custear cópias que serão presenteadas aos colaboradores, remunerar um assistente no Rio, cobrir despesas de deslocamento (de São Paulo para o Rio), hospedagem, alimentação, e produção de material de divulgação. </p>
+",146-foto-escambo,//player.vimeo.com/video/23514683,http://www.vimeo.com/23514683,Fotografia,17,,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/video_thumbnail/146/project_thumb_thumb_open-uri20131125-2-11swqtg,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/video_thumbnail/146/project_thumb_small_open-uri20131125-2-11swqtg,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/video_thumbnail/146/project_thumb_large_open-uri20131125-2-11swqtg,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/video_thumbnail/146/project_thumb_video_cover_open-uri20131125-2-11swqtg,102.0833333333333300,3675.0,36,35,successful,aon,finished,"2011-06-14 02:59:59","2011-06-13 23:59:59","2011-04-15 02:59:59","2011-04-14 23:59:59",,t,t,f,60,"{""total"" : 0, ""unit"" : ""seconds""}","{""total"" : 60, ""unit"" : ""days""}",0,"{""city"" : ""São Paulo"", ""state_acronym"" : ""SP"", ""state"" : ""São Paulo""}","{""id"" : 4300, ""name"" : ""Hans Georg""}",0,,f,f,0,f,f,f

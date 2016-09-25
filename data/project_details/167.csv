@@ -1,0 +1,61 @@
+project_id,id,user_id,name,headline,budget,goal,about_html,permalink,video_embed_url,video_url,category_name,category_id,original_image,thumb_image,small_image,large_image,video_cover_image,progress,pledged,total_contributions,total_contributors,state,mode,state_order,expires_at,zone_expires_at,online_date,zone_online_date,sent_to_analysis_at,is_published,is_expired,open_for_contributions,online_days,remaining_time,elapsed_time,posts_count,address,user,reminder_count,is_owner_or_admin,user_signed_in,in_reminder,total_posts,can_request_transfer,is_admin_role,contributed_by_friends
+167,167,8017,"Ônibus Hacker","O ônibus hacker vai chacoalhar a realidade local das cidades em que passar!","O orçamento para projetos anteriores a 24/02/2015 normalmente pode ser encontrado na descrição acima.",40000.0,"<p>Queremos adquirir o ônibus da Transparência Hacker e adaptá-lo como um ambiente de criação. </p>
+
+<p>A idéia é comprar um ônibus de viagem de aproximadamente 48 lugares, usado, porém em bom estado. Contamos com um mecânico de confiança que vai fazer a avaliação técnica. </p>
+
+<p>Exemplo: <a class=""alt-link"" target=""_blank"" href=""http://produto.mercadolivre.com.br/MLB-184791127-nibus-mbb-o-371-rs-rsd-o-400-rsl-conservado-revisado-_JM"">http://produto.mercadolivre.com.br/MLB-184791127-nibus-mbb-o-371-rs-rsd-o-400-rsl-conservado-revisado-_JM</a></p>
+
+<p>Esse ônibus será modificado, e incluirá webcam, conexão 3G e GPS, o que permitirá aproveitar o trajeto das viagens para concretizar os diversos projetos articulados na comunidade Transparência Hacker, além de viabilizar o acompanhamento e participação à distância de quem não estiver no ônibus. O percuso deixará de ser um tempo inútil e cansativo para se tornar um momento propício para ter ideias e por a “mão na massa”. </p>
+
+<p>Temos uma série de projetos engatilhados que vão fazer pleno uso do ônibus: </p>
+
+<p>h2. Consocial</p>
+
+<p>Durante o fim de 2011 e o começo de 2012 vão acontecer as diversas etapas da Conferência Nacional de Transparência, Participação e Controle Social. Essa conferência pública é um espaço importantíssimo para discutir e disputar a idéia de uma nova política possível e de uma nova forma de compreender transparência - mais ampla do que o mero controle de gastos e luta contra corrupção. </p>
+
+<p>A Transparência Hacker quer estar presente em quantas dessas etapas forem possíveis com os membros da comunidade, levando noções de Dados Abertos, Hackerismo, Cultura Digital, Software Livre e outras idéias importantes para entender o novo contexto da informação. </p>
+
+<p>h2. Invasões Hackers </p>
+
+<p>Proposta para 2012, a idéia é visitar pequenos munícipios  (5.000 habitantes) levando Install Fest, Hackday, Workshops de Desenvolvimento e outras atividades - concentradas em um final de semana - para chacoalhar a realidade local. Por que concentradas em um final de semana? Há atividades que podem durar mais, o tempo depende de cada uma delas. </p>
+
+<p>Um dos workshops propostos é baseado na lei orgânica presente na maioria dos munícipios que permite ao cidadão apresentar um projeto de lei coletando assinatura de cerca de 5% dos eleitores da cidade. A idéia é fazer um processo colaborativo na praça pública que culmine em projetos de lei que respondam as necessidades daquelas pessoas e um posterior acompanhamento desse processo através da rede. </p>
+
+<p>Agenda de viagens proposta: </p>
+
+<ul>
+<li>Transparência Hackday Uruguai: Uruguai - Ago/2011 </li>
+<li>Fórum de Cultura Digital: Rio de Janeiro - Nov/2011 </li>
+<li>Consocial - Etapas Estaduais: Nov/2011-Abr/2012 </li>
+<li>Campus Party 2012: São Paulo - Jan/2012 </li>
+<li>Consocial - Etapa Nacional: Brasilia - Mai/2012 </li>
+</ul>
+
+<p>h2. Porque um ônibus? </p>
+
+<p>Autonomia. No mês de maio, participamos do CONSEGI - Congresso de Software Livre e Governo Eletrônico em Brasilia. Fomos de carona em um ônibus articulado pela comunidade de Software Livre da POLI-USP. A experiência foi sensacional e fomos hackeando e criando aplicativos durante todo o trajeto. Estes são alguns dos projetos que fizemos durante o CONSEGI: </p>
+
+<ul>
+<li><p><a class=""alt-link"" target=""_blank"" href=""http://www.chequeurl.com.br/"">ChequeURL</a> que brinca um pouco com os encurtadores de URL, mas procura por nomes de empresas no Brasil e cruza com informações de bancos de dados públicos. Se você cola uma notícia como <a class=""alt-link"" target=""_blank"" href=""http://economia.estadao.com.br/noticias/economia"">essa</a>,petroleo-em-aguas-profundas-e-os-recursos-humanos,65969,0.htm o resultado será <a class=""alt-link"" target=""_blank"" href=""http://www.chequeurl.com.br/?url=http%3A%2F%2Feconomia.estadao.com.br%2Fnoticias%2Feconomia%2Cpetroleo-em-aguas-profundas-e-os-recursos-humanos%2C65969%2C0.htm"">esse</a> uma página que lista a relação dessa empresa com o governo e quanto ela doou em campanha nas eleições de 2010. </p></li>
+<li><p>Dashboard de tramitação de projetos de lei, que é baseado na brincadeira do jogo da vida, e pretende mostrar quanto tempo um projeto de lei ficou parado em tal lugar, permitindo que qualquer pessoa acompanhe seu andamento. Eis o <a class=""alt-link"" target=""_blank"" href=""http://apps.thacker.com.br/dashboard-tramitacao/history/61183"">link</a> </p></li>
+<li><p>Mapa da Violência do Rio Grande do Sul: nesse hack, usamos dados da SSP-RS para colocar mais visivelmente as ocorrências policiais do estado do RS em um mapa. Nesse <a class=""alt-link"" target=""_blank"" href=""http://gonod.softwarelivre.org/dadosabertos/"">link</a> você consegue visualizar todos os municípios do Rio Grande do Sul e estatísticas do volume de ocorrências policiais no ano de 2010. </p></li>
+<li><p>Agenda Pública, uma visualização dos calendario de gastos de diárias do Gabinete do Ministério da Cultura nos primeiros meses de <a class=""alt-link"" target=""_blank"" href=""http://apps.thacker.com.br/agendapublica/"">2011</a> </p></li>
+<li><p>Otoridades: Você sabe com quem está falando? ( <a class=""alt-link"" href=""http://otoridades.com.br/"" target=""_blank"">http://otoridades.com.br/</a> ) que pretende coletar relatos de abuso de poder em todo país de forma anônima. O Ônibus Hacker vai aumentar a mobilidade da comunidade, permitir que a rede se espalhe por outras cidades, além de aproveitar o ambiente único de interação e criatividade que se forma nos percursos. </p></li>
+</ul>
+
+<p>h2. Sobre a Transparência Hacker</p>
+
+<p>A comunidade Transparência Hacker é um espaço para que desenvolvedores web, jornalistas, designers, gestores públicos e outros indivíduos dos mais diferentes perfis proponham e articulem ideias e projetos que utilizem a tecnologia de forma criativa para fins de interesse da sociedade. </p>
+
+<p>Trabalhamos primariamente com dados governamentais abertos, promovendo ações que evidenciam a importância desses dados e fazendo pressão para que os organismos do governo brasileiro adotem medidas de liberação de dados públicos em formatos abertos. Acima de tudo, provocamos e buscamos evidenciar questões sociais e políticas através da ressignificação de informações existentes, mas que ainda são de difícil acesso para a sociedade em geral. </p>
+
+<ul>
+<li>Na lista: <a class=""alt-link"" target=""_blank"" href=""http://groups.google.com/group/thackday"">http://groups.google.com/group/thackday</a></li>
+<li>No site: <a class=""alt-link"" target=""_blank"" href=""http://www.thacker.com.br/"">http://www.thacker.com.br/</a></li>
+<li>No Google: <a class=""alt-link"" href=""http://www.google.com.br/search?q=%22transparencia+hacker%22"" target=""_blank"">http://www.google.com.br/search?q=%22transparencia+hacker%22</a></li>
+<li>No Estadão: <a class=""alt-link"" target=""_blank"" href=""http://www.estadao.com.br/estadaodehoje/20110516/not_imp719678"">http://www.estadao.com.br/estadaodehoje/20110516/not_imp719678,0.php</a>,0.php</li>
+<li>No Nassif: <a class=""alt-link"" target=""_blank"" href=""http://www.advivo.com.br/blog/luisnassif/hackers-e-a-transparencia"">http://www.advivo.com.br/blog/luisnassif/hackers-e-a-transparencia</a></li>
+<li>Na Rádio CBN: <a class=""alt-link"" target=""_blank"" href=""http://download.sgr.globo.com/sgr-mp3/cbn/2011/noticias/vchaia_110517.mp3"">http://download.sgr.globo.com/sgr-mp3/cbn/2011/noticias/vchaia_110517.mp3</a> </li>
+<li>Na Tv Brasil: <a class=""alt-link"" target=""_blank"" href=""http://tvbrasil.ebc.com.br/reporterbrasil/video/16110/"">http://tvbrasil.ebc.com.br/reporterbrasil/video/16110/</a></li>
+</ul>
+",onibus-hacker,//player.vimeo.com/video/26115851,http://vimeo.com/26115851,Socioambiental,4,,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/video_thumbnail/167/project_thumb_thumb_open-uri20131125-2-johwo4,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/video_thumbnail/167/project_thumb_small_open-uri20131125-2-johwo4,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/video_thumbnail/167/project_thumb_large_open-uri20131125-2-johwo4,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/video_thumbnail/167/project_thumb_video_cover_open-uri20131125-2-johwo4,146.4825000000000000,58593.0,464,436,successful,aon,finished,"2011-07-20 02:59:59","2011-07-19 23:59:59","2011-05-21 02:59:00","2011-05-20 23:59:00",,t,t,f,60,"{""total"" : 0, ""unit"" : ""seconds""}","{""total"" : 60, ""unit"" : ""days""}",4,"{""city"" : ""São Paulo"", ""state_acronym"" : ""SP"", ""state"" : ""São Paulo""}","{""id"" : 8017, ""name"" : ""Diego Casaes""}",0,,f,f,4,f,f,f

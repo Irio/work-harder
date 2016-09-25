@@ -1,0 +1,109 @@
+project_id,id,user_id,name,headline,budget,goal,about_html,permalink,video_embed_url,video_url,category_name,category_id,original_image,thumb_image,small_image,large_image,video_cover_image,progress,pledged,total_contributions,total_contributors,state,mode,state_order,expires_at,zone_expires_at,online_date,zone_online_date,sent_to_analysis_at,is_published,is_expired,open_for_contributions,online_days,remaining_time,elapsed_time,posts_count,address,user,reminder_count,is_owner_or_admin,user_signed_in,in_reminder,total_posts,can_request_transfer,is_admin_role,contributed_by_friends
+7707,7707,127065,"Alem da vida ","A maior realização de uma vida é ajudar o próximo.  Jogo independente brasileiro de puzzle em 3º pessoa.","O orçamento para projetos anteriores a 24/02/2015 normalmente pode ser encontrado na descrição acima.",15000.0,"<p>PARA DOAR CLIQUE NO BOTÃO VERDE AO LADO.
+OU CLIQUE NESSE LINK : <a class=""alt-link"" href=""http://www.catarse.me/pt/projects/7707/contributions/new?utf8=%E2%9C%93&amp;commit=Apoiar+este+projeto"" target=""_blank"">http://www.catarse.me/pt/projects/7707/contributions/new?utf8=%E2%9C%93&amp;commit=Apoiar+este+projeto</a></p>
+
+<p><img src=""http://s13.postimg.org/imquntjrb/pergaminho_menu.jpg"" alt=""""/></p>
+
+<p><strong>Sobre o Jogo</strong></p>
+
+<p>Alem da vida é um jogo em 3º Pessoa de puzzle onde conta a historia de um espirito que é forçado a sair em busca de redenção, o jogo começa com um espirito em frente aos portões celestiais fechado, o qual acaba de ser expulso do reino do céu, agora terá que se redimir e sair em uma longa  jornada, enfrentando a si mesmo em um mundo abstrato e cruel, onde o seu pior inimigo é ele mesmo, o jogo será baseado em escolhas, onde no final de cada capitulo o jogador terá que fazer uma escolha, sendo ela boa ou ruim definindo assim o final do jogo, inspirado em &quot;Journey/PS3&quot;, Alem da vida contara uma historia emocionante, onde mostrará que as boas atitudes por mais difícil que elas pareçam ser, no final elas valem a pena. </p>
+
+<p>Alem da vida esta em desenvolvimento para a plataforma PC, e será lançado na Steam, o jogo dará suporte principalmente ao idioma português/Brasileiro, mas também terá sua versão em inglês. </p>
+
+<p><img src=""http://s27.postimg.org/lstf136z7/Jogo_para_computador_gratis.jpg"" alt=""""/></p>
+
+<p><img src=""http://s30.postimg.org/tnkivjdg1/desenvolvimento.jpg"" alt=""""/></p>
+
+<p><strong>O desenvolvimento do Jogo</strong></p>
+
+<p>Alem da vida já se encontra em desenvolvimento,Atualmente estamos utilizando desenvolvendo o jogo em Unity 3D e programando em Javascript, temos a parte de mecânica completa e agora estamos trabalhando nas animações,quando o financiamento for concluído poderemos adquirir animações do sistema Mixamo para dar ainda mais qualidade ao nosso jogo. </p>
+
+<p><img src=""http://s15.postimg.org/4jwlwl0fv/Unity.jpg"" alt=""""/></p>
+
+<p><strong>Modelagem e Animação</strong></p>
+
+<p>Na parte de modelagem em animação estamos utilizando o Blender 3D que é gratuito, esse software permitira a criação de todos os objetos e cenários do jogo, assim como as animações.</p>
+
+<p><img src=""http://s18.postimg.org/pmeytrhah/modelagem.jpg"" alt=""""/></p>
+
+<p><img src=""http://s15.postimg.org/4c81xbrln/mecanica.jpg"" alt=""""/></p>
+
+<p>O jogo será em 3º Pessoa, o jogador poderá, andar, correr, subir em objetos e locais, interagir com objetos, como alavancas itens no escondidos, empurrar e arrastar objetos para subir em cima, e carregar objetos pesados nas mãos.
+No jogo não teremos inimigos, e não será possível morrer, o jogo  será linear porem em cada capitulo teremos 2 escolhas seja elas de caminho ou ações que definirão o final do jogo.
+O gênero do jogo será de Puzzle então teremos diversos quebra cabeças dentro do jogo para finalizar cada capitulo.  </p>
+
+<p><img src=""http://s1.postimg.org/s133m603j/Sem_t_tulo.jpg"" alt=""""/></p>
+
+<p><img src=""http://s16.postimg.org/rg1l00vut/Investimento.jpg"" alt=""""/></p>
+
+<p><strong>Onde será gasto o dinheiro arrecadado ?</strong></p>
+
+<p>para concluirmos o jogo Alem da vida vamos precisar de programas para deixar o jogo mais apresentável.</p>
+
+<p><strong>Unity Pro. $1,500</strong> - Unity é o motor onde o jogo esta sendo desenvolvido, a sua versão Pro permitira dar mais qualidade para o jogo tanto no quesito gráfico quanto no mecânico, queremos entregar uma experiencia unica para os jogadores. </p>
+
+<p><strong>ZBrush $ 795,00</strong> - Zbrush é uma ferramenta de escultura digital que permitira a criação de modelos em 3D com um nível maior de realismo, dessa forma poderemos trabalhar muito mais no nosso personagem assim como nos objetos do jogo. </p>
+
+<p><strong>Kinect R$ 489,99</strong> - vamos precisar de 2 kinects para criar as capturas de movimento para as cenas animadas fora do game play, as cinematics. </p>
+
+<p><strong>Poser Pro Game Dev $ 499,00</strong> - Software para captura de movimento, será utilizado para as as cenas de cinamatics do jogo.</p>
+
+<p><strong>Mixamo All Mocap $1499.00</strong>  -  Conjunto de animações para serem utilizadas, no game play do jogo, animações prontas  de correr andar, saltar, escalar dentre outras, permitindo assim agilizar o processo de desenvolvimento do jogo. </p>
+
+<p><strong>Catarse 13 %  R$ 1950,00</strong> - o catarse recebe uma fatia de 13% do financiamento dando um total de 1.950,00 sobrando R$13.050,00 para ser investido no projeto.</p>
+
+<p>Será gasto um total de <strong>R$ 11.283.18</strong> em software e equipamento, cotação com o valor do dólar em $2,4009 em 24/09/2014. Sobrará um valor de <strong>R$ 1.766.82</strong> o qual será destinado as recompensas.</p>
+
+<p><img src=""http://s7.postimg.org/ywosee6pn/grafico.jpg"" alt=""""/></p>
+
+<p><img src=""http://s21.postimg.org/bkcvpikif/FAQ.jpg"" alt=""""/></p>
+
+<p><strong>O jogo será lançado na Steam Green Light ?</strong></p>
+
+<p>Sim, esse é o nosso objetivo principal, lançar o jogo na Steam Greenlight por isso contamos com o seu apoio para votar no projeto quando sair na Greenlight.</p>
+
+<p><strong>O jogo será publicado para outras plataformas ?</strong></p>
+
+<p>Ainda não sabemos, mas estamos conversando com a sony para poder lançar o jogo de forma independente no PS4.</p>
+
+<p><strong>O jogo será pago ?</strong></p>
+
+<p>Sim, o jogo quando lançado será pago, porem todos os apoiadores do projeto vão receber uma copia gratuita do jogo.</p>
+
+<p><strong>Vai ter suporte pra controle ?</strong></p>
+
+<p>Sem duvidas sim, a mecânica do jogo esta sendo trabalhada para dar uma experiencia incrível para quem possuir um controle a disposição :) </p>
+
+<p><strong>Quem esta desenvolvendo Alem da vida ?</strong></p>
+
+<p>Alem da vida esta em desenvolvimento a 2 meses e conta com seu game play completo, atualmente o trabalho esta voltado para a parte gráfica, o jogo esta em desenvolvimento pelo estúdio <strong>C.R Game Studio</strong> um estúdio independente de jogos brasileiros, o estúdio conta atualmente com 7 jogos publicados, todos para a plataforma Mobile/Android. 
+Saiba mais sobre a C.R Game Studio : <a class=""alt-link"" href=""https://www.facebook.com/crgamestudio"" target=""_blank"">https://www.facebook.com/crgamestudio</a></p>
+
+<p><img src=""http://s14.postimg.org/4uz1gic81/10482291_618324498284162_3529604047928900319_n.jpg"" alt=""""/></p>
+
+<p><strong>Apoiadores especiais de Alem da Vida</strong></p>
+
+<p><strong>Kolks Games</strong>  A rede social feita para desenvolvedores de jogos e Gamers, com grupos, espaço para a divulgação de jogos, e muito mais Visite e saiba mais !!
+<a class=""alt-link"" href=""http://www.kolksgames.com.br/"" target=""_blank"">http://www.kolksgames.com.br/</a></p>
+
+<p><strong>Blender Sincero</strong><br>
+A pagina mais bem humorada da internet que fala sobre Blender.
+Visite a pagina no Facebook: <a class=""alt-link"" href=""https://www.facebook.com/BlenderSincero"" target=""_blank"">https://www.facebook.com/BlenderSincero</a></p>
+
+<p><strong>Adolescentes Cristãos</strong>
+Uma pagina incrível que levar ótimas mensagens de Deus para seus seguidores, dando uma grande força ao projeto Alem da vida.
+Visitem: <a class=""alt-link"" href=""https://www.facebook.com/AdolescenteCristaos"" target=""_blank"">https://www.facebook.com/AdolescenteCristaos</a></p>
+
+<p><strong>Indie Developers Brasil</strong>
+Uma das maiores paginas sobre jogos independentes brasileiros, trabalhando gratuitamente para promover jogos  nacionais.
+<a class=""alt-link"" href=""https://www.facebook.com/pages/Indie-Developers-Brasil/480678235332422"" target=""_blank"">https://www.facebook.com/pages/Indie-Developers-Brasil/480678235332422</a></p>
+
+<p><strong>Game Reporter</strong>
+Blog incrível sobre jogos, que esta dando um grande apoio ao projeto alem da Vida, visitem o site e veja a matéria sobre o jogo: <a class=""alt-link"" href=""http://gamereporter.uol.com.br/alem-da-vida-catarse/"" target=""_blank"">http://gamereporter.uol.com.br/alem-da-vida-catarse/</a> </p>
+
+<p><strong>Gamers Brasileiros</strong>
+A pagina feita para gamers, com noticias e novidades do mundo dos games, dando um apoio para o jogo Alem da vida.
+Visitem : <a class=""alt-link"" href=""https://www.facebook.com/CBGamesBrasileiros"" target=""_blank"">https://www.facebook.com/CBGamesBrasileiros</a></p>
+
+<p><strong>Mundo Indie</strong> Uma otima pagina que incentiva o desenvolvimento de jogos no Brasil,  Visitem : <a class=""alt-link"" href=""https://www.facebook.com/MundoIndie2"" target=""_blank"">https://www.facebook.com/MundoIndie2</a></p>
+",alemdavida,//www.youtube.com/embed/yCI7dM9wRHg,https://www.youtube.com/watch?v=yCI7dM9wRHg&feature=youtu.be,Jogos,14,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/7707/asddd.jpg,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/7707/project_thumb_thumb_asddd.jpg,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/7707/project_thumb_small_asddd.jpg,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/7707/project_thumb_large_asddd.jpg,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/7707/project_thumb_video_cover_asddd.jpg,2.56666666666666666700,385.0,7,7,failed,aon,finished,"2014-12-06 01:59:59","2014-12-05 23:59:59","2014-10-06 12:00:20.963486","2014-10-06 09:00:20.963486",,t,t,f,60,"{""total"" : 0, ""unit"" : ""seconds""}","{""total"" : 60, ""unit"" : ""days""}",0,"{""city"" : ""Avaré"", ""state_acronym"" : ""SP"", ""state"" : ""São Paulo""}","{""id"" : 127065, ""name"" : ""Claudio Rainho""}",2,,f,f,0,f,f,f

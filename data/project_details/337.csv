@@ -1,0 +1,41 @@
+project_id,id,user_id,name,headline,budget,goal,about_html,permalink,video_embed_url,video_url,category_name,category_id,original_image,thumb_image,small_image,large_image,video_cover_image,progress,pledged,total_contributions,total_contributors,state,mode,state_order,expires_at,zone_expires_at,online_date,zone_online_date,sent_to_analysis_at,is_published,is_expired,open_for_contributions,online_days,remaining_time,elapsed_time,posts_count,address,user,reminder_count,is_owner_or_admin,user_signed_in,in_reminder,total_posts,can_request_transfer,is_admin_role,contributed_by_friends
+337,337,25581,"Está na Área","Estar na área não é só estar no mesmo espaço físico, é redefinir o conceito de espaço de trabalho. Abra-se aos novos conceitos! Inove!","O orçamento para projetos anteriores a 24/02/2015 normalmente pode ser encontrado na descrição acima.",16000.0,"<p>O que você imagina que vai ser de São Paulo se as empresas não forem criativas de forma a permitir que os seus colaboradores trabalhem em diferentes localidades que não seja o espaço físico do escritório?</p>
+
+<p>Não é preciso ser expert em mobilidade urbana para responder essa pergunta.</p>
+
+<p>Pesquisa realizada pelo IBOPE mostra que nas grandes metrópoles do país os brasileiros passam cerca de 2h42 minutos no trânsito, principalmente para exercer atividades rotineiras, como o trabalho.</p>
+
+<p>Divulgado recentemente o estudo “Dinâmica populacional e sistema de mobilidade nas metrópoles brasileiras”, feito entre 2001 e 2010 pelo IPEA (Instituto de Pesquisa Econômica e Aplicada) mostra que os deslocamentos intra-municipal (dentro do município) aumentaram em média 55%, assim como cresce o número de pessoas que se deslocam entre as regiões metropolitanas.</p>
+
+<p>Além de toda poluição causada pelo grande volume de deslocamentos, essa situação afeta a saúde e contribui para a incidência de dores no corpo, obesidade e aumento do colesterol.</p>
+
+<p>Com a chegada da Era do Conhecimento muitos desses problemas podem ser resolvidos por meio do trabalho remoto. O setor de “serviços de informação e comunicação” está cada vez mais em evidência e em 2009 foi um dos três que mais geraram receita (R$214,4 bilhões). </p>
+
+<p>Um estudo feito em 2008, pelo Núcleo de Informação e Coordenação do Ponto BR, aponta que apenas 18% das empresas pequenas e médias utilizam o trabalho remoto. Já nas grandes, esse número atinge 58%.</p>
+
+<p>Por isso, o “Está na Área” quer conectar as empresas que procuram essa nova alternativa de contratação com os profissionais interessados em trabalhar de forma remota. 
+A ideia é criar uma plataforma web com a APIs de soluções existentes na web como, por exemplo, o da rede oDesk, Facebook, Google Maps, LinkedIn e readequá-las para esse serviço dentro do contexto brasileiro.
+Dessa forma, será mais fácil e seguro encontrar formas de trabalhar em casa ou perto de casa, se locomovendo o menos possível.</p>
+
+<p>Essa nova dinâmica ajudará a transformar a vida dos cidadãos de diversas maneiras:
+- mais mobilidade urbana;
+-preservação do meio-ambiente com a diminuição dos gases poluentes emitidos pelos automóveis;
+- oportunidades para novos talentos;
+- estímulo ao comércio onde as pessoas estão inseridas;</p>
+
+<p>Também poderá colaborar com as empresas nos seguintes pontos: 
+– redução dos custos (Vale transporte, benefícios entregue na porta de casa, nova dinâmica na alimentação dos funcionários);
+- melhoria dos serviços/atendimento;
+- QVT (Qualidade de vida no trabalho) – diminuição da sinistralidade, relacionado aos gastos com Planos de Saúde;
+- mais produtividade;
+- redução do estresse;
+- otimização do grupo;</p>
+
+<p><em>Objetivo da arrecadação e plano de negócios</em></p>
+
+<p>O dinheiro arrecadado será usado para montar uma plataforma beta para começar a desenvolver e disponibilizar o serviço de forma gratuita.</p>
+
+<p>Com a plataforma em funcionamento vamos oferecer serviços pagos dentro do site e de parceiros como, por exemplo, apoio e suporte para otimizar o currículo, consultoria em marketing digital, acesso a software para trabalho remoto, entre outros.</p>
+
+<p>Durante todo o processo de implantação do projeto informaremos o andamento das ações em um blog onde disponibilizaremos também dados sobre o assunto e entrevistas exclusivas com empresários e profissionais ligados ao tema.</p>
+",esta-na-area,//player.vimeo.com/video/29383465,http://www.vimeo.com/29383465,Socioambiental,4,,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/video_thumbnail/337/project_thumb_thumb_open-uri20131125-2-hudicn,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/video_thumbnail/337/project_thumb_small_open-uri20131125-2-hudicn,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/video_thumbnail/337/project_thumb_large_open-uri20131125-2-hudicn,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/video_thumbnail/337/project_thumb_video_cover_open-uri20131125-2-hudicn,5.87500000000000000000,940.0,21,20,failed,aon,finished,"2011-11-30 01:59:59","2011-11-29 23:59:59","2011-10-01 01:59:00","2011-09-30 22:59:00",,t,t,f,60,"{""total"" : 0, ""unit"" : ""seconds""}","{""total"" : 60, ""unit"" : ""days""}",3,"{""city"" : ""São Paulo"", ""state_acronym"" : ""SP"", ""state"" : ""São Paulo""}","{""id"" : 25581, ""name"" : """"}",0,,f,f,3,f,f,f

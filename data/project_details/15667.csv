@@ -1,0 +1,70 @@
+project_id,id,user_id,name,headline,budget,goal,about_html,permalink,video_embed_url,video_url,category_name,category_id,original_image,thumb_image,small_image,large_image,video_cover_image,progress,pledged,total_contributions,total_contributors,state,mode,state_order,expires_at,zone_expires_at,online_date,zone_online_date,sent_to_analysis_at,is_published,is_expired,open_for_contributions,online_days,remaining_time,elapsed_time,posts_count,address,user,reminder_count,is_owner_or_admin,user_signed_in,in_reminder,total_posts,can_request_transfer,is_admin_role,contributed_by_friends
+15667,15667,443563,"Braille Digital","Equipamento chamado BrailleDigital possibilita deficientes visuais usufruírem da literatura virtual.","<p>O custo de produção do hardware sairia em média R$ 212,90 sendo :</p><p style=""margin-left: 20px;"">6 motores, 6 pinos, 1 circuito prototipado inicialmente com o Arduino e Shield EasyVR (reconhecedor de voz) , fonte de energia (que será conectado Arduíno, com 5v) e componentes externos. </p><p>Ainda mais uma estética externa que será desenvolvida em metal revestido com e-pox e a superficie será feita em vidro  e ira sair em média R$ 22,00 por unidade.</p><p>O orçamento ficou em R$ 4.030,00 devido a produção de 20 peças do projeto que serão doadas para instituições/pessoas que trabalham com deficientes visuais.</p><p style=""margin-left: 20px;"">+ Recompensas = R$ 260,00</p><p style=""margin-left: 20px;"">+ 13 % do site = R$ 551,00 </p><p style=""margin-left: 20px;"">    + Peças prontas para ser entregue =  R$ 4240,00</p><p style=""margin-left: 20px;"">+ Patente da ideia do projeto e pesquisa de mercado existente = R$ 5100,00</p><p>TOTAL: R$ 9917,00</p><p>O envio das recompensas será por conta dos desenvolvedores</p>",9917.0,"<p style=""margin-left: 20px;""><br></p><p class=""fontsize-larger fontweight-semibold""><strong>Desenvolvimento de protótipo para conversão de texto no formato eletrônico para o alfabeto braille</strong><strong></strong></p><p class=""fontsize-larger fontweight-semibold""><strong><br></strong></p><p style=""margin-left: 20px;""><img src=""https://s3.amazonaws.com/cdn.catarse/uploads/redactor_rails/picture/data/23348/InterfaceNova_logo.png"" ""=""""></p><p style=""margin-left: 20px;""><br></p><p style=""margin-left: 20px;"">A literatura é a porta para diferentes
+mundos, onde o leitor pode vestir um outro personagem e uma outra
+realidade. Somando estas experiências com a oportunidade de
+aprendizado, conscientização do mundo e dos fatores sociais que o
+envolvem, incorporação de novas culturas e um puro lazer,
+concluimos que é de vital importância a leitura para a construção
+psicológica de um humano.</p><p style=""margin-left: 20px;"">Observando os livros que chegam nas
+diferentes escolas do estado, seja qual for a sua natureza(particular
+ou pública), percebemos a falta da disponibilização de títulos
+famosos para o Braille. Livros como O Pequeno Príncipe, de Antoine
+de Saint-Exupéry, e As Crônicas de Nárnia, de C.S. Lewis, estão
+indisponíveis para os deficientes visuais. 
+</p><p style=""margin-left: 20px;"">Para a disponibilização destas
+histórias e das experiências que estas consequentemente acarretam,
+<strong>desenvolvemos um equipamento que pode ler qualquer arquivo de texto
+gráfico anteriormente armazenado</strong>, e assim, disponibilizar através
+de esferas e motores, a leitura em Braille. Finalmente, a leitura de
+livros, que possuem o seu formato PDF, estará disponível para todos
+que possuírem este equipamento móvel.</p><p style=""margin-left: 20px;"">Em suma, este projeto representa um
+grande passo para a literatura, disponibilizando uma biblioteca
+Braille portátil para deficientes visuais, auxiliada por comandos de
+voz e ajustes da velocidade.</p><p style=""margin-left: 20px;""><br><img src=""https://s3.amazonaws.com/cdn.catarse/uploads/redactor_rails/picture/data/29805/braille1.jpg""></p><p style=""margin-left: 20px;""><span></span></p><p style=""margin-left: 20px;""><br></p><p style=""margin-left: 20px;"">Desenvolvi o <em>Braille Digital </em>com ajuda de meu colega Bruno Felipe com intuito de facilitar e melhorar a <strong><em>leitura de cegos a um nível que o mesmo possa ler QUALQUER LIVRO, e quando digo qualquer livro estou falando de todos mesmo, e ainda criando sua própria biblioteca virtual em um computador com o programa do Braille Digital que será acessível sem a necessidade de visão.</em></strong><br></p><p style=""margin-left: 20px;""><strong><em><br></em></strong></p><p style=""margin-left: 20px;""><img src=""https://s3.amazonaws.com/cdn.catarse/uploads/redactor_rails/picture/data/23307/imagem3.jpg""></p><p style=""margin-left: 20px;""><strong>O que é o BRAILLE DIGITAL ?</strong><br></p><p style=""margin-left: 20px;"">- Braille Digital é o nome do
+equipamento criado que possibilita deficientes visuais usufruírem da
+literatura virtual, dito que literatura virtual seja todo arquivo de
+texto gráfico, como por exemplo, arquivos PDF.</p><p style=""margin-left: 20px;""><strong>Como funciona?</strong></p><p style=""margin-left: 20px;"">- <strong>Foi desenvolvido um equipamento
+portátil (como mostra a imagem em anexo)</strong>, que possui seis micro
+motores que funcionam como alavancas. Acoplados a estas, estão seis
+pequenas esferas semelhantes ao relevo de livros Braille,
+consequentemente representando os pontos do Braille. Com o movimento
+de subida e descida de cada motor, é possível reconher todas as
+letras do alfabeto braille, conforme aparecem no livro ou texto.</p><p style=""margin-left: 20px;"">Juntamente com o computador, este
+equipamento se comunica com o software presente no computador, aonde
+neste último está uma biblioteca de livros, com capacidade de
+armazenamento de até mil livros (ou seja, arquivos PDF ou arquivos
+de texto).</p><p style=""margin-left: 20px;"">-Uma vez escolhido o arquivo que deseja
+ser lido, o software converte todo o texto do arquivo para o formato
+Braille, e assim, é encaminhado para a parte física do equipamento,
+movimentando os motores e dando forma para as letras, possibilitando
+a leitura.</p><p style=""margin-left: 20px;""><img src=""https://s3.amazonaws.com/cdn.catarse/uploads/redactor_rails/picture/data/29821/12212488_945977135461425_747205615_n.jpg""><br></p><p style=""margin-left: 20px;""><strong>O que ACONTECE?</strong></p><p style=""margin-left: 20px;"">- Assim que o deficiente visual escolhe o que deseja ler, por exemplo, um livro, o software transforma imediatamente todo o texto deste livro em Braille e envia os dados para o equipamento que logo em seguida inicia os motores, formando as letras em braille daquele livro escolhido.</p><p style=""margin-left: 20px;"">Todo o programa pode ser controlado
+através de comandos de voz! O programa conta com uma básica
+inteligência artificial, que recebe a mensagem do usuário e obedece
+as instruções dadas por ele, como por exemplo:</p><p style=""margin-left: 40px;"">- ""Iniciar leitura do livro O
+Pequeno Príncipe""</p><p style=""margin-left: 40px;"">- ""Pausar leitura""</p><p style=""margin-left: 40px;"">- ""Aumentar a velocidade""</p><p style=""margin-left: 40px;"">- ""Diminuir a velocidade""</p><p style=""margin-left: 20px;""><strong>ALTERAÇÃO DA VELOCIDADE</strong></p><p style=""margin-left: 20px;"">-Temos diferenciadas velocidades para
+realizar uma determinada tarefa. A leitura não escaparia disto,
+então não podemos assumir que todos possuem um mesmo ritmo para
+absorver todo o conteúdo do texto. Com o comando de voz é possível
+ajustar a velocidade da leitura com os gostos do usuário.</p><p style=""margin-left: 20px;""><strong>PARA QUE ESSE PROJETO SERVIRÁ AFINAL ?</strong></p><p style=""margin-left: 20px;"">- Esse projeto irá garantir uma maior acessibilidade de deficientes visuais, ou melhor, esse projeto trará acessibilidade ao deficiente de pelo menos 85% dos livros publicados. Estamos desenvolvendo uma verdadeira biblioteca braille portátil.</p><p style=""margin-left: 20px;""><strong>EXISTE ALGUM PROTÓTIPO ?</strong></p><p style=""margin-left: 20px;""><strong></strong>- Existe um protótipo inicial produzido
+com a parte exterior feita em papelão, visando menores custos com os
+primeiros testes. O protótipo está funcionando de acordo com o
+planejado e descrito neste plano de negócio, contando com uma
+interface gráfica e botões para a navegação, como podemos
+observar nas imagens abaixo:</p><p style=""margin-left: 20px;""><img src=""https://s3.amazonaws.com/cdn.catarse/uploads/redactor_rails/picture/data/23478/12022012_925489144176891_358939956_n.jpg""></p><p style=""margin-left: 20px;""><img src=""https://s3.amazonaws.com/cdn.catarse/uploads/redactor_rails/picture/data/24579/20150929110601.jpg""></p><p style=""margin-left: 20px;""><img src=""https://s3.amazonaws.com/cdn.catarse/uploads/redactor_rails/picture/data/24580/20150929110600.jpg""></p><p style=""margin-left: 20px;""><strong><br></strong></p><p class=""fontsize-large"" style=""margin-left: 20px;""><strong>Para que vocês farão 20 equipamentos ?</strong></p><p style=""margin-left: 20px;""><strong>O objetivo desta campanha é a produção
+de vinte equipamentos utilizáveis, em estado próprio para a doação
+direcionada à instituições e pessoas com deficiência visual, com
+o objetivo de espalhar a ideia e para que erros ou dificuldades
+possam ser resolvidos o quanto antes.</strong> 
+</p><p style=""margin-left: 20px;""><strong>As instituições ainda serão
+selecionadas</strong>. Possuímos contato com apenas onze instituições e uma
+pessoa com deficiência visual, portanto, qualquer pessoa/instituição
+que deseja participar do processo de teste, mande um email para: 
+</p><p style=""margin-left: 20px;"">marcos.sartor@hotmail.com.br</p><p style=""margin-left: 20px;"">O equipamento que será entregue é o
+protótipo com todas as funções funcionando com a máxima eficácia
+planejada, com todas as funcionalidades prontas e o mais portátil
+possível,<strong> visando a ideia de deixar o equipamento com o tamanho de
+uma calculadora.</strong></p><p class=""fontsize-large"" style=""margin-left: 20px;""><strong></strong></p><p style=""margin-left: 20px;""><strong>COMO ENTRAR EM CONTATO COM OS DESENVOLVEDORES?</strong></p><p style=""margin-left: 20px;""><strong>Caso tenha interesse de entrar em
+contato através de e-mail: </strong></p><p style=""margin-left: 20px;"">marcos.sartor@hotmail.com.br<strong></strong></p><p style=""margin-left: 20px;"">brailledigital@gmail.com</p><p style=""margin-left: 20px;""><strong>Ou por inbox do Facebook:</strong></p><p style=""margin-left: 20px;""><a href=""https://www.facebook.com/marcosvinicios.sartor"">https://www.facebook.com/marcosvinicios.sartor</a></p><p style=""margin-left: 20px;"">Estamos procurando <strong>pessoas que possuem
+deficiência visual</strong> para <strong>testarem</strong> o projeto durante um período de
+tempo, caso possua o contato de alguém que se encaixe nestes pontos,
+<strong>por favor entre em contato</strong> com a equipe.</p><p style=""margin-left: 20px;""><strong>FEIRA DE CIÊNCIAS COM ESTANDE SOBRE O BRAILLE DIGITAL</strong></p><p style=""margin-left: 20px;""><strong></strong><img src=""https://s3.amazonaws.com/cdn.catarse/uploads/redactor_rails/picture/data/24133/IMG_5135.JPG""><img src=""https://s3.amazonaws.com/cdn.catarse/uploads/redactor_rails/picture/data/24132/IMG_5231.JPG""></p><p style=""margin-left: 20px;""><img src=""https://s3.amazonaws.com/cdn.catarse/uploads/redactor_rails/picture/data/24135/IMG_5163.JPG""></p><p style=""margin-left: 20px;""><br></p><p style=""margin-left: 20px;""><br></p><p style=""margin-left: 260px;""> ATENÇÃO!            </p>Todo o frete da recompensa está por<p>conta dos desenvolvedores, como forma de maior agradecimento ao apoio</p><p>do projeto. Agradecemos muito pelo apoio! Estão contribuindo para</p><p>uma melhor interação humana com um dos maiores prazeres conhecidos. </p><p style=""margin-left: 20px;""><br></p>",brailledigital,//www.youtube.com/embed/o1CNs5nIa-w,https://youtu.be/o1CNs5nIa-w,"Ciência e Tecnologia",18,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/15667/11651071_8880549845816974_804649414_n.jpg,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/15667/project_thumb_thumb_11651071_8880549845816974_804649414_n.jpg,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/15667/project_thumb_small_11651071_8880549845816974_804649414_n.jpg,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/15667/project_thumb_large_11651071_8880549845816974_804649414_n.jpg,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/15667/project_thumb_video_cover_11651071_8880549845816974_804649414_n.jpg,12.45336291217101946200,1235.0,14,14,failed,aon,finished,"2016-01-25 01:59:59.999999","2016-01-24 23:59:59.999999","2015-11-25 21:17:35.491567","2015-11-25 19:17:35.491567",,t,t,f,60,"{""total"" : 0, ""unit"" : ""seconds""}","{""total"" : 60, ""unit"" : ""days""}",0,"{""city"" : ""Presidente Getúlio"", ""state_acronym"" : ""SC"", ""state"" : ""Santa Catarina""}","{""id"" : 443563, ""name"" : ""Marcos Sartor""}",9,,f,f,0,f,f,f

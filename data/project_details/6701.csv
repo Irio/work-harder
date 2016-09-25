@@ -1,0 +1,53 @@
+project_id,id,user_id,name,headline,budget,goal,about_html,permalink,video_embed_url,video_url,category_name,category_id,original_image,thumb_image,small_image,large_image,video_cover_image,progress,pledged,total_contributions,total_contributors,state,mode,state_order,expires_at,zone_expires_at,online_date,zone_online_date,sent_to_analysis_at,is_published,is_expired,open_for_contributions,online_days,remaining_time,elapsed_time,posts_count,address,user,reminder_count,is_owner_or_admin,user_signed_in,in_reminder,total_posts,can_request_transfer,is_admin_role,contributed_by_friends
+6701,6701,316013,"Gravação CD Syn TZ","Ajude a Syn TZ a gravar seu primeiro álbum.","O orçamento para projetos anteriores a 24/02/2015 normalmente pode ser encontrado na descrição acima.",10000.0,"<p>A Syn TZ quer lançar seu primeiro álbum e precisa da sua ajuda para isso! Saiba como participar!</p>
+
+<p><img src=""http://www.syntz.net/catarse/cd.jpg"" alt=""""/></p>
+
+<p>Colaborando com R$ 25 (ou mais), você está automaticamente pré-comprando o CD, que você receberá em casa no final do projeto.</p>
+
+<p><img src=""http://www.syntz.net/catarse/camiseta.jpg"" alt=""""/></p>
+
+<p>Colaborando com R$ 35 (ou mais), você está automaticamente pré-comprando uma camiseta da banda, que você escolherá o modelo e receberá em casa no final do projeto.</p>
+
+<p><img src=""http://www.syntz.net/catarse/cdcamiseta.jpg"" alt=""""/></p>
+
+<p>Colaborando com R$ 50 (ou mais), você está automaticamente pré-comprando um CD e uma camiseta da banda, que você escolherá o modelo e receberá ambos em casa no final do projeto.</p>
+
+<p><img src=""http://www.syntz.net/catarse/participacao.jpg"" alt=""""/></p>
+
+<p>Queremos que você literalmente participe da gravação! Por isso estamos convidando todos que colaborarem com R$ 100 (ou mais), a comparecer no estúdio para gravar com a banda! Isso mesmo, queremos registro da voz de todos que ajudarem a tornar esse projeto uma realidade. 
+Uma das musicas do terá um coro em uníssono (varias vozes cantando a mesma melodia) e soará como um show ao vivo, por isso contamos com sua participação! Compreendemos que nem todos poderão participar devido a fatores geográficos ou mesmo indisponibilidade, mas todos estão convidados a comparecer (na data que sera informada) e terão seus nomes no encarte.</p>
+
+<p><img src=""http://www.syntz.net/catarse/logo.jpg"" alt=""""/></p>
+
+<p>Colaborando com R$ 1000 (ou mais), sua logomarca será colocada na parte traseira do encarte como apoio/patrocinio. Esta recompensa é limitada para até 10 logomarcas para que o encarte não fique poluido e sua marca não perca destaque.</p>
+
+<p><img src=""http://www.syntz.net/catarse/custos.jpg"" alt=""""/></p>
+
+<ul>
+<li>Estúdio: R$ 5000</li>
+<li>Prensagem (fabricação): R$ 2200</li>
+<li>Camisetas: R$ 1000</li>
+<li>Custo de envio: R$ 500</li>
+<li>Taxa Catarse: R$ 1300</li>
+<li>TOTAL: R$ 10000</li>
+</ul>
+
+<p><img src=""http://www.syntz.net/catarse/faq.jpg"" alt=""""/></p>
+
+<p>O que ganho colaborando?</p>
+
+<p>R: Colaborando com R$ 25 ou mais você automaticamente ganhará o CD da banda quando for lançado. Além disso participará das gravações cantando com a banda.</p>
+
+<p>Como será essa participação no CD?</p>
+
+<p>R: Em uma das musicas que será gravada, tem um grande coro onde tentaremos colocar o máximo de vozes possível. Não é preciso ser afinado, o coro funcionará como se fosse uma apresentação ao vivo em que a platéia canta.</p>
+
+<p>Que dia será feita essa gravação? E se eu não puder comparecer?</p>
+
+<p>R: A data ainda será confirmada, se o projeto for bem sucedido e arrecadarmos o necessário, informaremos a todos que colaboraram o dia e local da gravação.</p>
+
+<p>Onde será feita a gravação? Eu moro longe, vão bancar minha vaigem?</p>
+
+<p>R: Infelizmente sabemos que não será possível para todos participarem, não temos como bancar a viagem de quem mora longe. Mas esperamos o maior numero de pessoas possível.</p>
+",syntz,//www.youtube.com/embed/e7F17gruS1E,http://youtu.be/e7F17gruS1E,Música,16,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/6701/logo_caveira.jpg,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/6701/project_thumb_thumb_logo_caveira.jpg,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/6701/project_thumb_small_logo_caveira.jpg,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/6701/project_thumb_large_logo_caveira.jpg,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/6701/project_thumb_video_cover_logo_caveira.jpg,5.80000000000000000000,580.0,20,20,failed,aon,finished,"2014-10-27 01:59:59","2014-10-26 23:59:59","2014-08-27 16:43:41.950994","2014-08-27 13:43:41.950994",,t,t,f,60,"{""total"" : 0, ""unit"" : ""seconds""}","{""total"" : 60, ""unit"" : ""days""}",2,"{""city"" : ""Florianópolis"", ""state_acronym"" : ""SC"", ""state"" : ""Santa Catarina""}","{""id"" : 316013, ""name"" : ""Giuliano Schmidt""}",0,,f,f,2,f,f,f

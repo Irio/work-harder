@@ -1,0 +1,27 @@
+project_id,id,user_id,name,headline,budget,goal,about_html,permalink,video_embed_url,video_url,category_name,category_id,original_image,thumb_image,small_image,large_image,video_cover_image,progress,pledged,total_contributions,total_contributors,state,mode,state_order,expires_at,zone_expires_at,online_date,zone_online_date,sent_to_analysis_at,is_published,is_expired,open_for_contributions,online_days,remaining_time,elapsed_time,posts_count,address,user,reminder_count,is_owner_or_admin,user_signed_in,in_reminder,total_posts,can_request_transfer,is_admin_role,contributed_by_friends
+7027,7027,10292,CineFusca,"CineFusca! Porque chegar juntos é muito mais legal!","O orçamento para projetos anteriores a 24/02/2015 normalmente pode ser encontrado na descrição acima.",25000.0,"<p><strong>QUEM SOMOS &amp; O QUE QUEREMOS</strong>
+O <strong>CineFusca</strong> é um projeto multicultural criado por alunos da Turma 7 da <em>Escola Livre de Cinema e Vídeo</em> de Santo André/SP. Temos três objetivos: realizar a <em>Caravana CineFusca</em>, o curta-metragem <em>MAG 1974</em> e o <em>Festival CineFusca ELCV</em>.</p>
+
+<ol>
+<li><p>A <strong>Caravana CineFusca</strong> percorrerá cidades do RS, SC, PR e SP. Neste trajeto, realizaremos oficinas culturais, exibição de filmes sempre registrando a viagem a fim de gerar um documentário experimental.</p></li>
+<li><p>Em Santo André e Vila Paranapiacaba, gravaremos o curta-metragem <strong>MAG 1974</strong>, tendo o fusca <em>Magnólia</em> como um dos personagens principais. </p></li>
+<li><p>O <strong>Festival CineFusca ELCV</strong> marcará o retorno às aulas, em Março de 2015. O Festival será realizado no Parque Chácara Pignatari, onde a ELCV está localizada e terá diversas atividades, entre elas: shows de bandas dos alunos, mostra retrospectiva da ELCV, exposição fotográfica da Caravana CineFusca e making of do curta MAG 1974, oficinas de cinema, corrida/caminhada e volta de bike. Com o seu apoio, a entrada será free!</p></li>
+</ol>
+
+<p><strong>POR QUE QUEREMOS &amp; PRECISAMOS DO SEU APOIO</strong>
+O projeto <strong>CineFusca</strong> foi desenvolvido para explorar o potencial criativo da Turma 7 da ELCV, bem como divulgar nossa Escola e integrar nossa Escola à comunidade. Em março de 2014 a ELCV foi desalojada pela Prefeitura de Sto. André, prejudicando o início do ano letivo da Turma 7 e a continuidade da Turma 6. Ao criar um maior envolvimento com a comunidade da região e com os amantes da 7ª arte, queremos despertar interesse para o trabalho realizado na ELCV, fortalecendo o nome da Escola não apenas na cidade de Sto. André, mas também no cenário cultural, evitando que ela seja fechada. </p>
+
+<p><strong>COMO SEU APOIO SERÁ UTILIZADO</strong>
+Produção da <em>Caravana CineFusca</em> = R$ 5.000
+Gravação do curta <em>MAG 1974</em> = R$ 8.750
+Realização do <em>Festival CineFusca ELCV</em> = 5.000
+Gastos com as <em>Recompensas</em> = R$ 3.000
+Taxa do Catarse ( 13% ) = R$ 3.250</p>
+
+<p><strong>ACOMPANHE O CINEFUSCA</strong>
+ <a class=""alt-link"" href=""http://www.cinefusca.com.br"" target=""_blank"">www.cinefusca.com.br</a>
+<a class=""alt-link"" target=""_blank"" href=""www.facebook.com/CineFusca"">Facebook</a>
+<a class=""alt-link"" target=""_blank"" href=""http://goo.gl/itUKYA"">YouTube</a>
+<a class=""alt-link"" target=""_blank"" href=""http://instagram.com/cinefusca"">Instagram</a>
+<strong>E-mail</strong> : <a class=""alt-link"" href=""mailto:contato@cinefusca.com.br"" target=""_blank"">contato@cinefusca.com.br</a></p>
+",cinefusca,//www.youtube.com/embed/DBRl1FQzUE4,https://www.youtube.com/watch?v=DBRl1FQzUE4,"Cinema e Vídeo",13,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/7027/cinefusca.jpg,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/7027/project_thumb_thumb_cinefusca.jpg,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/7027/project_thumb_small_cinefusca.jpg,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/7027/project_thumb_large_cinefusca.jpg,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/7027/project_thumb_video_cover_cinefusca.jpg,5.10000000000000000000,1275.0,28,27,failed,aon,finished,"2014-11-05 01:59:59","2014-11-04 23:59:59","2014-09-05 12:00:04.74366","2014-09-05 09:00:04.74366",,t,t,f,60,"{""total"" : 0, ""unit"" : ""seconds""}","{""total"" : 60, ""unit"" : ""days""}",1,"{""city"" : ""São Paulo"", ""state_acronym"" : ""SP"", ""state"" : ""São Paulo""}","{""id"" : 10292, ""name"" : ""Lígia Jalantonio Hsu""}",1,,f,f,1,f,f,f

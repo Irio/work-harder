@@ -1,0 +1,50 @@
+project_id,id,user_id,name,headline,budget,goal,about_html,permalink,video_embed_url,video_url,category_name,category_id,original_image,thumb_image,small_image,large_image,video_cover_image,progress,pledged,total_contributions,total_contributors,state,mode,state_order,expires_at,zone_expires_at,online_date,zone_online_date,sent_to_analysis_at,is_published,is_expired,open_for_contributions,online_days,remaining_time,elapsed_time,posts_count,address,user,reminder_count,is_owner_or_admin,user_signed_in,in_reminder,total_posts,can_request_transfer,is_admin_role,contributed_by_friends
+1174,1174,112130,"Meninos da Fila - websérie inspirada no filme","Ajude o curta-metragem sobre os anos difíceis do Santos, Meninos da Fila, a virar uma série na internet!","O orçamento para projetos anteriores a 24/02/2015 normalmente pode ser encontrado na descrição acima.",6500.0,"<p><em>Meninos da Fila</em>, curta-metragem dirigido por Ciro Hamen, conta a
+história de uma geração de torcedores do Santos Futebol Clube
+resistente. Um dos períodos mais difíceis da trajetória do alvinegro
+praiano, os 18 anos de &quot;seca&quot; (entre 1984 e 2002), no qual o time
+ganhou apenas títulos menos expressivos, contado por aqueles que mais
+sofreram, os torcedores que nasceram e cresceram nessa época. Não
+viram Pelé e conheciam as glórias apenas por meio dos livros, mas
+mesmo assim foram corajosos e nunca viraram casaca.</p>
+
+<p>O filme foi premiado no festival <em>Curta Santos</em> (como Melhor Filme
+dentro da mostra de filmes que celebravam o centenário do Peixe) e foi
+bastante falado na mídia (aparecendo em grandes portais e sites da
+internet, como UOL, Globo Esporte, Fox Sports, entre outros).</p>
+
+<p>No entanto, por conta de seu pouco tempo de duração (10 minutos),
+muitas histórias ficaram de fora (o gol de Ricardinho, aos 48 do
+segundo tempo na semi-final do Paulista de 2001, por exemplo). E aí é
+que entra você! A ideia agora é colocar todas essas histórias da época
+da &quot;fila&quot; em uma websérie, com um torcedor específico falando sobre um
+jogo específico do Santos nesse período. A mesma equipe que produziu o
+curta-metragem será responsável pela série, colocando um episódio por
+mês na internet durante um ano. Ao final desse périodo, será produzido
+um DVD com a série completa, que todos que contribuíram vão ganhar.
+Claro que além do DVD, há muitas outras recompensas (que varia de
+acordo com o valor da sua doação), como camisetas e até mesmo um
+abraço do craque Robert!</p>
+
+<p>Para essa ideia se concretizar precisamos espalhar o projeto por aí. A
+equipe de produção espera imensamente que a gente consiga atingir a
+meta para fazer desse mais um trabalho que dignifique o time praiano.
+Um belo projeto para os amantes de futebol, os amantes do Santos e os
+amantes do bom cinema!</p>
+
+<p>Para conhecer mais sobre o filme, você pode visualizar os seguintes links:</p>
+
+<p><a class=""alt-link"" target=""_blank"" href=""http://www.foxsports.com.br/noticias/67733-filme-meninos-da-fila-expoe-os-18-anos-sem-titulos-do-santos"">Fox Sports</a></p>
+
+<p><a class=""alt-link"" target=""_blank"" href=""http://esporte.uol.com.br/futebol/ultimas-noticias/2012/10/10/filme-exalta-fase-perdedora-do-santos-e-conta-historia-esquecida-dos-meninos-da-fila.htm"">UOL</a></p>
+
+<p><a class=""alt-link"" target=""_blank"" href=""http://globoesporte.globo.com/sp/santos-e-regiao/noticia/2012/10/filme-mostra-sofrimento-de-torcedores-sem-titulos-do-santos.html?utm_source=Twitter&amp"">Globo Esporte</a>;utm<em>medium=Social&amp;utm</em>campaign=ge_santos</p>
+
+<p><a class=""alt-link"" target=""_blank"" href=""http://www.eusousantos.com.br/2012/11/ciro-hamen-fala-sobre-o-sucesso-de-seu-curta-metragem-meninos-da-fila/"">Eu Sou Santos</a></p>
+
+<p><a class=""alt-link"" target=""_blank"" href=""http://www.facebook.com/meninosdafila"">Facebook</a></p>
+
+<p>Veja o trailer do filme</p>
+
+<p><a class=""alt-link"" href=""http://www.youtube.com/watch?feature=player_embedded&amp;v=PCmjMZMxeTY"" target=""_blank"">http://www.youtube.com/watch?feature=player_embedded&amp;v=PCmjMZMxeTY</a></p>
+",meninosdafila,//player.vimeo.com/video/55724045,http://vimeo.com/55724045,"Cinema e Vídeo",13,,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/video_thumbnail/1174/project_thumb_thumb_open-uri20131125-2-1r39j3t,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/video_thumbnail/1174/project_thumb_small_open-uri20131125-2-1r39j3t,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/video_thumbnail/1174/project_thumb_large_open-uri20131125-2-1r39j3t,https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/video_thumbnail/1174/project_thumb_video_cover_open-uri20131125-2-1r39j3t,117.0769230769230800,7610.0,103,95,successful,aon,finished,"2013-02-21 02:59:59","2013-02-20 23:59:59","2012-12-22 02:59:59","2012-12-22 00:59:59",,t,t,f,60,"{""total"" : 0, ""unit"" : ""seconds""}","{""total"" : 61, ""unit"" : ""days""}",3,"{""city"" : ""São Paulo"", ""state_acronym"" : ""SP"", ""state"" : ""São Paulo""}","{""id"" : 112130, ""name"" : ""Ciro Hamen""}",0,,f,f,3,f,f,f
