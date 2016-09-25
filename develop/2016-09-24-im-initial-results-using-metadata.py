@@ -138,8 +138,8 @@ Chart(last_year_projects).mark_bar().encode(
 
 # In[19]:
 
-last_year_projects['state'] =     last_year_projects['state'].replace('waiting_funds', 'successful')
-last_year_projects['state'].unique()
+last_year_projects['state'] = last_year_projects['state'].     replace('successful', 1).     replace('waiting_funds', 1).     replace('failed', 0)
+last_year_projects['state'] = last_year_projects['state'].astype(np.bool)
 
 
 # In[20]:
@@ -166,11 +166,45 @@ clf.fit(X_train, y_train)
 clf.score(X_test, y_test)
 
 
+# In[23]:
+
+get_ipython().magic('matplotlib inline')
+import matplotlib.pyplot as plt
+import seaborn as sns
+from sklearn.metrics import roc_curve, auc
+
+def plot_roc_curve(model, X, y):
+    false_positive_rate, true_positive_rate, _ = roc_curve(y, model.predict(X))
+    roc_auc = auc(false_positive_rate, true_positive_rate)
+    plt.title('Receiver Operating Characteristic')
+    plt.plot(false_positive_rate,
+             true_positive_rate,
+             sns.xkcd_rgb['denim blue'],
+             label='AUC = %0.2f' % roc_auc)
+    plt.legend(loc='lower right')
+    plt.plot([0, 1],
+             [0, 1],
+             color=sns.xkcd_rgb['pale red'],
+             linestyle='dashed')
+    plt.ylabel('True Positive Rate')
+    plt.xlabel('False Positive Rate')
+    plt.show()
+
+    print('Model score: %0.2f%%' % (model.score(X, y) * 100))
+    print('True positive rate: %0.2f%%' % (true_positive_rate[1] * 100))
+    print('False positive rate: %0.2f%%' % (false_positive_rate[1] * 100))
+
+
+# In[24]:
+
+plot_roc_curve(clf, X_test, y_test)
+
+
 # ## Download project details
 
 # Run `python fetch_projects.py` to download information.
 
-# In[23]:
+# In[25]:
 
 import glob
 
@@ -182,23 +216,23 @@ project_details = pd.concat(details_list)
 del(details_list)
 
 
-# In[24]:
+# In[26]:
 
 project_details.shape
 
 
-# In[25]:
+# In[27]:
 
 def get_serenata(dataset):
     return dataset[dataset['permalink'] == 'serenata'].iloc[0]
 
 
-# In[26]:
+# In[28]:
 
 get_serenata(project_details)
 
 
-# In[27]:
+# In[29]:
 
 data = pd.merge(projects,
                 project_details,
@@ -209,53 +243,59 @@ data = pd.merge(projects,
 
 # `projects_details` seems to contain everything we need. Forget about `data`, the merged dataset and just work with what we just collected.
 
-# In[38]:
+# In[30]:
 
 get_serenata(data)
 
 
-# In[29]:
+# In[31]:
 
 datetime_columns = ['expires_at', 'online_date']
 for column in datetime_columns:
     project_details[column] = pd.to_datetime(project_details[column])
 
 
-# In[30]:
+# In[32]:
 
 project_details[project_details['expires_at'].isnull()].iloc[0]
 
 
-# In[31]:
+# In[33]:
 
 project_details['state'] =     project_details['state'].replace('waiting_funds', 'successful')
 
 
-# In[32]:
+# In[34]:
 
 datetime_columns = ['online_date', 'expires_at']
 for column in datetime_columns:
     project_details[column] = pd.to_datetime(project_details[column])
 
 
-# In[33]:
+# In[35]:
 
 predicate = (project_details['online_date'] > datetime(2015, 9, 23)) &     (project_details['state'] != 'online') &     (project_details['mode'] == 'aon')
 project_details = project_details[predicate]
 
 
-# In[34]:
+# In[36]:
 
 project_details['online_days_delta'] =     project_details['expires_at'] - project_details['online_date']
 project_details['online_days_delta'] =     project_details['online_days_delta'].apply(lambda row: row.days)
 
 
-# In[35]:
+# In[37]:
 
 project_details.iloc[0]
 
 
-# In[36]:
+# In[38]:
+
+project_details['state'] = project_details['state'].     replace('successful', 1).     replace('failed', 0)
+project_details['state'] = project_details['state'].astype(np.bool)
+
+
+# In[39]:
 
 X_cols = ['category_id', 'goal', 'online_days_delta']
 y = project_details['state']
@@ -263,11 +303,102 @@ X = project_details[X_cols]
 X_train, X_test, y_train, y_test =     train_test_split(X, y, test_size=.25, random_state=0)
 
 
-# In[37]:
+# In[40]:
 
 clf = RandomForestClassifier(min_samples_split=1, random_state=0)
 clf.fit(X_train, y_train)
-clf.score(X_test, y_test)
+
+
+# In[41]:
+
+plot_roc_curve(clf, X_test, y_test)
+
+
+# ## Feature selection
+
+# In[42]:
+
+project_details.iloc[0]
+
+
+# In[43]:
+
+def parse_user_id(row):
+    row = row.replace('\\"', '\"')
+    return json.loads(row)['id']
+
+project_details['user_id'] = project_details['user'].apply(parse_user_id)
+
+
+# In[44]:
+
+def parse_address(row):
+    row = row.replace('\\"', '\"')
+    return json.loads(row)['state_acronym']
+
+project_details['address_state'] = project_details['address'].apply(parse_address)
+project_details['address_state'] =     project_details['address_state'].astype('category')
+
+
+# In[45]:
+
+from sklearn.preprocessing import LabelEncoder
+
+project_details[['address_state']] =     project_details[['address_state']].apply(LabelEncoder().fit_transform)
+
+
+# In[46]:
+
+boolean_cols = ['is_published',
+                'is_expired',
+                'open_for_contributions',
+                'user_signed_in',
+                'in_reminder',
+                'can_request_transfer',
+                'is_admin_role',
+                'contributed_by_friends']
+project_details[boolean_cols] = project_details[boolean_cols].     replace('f', 0).replace('t', 1)
+project_details[boolean_cols] = project_details[boolean_cols].astype(np.bool)
+
+
+# In[47]:
+
+from sklearn.ensemble import ExtraTreesClassifier
+from sklearn.datasets import load_iris
+from sklearn.feature_selection import SelectFromModel
+
+X_cols = ['goal',
+          'category_id',
+          'pledged',
+          'total_contributions',
+          'total_contributors',
+          'expires_at',
+          'online_date',
+          'online_days',
+          'posts_count',
+          'address_state',
+          'user_id',
+          'is_owner_or_admin',
+          'total_posts',
+          'is_admin_role',
+          'contributed_by_friends',
+          'online_days_delta']
+X, y = project_details[X_cols], project_details['state']
+X.shape
+
+
+# In[48]:
+
+clf = ExtraTreesClassifier()
+clf = clf.fit(X, y)
+clf.feature_importances_
+
+
+# In[ ]:
+
+model = SelectFromModel(clf, prefit=True)
+X_new = model.transform(X)
+X_new.shape
 
 
 # In[ ]:
