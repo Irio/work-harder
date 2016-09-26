@@ -5,13 +5,13 @@ import pandas as pd
 import requests
 
 def download_project(project_id):
-    url = 'https://api.catarse.me/project_details?project_id=eq.%i' % project_id
+    url = 'https://api.catarse.me/project_contributions_per_day\?project_id\=eq.%i' % project_id
     print(url)
     response = requests.get(url, headers={'Accept': 'text/csv'})
     return response.text
 
 def save_project(project_id, content):
-    text_file = open('data/project_details/%i.csv' % project_id, 'w')
+    text_file = open('data/project_contributions/%i.csv' % project_id, 'w')
     text_file.write(content)
     text_file.close()
     print('%i project saved' % project_id)
@@ -19,7 +19,7 @@ def save_project(project_id, content):
 
 
 projects = pd.read_csv('data/projects.csv')
-ids = [int(name.split('/')[-1].split('.')[0]) for name in glob.glob('data/project_details/*.csv')]
+ids = [int(name.split('/')[-1].split('.')[0]) for name in glob.glob('data/project_contributions/*.csv')]
 projects = projects[~projects['project_id'].isin(ids)]
 
 with futures.ThreadPoolExecutor(max_workers=8) as executor:
