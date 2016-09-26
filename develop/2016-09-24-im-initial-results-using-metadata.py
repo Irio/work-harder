@@ -151,17 +151,14 @@ from sklearn.ensemble import RandomForestClassifier
 # In[21]:
 
 X_cols = ['category_id']
-y = last_year_projects['state']
-X = last_year_projects[X_cols]
-X_train, X_test, y_train, y_test =     train_test_split(X, y, test_size=.25, random_state=0)
+y_ = last_year_projects['state']
+X_ = last_year_projects[X_cols]
+X_train, X_test, y_train, y_test =     train_test_split(X_, y_, test_size=.25, random_state=0)
 
 
 # In[22]:
 
-clf = RandomForestClassifier(n_estimators=10,
-                             max_depth=None,
-                             min_samples_split=1,
-                             random_state=0)
+clf = RandomForestClassifier(max_depth=None, random_state=0)
 clf.fit(X_train, y_train)
 clf.score(X_test, y_test)
 
@@ -298,9 +295,9 @@ project_details['state'] = project_details['state'].astype(np.bool)
 # In[39]:
 
 X_cols = ['category_id', 'goal', 'online_days_delta']
-y = project_details['state']
-X = project_details[X_cols]
-X_train, X_test, y_train, y_test =     train_test_split(X, y, test_size=.25, random_state=0)
+y_ = project_details['state']
+X_ = project_details[X_cols]
+X_train, X_test, y_train, y_test =     train_test_split(X_, y_, test_size=.25, random_state=0)
 
 
 # In[40]:
@@ -363,42 +360,137 @@ project_details[boolean_cols] = project_details[boolean_cols].astype(np.bool)
 
 # In[47]:
 
-from sklearn.ensemble import ExtraTreesClassifier
-from sklearn.datasets import load_iris
 from sklearn.feature_selection import SelectFromModel
 
 X_cols = ['goal',
           'category_id',
-          'pledged',
-          'total_contributions',
-          'total_contributors',
-          'expires_at',
-          'online_date',
-          'online_days',
-          'posts_count',
+#           'pledged',
+#           'total_contributions',
+#           'total_contributors',
+#           'posts_count',
           'address_state',
-          'user_id',
-          'is_owner_or_admin',
-          'total_posts',
-          'is_admin_role',
           'contributed_by_friends',
           'online_days_delta']
-X, y = project_details[X_cols], project_details['state']
-X.shape
+X_, y_ = project_details[X_cols], project_details['state']
+X_.shape
 
 
 # In[48]:
 
-clf = ExtraTreesClassifier()
-clf = clf.fit(X, y)
+clf = RandomForestClassifier(max_depth=None, random_state=0)
+clf.fit(X_, y_)
 clf.feature_importances_
 
 
-# In[ ]:
+# In[49]:
 
-model = SelectFromModel(clf, prefit=True)
-X_new = model.transform(X)
+model = SelectFromModel(clf, prefit=True, threshold='median')
+X_new = model.transform(X_)
 X_new.shape
+
+
+# In[50]:
+
+X_train, X_test, y_train, y_test =     train_test_split(X_new, y_, test_size=.25, random_state=0)
+
+
+# In[51]:
+
+clf = RandomForestClassifier(max_depth=None, random_state=0)
+clf.fit(X_train, y_train)
+clf.score(X_test, y_test)
+plot_roc_curve(clf, X_test, y_test)
+
+
+# We have 3 important features selected by `SelectFromModel`.
+# 
+# * `goal`
+# * `category_id`
+# * `online_days_delta`
+# 
+# How do they look like?
+
+# ### goal
+
+# In[52]:
+
+max_successful_goal = project_details.loc[project_details['state'], 'goal'].max()
+max_successful_goal
+
+
+# In[53]:
+
+Chart(project_details).mark_bar(stacked='normalize').encode(
+    x=X('goal:Q', bin=Bin(maxbins=50)),
+    y='count(*)',
+    color='state',
+).transform_data(
+    filter=('datum.goal <= %i' % max_successful_goal)
+)
+
+
+# Successful projects have a goal much lower than failed ones.
+
+# In[54]:
+
+project_details.loc[project_details['state'], 'goal'].describe()
+
+
+# In[55]:
+
+project_details.loc[~project_details['state'], 'goal'].describe()
+
+
+# ### online_days_delta
+
+# In[56]:
+
+Chart(project_details).mark_bar(stacked='normalize').encode(
+    x=X('online_days_delta:Q', bin=Bin(maxbins=30)),
+    y='count(*)',
+    color='state',
+)
+
+
+# Successful projects run for (a bit less) than failed ones.
+
+# In[57]:
+
+project_details.loc[project_details['state'], 'online_days_delta'].describe()
+
+
+# In[58]:
+
+project_details.loc[~project_details['state'], 'online_days_delta'].describe()
+
+
+# ### category_id
+
+# In[59]:
+
+Chart(project_details).mark_bar(stacked='normalize').encode(
+    x=X('category_name:O'),
+    y=Y('count(*)'),
+    color='state',
+)
+
+
+# In[60]:
+
+tech_projects = project_details[project_details['category_name'] == 'Ciência e Tecnologia']
+tech_projects.shape
+
+
+# Chance of being successful in the "Science and Technology" category is 8%. The platform's average is 27%.
+
+# In[61]:
+
+len(project_details[project_details['state']]) / len(project_details['state'])
+
+
+# In[62]:
+
+len(tech_projects[tech_projects['state']]) / len(tech_projects['state'])
 
 
 # In[ ]:
