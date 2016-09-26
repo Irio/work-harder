@@ -5,7 +5,7 @@ import pandas as pd
 import requests
 
 def download_project(project_id):
-    url = 'https://api.catarse.me/project_contributions_per_day\?project_id\=eq.%i' % project_id
+    url = 'https://api.catarse.me/project_contributions_per_day?project_id=eq.%i' % project_id
     print(url)
     response = requests.get(url, headers={'Accept': 'text/csv'})
     return response.text

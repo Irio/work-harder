@@ -1,0 +1,2 @@
+project_id,source
+24459,"[{""paid_at"" : ""2016-04-05"", ""total"" : 1, ""total_amount"" : 20.0}, {""paid_at"" : ""2016-04-07"", ""total"" : 2, ""total_amount"" : 60.0}, {""paid_at"" : ""2016-04-08"", ""total"" : 2, ""total_amount"" : 120.0}, {""paid_at"" : ""2016-04-16"", ""total"" : 2, ""total_amount"" : 60.0}, {""paid_at"" : ""2016-05-13"", ""total"" : 1, ""total_amount"" : 30.0}, {""paid_at"" : ""2016-05-25"", ""total"" : 1, ""total_amount"" : 10.0}]"

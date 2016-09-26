@@ -1,0 +1,2 @@
+project_id,source
+400,"[{""paid_at"" : ""2011-10-23"", ""total"" : 2, ""total_amount"" : 400.0}, {""paid_at"" : ""2011-10-25"", ""total"" : 5, ""total_amount"" : 200.0}, {""paid_at"" : ""2011-10-26"", ""total"" : 2, ""total_amount"" : 150.0}]"
